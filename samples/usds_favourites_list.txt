@@ -1,0 +1,19 @@
+geoff@desktop-01[/media/Public/BCDx36HP/favorites_lists] $ cat f_000001.hpd
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Trunk			NSW GRN	Off		P25Standard	Off	Off	Auto	Ignore	Srch	Off	Off	0	Off	Off	Analog	Off	Off	On	NEXEDGE
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	OnOn	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	OnOn	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	OnOn	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site			Somewhereville	Off	-33.933333	149.500000	200.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+BandPlan_P25		851006250	6250	762006250	6250	851012500	12500	762006250	12500	412475000	6250	420000000	6250	412475000	12500	420000000	12500	467512500	12500	467512500	12500	0	0	0	0	0	0	0	0	0	0	0	0
+T-Freq				Off	419550000	0	Srch
+T-Freq				Off	418387500	0	Srch
+Site			Nowhereland	Off	-25.000000	150.000000	15.0	AUTO	Standard	Wide	Circle	Off	400	Auto	8	Off	Srch	Global
+BandPlan_P25		851006250	6250	762006250	6250	851012500	12500	762006250	12500	412475000	6250	420000000	6250	412475000	12500	420000000	12500	467512500	12500	467512500	12500	0	0	0	0	0	0	0	0	0	0	0	0
+T-Freq				Off	417512500	0	Srch
+T-Freq				Off	422457500	0	Srch
+T-Group			FRNSW	Off	0.000000	0.000000	0.0	Circle	10
+TGID			Ch1	Off	12345	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Ch2	Off	12346	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			RFS	Off	0.000000	0.000000	0.0	Circle	11
+TGID			Ch01	Off	23456	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			Ch02	Off	23457	ALL	8	2	0	Off	Auto	Off	On	Off	Off	Any
