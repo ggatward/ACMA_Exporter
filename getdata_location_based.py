@@ -1,14 +1,10 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
+from json.tool import main
 import xml.etree.ElementTree as xml
 import requests, sys, os, glob
 import datetime, tempfile, yaml, csv
-
-# pip install geopandas PyShp shapely
-# import geopandas as gpd
-# import shapefile
-# from shapely.geometry import Point, Polygon, MultiPolygon, shape
 
 # pip install geopy
 from geopy.distance import distance
@@ -121,8 +117,8 @@ def getRegistrations(licenceList,clientId):
                                 (city,lat,lon,name) = getSites(site)
                             else:
                                 city = "STATEWIDE"
-                                lat = "0"
-                                lon = "0"
+                                lat = "0.0"
+                                lon = "0.0"
                             print(str(freq) + ',' + city + ',' + lat + ',' + lon + ',' + mode)
                             csvstring = str(freq) + ',' + city + ',' + lat + ',' + lon + ',' + mode + '\n'
                             f.write(csvstring)
@@ -130,128 +126,6 @@ def getRegistrations(licenceList,clientId):
     f.close()
 
 
-# def extractPolys(index,clientId,shpmeta,service):
-#     # From:  https://gis.stackexchange.com/questions/113799/how-to-read-a-shapefile-in-python
-#     polylist = []
-
-#     # Extract specific shape id in GeoJSON format
-#     data = shpdata.shapeRecords()[index]
-#     area_data = data.shape.__geo_interface__
-#     area_name = shpmeta['RDA'][index].replace(" ","_")
-#     # Aggregate smaller areas
-#     if 'Illawarra' in area_name:
-#         area_name = 'NSW_South_Coast'
-#     if 'Southern_Inland' in area_name:
-#         area_name = 'NSW_South_Coast'
-#     if 'South_Coast' in area_name:
-#         area_name = 'NSW_South_Coast'
-#     if 'Australian_Capital_Territory' in area_name:
-#         area_name = 'NSW_South_Coast'
-#     if 'Central_West' in area_name:
-#         area_name = 'NSW_South_Coast'
-#     if 'Central_Coast' in area_name:
-#         area_name = 'Hunter_Syd'
-#     if 'Hunter' in area_name:
-#         area_name = 'Hunter_Syd'
-#     if 'Sydney' in area_name:
-#         area_name = 'Hunter_Syd'
-#     if 'Northern_Inland' in area_name:
-#         area_name = 'NSW_North_Coast'
-#     if 'Northern_Rivers' in area_name:
-#         area_name = 'NSW_North_Coast'
-#     if 'Mid_North_Coast' in area_name:
-#         area_name = 'NSW_North_Coast'
-#     if 'Orana' in area_name:
-#         area_name = 'Orana_Far_West'
-#     if 'Far_West' in area_name:
-#         area_name = 'Orana_Far_West'
-#     if 'Riverina' in area_name:
-#         area_name = 'Riverina_Murray'
-#     if 'Murray' in area_name:
-#         area_name = 'Riverina_Murray'
-
-#     if 'Loddon_Mallee' in area_name:
-#         area_name = 'VIC_West'
-#     if 'Grampians' in area_name:
-#         area_name = 'VIC_West'
-#     if 'Barwon' in area_name:
-#         area_name = 'VIC_West'
-#     if 'Hume' in area_name:
-#         area_name = 'VIC_East'
-#     if 'Gippsland' in area_name:
-#         area_name = 'VIC_East'
-
-#     if 'Logan_and_Redlands' in area_name:
-#         area_name = 'Brisbane'
-#     if 'Brisbane_City' in area_name:
-#         area_name = 'Brisbane'
-#     if 'Moreton_Bay' in area_name:
-#         area_name = 'Brisbane'
-#     if 'Ipswich_and_West_Moreton' in area_name:
-#         area_name = 'Brisbane'
-#     if 'Gold_Coast' in area_name:
-#         area_name = 'Brisbane'
-#     if 'Sunshine_Coast' in area_name:
-#         area_name = 'Wide_Bay_Burnett'
-
-#     # If we have a MultiPolygon we need to split it into individual Polygons
-#     if (shape(area_data).type == 'MultiPolygon'):
-#         for polygon in shape(area_data):
-#             polylist.append(polygon)
-#     else:
-#         polylist.append(area_data)
-
-#     # Open a file for STATEWIDE frequencies
-#     statewide = open('output/' + service + '_Statewide.csv', 'a')
-
-#     # Loop through each polygon
-#     for i in polylist:
-#         # Convert poly to shapely format
-#         coords = shape(i)
-#         poly = Polygon(coords)
-
-#         # Open a file to save the results
-#         lf = open('output/' + service + '_' + area_name + '.csv', 'a')
-
-#         # Loop through each site in the freqlist looking for sites inside the current poly
-#         with open('output/' + clientId + '.csv', newline='') as csvfile:
-#             data = csv.DictReader(csvfile)
-#             for row in data:
-#                 # Extract the lon/lat and set a shapely 'point'
-#                 point = Point(float(row['lon']),float(row['lat']))
-
-#                 # Check if the point is in the poly - True/False
-#                 if (point.within(poly)):
-#                     # Write out our region matching CSV
-#                     print(row['frequency'] + " at " + row['location'] + " is in '" + area_name + "'")
-#                     lf.write(row['frequency'] + "," + row['location'] + "," + row['lat'] + "," + row['lon'] +"," + row['mode'] + "\n")
-#                 if (row['location'] == 'STATEWIDE'):
-#                     out = True
-#                     statewide.write(row['frequency'] + "," + row['location'] + "," + row['lat'] + "," + row['lon'] +"," + row['mode'] + "\n")
-#         lf.close()
-#     statewide.close()
-#     # Remove all duplicates from statewide file
-#     uniqlines = set(open('output/' + service + '_Statewide.csv').readlines())
-#     #bar = open('output/' + service + '_Statewide1.csv', 'w').writelines(set(uniqlines))
-#     bar = open('output/' + service + '_Statewide.csv', 'w').writelines(set(uniqlines))
-#     #bar.close()
-
-
-
-######################
-# points = [[50.150874, 14.563832], [50.104217, 14.4757], [49.966785, 14.370114], [50.073802, 14.402783], [49.944036, 14.44569], [49.959517, 14.391878], [49.988219, 14.544117], [50.066673, 14.613868], [49.94696, 14.462611], [50.129684, 14.334411], [50.08892, 14.303301], [50.066749, 14.417668], [50.075101, 14.53634], [50.064396, 14.263388], [50.055027, 14.38642], [50.160055, 14.584758], [50.040627, 14.283248], [50.042484, 14.638717], [50.138972, 14.309488], [50.151947, 14.469412], [50.000437, 14.406288], [50.177643, 14.467332], [50.083176, 14.569287], [50.029644, 14.412903], [50.155166, 14.480961], [49.954799, 14.554184], [50.042168, 14.223561], [50.151349, 14.565225], [50.07656, 14.663827], [50.110211, 14.261647], [49.98352, 14.341426], [50.13142, 14.555974], [50.007052, 14.598136], [50.105399, 14.488696], [50.096282, 14.626482], [50.113605, 14.626768], [49.952213, 14.53148], [50.058545, 14.458349], [50.016023, 14.508792], [50.071948, 14.589867], [50.106051, 14.360603], [50.020599, 14.425797], [50.064876, 14.572056], [50.118254, 14.556321], [50.065982, 14.232], [50.045452, 14.217889], [50.135366, 14.335496], [50.120126, 14.633857], [50.16258, 14.41], [49.949706, 14.433877], [49.992574, 14.299198], [49.999167, 14.509118], [49.967147, 14.458644], [50.157903, 14.462958], [50.029415, 14.378698], [50.063549, 14.357676], [50.006606, 14.244327], [50.164178, 14.452357], [49.97892, 14.3269], [50.149529, 14.3472], [50.168217, 14.436196], [50.128047, 14.313571], [50.098681, 14.489209], [50.07064, 14.516238], [50.016935, 14.612858], [50.040573, 14.546343], [49.996446, 14.615458], [50.063094, 14.561846], [50.013674, 14.38807], [50.120068, 14.568918], [50.002958, 14.606296], [50.171301, 14.521588], [50.11462, 14.644043], [50.134498, 14.391158], [50.115566, 14.507894], ... ]
-
-# input_point = (50.0875, 14.421389)
-
-# points_filtered = []
-
-# for point in points:
-#     if distance(input_point, point).km < 1:
-#         points_filtered.append(point)
-
-# print(points_filtered)
-
-####
 def getPoints(clientId):
     # Read in data from CSV
     with open('output/' + clientId + '.csv', newline='') as csvfile:
@@ -269,39 +143,60 @@ def groupSites(clientId,points):
     with open('output/' + clientId + '.csv', newline='') as csvfile:
         data = csv.DictReader(csvfile)
 
+        main_grouplist_raw = []
+        main_grouplist = []
 
         for row in data:
             points_filtered = []
             rows_filtered = []
 
-            print(row['location'])
             # Set input_point to first lat/lon
             input_point = (float(row['lat']),float(row['lon']))
-            print(input_point)
 
+            # add any locations in our csv within 'x' km to 'points_filtered'
             for point in points:
-                if distance(input_point, point).km < 20:
+                if distance(input_point, point).km < 10:
                     points_filtered.append(point)
 
-            # print(points_filtered)
-
+            # Loop through the csv again, and extract all the entries that are in our points_filtered list
+            location_group = []
+            res_list = []
             reader = csv.reader(open('output/' + clientId + '.csv', 'r'), delimiter=",")
-            for data in reader:
-                # print('D2=' + data[2])
-                # print('D3=' + data[3])
+            for line in reader:
                 for fpoint in points_filtered:
-                    # print('F0=' + str(fpoint[0]))
-                    # print('F1=' + str(fpoint[1]))
-                # print(data[0])
-                    if data[2] == str(fpoint[0]) and data[3] == str(fpoint[1]):
-                        print(data)
+                    if line[2] == str(fpoint[0]) and line[3] == str(fpoint[1]):
+                        location_group.append(line)
 
-            print("------------------")
+            # Remove any duplicates from the resultant list
+            for record in location_group:
+                if record not in res_list:
+                    res_list.append(record)
 
-# Find all other points in CSV within x km
-# Output all these points under a single lat/lon - becomes the "site"
-# rinse, repeat
-# Remove duplications ??
+            # for line in res_list:
+            #     print(line)
+            # print("------------------")
+
+            # Add the resulting group to the main group list
+            main_grouplist_raw.append(res_list)
+
+
+
+        # Remove any duplicate site groupings
+        for entry in main_grouplist_raw:
+            if entry not in main_grouplist:
+                main_grouplist.append(entry)
+
+        # Generate CSV outputs
+        for group in main_grouplist:
+            if len(group) > 0:
+                # Output the SITE (DEPARTMENT) data
+                print(group[0][1] + ',' + group[0][2] + ',' + group[0][3])
+                # Output the CHANNELS data for the SITE
+                for line in group:
+                    if float(line[0]) > 30:   # Remove any HF frequencies from the output
+                        print(line[0])
+                print("====================")
+
 
 
 
@@ -331,15 +226,6 @@ def deleteEmptyFiles():
 
 
 if __name__ == "__main__":
-    # Shapefile sample used: https://www.rda.gov.au/sites/default/files/images/rda-map-national-0920.jpg
-    # infile = "shapefiles/RDA_2015_16.shp"
-
-    # # Read in our shapefile for geo-referencing
-    # shpdata = shapefile.Reader(infile)
-    # # Extract data about the shapefile
-    # shpmeta = gpd.read_file(infile)
-
-#    print(shpmeta)
 
     # 20011941  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (NSW Ambulance)
     # 20005985  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (RFS)
@@ -402,13 +288,6 @@ if __name__ == "__main__":
         # Group nearby sites together
         points=getPoints(clientId)
         groupSites(clientId,points)
-
-
-        # Geolocate sites and split CSV into per client-id per region
-        # for index, item in enumerate(shpdata.shapeRecords()):
-        #     # Area 54 (Northern Territory) seems to be corrupt - skip it.
-        #     if index != 54:
-        #         poly = extractPolys(int(index),clientId,shpmeta,service)
 
         # Finally clean out any empty files in the output dir
         deleteEmptyFiles()
