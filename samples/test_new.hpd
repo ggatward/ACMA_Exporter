@@ -1,0 +1,17 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional        AVIATION    Off 2   Conventional    2       2   Off Off     Auto    8
+DQKs_Status     On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On  On
+C-Group	CGroupId=x	AgencyId=x	COOMA	Off	-36.293471	148.970082    50.0    Circle  2   Global
+C-Freq			COOMA	Off	119400000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Group	CGroupId=x	AgencyId=x	WENTWORTH FALLS	Off	-33.753987	150.371969    50.0    Circle  2   Global
+C-Freq			WENTWORTH FALLS	Off	135100000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Freq			WENTWORTH FALLS	Off	128600000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Freq			WENTWORTH FALLS	Off	118400000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Freq			WENTWORTH FALLS	Off	133500000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Freq			WENTWORTH FALLS	Off	124550000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Freq			KATOOMBA	Off	135900000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Freq			WENTWORTH FALLS	Off	123400000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Group	CGroupId=x	AgencyId=x	YENDA	Off	-34.121528	146.235101    50.0    Circle  2   Global
+C-Freq			YENDA	Off	134650000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off
+C-Freq			YENDA	Off	118600000    AUTO        TONE=Srch   208 Off 2   0   Off Auto    Off On  Off Off

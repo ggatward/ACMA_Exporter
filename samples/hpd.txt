@@ -1,0 +1,2 @@
+# BEFORE: C-Freq			COOMA	Off	119400000	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+# AFTER : C-Freq			COOMA	Off	119400000	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off

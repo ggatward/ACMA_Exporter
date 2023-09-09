@@ -1,0 +1,924 @@
+ProScan
+
+Date Generated: 09/09/23  09:31:18
+Scanner Type: BCD996T
+Database File: H:\Radio Profiles\ProScan\test.txt
+
+Quick Keys
+SQK #,System Name --- Site Name Or Search Name,GQK #, Group Name
+"1","Defence"
+"2","NSWES"
+,,"2","Ambulance"
+,,"3","FIRE, RFS"
+,,"4","SES"
+"3","GRN --- Mount Ginini, GRN --- Lake George, GRN --- Goulburn, GRN --- Bungendore, GRN --- Mt Cronin, GRN --- Mount Ginini, GRN --- Lake George, GRN --- Goulburn, GRN --- Bungendore, GRN --- Mt Cronin"
+,,"1","ESO/GL, ESO/GL, ESO/GL, ESO/GL, ESO/GL"
+,,"2","ASNSW, ASNSW, ASNSW, ASNSW, ASNSW"
+,,"3","RFS, FRNSW, RFS, FRNSW, RFS, FRNSW, RFS, FRNSW, RFS, FRNSW, ACT ESA, ACT RFS, ACT ESA, ACT RFS, ACT ESA, ACT RFS, ACT ESA, ACT RFS, ACT ESA, ACT RFS"
+,,"4","SES, ACT SES, VRA, SES, ACT SES, VRA, SES, ACT SES, VRA, SES, ACT SES, VRA, SES, ACT SES, VRA"
+"4","Other"
+"7","Satellite"
+"8","CB/Ham"
+,,"1","Amateur"
+,,"2","UHF CB"
+"9","Misc"
+
+Statistics
+Quantity,Maximum,Utilization
+Systems
+"9","500","2%"
+Sites
+"10","1000","1%"
+Channels And System Frequencies
+"615","6000","10%"
+
+Database Systems
+System - Conventional
+System Name,Quick Key,Startup Key,Record,Lockout,Delay,Hold Time,Data Skip,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Defence","1","None","","0","2 Sec.","2 Sec.","0","Auto","8","0","0","-0","10 Miles"
+
+System - Conventional
+System Name,Quick Key,Startup Key,Record,Lockout,Delay,Hold Time,Data Skip,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"NSWES","2","None","","0","2 Sec.","2 Sec.","0","Auto","8","0","0","-0","10 Miles"
+
+Group - Frequencies   (System - NSWES)
+Group Name,Quick Key,Lockout
+"Ambulance","2","0"
+
+Channels   (System - NSWES   Group - Ambulance)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"Statewide","467.6750","Analog","Search","0","0","0","Auto","0","0","Off","Auto",""
+"CANBERRA","469.3875","Analog","173.8","0","0","0","Auto","0","0","Off","Auto",""
+"TARAGO","468.3625","Analog","173.8","0","0","0","Auto","0","0","Off","Auto",""
+"LERIDA","467.7000","Analog","173.8","0","0","0","Auto","0","0","Off","Auto",""
+"MOUNT GIBRALTAR","469.3875","Analog","173.8","0","0","0","Auto","0","0","Off","Auto",""
+"QUEANBEYAN","469.1500","Analog","173.8","0","0","0","Auto","0","0","Off","Auto",""
+"YASS","468.6000","Analog","173.8","0","0","0","Auto","0","0","Off","Auto",""
+"MT GININI","469.8750","Analog","173.8","0","0","0","Auto","0","0","Off","Auto",""
+
+Group - Frequencies   (System - NSWES)
+Group Name,Quick Key,Lockout
+"FIRE","3","0"
+
+Channels   (System - NSWES   Group - FIRE)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"PAGER","148.9875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WOLUMLA PEAK","418.6500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"TIMBILLICA","419.1250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"PEAK HILL","419.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BOMBALA","421.5125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT CRACKENBACK","421.5750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"EUCUMBENE","421.5875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"YOUNG","421.5875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WINIFRED","421.6375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BOOROWA","421.6750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WAMBROOK TRIG","421.6750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KALKITE","421.7250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"YOUNG","421.7250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"HARDEN","421.7000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT PERISHER","421.7000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"TIMBILLICA","423.5250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT CRACKENBACK","423.5750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"REDGROUND","423.5750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"REIDS FLAT","423.6375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WOLUMLA PEAK","423.7125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BEREMANGERA","423.7250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KALKITE","423.7250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+Group - Frequencies   (System - NSWES)
+Group Name,Quick Key,Lockout
+"RFS","3","0"
+
+Channels   (System - NSWES   Group - RFS)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"F14 SIM DGTL","411.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 1","161.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 2","161.0625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 3","161.0750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 4","161.1125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 5","161.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 6","161.0375","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+"FIREGRND 7","161.0125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 8","161.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 9","161.1875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 10","161.2125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 11","161.2250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 12","161.2375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 13","161.2500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 14","161.3375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 15","161.3625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 16","161.3750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 17","161.3875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 18","161.4125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 19","161.4500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FIREGRND 20","161.4625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BENANDARAH","420.0125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BOMBALA","420.0125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"REDGROUND","420.0125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT CANOBOLAS","420.0250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WOLUMLA PEAK","420.0250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"INGEBIRAH TRIG","420.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MOUNT COONAMBRO","420.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT COONAMBRO","420.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"NAROOMA","420.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WOMBEYAN","420.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BOYNE TRIG","420.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT MEEHAN","420.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT THOKO","420.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"PEAK ALONE","420.0625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"YOUNG","420.0625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT GININI","420.0750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"EUCUMBENE","420.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"GORMAN HILL","420.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"JERVIS BAY","420.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"TIMBILLICA","420.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BUDAWANG","420.1125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"LITHGOW","420.1125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SPICERS HILL","420.1125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"GIBRALTAR HILL","420.1250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"LETTS MTN","420.1250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"OBERON","420.1250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"CLARKE TRIG","420.1375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SASSAFRAS","420.1375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WINIFRED","420.1375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BEWONG","420.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT ROBERTS","420.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"NARRAWA","420.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"HELENSBURGH","420.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MORUYA","420.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT COONAMBRO","420.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SNOWY MOUNTAIN","420.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"YOUNG","420.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BUMBALDRY","420.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"LAKE CARGELLIGO","420.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"NERRIGA","420.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SUNNY CORNER","420.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WAMBROOK TRIG","420.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BOONA MTN","420.1875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT MARY","420.1875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BANNABY HILL","420.1000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"UMBULLA MOUNTAIN","420.1000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KADINA","420.2125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"YATTEYATTAH","420.2125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"CURRAWANG","420.2250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"HASSANS WALLS","420.2250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"NARRAWA","420.2250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT KEIRA","420.2375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT RAGAN","420.2375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"OUNDARY MOUNTAIN","420.2500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"TUENA","420.2500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BELLEVUE HILL","420.2000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MARULAN","420.2000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MOUNT PERISHER","420.2000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BENANDARAH","422.0125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT MCDONALD","422.0125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BUMBALDRY","422.0250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"ELLSMORE TOWER","422.0250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"REIDS FLAT","422.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT MEEHAN","422.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT WANDERA","422.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"TUBBUL","422.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BERRY","422.0625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT EAGLE","422.0625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SOFALA","422.0625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BLACK TRIG","422.0750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BINALONG","422.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KADINA","422.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KANGAROO VALLEY","422.1375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"NEVILLE","422.1375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"ABERCROMBIE","422.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BOMADERRY","422.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"HARDEN","422.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"COPPABELLA HILL","422.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT PANORAMA","422.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"FORBES","422.1875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"CAPTAINS FLAT","422.1000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BALD HILL","422.2125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"YETHOLME","422.2125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"AIRLY TURRET","422.2000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BELLEVUE HILL","422.2000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"ROBERTSON","422.2000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"CANBERRA","424.0125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT MEEHAN","424.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT GRAY","424.0750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"TOTTENHAM","424.0750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KADINA","424.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BUDAWANG","424.1125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"LITHGOW","424.1125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WILLIAMSDALE","424.1250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BUMBALDRY","424.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SHOOTERS HILL","424.1875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KIAMA","424.1000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KNIGHTS HILL","424.2125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"OUNDARY MOUNTAIN","424.2500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT GININI","424.2000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"PAGER","148.5875","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+
+Group - Frequencies   (System - NSWES)
+Group Name,Quick Key,Lockout
+"SES","4","0"
+
+Channels   (System - NSWES   Group - SES)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"MT GININI","421.7375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MOUNT PERISHER","467.2500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+System - MOT Type 2
+System Name,ID Scan / Search,Record,Delay,I Call,Status Bit,End Code,Digital End Code,Emerg. Alert,Emerg. Alert Level
+"GRN","ID Scan","","2 Sec.","Off","1","Detect","0","Off","Auto"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Mount Ginini","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Mount Ginini)
+Frequency,Lockout
+"416.4875","0"
+"417.4875","0"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Lake George","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Lake George)
+Frequency,Lockout
+"416.1375","0"
+"416.8875","0"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Goulburn","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Goulburn)
+Frequency,Lockout
+"416.1250","0"
+"416.6250","0"
+"416.8750","0"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Bungendore","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Bungendore)
+Frequency,Lockout
+"419.0500","0"
+"419.5500","0"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Mt Cronin","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Mt Cronin)
+Frequency,Lockout
+"416.9250","0"
+"422.3375","0"
+"416.4250","0"
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"ESO/GL","1","0"
+
+Channels   (System - GRN   Group - ESO/GL)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"GL 01","10000","All","0","0","Off","Auto",""
+"GL 02","10001","All","0","0","Off","Auto",""
+"GL 03","10002","All","0","0","Off","Auto",""
+"GL 04","10003","All","0","0","Off","Auto",""
+"GL 05","10004","All","0","0","Off","Auto",""
+"GL 06","10005","All","0","0","Off","Auto",""
+"GL 07","10006","All","0","0","Off","Auto",""
+"GL 08","10007","All","0","0","Off","Auto",""
+"GL 09","10008","All","0","0","Off","Auto",""
+"GL 10","10009","All","0","0","Off","Auto",""
+"ESO 01","10010","All","0","0","Off","Auto",""
+"ESO 02","10011","All","0","0","Off","Auto",""
+"ESO 03","10012","All","0","0","Off","Auto",""
+"ESO 04","10013","All","0","0","Off","Auto",""
+"ESO 05","10014","All","0","0","Off","Auto",""
+"ESO 06","10015","All","0","0","Off","Auto",""
+"ESO 07","10016","All","0","0","Off","Auto",""
+"ESO 08","10017","All","0","0","Off","Auto",""
+"ESO 09","10018","All","0","0","Off","Auto",""
+"ESO 10","10019","All","0","0","Off","Auto",""
+"ESO 11","10020","All","0","0","Off","Auto",""
+"ESO 12","10021","All","0","0","Off","Auto",""
+"ESO 13","10022","All","0","0","Off","Auto",""
+"ESO 14","10023","All","0","0","Off","Auto",""
+"ESO 15","10024","All","0","0","Off","Auto",""
+"ESO 16","10025","All","0","0","Off","Auto",""
+"ESO 17","10026","All","0","0","Off","Auto",""
+"ESO 18","10027","All","0","0","Off","Auto",""
+"ESO 19","10028","All","0","0","Off","Auto",""
+"ESO 20","10029","All","0","0","Off","Auto",""
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"ASNSW","2","0"
+
+Channels   (System - GRN   Group - ASNSW)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"1 STATE","10301","All","0","0","Off","Auto",""
+"17 MEDI 1","10317","All","0","0","Off","Auto",""
+"18 MEDI 2","10318","All","0","0","Off","Auto",""
+"1 NTH OPS","10325","All","0","0","Off","Auto",""
+"2 STH OPS","10326","All","0","0","Off","Auto",""
+"4 EAST OPS","10327","All","0","0","Off","Auto",""
+"6 WEST OPS","10328","All","0","0","Off","Auto",""
+"7 S/W OPS","10329","All","0","0","Off","Auto",""
+"8 F S/W OPS","10330","All","0","0","Off","Auto",""
+"9 RUR OPS","10331","All","0","0","Off","Auto",""
+"12 INCDNT 1","10334","All","0","0","Off","Auto",""
+"13 INCDNT 2","10335","All","0","0","Off","Auto",""
+"14 INCDNT 3","10336","All","0","0","Off","Auto",""
+"15 INCDNT 4","10337","All","0","0","Off","Auto",""
+"16 INCDNT 5","10338","All","0","0","Off","Auto",""
+"17 INCDNT 6","10339","All","0","0","Off","Auto",""
+"18 INCDNT 7","10340","All","0","0","Off","Auto",""
+"19 SPORTS","10341","All","0","0","Off","Auto",""
+"20 WRKSHPS","10342","All","0","0","Off","Auto",""
+"ECP 4","20304","All","0","0","Off","Auto",""
+"INCIDENT 1","20305","All","0","0","Off","Auto",""
+"INCIDENT 2","20306","All","0","0","Off","Auto",""
+"INCIDENT 3","20307","All","0","0","Off","Auto",""
+"INCIDENT 4","20308","All","0","0","Off","Auto",""
+"MID WEST","20309","All","0","0","Off","Auto",""
+"MACQ 1","20310","All","0","0","Off","Auto",""
+"MACQ 2","20311","All","0","0","Off","Auto",""
+"NEW ENG 1","20312","All","0","0","Off","Auto",""
+"NEW ENG 2","20313","All","0","0","Off","Auto",""
+"ECP 5","20314","All","0","0","Off","Auto",""
+"INCIDENT 1","20315","All","0","0","Off","Auto",""
+"INCIDENT 2","20316","All","0","0","Off","Auto",""
+"INCIDENT 3","20317","All","0","0","Off","Auto",""
+"HOSP 1","20318","All","0","0","Off","Auto",""
+"HOSP 2","20319","All","0","0","Off","Auto",""
+"HUN HOSP","20320","All","0","0","Off","Auto",""
+"FSC OPS","30301","All","0","0","Off","Auto",""
+"ILLA OPS","30302","All","0","0","Off","Auto",""
+"WAGGA OPS","30304","All","0","0","Off","Auto",""
+"RIV OPS","30305","All","0","0","Off","Auto",""
+"MURRAY OPS","30306","All","0","0","Off","Auto",""
+"ECP 3","30307","All","0","0","Off","Auto",""
+"INCIDENT 1","30308","All","0","0","Off","Auto",""
+"INCIDENT 2","30309","All","0","0","Off","Auto",""
+"INCIDENT 3","30310","All","0","0","Off","Auto",""
+"INCIDENT 4","30311","All","0","0","Off","Auto",""
+"INCIDENT 5","30312","All","0","0","Off","Auto",""
+"INCIDENT 6","30313","All","0","0","Off","Auto",""
+"ILLAW HOSP","30314","All","0","0","Off","Auto",""
+"GOULB HOSP","30315","All","0","0","Off","Auto",""
+"S/HAVEN OPS","30316","All","0","0","Off","Auto",""
+"ACT AMB","30320","All","0","0","Off","Auto",""
+"STH EAST OPS","30321","All","0","0","Off","Auto",""
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"RFS","3","0"
+
+Channels   (System - GRN   Group - RFS)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"113 FSC A","30001","All","0","0","Off","Auto",""
+"119 LAKGE A","30004","All","0","0","Off","Auto",""
+"127 MDMRY A","30007","All","0","0","Off","Auto",""
+"129 MONAR A","30009","All","0","0","Off","Auto",""
+"219 LAKGE B","30065","All","0","0","Off","Auto",""
+"137 RVHLD A","30011","All","0","0","Off","Auto",""
+"138 RVRNA A","30012","All","0","0","Off","Auto",""
+"139 SHOAL A","30013","All","0","0","Off","Auto",""
+"sG026 STH OP","30014","All","0","0","Off","Auto",""
+"142 STHTB A","30016","All","0","0","Off","Auto",""
+"wG016 BAR DL","20000","All","0","0","Off","Auto",""
+"102 BLTEM A","30000","All","0","0","Off","Auto",""
+"103 CANOB A","20001","All","0","0","Off","Auto",""
+"144 SWS A","30015","All","0","0","Off","Auto",""
+"wG027 WST OP","20027","All","0","0","Off","Auto",""
+"TG01 AVIATN1","10030","All","0","0","Off","Auto",""
+"TG02 AVIATN2","10031","All","0","0","Off","Auto",""
+"TG03 AVIATN3","10032","All","0","0","Off","Auto",""
+"TG04 AVIATN4","10033","All","0","0","Off","Auto",""
+"TG05 AVIATN5","10034","All","0","0","Off","Auto",""
+"TG06 AVIATN6","10035","All","0","0","Off","Auto",""
+"1119 COM ED1","10039","All","0","0","Off","Auto",""
+"1120 COM ED2","10040","All","0","0","Off","Auto",""
+"1121 COM ED3","10041","All","0","0","Off","Auto",""
+"301 OPS1","10058","All","0","0","Off","Auto",""
+"302 OPS2","10059","All","0","0","Off","Auto",""
+"303 OPS3","10060","All","0","0","Off","Auto",""
+"304 OPS4","10061","All","0","0","Off","Auto",""
+"305 OPS5","10062","All","0","0","Off","Auto",""
+"306 OPS6","10063","All","0","0","Off","Auto",""
+"307 OPS7","10064","All","0","0","Off","Auto",""
+"308 OPS8","10065","All","0","0","Off","Auto",""
+"309 OPS9","10066","All","0","0","Off","Auto",""
+"310 OPS10","10067","All","0","0","Off","Auto",""
+"311 OPS11","10068","All","0","0","Off","Auto",""
+"312 OPS12","10069","All","0","0","Off","Auto",""
+"313 OPS13","10070","All","0","0","Off","Auto",""
+"314 OPS14","10071","All","0","0","Off","Auto",""
+"315 OPS15","10072","All","0","0","Off","Auto",""
+"316 OPS16","20038","All","0","0","Off","Auto",""
+"317 OPS17","20039","All","0","0","Off","Auto",""
+"318 OPS18","20040","All","0","0","Off","Auto",""
+"319 OPS19","30027","All","0","0","Off","Auto",""
+"320 OPS20","30028","All","0","0","Off","Auto",""
+"TG51 SMSS 1","10092","All","0","0","Off","Auto",""
+"TG52 SMSS 2","10093","All","0","0","Off","Auto",""
+"TG53 SMSS 3","20034","All","0","0","Off","Auto",""
+"TG54 SMSS 4","20035","All","0","0","Off","Auto",""
+"TG55 SMSS 5","30024","All","0","0","Off","Auto",""
+"TG56 SMSS 6","30025","All","0","0","Off","Auto",""
+"1153 STATEOP","10074","All","0","0","Off","Auto",""
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"FRNSW","3","0"
+
+Channels   (System - GRN   Group - FRNSW)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"D514 TSKGRN1","10197","All","0","0","Off","Auto",""
+"D515 TSKGRN2","10198","All","0","0","Off","Auto",""
+"D516 TSKGRN3","10199","All","0","0","Off","Auto",""
+"201 RN1","10116","All","0","0","Off","Auto",""
+"202 RN2","10117","All","0","0","Off","Auto",""
+"203 RN3","10118","All","0","0","Off","Auto",""
+"301 RS1","10125","All","0","0","Off","Auto",""
+"302 RS2","10123","All","0","0","Off","Auto",""
+"303 RS3","10128","All","0","0","Off","Auto",""
+"304 ACT-NSW","10126","All","0","0","Off","Auto",""
+"401 RW1","10132","All","0","0","Off","Auto",""
+"402 RW2","10129","All","0","0","Off","Auto",""
+"403 RW3","10133","All","0","0","Off","Auto",""
+"601 TACT 01","10134","All","0","0","Off","Auto",""
+"602 TACT 02","10135","All","0","0","Off","Auto",""
+"603 TACT 03","10136","All","0","0","Off","Auto",""
+"604 TACT 04","10137","All","0","0","Off","Auto",""
+"605 TACT 05","10138","All","0","0","Off","Auto",""
+"606 TACT 06","10139","All","0","0","Off","Auto",""
+"607 TACT 07","10140","All","0","0","Off","Auto",""
+"608 TACT 08","10141","All","0","0","Off","Auto",""
+"609 TACT 09","10142","All","0","0","Off","Auto",""
+"610 TACT 10","10143","All","0","0","Off","Auto",""
+"611 SYD AIR","10111","All","0","0","Off","Auto",""
+"701 TACT 11","10144","All","0","0","Off","Auto",""
+"702 TACT 12","10145","All","0","0","Off","Auto",""
+"703 TACT 13","10146","All","0","0","Off","Auto",""
+"1001 COMMS","10154","All","0","0","Off","Auto",""
+"704 TACT 14","10147","All","0","0","Off","Auto",""
+"705 TACT 15","10148","All","0","0","Off","Auto",""
+"706 TACT 16","10149","All","0","0","Off","Auto",""
+"707 TACT 17","10150","All","0","0","Off","Auto",""
+"708 TACT 18","10151","All","0","0","Off","Auto",""
+"709 TACT 19","10152","All","0","0","Off","Auto",""
+"710 TACT 20","10153","All","0","0","Off","Auto",""
+"1103 BUSHFR","10162","All","0","0","Off","Auto",""
+"1106 TRAIN","10165","All","0","0","Off","Auto",""
+"1107 RESCUE","10166","All","0","0","Off","Auto",""
+
+System - MOT Type 2
+System Name,ID Scan / Search,Record,Delay,I Call,Status Bit,End Code,Digital End Code,Emerg. Alert,Emerg. Alert Level
+"GRN","ID Scan","","2 Sec.","Off","1","Detect","0","Off","Auto"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Mount Ginini","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Mount Ginini)
+Frequency,Lockout
+"416.4875","0"
+"417.4875","0"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Lake George","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Lake George)
+Frequency,Lockout
+"416.1375","0"
+"416.8875","0"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Goulburn","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Goulburn)
+Frequency,Lockout
+"416.1250","0"
+"416.6250","0"
+"416.8750","0"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Bungendore","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Bungendore)
+Frequency,Lockout
+"419.0500","0"
+"419.5500","0"
+
+Site - Frequencies MOT Type 2 800 MHz Standard   (System - GRN)
+Site Name,Quick Key,Startup Key,Lockout,Hold Time,Att.,Mod.,Ch Chan Only,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Mt Cronin","3","None","0","2 Sec.","0","Auto","0","Auto","6","0","-0","-0",".5 Mile"
+
+Frequencies   (System - GRN   Group - Mt Cronin)
+Frequency,Lockout
+"416.9250","0"
+"422.3375","0"
+"416.4250","0"
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"ACT ESA","3","0"
+
+Channels   (System - GRN   Group - ACT ESA)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"Air Support","40031","All","0","0","Off","Auto",""
+"ESA 1","40032","All","0","0","Off","Auto",""
+"ESA 2","40033","All","0","0","Off","Auto",""
+"ESA 3","40034","All","0","0","Off","Auto",""
+"ESA 4","40035","All","0","0","Off","Auto",""
+"ESA 5","40036","All","0","0","Off","Auto",""
+"ESA 6","40037","All","0","0","Off","Auto",""
+"ESA 7","40010","All","0","0","Off","Auto",""
+"ESA 8","40011","All","0","0","Off","Auto",""
+"ESA 9","40038","All","0","0","Off","Auto",""
+"ESA 10","40039","All","0","0","Off","Auto",""
+"ESA 11","40040","All","0","0","Off","Auto",""
+"ESA 12","40041","All","0","0","Off","Auto",""
+"ESA13","40042","All","0","0","Off","Auto",""
+"JOINT TSKFCE","40043","All","0","0","Off","Auto",""
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"ACT RFS","3","0"
+
+Channels   (System - GRN   Group - ACT RFS)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"RFS OPS 1","40068","All","0","0","Off","Auto",""
+"RFS OPS 2","40069","All","0","0","Off","Auto",""
+"RFS OPS 3","40070","All","0","0","Off","Auto",""
+"RFS OPS 4","40071","All","0","0","Off","Auto",""
+"RFS OPS 5","40072","All","0","0","Off","Auto",""
+"RFS OPS 6","40073","All","0","0","Off","Auto",""
+"RFS OPS 7","40074","All","0","0","Off","Auto",""
+"RFS OPS 8","40075","All","0","0","Off","Auto",""
+"RFS OPS 9","40076","All","0","0","Off","Auto",""
+"RFS OPS 10","40077","All","0","0","Off","Auto",""
+"Guises Creek","42000","All","0","0","Off","Auto",""
+"Gunghalin","42001","All","0","0","Off","Auto",""
+"Hall","42002","All","0","0","Off","Auto",""
+"Jerrabombora","42003","All","0","0","Off","Auto",""
+"Molongo","42004","All","0","0","Off","Auto",""
+"Parks","42005","All","0","0","Off","Auto",""
+"Rivers","42006","All","0","0","Off","Auto",""
+"Southern","42007","All","0","0","Off","Auto",""
+"Tidbinbilla","42008","All","0","0","Off","Auto",""
+"HRB","42009","All","0","0","Off","Auto",""
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"SES","4","0"
+
+Channels   (System - GRN   Group - SES)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"0101 SES RESQ","10234","All","0","0","Off","Auto",""
+"0102 SES DISP","10235","All","0","0","Off","Auto",""
+"Comms 1","10246","All","0","0","Off","Auto",""
+"0401 SEZ RESQ","20201","All","0","0","Off","Auto",""
+"0402 SEZ DISP","20202","All","0","0","Off","Auto",""
+"0403 SEZ OPS1","20203","All","0","0","Off","Auto",""
+"0404 SEZ OPS2","20204","All","0","0","Off","Auto",""
+"0405 SEZ OPS3","20205","All","0","0","Off","Auto",""
+"0406 SEZ OPS4","20206","All","0","0","Off","Auto",""
+"0407 SEZ OPS5","20207","All","0","0","Off","Auto",""
+"0408 SEZ LOPRI","20208","All","0","0","Off","Auto",""
+"0601 WTZ RESQ","20244","All","0","0","Off","Auto",""
+"0602 WTZ DISP","20245","All","0","0","Off","Auto",""
+"0603 WTZ OPS1","20246","All","0","0","Off","Auto",""
+"0604 WTZ OPS2","20247","All","0","0","Off","Auto",""
+"0605 WTZ OPS3","20248","All","0","0","Off","Auto",""
+"0606 WTZ OPS4","20249","All","0","0","Off","Auto",""
+"0607 WTZ OPS5","20250","All","0","0","Off","Auto",""
+"0608 WTZ LOPRI","20251","All","0","0","Off","Auto",""
+"0201 MTZ RESQ","20253","All","0","0","Off","Auto",""
+"0208 MTZ LOPRI","20260","All","0","0","Off","Auto",""
+"0202 MTZ DISP","20254","All","0","0","Off","Auto",""
+"0203 MTZ OPS1","20255","All","0","0","Off","Auto",""
+"0204 MTZ OPS2","20256","All","0","0","Off","Auto",""
+"0205 MTZ OPS3","20257","All","0","0","Off","Auto",""
+"0206 MTZ OPS4","20258","All","0","0","Off","Auto",""
+"0207 MTZ OPS5","20259","All","0","0","Off","Auto",""
+"0301 NHZ RESQ","20262","All","0","0","Off","Auto",""
+"0302 NHZ DISP","20263","All","0","0","Off","Auto",""
+"0303 NHZ OPS1","20264","All","0","0","Off","Auto",""
+"0304 NHZ OPS2","20265","All","0","0","Off","Auto",""
+"0305 NHZ OPS3","20266","All","0","0","Off","Auto",""
+"0306 NHZ OPS4","20267","All","0","0","Off","Auto",""
+"0307 NHZ OPS5","20268","All","0","0","Off","Auto",""
+"0308 NHZ LOPRI","20269","All","0","0","Off","Auto",""
+"0501 SHZ RESQ","30210","All","0","0","Off","Auto",""
+"0502 SHZ DISP","30211","All","0","0","Off","Auto",""
+"0503 SHZ OPS1","30212","All","0","0","Off","Auto",""
+"0504 SHZ OPS2","30213","All","0","0","Off","Auto",""
+"0505 SHZ OPS3","30214","All","0","0","Off","Auto",""
+"0506 SHZ OPS4","30215","All","0","0","Off","Auto",""
+"0507 SHZ OPS5","30216","All","0","0","Off","Auto",""
+"0508 SHZ LOPRI","30217","All","0","0","Off","Auto",""
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"ACT SES","4","0"
+
+Channels   (System - GRN   Group - ACT SES)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"SES OPS 1","40078","All","0","0","Off","Auto",""
+"SES OPS 2","40079","All","0","0","Off","Auto",""
+"SES OPS 3","40080","All","0","0","Off","Auto",""
+"SES OPS 4","40081","All","0","0","Off","Auto",""
+"SES OPS 5","40082","All","0","0","Off","Auto",""
+"SES OPS 6","40083","All","0","0","Off","Auto",""
+"SES OPS 7","40084","All","0","0","Off","Auto",""
+"SES OPS 8","40085","All","0","0","Off","Auto",""
+"SES OPS 9","40086","All","0","0","Off","Auto",""
+"SES OPS 10","40087","All","0","0","Off","Auto",""
+"SES OPS 11","40088","All","0","0","Off","Auto",""
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"ACT Parks","None","0"
+
+Channels   (System - GRN   Group - ACT Parks)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"PCS1 Tactical","40089","All","0","0","Off","Auto",""
+"PCS2 Tactical","40090","All","0","0","Off","Auto",""
+"PCS3 Fire Mgt","40091","All","0","0","Off","Auto",""
+"PCS4 Nature Pks","40092","All","0","0","Off","Auto",""
+"PCS5 National Pk","40093","All","0","0","Off","Auto",""
+"PCS6","40094","All","0","0","Off","Auto",""
+"PCS7","40095","All","0","0","Off","Auto",""
+"PCS8","40096","All","0","0","Off","Auto",""
+"PCS9 HRB","40097","All","0","0","Off","Auto",""
+"PCS10","40098","All","0","0","Off","Auto",""
+"PCS11","40099","All","0","0","Off","Auto",""
+
+Group - TGID's   (System - GRN)
+Group Name,Quick Key,Lockout
+"VRA","4","0"
+
+Channels   (System - GRN   Group - VRA)
+Channel Name,TGID,Audio Type,Record,Lockout,Alert Tone,Alert Level,Note
+"VRA1","20083","All","0","0","Off","Auto",""
+"VRA2","20084","All","0","0","Off","Auto",""
+"VRA3","20085","All","0","0","Off","Auto",""
+"VRA4","20086","All","0","0","Off","Auto",""
+"VRA5","20087","All","0","0","Off","Auto",""
+
+System - Conventional
+System Name,Quick Key,Startup Key,Record,Lockout,Delay,Hold Time,Data Skip,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"CB/Ham","8","None","","0","2 Sec.","0 Sec.","0","Auto","6","0","0","-0","10 Miles"
+
+Group - Frequencies   (System - CB/Ham)
+Group Name,Quick Key,Lockout
+"Amateur","1","0"
+
+Channels   (System - CB/Ham   Group - Amateur)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"VK1RGI","146.9500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WICEN","159.7750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WICEN","164.3750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WICEN","77.8750","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+"WICEN","80.3750","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+"WICEN","77.6750","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+"WICEN","80.1750","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+"VK1RGI","438.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"VK1RBM","146.7250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"VK1RBM","439.9500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"VK1RBH WICEN","147.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"VK1RWP WICEN","147.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"VK1RWP WICEN","147.1250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"VK1RWP WICEN","439.9250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"VK1RWP WICEN","439.9750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+Group - Frequencies   (System - CB/Ham)
+Group Name,Quick Key,Lockout
+"UHF CB","2","0"
+
+Channels   (System - CB/Ham   Group - UHF CB)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"1","476.4250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"2","476.4500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"3","476.4750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"4","476.5000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"5","476.5250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"6","476.5500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"7","476.5750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"8","476.6000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"9","476.6250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"10","476.6500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"11","476.6750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"12","476.7000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"13","476.7250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"14","476.7500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"15","476.7750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"16","476.8000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"17","476.8250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"18","476.8500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"19","476.8750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"20","476.9000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"21","476.9250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"22 (Data)","476.9500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"23 (Data)","476.9750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"24","477.0000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"25","477.0250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"26","477.0500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"27","477.0750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"28","477.1000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"29","477.1250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"30","477.1500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"31","477.1750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"32","477.2000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"33","477.2250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"34","477.2500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"35","477.2750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"36","477.3000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"37","477.3250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"38","477.3500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"39","477.3750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"40","477.4000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"41","476.4375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"42","476.4625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"43","476.4875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"44","476.5125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"45","476.5375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"46","476.5625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"47","476.5875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"48","476.6125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"49","476.6375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"50","476.6625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"51","476.6875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"52","476.7125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"53","476.7375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"54","476.7625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"55","476.7875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"56","476.8125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"57","476.8375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"58","476.8625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"59","476.8875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"60","476.9125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"64","477.0125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"65","477.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"66","477.0625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"67","477.0875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"68","477.1125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"69","477.1375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"70","477.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"71","477.1875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"72","477.2125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"73","477.2375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"74","477.2625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"75","477.2875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"76","477.3125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"77","477.3375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"78","477.3625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"79","477.3875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"80","477.4125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+System - Conventional
+System Name,Quick Key,Startup Key,Record,Lockout,Delay,Hold Time,Data Skip,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Satellite","7","None","","0","2 Sec.","2 Sec.","0","Auto","6","0","0","-0","10 Miles"
+
+Group - Frequencies   (System - Satellite)
+Group Name,Quick Key,Lockout
+"Weathersat","None","0"
+
+Channels   (System - Satellite   Group - Weathersat)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"NOAA15","137.6200","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+"NOAA17","137.5000","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+"NOAA18","137.9125","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+"NOAA19/MET M-N2","137.1000","All","Off","0","0","1","Auto","0","0","Off","Auto",""
+
+Group - Frequencies   (System - Satellite)
+Group Name,Quick Key,Lockout
+"Amateur","None","0"
+
+Channels   (System - Satellite   Group - Amateur)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"ISS","145.8000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SO-50","436.8000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"EO-80","145.8400","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"Multi APRS","145.8250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+Group - Frequencies   (System - Satellite)
+Group Name,Quick Key,Lockout
+"US SATCOM","None","0"
+
+Channels   (System - Satellite   Group - US SATCOM)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"UFO8 Ch5 (Data)","250.5500","All","Off","0","0","1","FM","0","0","Off","Auto",""
+"Data","250.6500","All","Off","0","0","1","FM","0","0","Off","Auto",""
+"Data","250.4500","All","Off","0","0","0","FM","0","0","Off","Auto",""
+"UFO8 Ch73","261.6250","All","Off","0","0","0","FM","0","0","Off","Auto",""
+"UFO8 Ch77 (ICE)","261.7250","All","Off","0","0","0","FM","0","0","Off","Auto",""
+"UFO8 Ch81","261.8250","All","Off","0","0","0","FM","0","0","Off","Auto",""
+"UFO8 Ch85","261.9250","All","Off","0","0","0","FM","0","0","Off","Auto",""
+"UFO8 Ch115","263.7250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+System - Conventional
+System Name,Quick Key,Startup Key,Record,Lockout,Delay,Hold Time,Data Skip,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Misc","9","None","","0","2 Sec.","2 Sec.","0","Auto","6","0","0","-0","10 Miles"
+
+Group - Frequencies   (System - Misc)
+Group Name,Quick Key,Lockout
+"Misc","None","0"
+
+Channels   (System - Misc   Group - Misc)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"Spotless Service","488.8250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"Spotless Service","489.4250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"Forrestry","413.6500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"Tobiway Crushing","161.0250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+System - Conventional
+System Name,Quick Key,Startup Key,Record,Lockout,Delay,Hold Time,Data Skip,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"Other","4","None","","0","2 Sec.","2 Sec.","0","Auto","8","0","0","-0","10 Miles"
+
+Group - Frequencies   (System - Other)
+Group Name,Quick Key,Lockout
+"NPWS","None","0"
+
+Channels   (System - Other   Group - NPWS)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"MT GININI","162.0750","Analog","Search","0","0","0","Auto","0","0","Off","Auto",""
+"BLACK TRIG","162.1250","Analog","Search","0","0","0","Auto","0","0","Off","Auto",""
+"KNIGHTS HILL","162.1500","Analog","Search","0","0","0","Auto","0","0","Off","Auto",""
+"CAPTAINS FLAT","162.1625","Analog","Search","0","0","0","Auto","0","0","Off","Auto",""
+"BUDAWANG","162.1000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT SELWYN","162.2500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"CAPTAINS FLAT","162.2875","Analog","Search","0","0","0","Auto","0","0","Off","Auto",""
+"HELENSBURGH","162.3250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"ELLSMORE TOWER","162.5500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BOMADERRY","162.5625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BIG BUGTOWN HILL","162.7625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BUDAWANG","162.8125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT PERISHER","162.8500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"INGEBIRAH TRIG","162.8750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"PEAK ALONE","162.8875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SHOOTERS HILL","162.8875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"GREEN CAPE","162.9125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"LETTS MTN","162.9750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BOMBALA","162.9000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WOLUMLA PEAK","163.0750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WAMBROOK TRIG","163.1625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"RICHLANDS","163.2250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT MEEHAN","163.2375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"UMBULLA MOUNTAIN","163.4375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"WARRADERRY","163.5875","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT KEIRA","163.6125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MORUYA","163.8500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT CANOBOLAS","163.8500","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"UMBULLA MOUNTAIN","163.9250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MITTAGONG","164.4125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MITTAGONG","164.5625","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SNOWY MOUNTAIN","164.8125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"VINCENTIA","164.8125","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"GARAWARRA","164.8250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"KADINA","164.8250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT GININI","164.8750","Analog","Search","0","0","0","Auto","0","0","Off","Auto",""
+"COOMA","164.8000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"SUNNY CORNER","165.0250","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"MT PERISHER","461.5687","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"YALWAL","461.8687","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+Group - Frequencies   (System - Other)
+Group Name,Quick Key,Lockout
+"SJA","None","0"
+
+Channels   (System - Other   Group - SJA)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"BUNGENDORE","411.4000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BUNGENDORE","412.1000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"BUNGENDORE","462.0375","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+Group - Frequencies   (System - Other)
+Group Name,Quick Key,Lockout
+"QPRC","None","0"
+
+Channels   (System - Other   Group - QPRC)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"MT GILLAMATONG","164.0750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"CAPTAINS FLAT","164.4750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+"ISAACS RIDGE","164.9750","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+
+System - Conventional
+System Name,Quick Key,Startup Key,Record,Lockout,Delay,Hold Time,Data Skip,P25 Mode,P25 Level,GPS Enable,Latitude,Longitude,Range
+"System 09","None","None","","0","2 Sec.","2 Sec.","0","Auto","8","0","-33.3848","150.8463","50 Miles"
+
+Group - Frequencies   (System - System 09)
+Group Name,Quick Key,Lockout
+"Group 01","None","0"
+
+Channels   (System - System 09   Group - Group 01)
+Channel Name,Frequency,Audio Type,Tone,Tone L/O,Record,Lockout,Mod.,Pri.,Att.,Alert Tone,Alert Level,Note
+"Channel 001","118.8550","Analog","Off","0","0","0","AM","0","0","Off","Auto",""
+"Channel 002","119.0000","All","Off","0","0","0","Auto","0","0","Off","Auto",""
+

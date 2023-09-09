@@ -1,0 +1,669 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Defence	Off	2	Conventional	1			Off	Off
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Conventional			NSWES	Off	2	Conventional	2		2	Off	Off		Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=3	AgencyId=2	Ambulance	Off	0.000000	-0.000000	0.0	Circle	2	Global
+C-Freq			Statewide	Off	467675000	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA	Off	469387500	AUTO	TONE=C173.8	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TARAGO	Off	468362500	AUTO	TONE=C173.8	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LERIDA	Off	467700000	AUTO	TONE=C173.8	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT GIBRALTAR	Off	469387500	AUTO	TONE=C173.8	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUEANBEYAN	Off	469150000	AUTO	TONE=C173.8	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YASS	Off	468600000	AUTO	TONE=C173.8	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GININI	Off	469875000	AUTO	TONE=C173.8	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=2	FIRE	Off	0.000000	-0.000000	0.0	Circle	3	Global
+C-Freq			PAGER	Off	148987500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOLUMLA PEAK	Off	418650000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIMBILLICA	Off	419125000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEAK HILL	Off	419150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOMBALA	Off	421512500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT CRACKENBACK	Off	421575000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EUCUMBENE	Off	421587500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YOUNG	Off	421587500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WINIFRED	Off	421637500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOOROWA	Off	421675000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WAMBROOK TRIG	Off	421675000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALKITE	Off	421725000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YOUNG	Off	421725000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HARDEN	Off	421700000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT PERISHER	Off	421700000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIMBILLICA	Off	423525000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT CRACKENBACK	Off	423575000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDGROUND	Off	423575000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REIDS FLAT	Off	423637500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOLUMLA PEAK	Off	423712500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BEREMANGERA	Off	423725000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALKITE	Off	423725000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=2	RFS	Off	0.000000	-0.000000	0.0	Circle	3	Global
+C-Freq			F14 SIM DGTL	Off	411037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 1	Off	161150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 2	Off	161062500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 3	Off	161075000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 4	Off	161112500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 5	Off	161087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 6	On	161037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 7	Off	161012500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 8	Off	161050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 9	Off	161187500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 10	Off	161212500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 11	Off	161225000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 12	Off	161237500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 13	Off	161250000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 14	Off	161337500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 15	Off	161362500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 16	Off	161375000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 17	Off	161387500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 18	Off	161412500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 19	Off	161450000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FIREGRND 20	Off	161462500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BENANDARAH	Off	420012500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOMBALA	Off	420012500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDGROUND	Off	420012500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT CANOBOLAS	Off	420025000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOLUMLA PEAK	Off	420025000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			INGEBIRAH TRIG	Off	420037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT COONAMBRO	Off	420037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT COONAMBRO	Off	420037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NAROOMA	Off	420037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOMBEYAN	Off	420037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOYNE TRIG	Off	420050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT MEEHAN	Off	420050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT THOKO	Off	420050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEAK ALONE	Off	420062500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YOUNG	Off	420062500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GININI	Off	420075000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EUCUMBENE	Off	420087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GORMAN HILL	Off	420087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JERVIS BAY	Off	420087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIMBILLICA	Off	420087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUDAWANG	Off	420112500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LITHGOW	Off	420112500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SPICERS HILL	Off	420112500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIBRALTAR HILL	Off	420125000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LETTS MTN	Off	420125000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OBERON	Off	420125000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLARKE TRIG	Off	420137500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SASSAFRAS	Off	420137500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WINIFRED	Off	420137500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BEWONG	Off	420150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT ROBERTS	Off	420150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARRAWA	Off	420150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HELENSBURGH	Off	420162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORUYA	Off	420162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT COONAMBRO	Off	420162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SNOWY MOUNTAIN	Off	420162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YOUNG	Off	420162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUMBALDRY	Off	420175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAKE CARGELLIGO	Off	420175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NERRIGA	Off	420175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNNY CORNER	Off	420175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WAMBROOK TRIG	Off	420175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOONA MTN	Off	420187500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT MARY	Off	420187500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BANNABY HILL	Off	420100000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UMBULLA MOUNTAIN	Off	420100000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KADINA	Off	420212500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YATTEYATTAH	Off	420212500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CURRAWANG	Off	420225000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HASSANS WALLS	Off	420225000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARRAWA	Off	420225000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT KEIRA	Off	420237500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT RAGAN	Off	420237500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OUNDARY MOUNTAIN	Off	420250000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TUENA	Off	420250000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELLEVUE HILL	Off	420200000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARULAN	Off	420200000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT PERISHER	Off	420200000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BENANDARAH	Off	422012500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT MCDONALD	Off	422012500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUMBALDRY	Off	422025000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ELLSMORE TOWER	Off	422025000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REIDS FLAT	Off	422037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT MEEHAN	Off	422050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT WANDERA	Off	422050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TUBBUL	Off	422050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRY	Off	422062500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT EAGLE	Off	422062500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOFALA	Off	422062500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BLACK TRIG	Off	422075000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINALONG	Off	422087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KADINA	Off	422087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KANGAROO VALLEY	Off	422137500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEVILLE	Off	422137500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ABERCROMBIE	Off	422150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOMADERRY	Off	422162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HARDEN	Off	422162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COPPABELLA HILL	Off	422175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT PANORAMA	Off	422175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORBES	Off	422187500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPTAINS FLAT	Off	422100000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALD HILL	Off	422212500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YETHOLME	Off	422212500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AIRLY TURRET	Off	422200000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELLEVUE HILL	Off	422200000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROBERTSON	Off	422200000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA	Off	424012500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT MEEHAN	Off	424050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GRAY	Off	424075000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	424075000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KADINA	Off	424087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUDAWANG	Off	424112500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LITHGOW	Off	424112500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WILLIAMSDALE	Off	424125000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUMBALDRY	Off	424150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SHOOTERS HILL	Off	424187500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KIAMA	Off	424100000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KNIGHTS HILL	Off	424212500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OUNDARY MOUNTAIN	Off	424250000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GININI	Off	424200000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PAGER	On	148587500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=2	SES	Off	0.000000	-0.000000	0.0	Circle	4	Global
+C-Freq			MT GININI	Off	421737500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT PERISHER	Off	467250000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+Trunk			GRN	Off		Motorola	Off	Off	Auto	Yes	Srch	Off	00		Off	Off	Analog	Off	Off	On
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site	SiteId=9	TrunkId=7	Mount Ginini	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=9		Off	416487500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	417487500		Srch
+Site	SiteId=12	TrunkId=7	Lake George	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=12		Off	416137500		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	416887500		Srch
+Site	SiteId=15	TrunkId=7	Goulburn	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=15		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=15		Off	416625000		Srch
+T-Freq	TFreqId=0	SiteId=15		Off	416875000	0	Srch
+Site	SiteId=19	TrunkId=7	Bungendore	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=19		Off	419050000		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	419550000		Srch
+Site	SiteId=22	TrunkId=7	Mt Cronin	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=22		Off	416925000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	422337500	0	Srch
+T-Freq	TFreqId=0	SiteId=22		Off	416425000		Srch
+T-Group	TGroupId=60	TrunkId=7	ESO/GL	Off	0.000000	-0.000000	0.0	Circle	1
+TGID			GL 01	Off	10000	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 02	Off	10001	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 03	Off	10002	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 04	Off	10003	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 05	Off	10004	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 06	Off	10005	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 07	Off	10006	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 08	Off	10007	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 09	Off	10008	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GL 10	Off	10009	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 01	Off	10010	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 02	Off	10011	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 03	Off	10012	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 04	Off	10013	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 05	Off	10014	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 06	Off	10015	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 07	Off	10016	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 08	Off	10017	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 09	Off	10018	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 10	Off	10019	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 11	Off	10020	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 12	Off	10021	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 13	Off	10022	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 14	Off	10023	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 15	Off	10024	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 16	Off	10025	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 17	Off	10026	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 18	Off	10027	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 19	Off	10028	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESO 20	Off	10029	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+T-Group	TGroupId=61	TrunkId=7	ASNSW	Off	0.000000	-0.000000	0.0	Circle	2
+TGID			1 STATE	Off	10301	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			17 MEDI 1	Off	10317	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			18 MEDI 2	Off	10318	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1 NTH OPS	Off	10325	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			2 STH OPS	Off	10326	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			4 EAST OPS	Off	10327	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			6 WEST OPS	Off	10328	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			7 S/W OPS	Off	10329	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			8 F S/W OPS	Off	10330	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			9 RUR OPS	Off	10331	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			12 INCDNT 1	Off	10334	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			13 INCDNT 2	Off	10335	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			14 INCDNT 3	Off	10336	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			15 INCDNT 4	Off	10337	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			16 INCDNT 5	Off	10338	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			17 INCDNT 6	Off	10339	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			18 INCDNT 7	Off	10340	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			19 SPORTS	Off	10341	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			20 WRKSHPS	Off	10342	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ECP 4	Off	20304	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 1	Off	20305	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 2	Off	20306	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 3	Off	20307	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 4	Off	20308	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			MID WEST	Off	20309	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			MACQ 1	Off	20310	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			MACQ 2	Off	20311	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			NEW ENG 1	Off	20312	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			NEW ENG 2	Off	20313	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ECP 5	Off	20314	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 1	Off	20315	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 2	Off	20316	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 3	Off	20317	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			HOSP 1	Off	20318	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			HOSP 2	Off	20319	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			HUN HOSP	Off	20320	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			FSC OPS	Off	30301	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ILLA OPS	Off	30302	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			WAGGA OPS	Off	30304	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RIV OPS	Off	30305	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			MURRAY OPS	Off	30306	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ECP 3	Off	30307	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 1	Off	30308	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 2	Off	30309	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 3	Off	30310	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 4	Off	30311	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 5	Off	30312	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			INCIDENT 6	Off	30313	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ILLAW HOSP	Off	30314	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			GOULB HOSP	Off	30315	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			S/HAVEN OPS	Off	30316	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ACT AMB	Off	30320	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			STH EAST OPS	Off	30321	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+T-Group	TGroupId=62	TrunkId=7	RFS	Off	0.000000	-0.000000	0.0	Circle	3
+TGID			113 FSC A	Off	30001	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			119 LAKGE A	Off	30004	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			127 MDMRY A	Off	30007	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			129 MONAR A	Off	30009	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			219 LAKGE B	Off	30065	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			137 RVHLD A	Off	30011	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			138 RVRNA A	Off	30012	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			139 SHOAL A	Off	30013	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			sG026 STH OP	Off	30014	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			142 STHTB A	Off	30016	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			wG016 BAR DL	Off	20000	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			102 BLTEM A	Off	30000	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			103 CANOB A	Off	20001	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			144 SWS A	Off	30015	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			wG027 WST OP	Off	20027	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG01 AVIATN1	Off	10030	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG02 AVIATN2	Off	10031	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG03 AVIATN3	Off	10032	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG04 AVIATN4	Off	10033	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG05 AVIATN5	Off	10034	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG06 AVIATN6	Off	10035	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1119 COM ED1	Off	10039	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1120 COM ED2	Off	10040	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1121 COM ED3	Off	10041	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			301 OPS1	Off	10058	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			302 OPS2	Off	10059	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			303 OPS3	Off	10060	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			304 OPS4	Off	10061	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			305 OPS5	Off	10062	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			306 OPS6	Off	10063	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			307 OPS7	Off	10064	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			308 OPS8	Off	10065	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			309 OPS9	Off	10066	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			310 OPS10	Off	10067	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			311 OPS11	Off	10068	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			312 OPS12	Off	10069	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			313 OPS13	Off	10070	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			314 OPS14	Off	10071	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			315 OPS15	Off	10072	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			316 OPS16	Off	20038	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			317 OPS17	Off	20039	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			318 OPS18	Off	20040	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			319 OPS19	Off	30027	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			320 OPS20	Off	30028	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG51 SMSS 1	Off	10092	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG52 SMSS 2	Off	10093	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG53 SMSS 3	Off	20034	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG54 SMSS 4	Off	20035	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG55 SMSS 5	Off	30024	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			TG56 SMSS 6	Off	30025	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1153 STATEOP	Off	10074	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+T-Group	TGroupId=63	TrunkId=7	FRNSW	Off	0.000000	-0.000000	0.0	Circle	3
+TGID			D514 TSKGRN1	Off	10197	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			D515 TSKGRN2	Off	10198	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			D516 TSKGRN3	Off	10199	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			201 RN1	Off	10116	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			202 RN2	Off	10117	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			203 RN3	Off	10118	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			301 RS1	Off	10125	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			302 RS2	Off	10123	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			303 RS3	Off	10128	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			304 ACT-NSW	Off	10126	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			401 RW1	Off	10132	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			402 RW2	Off	10129	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			403 RW3	Off	10133	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			601 TACT 01	Off	10134	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			602 TACT 02	Off	10135	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			603 TACT 03	Off	10136	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			604 TACT 04	Off	10137	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			605 TACT 05	Off	10138	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			606 TACT 06	Off	10139	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			607 TACT 07	Off	10140	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			608 TACT 08	Off	10141	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			609 TACT 09	Off	10142	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			610 TACT 10	Off	10143	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			611 SYD AIR	Off	10111	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			701 TACT 11	Off	10144	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			702 TACT 12	Off	10145	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			703 TACT 13	Off	10146	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1001 COMMS	Off	10154	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			704 TACT 14	Off	10147	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			705 TACT 15	Off	10148	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			706 TACT 16	Off	10149	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			707 TACT 17	Off	10150	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			708 TACT 18	Off	10151	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			709 TACT 19	Off	10152	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			710 TACT 20	Off	10153	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1103 BUSHFR	Off	10162	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1106 TRAIN	Off	10165	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			1107 RESCUE	Off	10166	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+Trunk			GRN	Off		Motorola	Off	0	Auto	Yes		Off	00		Off	Off		Off	Off	On
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site	SiteId=28	TrunkId=26	Mount Ginini	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=28		Off	416487500		Srch
+T-Freq	TFreqId=0	SiteId=28		Off	417487500		Srch
+Site	SiteId=31	TrunkId=26	Lake George	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=31		Off	416137500		Srch
+T-Freq	TFreqId=0	SiteId=31		Off	416887500		Srch
+Site	SiteId=34	TrunkId=26	Goulburn	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=34		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=34		Off	416625000		Srch
+T-Freq	TFreqId=0	SiteId=34		Off	416875000	0	Srch
+Site	SiteId=38	TrunkId=26	Bungendore	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=38		Off	419050000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	419550000		Srch
+Site	SiteId=41	TrunkId=26	Mt Cronin	Off	-0	-0	0.0	AUTO	Standard	Wide	Circle	Off	400	Auto	6	3
+T-Freq	TFreqId=0	SiteId=41		Off	416925000		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	422337500	0	Srch
+T-Freq	TFreqId=0	SiteId=41		Off	416425000		Srch
+T-Group	TGroupId=45	TrunkId=26	ACT ESA	Off	0.000000	-0.000000	0.0	Circle	3
+TGID			Air Support	Off	40031	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 1	Off	40032	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 2	Off	40033	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 3	Off	40034	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 4	Off	40035	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 5	Off	40036	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 6	Off	40037	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 7	Off	40010	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 8	Off	40011	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 9	Off	40038	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 10	Off	40039	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 11	Off	40040	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA 12	Off	40041	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			ESA13	Off	40042	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			JOINT TSKFCE	Off	40043	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+T-Group	TGroupId=46	TrunkId=26	ACT RFS	Off	0.000000	-0.000000	0.0	Circle	3
+TGID			RFS OPS 1	Off	40068	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 2	Off	40069	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 3	Off	40070	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 4	Off	40071	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 5	Off	40072	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 6	Off	40073	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 7	Off	40074	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 8	Off	40075	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 9	Off	40076	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			RFS OPS 10	Off	40077	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Guises Creek	Off	42000	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Gunghalin	Off	42001	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Hall	Off	42002	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Jerrabombora	Off	42003	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Molongo	Off	42004	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Parks	Off	42005	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Rivers	Off	42006	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Southern	Off	42007	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Tidbinbilla	Off	42008	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			HRB	Off	42009	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+T-Group	TGroupId=47	TrunkId=26	SES	Off	0.000000	-0.000000	0.0	Circle	4
+TGID			0101 SES RESQ	Off	10234	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0102 SES DISP	Off	10235	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			Comms 1	Off	10246	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0401 SEZ RESQ	Off	20201	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0402 SEZ DISP	Off	20202	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0403 SEZ OPS1	Off	20203	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0404 SEZ OPS2	Off	20204	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0405 SEZ OPS3	Off	20205	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0406 SEZ OPS4	Off	20206	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0407 SEZ OPS5	Off	20207	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0408 SEZ LOPRI	Off	20208	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0601 WTZ RESQ	Off	20244	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0602 WTZ DISP	Off	20245	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0603 WTZ OPS1	Off	20246	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0604 WTZ OPS2	Off	20247	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0605 WTZ OPS3	Off	20248	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0606 WTZ OPS4	Off	20249	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0607 WTZ OPS5	Off	20250	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0608 WTZ LOPRI	Off	20251	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0201 MTZ RESQ	Off	20253	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0208 MTZ LOPRI	Off	20260	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0202 MTZ DISP	Off	20254	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0203 MTZ OPS1	Off	20255	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0204 MTZ OPS2	Off	20256	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0205 MTZ OPS3	Off	20257	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0206 MTZ OPS4	Off	20258	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0207 MTZ OPS5	Off	20259	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0301 NHZ RESQ	Off	20262	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0302 NHZ DISP	Off	20263	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0303 NHZ OPS1	Off	20264	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0304 NHZ OPS2	Off	20265	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0305 NHZ OPS3	Off	20266	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0306 NHZ OPS4	Off	20267	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0307 NHZ OPS5	Off	20268	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0308 NHZ LOPRI	Off	20269	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0501 SHZ RESQ	Off	30210	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0502 SHZ DISP	Off	30211	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0503 SHZ OPS1	Off	30212	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0504 SHZ OPS2	Off	30213	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0505 SHZ OPS3	Off	30214	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0506 SHZ OPS4	Off	30215	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0507 SHZ OPS5	Off	30216	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			0508 SHZ LOPRI	Off	30217	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+T-Group	TGroupId=48	TrunkId=26	ACT SES	Off	0.000000	-0.000000	0.0	Circle	4
+TGID			SES OPS 1	Off	40078	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 2	Off	40079	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 3	Off	40080	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 4	Off	40081	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 5	Off	40082	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 6	Off	40083	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 7	Off	40084	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 8	Off	40085	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 9	Off	40086	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 10	Off	40087	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			SES OPS 11	Off	40088	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+T-Group	TGroupId=49	TrunkId=26	ACT Parks	Off	0.000000	-0.000000	0.0	Circle	Off
+TGID			PCS1 Tactical	Off	40089	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS2 Tactical	Off	40090	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS3 Fire Mgt	Off	40091	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS4 Nature Pks	Off	40092	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS5 National Pk	Off	40093	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS6	Off	40094	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS7	Off	40095	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS8	Off	40096	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS9 HRB	Off	40097	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS10	Off	40098	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			PCS11	Off	40099	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+T-Group	TGroupId=50	TrunkId=26	VRA	Off	0.000000	-0.000000	0.0	Circle	4
+TGID			VRA1	Off	20083	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			VRA2	Off	20084	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			VRA3	Off	20085	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			VRA4	Off	20086	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+TGID			VRA5	Off	20087	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Srch
+Conventional			CB/Ham	Off	2	Conventional	8		0	Off	Off		Auto	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=52	AgencyId=51	Amateur	Off	0.000000	-0.000000	0.0	Circle	1	Global
+C-Freq			VK1RGI	Off	146950000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WICEN	Off	159775000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WICEN	Off	164375000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WICEN	On	77875000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WICEN	On	80375000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WICEN	On	77675000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WICEN	On	80175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VK1RGI	Off	438050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VK1RBM	Off	146725000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VK1RBM	Off	439950000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VK1RBH WICEN	Off	147175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VK1RWP WICEN	Off	147150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VK1RWP WICEN	Off	147125000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VK1RWP WICEN	Off	439925000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VK1RWP WICEN	Off	439975000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=53	AgencyId=51	UHF CB	Off	0.000000	-0.000000	0.0	Circle	2	Global
+C-Freq			1	Off	476425000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2	Off	476450000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			3	Off	476475000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			4	Off	476500000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			5	Off	476525000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			6	Off	476550000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7	Off	476575000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8	Off	476600000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			9	Off	476625000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			10	Off	476650000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			11	Off	476675000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			12	Off	476700000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			13	Off	476725000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			14	Off	476750000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			15	Off	476775000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			16	Off	476800000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			17	Off	476825000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			18	Off	476850000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			19	Off	476875000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			20	Off	476900000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			21	Off	476925000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			22 (Data)	Off	476950000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			23 (Data)	Off	476975000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			24	Off	477000000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			25	Off	477025000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			26	Off	477050000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			27	Off	477075000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			28	Off	477100000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			29	Off	477125000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			30	Off	477150000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			31	Off	477175000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			32	Off	477200000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			33	Off	477225000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			34	Off	477250000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			35	Off	477275000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			36	Off	477300000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			37	Off	477325000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			38	Off	477350000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			39	Off	477375000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			40	Off	477400000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			41	Off	476437500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			42	Off	476462500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			43	Off	476487500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			44	Off	476512500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			45	Off	476537500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			46	Off	476562500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			47	Off	476587500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			48	Off	476612500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			49	Off	476637500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			50	Off	476662500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			51	Off	476687500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			52	Off	476712500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			53	Off	476737500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			54	Off	476762500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			55	Off	476787500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			56	Off	476812500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			57	Off	476837500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			58	Off	476862500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			59	Off	476887500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			60	Off	476912500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			64	Off	477012500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			65	Off	477037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			66	Off	477062500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			67	Off	477087500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			68	Off	477112500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			69	Off	477137500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			70	Off	477162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			71	Off	477187500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			72	Off	477212500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			73	Off	477237500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			74	Off	477262500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			75	Off	477287500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			76	Off	477312500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			77	Off	477337500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			78	Off	477362500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			79	Off	477387500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			80	Off	477412500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Satellite	Off	2	Conventional	7		2	Off	Off	400	Auto	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=64	AgencyId=54	Weathersat	Off	0.000000	-0.000000	0.0	Circle	None	Global
+C-Freq			NOAA15	On	137620000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOAA17	On	137500000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOAA18	On	137912500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOAA19/MET M-N2	On	137100000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=65	AgencyId=54	Amateur	Off	0.000000	-0.000000	0.0	Circle	None	Global
+C-Freq			ISS	Off	145800000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SO-50	Off	436800000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EO-80	Off	145840000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Multi APRS	Off	145825000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=66	AgencyId=54	US SATCOM	Off	0.000000	-0.000000	0.0	Circle	None	Global
+C-Freq			UFO8 Ch5 (Data)	On	250550000	FM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Data	On	250650000	FM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Data	Off	250450000	FM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UFO8 Ch73	Off	261625000	FM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UFO8 Ch77 (ICE)	Off	261725000	FM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UFO8 Ch81	Off	261825000	FM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UFO8 Ch85	Off	261925000	FM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UFO8 Ch115	Off	263725000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Misc	Off	2	Conventional	9		2	Off	Off		Auto	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=56	AgencyId=55	Misc	Off	0.000000	-0.000000	0.0	Circle	Off	Global
+C-Freq			Spotless Service	Off	488825000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Spotless Service	Off	489425000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Forrestry	Off	413650000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tobiway Crushing	Off	161025000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Other	Off	2	Conventional	4			Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=67	AgencyId=57	NPWS	Off	0.000000	-0.000000	0.0	Circle	None	Global
+C-Freq			MT GININI	Off	162075000	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BLACK TRIG	Off	162125000	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KNIGHTS HILL	Off	162150000	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPTAINS FLAT	Off	162162500	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUDAWANG	Off	162100000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT SELWYN	Off	162250000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPTAINS FLAT	Off	162287500	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HELENSBURGH	Off	162325000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ELLSMORE TOWER	Off	162550000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOMADERRY	Off	162562500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BIG BUGTOWN HILL	Off	162762500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUDAWANG	Off	162812500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT PERISHER	Off	162850000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			INGEBIRAH TRIG	Off	162875000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEAK ALONE	Off	162887500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SHOOTERS HILL	Off	162887500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREEN CAPE	Off	162912500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LETTS MTN	Off	162975000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOMBALA	Off	162900000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOLUMLA PEAK	Off	163075000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WAMBROOK TRIG	Off	163162500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RICHLANDS	Off	163225000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT MEEHAN	Off	163237500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UMBULLA MOUNTAIN	Off	163437500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WARRADERRY	Off	163587500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT KEIRA	Off	163612500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORUYA	Off	163850000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT CANOBOLAS	Off	163850000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UMBULLA MOUNTAIN	Off	163925000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MITTAGONG	Off	164412500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MITTAGONG	Off	164562500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SNOWY MOUNTAIN	Off	164812500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VINCENTIA	Off	164812500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GARAWARRA	Off	164825000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KADINA	Off	164825000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GININI	Off	164875000	AUTO	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COOMA	Off	164800000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNNY CORNER	Off	165025000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT PERISHER	Off	461568700	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YALWAL	Off	461868700	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=68	AgencyId=57	SJA	Off	0.000000	-0.000000	0.0	Circle	None	Global
+C-Freq			BUNGENDORE	Off	411400000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNGENDORE	Off	412100000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNGENDORE	Off	462037500	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=69	AgencyId=57	QPRC	Off	0.000000	-0.000000	0.0	Circle	None	Global
+C-Freq			MT GILLAMATONG	Off	164075000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPTAINS FLAT	Off	164475000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ISAACS RIDGE	Off	164975000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			System 09	Off	2	Conventional	Off			Off	Off	400	Auto	8
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=59	AgencyId=58	Group 01	Off	-33.2342	150.4385	100.0	Circle	None	Global
+C-Freq			Channel 001	Off	118855000	AM	TONE=Srch	208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Channel 002	Off	119000000	AUTO		208	Off	2	0	Off	Auto	Off	On	Off	Off

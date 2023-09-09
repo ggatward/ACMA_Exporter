@@ -138,8 +138,9 @@ def getPoints(clientId):
     return(points)
 
 
-def groupSites(clientId,points):
+def groupSites(clientId,points,service_type):
     # Read in data from CSV
+    f = open('output/' + clientId + '.hpd', 'w')
     with open('output/' + clientId + '.csv', newline='') as csvfile:
         data = csv.DictReader(csvfile)
 
@@ -197,6 +198,36 @@ def groupSites(clientId,points):
                         print(line[0])
                 print("====================")
 
+        # Generate HPD outputs
+        # print('Conventional AVIATION Off Conventional Off 0 2 On Off 400 Auto 8', sep='\t')
+        # print('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn')
+        f.write('Conventional\t\t\tAVIATION\tOff\t\tConventional\tOff\t0\t2\tOn\tOff\t400\tAuto\t8\r\n')
+        f.write('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\r\n')
+
+        groupId = 0
+        for group in main_grouplist:
+            if len(group) > 0:
+                # print('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t50.0\tCircle\tNone\tGlobal')
+                f.write('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t50.0\tCircle\tNone\tGlobal\r\n')
+                groupId += 1
+                # Output the CHANNELS data for the SITE
+                for line in group:
+                    if float(line[0]) > 30:   # Remove any HF frequencies from the output
+                        freq = int(float(line[0]) * 1000000)
+                        avoid = 'Off'
+                        print(line[4])
+                        if line[4] == '6K00A3E':
+                            mode = 'AM'
+                        else:
+                            mode = 'NFM'
+                        print(mode)
+                        attenuator = 'Off'
+                        delay = '2'
+                        # print('C-Freq\t\t\t' + line[1] + '\tOff\t' + str(freq) + '\tAUTO\tTONE=Srch\t208\tOff\t2\t0\tOff\tAuto\tOff\tOn\tOff\tOff')
+                        f.write('C-Freq\t\t\t' + line[1] + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
+                        f.flush()
+
+    f.close()
 
 
 
@@ -262,7 +293,7 @@ if __name__ == "__main__":
         #{ "clientID": "20020998", "service": "RMS" },
         #{ "clientID": "20036348", "service": "HGSA" },
         #{ "clientID": "115634", "service": "NPWS" },
-        { "clientID": "391222", "service": "Airservices_ACT_NSW" },
+        { "clientID": "391222", "service": "Airservices_ACT_NSW", "service_type": "15" },
         #{ "clientID": "389917", "service": "Airservices_VIC_TAS" },
         #{ "clientID": "396261", "service": "Airservices_SA_NT" },
         #{ "clientID": "401054", "service": "Airservices_QLD" },
@@ -275,6 +306,7 @@ if __name__ == "__main__":
     for item in clients:
         clientId = item["clientID"]
         service = item["service"]
+        service_type = item["service_type"]
         print('Processing ' + clientId + ' - ' + service)
         # Clean any pre-exising output
 #        cleanup(service)
@@ -287,7 +319,7 @@ if __name__ == "__main__":
 
         # Group nearby sites together
         points=getPoints(clientId)
-        groupSites(clientId,points)
+        groupSites(clientId,points,service_type)
 
         # Finally clean out any empty files in the output dir
         deleteEmptyFiles()
