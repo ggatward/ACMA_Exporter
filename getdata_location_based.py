@@ -85,8 +85,8 @@ def getSites(siteId):
     return(city,lat,lon,name)
 
 
-def getRegistrations(licenceList,clientId,parent):
-    f = open('output/' + parent + '_' + clientId + '.csv', 'w')
+def getRegistrations(licenceList,clientId,service):
+    f = open('output/' + service + '_' + clientId + '.csv', 'w')
     # Write our CSV header
     f.write("frequency,location,lat,lon,mode\n")
     for licenceId in licenceList:
@@ -126,22 +126,37 @@ def getRegistrations(licenceList,clientId,parent):
     f.close()
 
 
-def getPoints(clientId,parent):
+def combineCSV(service):
+    fileList = glob.glob('output/' + service + '_*.csv')
+    f = open('output/' + service + '.csv', 'w')
+    # Add the new CSV header to the top
+    f.write("frequency,location,lat,lon,mode\n")
+    # Add each individual CSV to the service CSV
+    for csvFile in fileList:
+        with open(csvFile) as fp:
+            data = fp.readlines()
+            for line in data:
+                if "lat" not in line:
+                    f.write(line)
+            fp.close()
+    f.close()
+
+
+def getPoints(service):
     # Read in data from CSV
-    with open('output/' + parent + '_' + clientId + '.csv', newline='') as csvfile:
+    with open('output/' + service + '.csv', newline='') as csvfile:
         points = []
         data = csv.DictReader(csvfile)
         # Add all lat/lons to our points list
         for row in data:
             points.append([float(row['lat']),float(row['lon'])])
-
     return(points)
 
 
-def groupSites(clientId,points,service_type,parent):
+def groupSites(service,points,service_type):
     # Read in data from CSV
-    f = open('output/' + parent + '_' + clientId + '.hpd', 'w')
-    with open('output/' + parent + '_' + clientId + '.csv', newline='') as csvfile:
+    f = open('output/' + service + '.hpd', 'w')
+    with open('output/' + service + '.csv', newline='') as csvfile:
         data = csv.DictReader(csvfile)
 
         main_grouplist_raw = []
@@ -149,7 +164,6 @@ def groupSites(clientId,points,service_type,parent):
 
         for row in data:
             points_filtered = []
-            rows_filtered = []
 
             # Set input_point to first lat/lon
             input_point = (float(row['lat']),float(row['lon']))
@@ -162,7 +176,7 @@ def groupSites(clientId,points,service_type,parent):
             # Loop through the csv again, and extract all the entries that are in our points_filtered list
             location_group = []
             res_list = []
-            reader = csv.reader(open('output/' + parent + '_' + clientId + '.csv', 'r'), delimiter=",")
+            reader = csv.reader(open('output/' + service + '.csv', 'r'), delimiter=",")
             for line in reader:
                 for fpoint in points_filtered:
                     if line[2] == str(fpoint[0]) and line[3] == str(fpoint[1]):
@@ -173,10 +187,6 @@ def groupSites(clientId,points,service_type,parent):
                 if record not in res_list:
                     res_list.append(record)
 
-            # for line in res_list:
-            #     print(line)
-            # print("------------------")
-
             # Add the resulting group to the main group list
             main_grouplist_raw.append(res_list)
 
@@ -186,29 +196,15 @@ def groupSites(clientId,points,service_type,parent):
             if entry not in main_grouplist:
                 main_grouplist.append(entry)
 
-        # Generate CSV outputs
-        for group in main_grouplist:
-            if len(group) > 0:
-                # Output the SITE (DEPARTMENT) data
-                print(group[0][1] + ',' + group[0][2] + ',' + group[0][3])
-                # Output the CHANNELS data for the SITE
-                for line in group:
-                    if float(line[0]) > 30:   # Remove any HF frequencies from the output
-                        print(line[0])
-                print("====================")
-
-### Add these headers AFTER creating and joining the files
         # Generate HPD outputs
-        # print('Conventional AVIATION Off Conventional Off 0 2 On Off 400 Auto 8', sep='\t')
-        # print('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn')
-        f.write('Conventional\t\t\t' + parent + '\tOff\t\tConventional\tOff\t0\t2\tOn\tOff\t400\tAuto\t8\r\n')
+        f.write('TargetModel\tBCDx36HP\r\n')
+        f.write('FormatVersion\t1.00\r\n')
+        f.write('Conventional\t\t\t' + service + '\tOff\t\tConventional\tOff\t0\t2\tOn\tOff\t400\tAuto\t8\r\n')
         f.write('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\r\n')
-#########
 
         groupId = 0
         for group in main_grouplist:
             if len(group) > 0:
-                # print('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t50.0\tCircle\tNone\tGlobal')
                 f.write('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t50.0\tCircle\tNone\tGlobal\r\n')
                 groupId += 1
                 # Output the CHANNELS data for the SITE
@@ -223,20 +219,17 @@ def groupSites(clientId,points,service_type,parent):
                             mode = 'NFM'
                         attenuator = 'Off'
                         delay = '2'
-                        # print('C-Freq\t\t\t' + line[1] + '\tOff\t' + str(freq) + '\tAUTO\tTONE=Srch\t208\tOff\t2\t0\tOff\tAuto\tOff\tOn\tOff\tOff')
                         f.write('C-Freq\t\t\t' + line[1] + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
                         f.flush()
-
     f.close()
-
 
 
 ####################################
 
-def cleanup(service,parent):
-    fileList = glob.glob('output/' + parent + '_' + clientId + '.csv')
-    #fileList = glob.glob('output/' + parent + '.hpd')
-    for filePath in fileList:
+def cleanup(service):
+    hpdFileList = glob.glob('output/*.hpd')
+    csvFileList = glob.glob('output/' + service + '.csv')
+    for filePath in hpdFileList:
         try:
             os.remove(filePath)
         except:
@@ -259,6 +252,12 @@ def deleteEmptyFiles():
 
 if __name__ == "__main__":
 
+    # 391222    Airservices Australia ACT/NSW Services
+    # 389917    Airservices Australia VIC/TAS Services
+    # 396261    Airservices Australia SA/NT Services
+    # 401054    Airservices Australia QLD Services
+    # 399343    Airservices Australia WA Services
+
     # 20011941  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (NSW Ambulance)
     # 20005985  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (RFS)
     # 20012532  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (SES)
@@ -276,11 +275,18 @@ if __name__ == "__main__":
     # 17661     ASNSW
     # 115634    OFFICE OF ENVIRONMENT AND HERITAGE (NPWS)
     # 20029221  QPRC
-    # 391222    Airservices Australia ACT/NSW Services
 
+    # Service Types:
+    #   15 = Aviation
 
     clients = [
-        #{ "clientID": "20011941", "service": "ASNSW" },
+        # { "clientID": "391222", "service": "Aviation", "service_type": "15" },
+        # { "clientID": "389917", "service": "Aviation", "service_type": "15" },
+        #{ "clientID": "396261", "service": "Airservices_SA_NT", "service_type": "15" },
+        #{ "clientID": "401054", "service": "Airservices_QLD", "service_type": "15" },
+        #{ "clientID": "399343", "service": "Airservices_WA", "service_type": "15" },
+        # { "clientID": "CUSTOM", "service": "Aviation", "service_type": "15" },
+        { "clientID": "20011941", "service": "ASNSW" , "service_type": "1" },
         #{ "clientID": "17661", "service": "ASNSW2" },
         #{ "clientID": "37658", "service": "SJA" },
         #{ "clientID": "20012532", "service": "SES" },
@@ -294,35 +300,31 @@ if __name__ == "__main__":
         #{ "clientID": "20020998", "service": "RMS" },
         #{ "clientID": "20036348", "service": "HGSA" },
         #{ "clientID": "115634", "service": "NPWS" },
-        { "clientID": "391222", "service": "Airservices_ACT_NSW", "service_type": "15", "parent": "Aviation" },
-        { "clientID": "389917", "service": "Airservices_VIC_TAS", "service_type": "15", "parent": "Aviation" },
-        #{ "clientID": "396261", "service": "Airservices_SA_NT" },
-        #{ "clientID": "401054", "service": "Airservices_QLD" },
-        #{ "clientID": "399343", "service": "Airservices_WA" },
         #{ "clientID": "20029221", "service": "QPRC" },
         #{ "clientID": "46975", "service": "DoD" },
-
     ]
 
     for item in clients:
         clientId = item["clientID"]
         service = item["service"]
         service_type = item["service_type"]
-        parent = item["parent"]
         print('Processing ' + clientId + ' - ' + service)
         # Clean any pre-exising output
-        # cleanup(service,parent)
+        cleanup(service)
 
-        # Get all licences for the client
-        # clientLicences = getLicences(clientId)
+        if clientId != "CUSTOM":
+            # Get all licences for the client
+            clientLicences = getLicences(clientId)
 
-        # Get Freq and Site for each licence (creates CSV per client-id)
-        # getRegistrations(clientLicences,clientId,parent)
+            # Get Freq and Site for each licence (creates CSV per client-id)
+            getRegistrations(clientLicences,clientId,service)
 
+        # Combine all the CSVs from the same service
+        combineCSV(service)
 
         # Group nearby sites together
-        points=getPoints(clientId,parent)
-        groupSites(clientId,points,service_type,parent)
+        points=getPoints(service)
+        groupSites(service,points,service_type)
 
         # Finally clean out any empty files in the output dir
         deleteEmptyFiles()
