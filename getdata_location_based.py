@@ -85,8 +85,8 @@ def getSites(siteId):
     return(city,lat,lon,name)
 
 
-def getRegistrations(licenceList,clientId,service):
-    f = open('output/' + service + '_' + clientId + '.csv', 'w')
+def getRegistrations(licenceList,clientId,system):
+    f = open('output/' + system + '_' + clientId + '.csv', 'w')
     # Write our CSV header
     f.write("frequency,location,lat,lon,mode\n")
     for licenceId in licenceList:
@@ -126,12 +126,12 @@ def getRegistrations(licenceList,clientId,service):
     f.close()
 
 
-def combineCSV(service):
-    fileList = glob.glob('output/' + service + '_*.csv')
-    f = open('output/' + service + '.csv', 'w')
+def combineCSV(system):
+    fileList = glob.glob('output/' + system + '_*.csv')
+    f = open('output/' + system + '.csv', 'w')
     # Add the new CSV header to the top
     f.write("frequency,location,lat,lon,mode\n")
-    # Add each individual CSV to the service CSV
+    # Add each individual CSV to the system CSV
     for csvFile in fileList:
         with open(csvFile) as fp:
             data = fp.readlines()
@@ -142,9 +142,9 @@ def combineCSV(service):
     f.close()
 
 
-def getPoints(service):
+def getPoints(system):
     # Read in data from CSV
-    with open('output/' + service + '.csv', newline='') as csvfile:
+    with open('output/' + system + '.csv', newline='') as csvfile:
         points = []
         data = csv.DictReader(csvfile)
         # Add all lat/lons to our points list
@@ -153,10 +153,10 @@ def getPoints(service):
     return(points)
 
 
-def groupSites(service,points,service_type):
+def groupSites(system,points,service_type):
     # Read in data from CSV
-    f = open('output/' + service + '.hpd', 'w')
-    with open('output/' + service + '.csv', newline='') as csvfile:
+    f = open('output/' + system + '.hpd', 'w')
+    with open('output/' + system + '.csv', newline='') as csvfile:
         data = csv.DictReader(csvfile)
 
         main_grouplist_raw = []
@@ -176,7 +176,7 @@ def groupSites(service,points,service_type):
             # Loop through the csv again, and extract all the entries that are in our points_filtered list
             location_group = []
             res_list = []
-            reader = csv.reader(open('output/' + service + '.csv', 'r'), delimiter=",")
+            reader = csv.reader(open('output/' + system + '.csv', 'r'), delimiter=",")
             for line in reader:
                 for fpoint in points_filtered:
                     if line[2] == str(fpoint[0]) and line[3] == str(fpoint[1]):
@@ -199,7 +199,7 @@ def groupSites(service,points,service_type):
         # Generate HPD outputs
         f.write('TargetModel\tBCDx36HP\r\n')
         f.write('FormatVersion\t1.00\r\n')
-        f.write('Conventional\t\t\t' + service + '\tOff\t\tConventional\tOff\t0\t2\tOn\tOff\t400\tAuto\t8\r\n')
+        f.write('Conventional\t\t\t' + system + '\tOff\t\tConventional\tOff\t0\t2\tOn\tOff\t400\tAuto\t8\r\n')
         f.write('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\r\n')
 
         groupId = 0
@@ -226,9 +226,9 @@ def groupSites(service,points,service_type):
 
 ####################################
 
-def cleanup(service):
+def cleanup(system):
     hpdFileList = glob.glob('output/*.hpd')
-    csvFileList = glob.glob('output/' + service + '.csv')
+    csvFileList = glob.glob('output/' + system + '.csv')
     for filePath in hpdFileList:
         try:
             os.remove(filePath)
@@ -281,51 +281,51 @@ if __name__ == "__main__":
     #   15 = Aviation
 
     clients = [
-        # { "clientID": "391222", "service": "Aviation", "service_type": "15" },
-        # { "clientID": "389917", "service": "Aviation", "service_type": "15" },
-        #{ "clientID": "396261", "service": "Airservices_SA_NT", "service_type": "15" },
-        #{ "clientID": "401054", "service": "Airservices_QLD", "service_type": "15" },
-        #{ "clientID": "399343", "service": "Airservices_WA", "service_type": "15" },
-        # { "clientID": "CUSTOM", "service": "Aviation", "service_type": "15" },
-        { "clientID": "20011941", "service": "ASNSW" , "service_type": "1" },
-        #{ "clientID": "17661", "service": "ASNSW2" },
-        #{ "clientID": "37658", "service": "SJA" },
-        #{ "clientID": "20012532", "service": "SES" },
-        #{ "clientID": "516364", "service": "SES2" },
-        #{ "clientID": "20005985", "service": "RFS" },
-        #{ "clientID": "5832", "service": "RFS2" },
-        #{ "clientID": "20027621", "service": "OEH" },
-        #{ "clientID": "20012756", "service": "Commonwealth_Agencies" },
-        #{ "clientID": "20019469", "service": "Low_Power" },
-        #{ "clientID": "20008471", "service": "FRNSW" },
-        #{ "clientID": "20020998", "service": "RMS" },
-        #{ "clientID": "20036348", "service": "HGSA" },
-        #{ "clientID": "115634", "service": "NPWS" },
-        #{ "clientID": "20029221", "service": "QPRC" },
-        #{ "clientID": "46975", "service": "DoD" },
+        { "clientID": "391222", "system": "Aviation", "service_type": "15" },
+        { "clientID": "389917", "system": "Aviation", "service_type": "15" },
+        #{ "clientID": "396261", "system": "Aviation", "service_type": "15" },
+        #{ "clientID": "401054", "system": "Aviation", "service_type": "15" },
+        #{ "clientID": "399343", "system": "Aviation", "service_type": "15" },
+        { "clientID": "CUSTOM", "system": "Aviation", "service_type": "15" },
+        #{ "clientID": "20011941", "system": "ASNSW" , "service_type": "1" },
+        #{ "clientID": "17661", "system": "ASNSW2" },
+        #{ "clientID": "37658", "system": "SJA" },
+        #{ "clientID": "20012532", "system": "SES" },
+        #{ "clientID": "516364", "system": "SES2" },
+        #{ "clientID": "20005985", "system": "RFS" },
+        #{ "clientID": "5832", "system": "RFS2" },
+        #{ "clientID": "20027621", "system": "OEH" },
+        #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
+        #{ "clientID": "20019469", "system": "Low_Power" },
+        #{ "clientID": "20008471", "system": "FRNSW" },
+        #{ "clientID": "20020998", "system": "RMS" },
+        #{ "clientID": "20036348", "system": "HGSA" },
+        #{ "clientID": "115634", "system": "NPWS" },
+        #{ "clientID": "20029221", "system": "QPRC" },
+        #{ "clientID": "46975", "system": "DoD" },
     ]
 
     for item in clients:
         clientId = item["clientID"]
-        service = item["service"]
+        system = item["system"]
         service_type = item["service_type"]
-        print('Processing ' + clientId + ' - ' + service)
+        print('Processing ' + clientId + ' - ' + system)
         # Clean any pre-exising output
-        cleanup(service)
+        cleanup(system)
 
         if clientId != "CUSTOM":
             # Get all licences for the client
             clientLicences = getLicences(clientId)
 
             # Get Freq and Site for each licence (creates CSV per client-id)
-            getRegistrations(clientLicences,clientId,service)
+            getRegistrations(clientLicences,clientId,system)
 
-        # Combine all the CSVs from the same service
-        combineCSV(service)
+        # Combine all the CSVs from the same system
+        combineCSV(system)
 
         # Group nearby sites together
-        points=getPoints(service)
-        groupSites(service,points,service_type)
+        points=getPoints(system)
+        groupSites(system,points,service_type)
 
         # Finally clean out any empty files in the output dir
         deleteEmptyFiles()
