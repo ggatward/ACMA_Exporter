@@ -129,7 +129,7 @@ def getRegistrations(licenceList,clientId,system):
     f.close()
 
 
-def combineCSV(system):
+def combineCSV(favourite,system):
     fileList = glob.glob('output/' + system + '_*.csv')
     fileList.extend(glob.glob('input/' + system + '_*.csv'))
     f = open('output/' + system + '.csv', 'w')
@@ -146,7 +146,7 @@ def combineCSV(system):
     f.close()
 
 
-def getPoints(system):
+def getPoints(favourite,system):
     # Read in data from CSV
     with open('output/' + system + '.csv', newline='') as csvfile:
         points = []
@@ -157,7 +157,7 @@ def getPoints(system):
     return(points)
 
 
-def groupSites(system,points,service_type,syskey,range):
+def groupSites(favourite,system,points,service_type,syskey,range):
     # Read in data from CSV
     f = open('output/' + system + '.hpd', 'w')
     g = open('output/' + system + '_nogps.hpd', 'w')
@@ -201,15 +201,19 @@ def groupSites(system,points,service_type,syskey,range):
             if entry not in main_grouplist:
                 main_grouplist.append(entry)
 
+        p25wait = '400'
+        p25thresh = '8'
+        p25threshmode = 'Auto'
+
         # Generate HPD outputs
         f.write('TargetModel\tBCDx36HP\r\n')
         f.write('FormatVersion\t1.00\r\n')
-        f.write('Conventional\t\t\t' + system + '\tOff\t\tConventional\t' + syskey + '\t0\t2\tOn\tOff\t400\tAuto\t8\r\n')
+        f.write('Conventional\t\t\t' + system + '\tOff\t\tConventional\t' + syskey + '\t0\t2\tOn\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\r\n')
         f.write('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\r\n')
         # Headers for nogps file
         g.write('TargetModel\tBCDx36HP\r\n')
         g.write('FormatVersion\t1.00\r\n')
-        g.write('Conventional\t\t\t' + system + '\tOff\t\tConventional\t' + syskey + '\t0\t2\tOn\tOff\t400\tAuto\t8\r\n')
+        g.write('Conventional\t\t\t' + system + '\tOff\t\tConventional\t' + syskey + '\t0\t2\tOn\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\r\n')
         g.write('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\r\n')
 
 
@@ -227,8 +231,13 @@ def groupSites(system,points,service_type,syskey,range):
                             # Set the mode based on the modulation
                             if line[4].strip() == '6K00A3E':
                                 mode = 'AM'
+                                type = 'Analog'
                             else:
                                 mode = 'NFM'
+                                type = 'Auto'
+                            if freq > 118000000 and freq < 137000000:
+                                mode = 'AM'
+                                type = 'Analog'
                             attenuator = 'Off'
                             delay = '2'
                             g.write('C-Freq\t\t\t' + line[1] + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
@@ -244,8 +253,13 @@ def groupSites(system,points,service_type,syskey,range):
                             # Set the mode based on the modulation
                             if line[4].strip() == '6K00A3E':
                                 mode = 'AM'
+                                type = 'Analog'
                             else:
                                 mode = 'NFM'
+                                type = 'Auto'
+                            if freq > 118000000 and freq < 137000000:
+                                mode = 'AM'
+                                type = 'Analog'
                             attenuator = 'Off'
                             delay = '2'
                             f.write('C-Freq\t\t\t' + line[1] + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
@@ -256,10 +270,15 @@ def groupSites(system,points,service_type,syskey,range):
 
 ####################################
 
-def cleanup(system):
+def cleanup(favourite,system,clientId):
     hpdFileList = glob.glob('output/' + system + '*.hpd')
-    csvFileList = glob.glob('output/' + system + '.csv')
+    csvFileList = glob.glob('output/' + system + '_' + clientId + '.csv')
     for filePath in hpdFileList:
+        try:
+            os.remove(filePath)
+        except:
+            print("Error while deleting file : ", filePath)
+    for filePath in csvFileList:
         try:
             os.remove(filePath)
         except:
@@ -314,23 +333,23 @@ if __name__ == "__main__":
     #   15 = Aviation
 
     clients = [
-        { "clientID": "391222", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75" },
-        { "clientID": "389917", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75" },
-        #{ "clientID": "396261", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75"},
-        #{ "clientID": "401054", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75"},
-        #{ "clientID": "399343", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75" },
-        #{ "clientID": "CUSTOM", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75" },
-        { "clientID": "20011941", "system": "ASNSW", "service_type": "4", "syskey": "3", "range": "40" },
+        { "clientID": "391222", "favourite": "Aviation", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75" },
+        { "clientID": "389917", "favourite": "Aviation", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75" },
+        { "clientID": "396261", "favourite": "Aviation", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75"},
+        { "clientID": "401054", "favourite": "Aviation", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75"},
+        { "clientID": "399343", "favourite": "Aviation", "system": "Aviation", "service_type": "15", "syskey": "0", "range": "75" },
+        { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "1", "range": "30" },
+        { "clientID": "20011941", "favourite": "EMS", "system": "ASNSW", "service_type": "4", "syskey": "0", "range": "40" },
         #{ "clientID": "17661", "system": "ASNSW2" },
         #{ "clientID": "37658", "system": "SJA" },
-        #{ "clientID": "20012532", "system": "SES" },
+        { "clientID": "20012532", "favourite": "EMS", "system": "SES", "service_type": "1", "syskey": "0", "range": "40" },
         #{ "clientID": "516364", "system": "SES2" },
-        { "clientID": "20005985", "system": "RFS", "service_type": "3", "syskey": "4", "range": "40" },
+        { "clientID": "20005985", "favourite": "EMS", "system": "RFS", "service_type": "3", "syskey": "0", "range": "40" },
         #{ "clientID": "5832", "system": "RFS2" },
         #{ "clientID": "20027621", "system": "OEH" },
         #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
         #{ "clientID": "20019469", "system": "Low_Power" },
-        #{ "clientID": "20008471", "system": "FRNSW" },
+        { "clientID": "20008471", "favourite": "EMS", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "40" },
         #{ "clientID": "20020998", "system": "RMS" },
         #{ "clientID": "20036348", "system": "HGSA" },
         #{ "clientID": "115634", "system": "NPWS" },
@@ -340,13 +359,14 @@ if __name__ == "__main__":
 
     for item in clients:
         clientId = item["clientID"]
+        favourite = item["favourite"]
         system = item["system"]
         service_type = item["service_type"]
         syskey = item["syskey"]
         range = item["range"]
         print('Processing ' + clientId + ' - ' + system)
         # Clean any pre-exising output
-        cleanup(system)
+        cleanup(favourite,system,clientId)
 
         if clientId != "CUSTOM":
             # Get all licences for the client
@@ -356,11 +376,11 @@ if __name__ == "__main__":
             getRegistrations(clientLicences,clientId,system)
 
         # Combine all the CSVs from the same system
-        combineCSV(system)
+        combineCSV(favourite,system)
 
         # Group nearby sites together
-        points=getPoints(system)
-        groupSites(system,points,service_type,syskey,range)
+        points=getPoints(favourite,system)
+        groupSites(favourite,system,points,service_type,syskey,range)
 
         # Finally clean out any empty files in the output dir
         deleteEmptyFiles()
