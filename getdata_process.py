@@ -4,7 +4,8 @@
 from json.tool import main
 from re import S
 import xml.etree.ElementTree as xml
-import requests, sys, os, glob
+import requests, os, glob
+# import sys
 import datetime, tempfile, yaml, csv
 
 # pip install geopy
@@ -15,148 +16,13 @@ from geopy.distance import distance
 acmauri = 'https://api.acma.gov.au/SpectrumLicensingAPIOuterService/OuterService.svc'
 
 
-
-
-def getUrl(url):
-    # Get the URL and save the content to the tempfile
-    resp = requests.get(url)
-    with open('/tmp/xmlfile.xml', 'wb') as f:
-        f.write(resp.content)
-
-
-def parseXML(xmlfile):
-    tree = xml.parse(xmlfile)
-    root = tree.getroot()
-    return root
-
-
-def getLicences(clientId):
-    licenceList = []
-    xmlfile = getUrl(acmauri + '/LicenceSearchXML?searchText=' + clientId + '&ResultsLimit=1000')
-
-    # Parse the XML
-    root = parseXML('/tmp/xmlfile.xml')
-
-    if root is None:
-        logging.warn("Request for xml returned nothing, skipping")
-        print('no xml')
-        return
-
-### TODO:  Handle this:
-# <?xml version="1.0" encoding="utf-8"?>
-# <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-# <html xmlns="http://www.w3.org/1999/xhtml">
-#   <head>
-#     <title>Request Error</title>
-#     <style>BODY { color: #000000; background-color: white; font-family: Verdana; margin-left: 0px; margin-top: 0px; } #content { margin-left: 30px; font-size: .70em; padding-bottom: 2em; } A:link { color: #336699; font-weight: bold; text-decoration: underline; } A:visited { color: #6699cc; font-weight: bold; text-decoration: underline; } A:active { color: #336699; font-weight: bold; text-decoration: underline; } .heading1 { background-color: #003366; border-bottom: #336699 6px solid; color: #ffffff; font-family: Tahoma; font-size: 26px; font-weight: normal;margin: 0em 0em 10px -20px; padding-bottom: 8px; padding-left: 30px;padding-top: 16px;} pre { font-size:small; background-color: #e5e5cc; padding: 5px; font-family: Courier New; margin-top: 0px; border: 1px #f0f0e0 solid; white-space: pre-wrap; white-space: -pre-wrap; word-wrap: break-word; } table { border-collapse: collapse; border-spacing: 0px; font-family: Verdana;} table th { border-right: 2px white solid; border-bottom: 2px white solid; font-weight: bold; background-color: #cecf9c;} table td { border-right: 2px white solid; border-bottom: 2px white solid; background-color: #e5e5cc;}</style>
-#   </head>
-#   <body>
-#     <div id="content">
-#       <p class="heading1">Request Error</p>
-#       <p>The server encountered an error processing the request. The exception message is 'The request channel timed out while waiting for a reply after 00:00:59.9950045. Increase the timeout value passed to the call to Request or increase the SendTimeout value on the Binding. The time allotted to this operation may have been a portion of a longer timeout.'. See server logs for more details. The exception stack trace is: </p>
-#       <p>
-# Server stack trace:
-#    at System.ServiceModel.Channels.RequestChannel.Request(Message message, TimeSpan timeout)
-#    at System.ServiceModel.Dispatcher.RequestChannelBinder.Request(Message message, TimeSpan timeout)
-#    at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
-
-
-
-    for child in root:
-        for sub in child:
-            if (sub.tag == 'Licences'):
-                for licences in sub:
-                    # Extract the LICENCE_NO from each licence
-                    addLic = True
-                    for licenceData in licences:
-                        if (licenceData.tag == 'LICENCE_NO'):
-                            licenceNo = licenceData.text
-                        if (licenceData.tag == 'LICENCE_CATEGORY'):
-                            # Exclude Point to Point links from the list
-                            if (licenceData.text == 'Fixed - Point to Point'):
-                                addLic = False
-                            if (licenceData.text == 'Radiodetermination - Radiodetermination'):
-                                addLic = False
-
-                    if (addLic):
-                        # Append the licence number to our list
-                        licenceList.append(licenceNo)
-
-    # Return the list of licences
-    return licenceList
-
-
-def getSites(siteId):
-    xmlfile = getUrl(acmauri + '/SiteSearchXML/' + siteId + '?searchField=SITE_ID')
-    root = parseXML('/tmp/xmlfile.xml')
-
-    for child in root:
-        for sub in child:
-            if (sub.tag == 'Sites'):
-                for sites in sub:
-                    for siteData in sites:
-                        if (siteData.tag == 'CITY'):
-                            city = siteData.text
-                        if (siteData.tag == 'LATITUDE'):
-                            lat = siteData.text
-                        if (siteData.tag == 'LONGITUDE'):
-                            lon = siteData.text
-                        if (siteData.tag == 'LONG_NAME'):
-                            name = siteData.text
-    return(city,lat,lon,name)
-
-
-def getRegistrations(licenceList,clientId,system):
-    f = open('output/' + favourite + '_' + system + '_' + clientId + '.csv', 'w')
-    # Write our CSV header
-    f.write("frequency,location,lat,lon,mode\n")
-    for licenceId in licenceList:
-        xmlfile = getUrl(acmauri + '/RegistrationSearchXML?searchField=LICENCE_NO&searchText=' + licenceId)
-        root = parseXML('/tmp/xmlfile.xml')
-
-        for child in root:
-            for sub in child:
-                if (sub.tag == 'Registrations'):
-                    for registrations in sub:
-                        isTx = False
-                        site = ''
-                        city = ''
-                        # Extract the FREQ and SITE_ID from each registration
-                        for registrationData in registrations:
-                            if (registrationData.tag == 'FREQ'):
-                                freq = int(registrationData.text)/1000000
-                            if (registrationData.tag == 'SITE_ID'):
-                                site = registrationData.text
-                            if (registrationData.tag == 'EMISSION_DESIG'):
-                                mode = registrationData.text
-                            if (registrationData.tag == 'DEVICE_TYPE_TEXT'):
-                                # Only get Repeater/Base Transmit allocations
-                                if (registrationData.text == 'Transmitter'):
-                                    isTx = True
-                        if (isTx):
-                            if (site != ''):
-                                (city,lat,lon,name) = getSites(site)
-                            else:
-                                if (system == 'Aviation'):
-                                    city = "NATIONWIDE"
-                                else:
-                                    city = "STATEWIDE"
-                                lat = "0.0"
-                                lon = "0.0"
-                            print(str(freq) + ',' + city + ',' + lat + ',' + lon + ',' + mode)
-                            csvstring = str(freq) + ',' + city + ',' + lat + ',' + lon + ',' + mode + '\n'
-                            f.write(csvstring)
-                            f.flush()
-    f.close()
-
-
 def combineCSV(favourite,system):
-    fileList = glob.glob('output/' + favourite + '_' + system + '_*.csv')
+    fileList = glob.glob('downloads/' + favourite + '_' + system + '_*.csv')
     fileList.extend(glob.glob('input/' + favourite + '_' + system + '.csv'))
     outfile = 'output/' + favourite + '_' + system + '.csv'
     f = open(outfile, 'w')
     # Add the new CSV header to the top
-    f.write("frequency,location,lat,lon,mode\n")
+    f.write("frequency,location,lat,lon,mode,alphatag\n")
     # Add each individual CSV to the system CSV
     for csvFile in fileList:
         with open(csvFile) as fp:
@@ -300,9 +166,13 @@ def groupSites(csvFile,points,service_type,syskey,range):
                         if freq > 118000000 and freq < 137000000:
                             mode = 'AM'
                             type = 'Analog'
+                        if line[5] == '':
+                            alphatag = line[1]
+                        else:
+                            alphatag = line[5]
                         attenuator = 'Off'
                         delay = '2'
-                        s2.write('C-Freq\t\t\t' + line[1] + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
+                        s2.write('C-Freq\t\t\t' + alphatag + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
                         s2.flush()
                 else:
                     s1.write('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\tCircle\tNone\tGlobal\r\n')
@@ -328,9 +198,13 @@ def groupSites(csvFile,points,service_type,syskey,range):
                         if freq > 118000000 and freq < 137000000:
                             mode = 'AM'
                             type = 'Analog'
+                        if line[5] == '':
+                            alphatag = line[1]
+                        else:
+                            alphatag = line[5]
                         attenuator = 'Off'
                         delay = '2'
-                        s1.write('C-Freq\t\t\t' + line[1] + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
+                        s1.write('C-Freq\t\t\t' + alphatag + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
                         s1.flush()
     s1.close()
     s2.close()
@@ -510,13 +384,6 @@ if __name__ == "__main__":
 
         # Clean any pre-exising output
         cleanup(favourite,system,clientId)
-
-        if clientId != "CUSTOM":
-            # Get all licences for the client
-            clientLicences = getLicences(clientId)
-
-            # Get Freq and Site for each licence (creates CSV per client-id)
-            getRegistrations(clientLicences,clientId,system)
 
         # Combine all the CSVs from the same system
         finalCSV = combineCSV(favourite,system)
