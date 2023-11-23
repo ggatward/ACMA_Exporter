@@ -28,7 +28,8 @@ def parseXML(xmlfile):
 
 def getLicences(clientId):
     licenceList = []
-    xmlfile = getUrl(acmauri + '/LicenceSearchXML?searchText=' + clientId + '&ResultsLimit=1000')
+    offset=0
+    xmlfile = getUrl(acmauri + '/LicenceSearchXML?searchText=' + clientId + '&offset=' + str(offset) + '&ResultsLimit=2000')
 
     # Parse the XML
     root = parseXML('/tmp/xmlfile.xml')
@@ -103,6 +104,9 @@ def getSites(siteId):
 
 def getRegistrations(licenceList,clientId,system):
     f = open('downloads/' + favourite + '_' + system + '_' + clientId + '.csv', 'w')
+    if clientId == "46975":
+        g = open('downloads/Aviation_' + system + '_' + clientId + '.csv', 'w')
+        g.write("frequency,location,lat,lon,mode,alphatag\n")
     # Write our CSV header
     f.write("frequency,location,lat,lon,mode,alphatag\n")
     for licenceId in licenceList:
@@ -140,6 +144,15 @@ def getRegistrations(licenceList,clientId,system):
                                 lon = "0.0"
                             print(str(freq) + ',' + city + ',' + lat + ',' + lon + ',' + mode + ',')
                             csvstring = str(freq) + ',' + city + ',' + lat + ',' + lon + ',' + mode + ',\n'
+                            # Ignore HF and SHF
+                            if float(freq) < 30 or float(freq) > 1300:
+                                continue
+                            # For DoD split out airband seperately
+                            if clientId == "46975":
+                                if float(freq) > 118 and float(freq) < 137:
+                                    g.write(csvstring)
+                                    g.flush()
+                                    continue
                             f.write(csvstring)
                             f.flush()
     f.close()
@@ -202,10 +215,10 @@ if __name__ == "__main__":
     #   15 = Aviation
 
     clients = [
-        { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
+        # { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
         # { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
         # { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
-        { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
+        # { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
         # { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
         # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30" },
         # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75" },
@@ -224,22 +237,22 @@ if __name__ == "__main__":
         # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
 
-#        { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "40" },
+        #{ "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "40" },
         #{ "clientID": "17661", "system": "ASNSW2" },
         #{ "clientID": "37658", "system": "SJA" },
-#        { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "40" },
+        #{ "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "40" },
         #{ "clientID": "516364", "system": "SES2" },
-#        { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "40" },
+        #{ "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "40" },
         #{ "clientID": "5832", "system": "RFS2" },
         #{ "clientID": "20027621", "system": "OEH" },
         #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
         #{ "clientID": "20019469", "system": "Low_Power" },
-#        { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "40" },
+        #{ "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "40" },
         #{ "clientID": "20020998", "system": "RMS" },
         #{ "clientID": "20036348", "system": "HGSA" },
         #{ "clientID": "115634", "system": "NPWS" },
         #{ "clientID": "20029221", "system": "QPRC" },
-#        { "clientID": "46975", "favourite": "Defence", "system": "DoD", "service_type": "3", "syskey": "0", "range": "40"},
+        { "clientID": "46975", "favourite": "Defence", "system": "Defence", "service_type": "3", "syskey": "0", "range": "40"},
     ]
 
 

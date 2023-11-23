@@ -77,8 +77,8 @@ def groupSites(csvFile,points,service_type,syskey,range):
         f2.close()
 
 ### Use a loop sequence rather than clientID here ????
-    s1 = open('output/' + favourite + '_' + system + '_merged' + '.hpd', 'w' ,newline='')
-    s2 = open('output/' + favourite + '_' + system + '_merged' + '_nogps.hpd', 'w' ,newline='')
+    s1 = open('output/' + favourite + '_' + system + '_merged' + '.hpd', 'a' ,newline='')
+    s2 = open('output/' + favourite + '_' + system + '_merged' + '_nogps.hpd', 'a' ,newline='')
 
     # Read in data from CSV
     sysdelay = '0'
@@ -130,7 +130,7 @@ def groupSites(csvFile,points,service_type,syskey,range):
 
         # Check if the current system is the same as the previous loop - if not we need a new header.
         global lastSystem
-        if lastSystem != system:
+        if lastSystem != system or lastSystem is None:
             # Generate HPD SYSTEM outputs
             s1.write('Conventional\t\t\t' + system + '\tOff\t\tConventional\t' + syskey + '\t0\t' + sysdelay + '\t' + anaagc + '\t' + p25agc + '\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\r\n')
             s1.write('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\r\n')
@@ -218,20 +218,20 @@ def mergeFiles(favourite):
         for fname1 in hpdFileList1:
             with open(fname1) as infile:
                 outfile.write(infile.read())
-            try:
-                os.remove(fname1)
-            except:
-                print("Error while deleting file : ", fname1)
+            # try:
+            #     os.remove(fname1)
+            # except:
+            #     print("Error while deleting file : ", fname1)
 
     hpdFileList2 = glob.glob('output/' + favourite + '_*_merged.hpd')
     with open('output/' + favourite + '.hpd', 'a' ,newline='\r\n') as outfile:
         for fname2 in hpdFileList2:
             with open(fname2) as infile:
                 outfile.write(infile.read())
-            try:
-                os.remove(fname2)
-            except:
-                print("Error while deleting file : ", fname2)
+            # try:
+            #     os.remove(fname2)
+            # except:
+            #     print("Error while deleting file : ", fname2)
 
 
 ####################################
@@ -328,7 +328,6 @@ if __name__ == "__main__":
         { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30" },
         { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75" },
         { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Defence", "service_type": "15", "syskey": "0", "range": "75" },
         { "clientID": "476492", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         { "clientID": "1412657", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         { "clientID": "205799", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
@@ -341,6 +340,10 @@ if __name__ == "__main__":
         { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
+        { "clientID": "46975_A", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75" },
+        { "clientID": "46975_B", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75" },
+        { "clientID": "46975_C", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75" },
+        { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75" },
 #        { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "40" },
         #{ "clientID": "17661", "system": "ASNSW2" },
         #{ "clientID": "37658", "system": "SJA" },
@@ -356,7 +359,7 @@ if __name__ == "__main__":
         #{ "clientID": "20036348", "system": "HGSA" },
         #{ "clientID": "115634", "system": "NPWS" },
         #{ "clientID": "20029221", "system": "QPRC" },
-#        { "clientID": "46975", "favourite": "Defence", "system": "DoD", "service_type": "3", "syskey": "0", "range": "40"},
+#        { "clientID": "46975", "favourite": "Military", "system": "DoD", "service_type": "3", "syskey": "0", "range": "40"},
     ]
 
     global lastSystem
@@ -423,14 +426,17 @@ if __name__ == "__main__":
             inFile.close()
             writeFile.close()
 
-            # Group nearby sites together
-            points=getPoints('output/' + favourite + '_Aviation.csv')
-            groupSites('output/' + favourite + '_Aviation.csv',points,service_type,syskey,range)
-            continue
-
         # Group nearby sites together
-        points=getPoints(csvFile)
-        groupSites(csvFile,points,service_type,syskey,range)
+        if favourite == 'Aviation' and system != 'Airservices RFF':
+            print("Ignoring Aviation")
+        else:
+            points=getPoints(csvFile)
+            groupSites(csvFile,points,service_type,syskey,range)
+
+    if favourite == 'Aviation' and system != 'Airservices RFF':
+        print("Processing Aviation")
+        points=getPoints('output/' + favourite + '_Aviation.csv')
+        groupSites('output/' + favourite + '_Aviation.csv',points,service_type,syskey,range)
 
         # Clean out any empty files in the output dir
         # deleteEmptyFiles()
