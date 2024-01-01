@@ -26,9 +26,14 @@ def parseXML(xmlfile):
     return root
 
 
-def getLicences(clientId):
+def parseXML1(xmlfile):
+    tree1 = xml.parse(xmlfile)
+    root1 = tree1.getroot()
+    return root1
+
+
+def getLicences(clientId,offset):
     licenceList = []
-    offset=0
     xmlfile = getUrl(acmauri + '/LicenceSearchXML?searchText=' + clientId + '&offset=' + str(offset) + '&ResultsLimit=2000')
 
     # Parse the XML
@@ -102,15 +107,20 @@ def getSites(siteId):
     return(city,lat,lon,name)
 
 
-def getRegistrations(licenceList,clientId,system):
-    f = open('downloads/' + favourite + '_' + system + '_' + clientId + '.csv', 'w')
+def getRegistrations(licenceList,clientId,system,offset):
+    if (offset == '0'):
+        action = 'w'
+    else:
+        action = 'a'
+    f = open('downloads/' + favourite + '_' + system + '_' + clientId + '.csv', action)
     if clientId == "46975":
-        g = open('downloads/Aviation_' + system + '_' + clientId + '.csv', 'w')
+        g = open('downloads/Aviation_' + system + '_' + clientId + '.csv', action)
         g.write("frequency,location,lat,lon,mode,alphatag\n")
     # Write our CSV header
-    f.write("frequency,location,lat,lon,mode,alphatag\n")
+    if (offset == '0'):
+        f.write("frequency,location,lat,lon,mode,alphatag\n")
     for licenceId in licenceList:
-        xmlfile = getUrl(acmauri + '/RegistrationSearchXML?searchField=LICENCE_NO&searchText=' + licenceId)
+        xmlfile = getUrl(acmauri + '/RegistrationSearchXML?searchField=LICENCE_NO&searchText=' + licenceId + '&offset=' + str(offset) + '&ResultsLimit=2000')
         root = parseXML('/tmp/xmlfile.xml')
 
         for child in root:
@@ -199,8 +209,8 @@ if __name__ == "__main__":
     # 20017375  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (Essential Energy)
     # 20008471  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (FRNSW)
     # 20020998  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (RMS)
-    # 525851    NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (GRN)
-    # 20036348  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (HGSA)
+    # 525851    NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (PSN)
+    # 20036348  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (HGSA - PSN?)
 
     # 516364    SES
     # 1214220   Essential Energy
@@ -215,12 +225,12 @@ if __name__ == "__main__":
     #   15 = Aviation
 
     clients = [
-        { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
-        { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
-        { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
-        { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
-        { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
-        { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30" },
+        # { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
+        # { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
+        # { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
+        # { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
+        # { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
+        # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30" },
         # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75" },
         # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Defence", "service_type": "15", "syskey": "0", "range": "75" },
@@ -236,23 +246,24 @@ if __name__ == "__main__":
         # { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-
-        #{ "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "40" },
-        #{ "clientID": "17661", "system": "ASNSW2" },
+        #
+        { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "25" },
+        { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "25" },
+        { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25" },
+        { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25" },
+        # { "clientID": "17661", "favourite": "Emerg Services", "system": "ASNSW2", "service_type": "4", "syskey": "2", "range": "25" },
+        # { "clientID": "5832", "favourite": "Emerg Services", "system": "RFS2", "service_type": "3", "syskey": "1", "range": "25" },
         #{ "clientID": "37658", "system": "SJA" },
-        #{ "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "40" },
         #{ "clientID": "516364", "system": "SES2" },
-        #{ "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "40" },
-        #{ "clientID": "5832", "system": "RFS2" },
-        #{ "clientID": "20027621", "system": "OEH" },
         #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
         #{ "clientID": "20019469", "system": "Low_Power" },
-        #{ "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "40" },
         #{ "clientID": "20020998", "system": "RMS" },
-        #{ "clientID": "20036348", "system": "HGSA" },
+        # { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
+        # { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
+        #{ "clientID": "20027621", "system": "OEH" },
         #{ "clientID": "115634", "system": "NPWS" },
         #{ "clientID": "20029221", "system": "QPRC" },
-        #{ "clientID": "46975", "favourite": "Defence", "system": "Defence", "service_type": "3", "syskey": "0", "range": "40"},
+        #{ "clientID": "46975", "favourite": "Defence", "system": "Defence", "service_type": "3", "syskey": "0", "range": "25"},
     ]
 
 
@@ -270,7 +281,10 @@ if __name__ == "__main__":
 
         if clientId != "CUSTOM":
             # Get all licences for the client
-            clientLicences = getLicences(clientId)
+            offset = '0'
+            clientLicences = getLicences(clientId,offset)
 
             # Get Freq and Site for each licence (creates CSV per client-id)
-            getRegistrations(clientLicences,clientId,system)
+            offsets = ['0', '2000', '4000']
+            for offset in offsets:
+                getRegistrations(clientLicences,clientId,system,offset)
