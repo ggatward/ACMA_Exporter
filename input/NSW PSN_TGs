@@ -329,36 +329,6 @@ TGID			ASNSW TG 30359	Off	30359	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
 TGID			ASNSW TG 30360	Off	30360	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
 TGID			ASNSW TG 30367	Off	30367	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
 T-Group			RFS & VRA	Off	-27.84	133.21	1400.0	Circle	4
-TGID			1121 GL 01	Off	10000	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1122 GL 02	Off	10001	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1123 GL 03	Off	10002	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1124 GL 04	Off	10003	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1125 GL 05	Off	10004	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1126 GL 06	Off	10005	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1127 GL 07	Off	10006	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1128 GL 08	Off	10007	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1129 GL 09	Off	10008	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1130 GL 10	Off	10009	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1101 ESO 1	Off	10010	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1102 ESO 2	Off	10011	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1103 ESO 3	Off	10012	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1104 ESO 4	Off	10013	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1105 ESO 5	Off	10014	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1106 ESO 6	Off	10015	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1107 ESO 7	Off	10016	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1108 ESO 8	Off	10017	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1109 ESO 9	Off	10018	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1110 ESO 10	Off	10019	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1111 ESO 11	Off	10020	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1112 ESO 12	Off	10021	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1113ESO 13	Off	10022	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1114 ESO 14	Off	10023	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1115 ESO 15	Off	10024	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1116 ESO 16	Off	10025	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1117 ESO 17	Off	10026	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1118 ESO 18	Off	10027	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1119 ESO 19	Off	10028	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1120 ESO 20	Off	10029	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
 TGID			1209 AVATN 1	Off	10030	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
 TGID			1210 AVATN 2	Off	10031	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
 TGID			1211 AVATN 3	Off	10032	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
@@ -1077,22 +1047,22 @@ TGID			REDFERN 16	Off	11372	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			EPP NRYD14	Off	11373	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			MAC UNI 15	Off	11374	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			MAC PARK16	Off	11375	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x01	Off	11376	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x02	Off	11377	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x03	Off	11378	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x04	Off	11379	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x05	Off	11380	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x06	Off	11381	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x07	Off	11382	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x08	Off	11383	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x09	Off	11384	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x10	Off	11385	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x11	Off	11386	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x12	Off	11387	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x13	Off	11388	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x14	Off	11389	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x15	Off	11390	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			ART CH x16	Off	11391	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x01	Off	11376	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x02	Off	11377	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x03	Off	11378	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x04	Off	11379	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x05	Off	11380	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x06	Off	11381	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x07	Off	11382	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x08	Off	11383	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x09	Off	11384	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x10	Off	11385	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x11	Off	11386	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x12	Off	11387	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x13	Off	11388	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x14	Off	11389	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x15	Off	11390	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			ARTC CH x16	Off	11391	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			TRANSFLD 1	Off	11392	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			TRANSFLD 2	Off	11393	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			HIRE 01	Off	11394	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -1109,33 +1079,101 @@ TGID			GRN Rental 3	Off	19803	ALL	17	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			GRN Rental 4	Off	19804	ALL	17	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			GRN Rental 5	Off	19805	ALL	17	2	0	Off	Auto	Off	On	Off	Off	Any
 T-Group			ESO & Gov Liaison	Off	-27.84	133.21	1400.0	Circle	12
-TGID			1121 GL 01	Off	10000	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1122 GL 02	Off	10001	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1123 GL 03	Off	10002	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1124 GL 04	Off	10003	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1125 GL 05	Off	10004	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1126 GL 06	Off	10005	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1127 GL 07	Off	10006	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1128 GL 08	Off	10007	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1129 GL 09	Off	10008	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1130 GL 10	Off	10009	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			1101 ESO 1	Off	10010	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1102 ESO 2	Off	10011	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1103 ESO 3	Off	10012	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1104 ESO 4	Off	10013	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1105 ESO 5	Off	10014	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1106 ESO 6	Off	10015	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1107 ESO 7	Off	10016	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1108 ESO 8	Off	10017	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1109 ESO 9	Off	10018	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1110 ESO 10	Off	10019	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1111 ESO 11	Off	10020	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1112 ESO 12	Off	10021	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1113ESO 13	Off	10022	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1114 ESO 14	Off	10023	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1115 ESO 15	Off	10024	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1116 ESO 16	Off	10025	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1117 ESO 17	Off	10026	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1118 ESO 18	Off	10027	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1119 ESO 19	Off	10028	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
-TGID			1120 ESO 20	Off	10029	ALL	25	2	0	Off	Auto	Blue	On	Off	Off	Any
+TGID			1121 GL 01	Off	10000	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1122 GL 02	Off	10001	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1123 GL 03	Off	10002	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1124 GL 04	Off	10003	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1125 GL 05	Off	10004	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1126 GL 06	Off	10005	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1127 GL 07	Off	10006	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1128 GL 08	Off	10007	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1129 GL 09	Off	10008	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1130 GL 10	Off	10009	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1101 ESO 1	Off	10010	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1102 ESO 2	Off	10011	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1103 ESO 3	Off	10012	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1104 ESO 4	Off	10013	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1105 ESO 5	Off	10014	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1106 ESO 6	Off	10015	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1107 ESO 7	Off	10016	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1108 ESO 8	Off	10017	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1109 ESO 9	Off	10018	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1110 ESO 10	Off	10019	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1111 ESO 11	Off	10020	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1112 ESO 12	Off	10021	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1113 ESO 13	Off	10022	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1114 ESO 14	Off	10023	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1115 ESO 15	Off	10024	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1116 ESO 16	Off	10025	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1117 ESO 17	Off	10026	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1118 ESO 18	Off	10027	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1119 ESO 19	Off	10028	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1120 ESO 20	Off	10029	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+T-Group			ACT ESA	Off	-27.84	133.21	1400.0	Circle	13
+TGID			ESA 7	Off	40010	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 8	Off	40011	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			AIR SUP	Off	40031	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 1	Off	40032	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 2	Off	40033	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 3	Off	40034	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 4	Off	40035	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 5	Off	40036	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 6	Off	40037	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 9	Off	40038	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 10	Off	40039	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 11	Off	40040	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 12	Off	40041	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 13	Off	40042	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 14	Off	40043	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 15	Off	40046	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 16	Off	40047	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 17	Off	40004	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 18	Off	40005	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 19	Off	40006	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 20	Off	40007	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			ESA 21	Off	40008	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+T-Group			ACT SES	Off	-27.84	133.21	1400.0	Circle	14
+TGID			1 SES OPS	Off	40078	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2 BEL SES	Off	40079	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			3 GUN SES	Off	40080	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			4 MAJ SES	Off	40081	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			5 PIA SES	Off	40082	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			6 WOD SES	Off	40083	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			7 RIV SES	Off	40084	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			8 TUG SES	Off	40085	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			9 SES IMT	Off	40086	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			10 SES IMT	Off	40087	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			11 SES IMT	Off	40088	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+T-Group			ACT PCS	Off	-27.84	133.21	1400.0	Circle	15
+TGID			PCS 1 Tactical	Off	40089	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 2 Tactical	Off	40090	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 3 Fire Mgmt	Off	40091	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 4 Nature Parks	Off	40092	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 5 National Parks	Off	40093	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 6 Off	40094	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 7 Off	40095	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 8 Off	40096	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 9 HRB   Off	40097	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 10  Off	40098	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			PCS 11  Off	40099	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			ACT RFS	Off	-27.84	133.21	1400.0	Circle	15
+TGID			1 RFS OPS	Off	40068	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			2 FIREGROUND	Off	40069	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			3 FIREGROUND	Off	40070	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			4 FIREGROUND	Off	40071	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			5 FIREGROUND	Off	40072	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			6 FIREGROUND	Off	40073	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			7 FIREGROUND	Off	40074	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			8 RFS IMT	Off	40075	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			9 AIR OPS	Off	40076	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			10 PLT RFS	Off	40077	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			11 GUI RFS	Off	42000	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			12 GUN RFS	Off	42001	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			13 HALL RFS	Off	42002	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			14 JER RFS	Off	42003	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			15 MOL RFS	Off	42004	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			16 RIV RFS	Off	42005	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			17 SOU RFS	Off	42006	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			18 TID RFS	Off	42007	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			19 HQ RFS	Off	42009	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			ACT HRB	Off	42009	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any

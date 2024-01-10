@@ -210,7 +210,8 @@ if __name__ == "__main__":
     # 20008471  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (FRNSW)
     # 20020998  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (RMS)
     # 525851    NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (PSN)
-    # 20036348  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (HGSA - PSN?)
+    # 20036348  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (HGSA-PSN)
+    # 160       ACT Emergency Services Agency (TRN)
 
     # 516364    SES
     # 1214220   Essential Energy
@@ -247,10 +248,10 @@ if __name__ == "__main__":
         # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
         #
-        { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "25" },
-        { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "25" },
-        { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25" },
-        { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25" },
+        # { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "25" },
+        # { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "25" },
+        # { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25" },
+        # { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25" },
         # { "clientID": "17661", "favourite": "Emerg Services", "system": "ASNSW2", "service_type": "4", "syskey": "2", "range": "25" },
         # { "clientID": "5832", "favourite": "Emerg Services", "system": "RFS2", "service_type": "3", "syskey": "1", "range": "25" },
         #{ "clientID": "37658", "system": "SJA" },
@@ -258,6 +259,7 @@ if __name__ == "__main__":
         #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
         #{ "clientID": "20019469", "system": "Low_Power" },
         #{ "clientID": "20020998", "system": "RMS" },
+        { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
         # { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
         # { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
         #{ "clientID": "20027621", "system": "OEH" },

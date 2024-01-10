@@ -179,9 +179,9 @@ def groupSites(csvFile,points,service_type,syskey,range,systemType):
                         s1.write('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\tCircle\tNone\tGlobal\r\n')
                 if (systemType == "MOTO") or (systemType == "P25"):
                     if (group[0][1] == 'STATEWIDE') or (group[0][1] == 'NATIONWIDE') or (group[0][2] == '0.0') or (group[0][2] == '0'):
-                        s2.write('Site\tSiteId=' + str(groupId) +'\tTrunkId=1\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\t' + modulation + '\t' + bandplan + '\tWide\tCircle\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\t' + siteId + '\tOff\tGlobal\r\n')
+                        s2.write('Site\tSiteId=' + str(groupId) +'\tTrunkId=1\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\t' + modulation + '\t' + bandplan + '\tWide\tCircle\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\t' + str(siteId) + '\tOff\tGlobal\r\n')
                     else:
-                        s1.write('Site\tSiteId=' + str(groupId) +'\tTrunkId=1\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\t' + modulation + '\t' + bandplan + '\tWide\tCircle\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\t' + siteId + '\tOff\tGlobal\r\n')
+                        s1.write('Site\tSiteId=' + str(groupId) +'\tTrunkId=1\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\t' + modulation + '\t' + bandplan + '\tWide\tCircle\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\t' + str(siteId) + '\tOff\tGlobal\r\n')
 
                 # Output the CHANNELS data for the SITE
                 for line in group:
@@ -327,8 +327,9 @@ if __name__ == "__main__":
     # 20017375  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (Essential Energy)
     # 20008471  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (FRNSW)
     # 20020998  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (RMS)
-    # 525851    NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (GRN)
-    # 20036348  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (HGSA)
+    # 525851    NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (PSN)
+    # 20036348  NEW SOUTH WALES GOVERNMENT TELECOMMUNICATIONS AUTHORITY (HGSA-PSN)
+    # 160       ACT Emergency Services Agency (TRN)
 
     # 516364    SES
     # 1214220   Essential Energy
@@ -344,28 +345,28 @@ if __name__ == "__main__":
     #   30 = Military
 
     clients = [
-        { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30", "system_type": "CONV" },
-        { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75", "system_type": "CONV" },
-        { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "476492", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "1412657", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "205799", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "85022", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "91419", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "1142881", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "46945", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "1313682", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "1314310", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        { "clientID": "46975", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
+        # { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
+        # { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
+        # { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
+        # { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
+        # { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
+        # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "476492", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "1412657", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "205799", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "85022", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "91419", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "1142881", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "46945", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "1313682", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "1314310", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
+        # { "clientID": "46975", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
         # { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "25", "system_type": "CONV" },
         # { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "25", "system_type": "CONV" },
         # { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25", "system_type": "CONV" },
@@ -378,6 +379,7 @@ if __name__ == "__main__":
         #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
         #{ "clientID": "20019469", "system": "Low_Power" },
         #{ "clientID": "20020998", "system": "RMS" },
+        { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
         { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
         { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
         #{ "clientID": "115634", "system": "NPWS" },
