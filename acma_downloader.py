@@ -219,6 +219,9 @@ if __name__ == "__main__":
     # 115634    OFFICE OF ENVIRONMENT AND HERITAGE (NPWS)
     # 20029221  QPRC
 
+    # 20011154  DEPARTMENT OF JUSTICE AND COMMUNITY SAFETY  (VICRMR)
+	# 1315913   DEPARTMENT OF JUSTICE AND COMMUNITY SAFETY  (VICMMR)
+
     # Service Types:
     #    1 = Multi Dispatch
     #    3 = Fire Dispatch
@@ -259,13 +262,15 @@ if __name__ == "__main__":
         #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
         #{ "clientID": "20019469", "system": "Low_Power" },
         #{ "clientID": "20020998", "system": "RMS" },
-        { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
+        # { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
         # { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
         # { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
         #{ "clientID": "20027621", "system": "OEH" },
         #{ "clientID": "115634", "system": "NPWS" },
         #{ "clientID": "20029221", "system": "QPRC" },
         #{ "clientID": "46975", "favourite": "Defence", "system": "Defence", "service_type": "3", "syskey": "0", "range": "25"},
+        #{ "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "3", "syskey": "0", "range": "25" },
+        { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "3", "syskey": "0", "range": "25" },
     ]
 
 
