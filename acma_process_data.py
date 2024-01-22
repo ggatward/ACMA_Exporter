@@ -387,7 +387,7 @@ if __name__ == "__main__":
         #{ "clientID": "46975_A", "favourite": "Defence", "system": "Military", "service_type": "30", "syskey": "0", "range": "25", "system_type": "CONV" },
         # { "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
         # { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
-
+        # { "clientID": "CUSTOM", "favourite": "Marine", "system": "Marine", "service_type": "3", "syskey": "0", "range": "25", "system_type": "CONV" },
     ]
 
     global lastSystem

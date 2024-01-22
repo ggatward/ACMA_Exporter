@@ -1,0 +1,89 @@
+frequency,location,lat,lon,mode,alphatag
+156.025,NATIONAL,0.0,0.0,10K1F9W,60(Land) Public Correspondence
+160.625,NATIONAL,0.0,0.0,10K1F9W,60(Ship) Public Correspondence
+156.05,NATIONAL,0.0,0.0,10K1F9W,1(Land) Public Correspondence
+160.65,NATIONAL,0.0,0.0,10K1F9W,1(Ship) Public Correspondence
+156.075,NATIONAL,0.0,0.0,10K1F9W,61(Land) Public Correspondence
+160.675,NATIONAL,0.0,0.0,10K1F9W,61(Ship) Public Correspondence
+156.1,NATIONAL,0.0,0.0,10K1F9W,2(Land) Public Correspondence
+160.7,NATIONAL,0.0,0.0,10K1F9W,2(Ship) Public Correspondence
+156.125,NATIONAL,0.0,0.0,10K1F9W,62(Land) Public Correspondence
+160.725,NATIONAL,0.0,0.0,10K1F9W,62(Ship) Public Correspondence
+156.15,NATIONAL,0.0,0.0,10K1F9W,3(Land) Public Correspondence
+160.75,NATIONAL,0.0,0.0,10K1F9W,3(Ship) Public Correspondence
+156.175,NATIONAL,0.0,0.0,10K1F9W,63(Land) Public Correspondence
+160.775,NATIONAL,0.0,0.0,10K1F9W,63(Ship) Public Correspondence
+156.2,NATIONAL,0.0,0.0,10K1F9W,4(Land) Public Correspondence
+160.8,NATIONAL,0.0,0.0,10K1F9W,4(Ship) Public Correspondence
+156.225,NATIONAL,0.0,0.0,10K1F9W,64(Land) Port Operations
+160.825,NATIONAL,0.0,0.0,10K1F9W,64(Ship) Port Operations
+156.25,NATIONAL,0.0,0.0,10K1F9W,5(Land) Public Correspondence
+160.85,NATIONAL,0.0,0.0,10K1F9W,5(Ship) Public Correspondence
+156.275,NATIONAL,0.0,0.0,10K1F9W,65(Land) Port Operations
+160.875,NATIONAL,0.0,0.0,10K1F9W,65(Ship) Port Operations
+156.3,NATIONAL,0.0,0.0,10K1F9W,6 Search and Rescue
+156.325,NATIONAL,0.0,0.0,10K1F9W,66(Land) Public Correspondence
+160.925,NATIONAL,0.0,0.0,10K1F9W,66(Ship) Public Correspondence
+156.35,NATIONAL,0.0,0.0,10K1F9W,7(Land) Public Correspondence
+160.95,NATIONAL,0.0,0.0,10K1F9W,7(Ship) Public Correspondence
+156.375,NATIONAL,0.0,0.0,10K1F9W,67 Distress urgency and Safety
+156.4,NATIONAL,0.0,0.0,10K1F9W,8 Port Operations
+156.425,NATIONAL,0.0,0.0,10K1F9W,68 Port Operations
+156.45,NATIONAL,0.0,0.0,10K1F9W,9 Port Operations
+156.475,NATIONAL,0.0,0.0,10K1F9W,69 RAN
+156.5,NATIONAL,0.0,0.0,10K1F9W,10 Port Operations
+156.525,NATIONAL,0.0,0.0,10K1F9W,70 Distress, Safety and Calling
+156.55,NATIONAL,0.0,0.0,10K1F9W,11 Port Operations
+156.575,NATIONAL,0.0,0.0,10K1F9W,71 Professional Fishing
+156.6,NATIONAL,0.0,0.0,10K1F9W,12 Port Operations
+156.625,NATIONAL,0.0,0.0,10K1F9W,72 Port Operations
+156.65,NATIONAL,0.0,0.0,10K1F9W,13 Port Operations
+156.675,NATIONAL,0.0,0.0,10K1F9W,73 Non-commercial Operations
+156.7,NATIONAL,0.0,0.0,10K1F9W,14 Port Operations
+156.725,NATIONAL,0.0,0.0,10K1F9W,74 Commercial Operations
+156.75,NATIONAL,0.0,0.0,10K1F9W,15 Commercial Operations
+156.775,NATIONAL,0.0,0.0,10K1F9W,75 AIS Satellite
+156.8,NATIONAL,0.0,0.0,10K1F9W,16 Distress, Safety and Calling
+156.825,NATIONAL,0.0,0.0,10K1F9W,76 AIS Satellite
+156.85,NATIONAL,0.0,0.0,10K1F9W,17 Commercial Operations
+156.875,NATIONAL,0.0,0.0,10K1F9W,77 Professional Fishing
+156.9,NATIONAL,0.0,0.0,10K1F9W,18(Land) Port Operations
+161.5,NATIONAL,0.0,0.0,10K1F9W,18(Ship) Port Operations
+156.925,NATIONAL,0.0,0.0,10K1F9W,78(Land) Commercial Operations
+161.525,NATIONAL,0.0,0.0,10K1F9W,78(Ship) Commercial Operations
+156.95,NATIONAL,0.0,0.0,10K1F9W,1019 Port Operations
+156.975,NATIONAL,0.0,0.0,10K1F9W,79(Land) Port Operations
+161.575,NATIONAL,0.0,0.0,10K1F9W,79(Ship) Port Operations
+157,NATIONAL,0.0,0.0,10K1F9W,20(Land) Port Operations
+161.6,NATIONAL,0.0,0.0,10K1F9W,20(Ship) Port Operations
+161.625,NATIONAL,0.0,0.0,10K1F9W,80 Repeater
+161.65,NATIONAL,0.0,0.0,10K1F9W,21 Repeater
+161.675,NATIONAL,0.0,0.0,10K1F9W,81 Repeater
+161.7,NATIONAL,0.0,0.0,10K1F9W,22 Repeater
+161.725,NATIONAL,0.0,0.0,10K1F9W,82 Repeater
+157.15,NATIONAL,0.0,0.0,10K1F9W,23(Land) Public Correspondence
+161.75,NATIONAL,0.0,0.0,10K1F9W,23(Ship) Public Correspondence
+157.175,NATIONAL,0.0,0.0,10K1F9W,83(Land) Public Correspondence
+161.775,NATIONAL,0.0,0.0,10K1F9W,83(Ship) Public Correspondence
+157.2,NATIONAL,0.0,0.0,10K1F9W,24(Land) VHF Data Exchange System
+161.8,NATIONAL,0.0,0.0,10K1F9W,24(Ship) VHF Data Exchange System
+157.225,NATIONAL,0.0,0.0,10K1F9W,84(Land) VHF Data Exchange System
+161.825,NATIONAL,0.0,0.0,10K1F9W,84(Ship) VHF Data Exchange System
+157.25,NATIONAL,0.0,0.0,10K1F9W,25(Land) VHF Data Exchange System
+161.85,NATIONAL,0.0,0.0,10K1F9W,25(Ship) VHF Data Exchange System
+157.275,NATIONAL,0.0,0.0,10K1F9W,85(Land) VHF Data Exchange System
+161.875,NATIONAL,0.0,0.0,10K1F9W,85(Ship) VHF Data Exchange System
+157.3,NATIONAL,0.0,0.0,10K1F9W,1026 VHF Data Exchange System
+157.325,NATIONAL,0.0,0.0,10K1F9W,1086 VHF Data Exchange System
+157.35,NATIONAL,0.0,0.0,10K1F9W,1027 Port Operations
+157.375,NATIONAL,0.0,0.0,10K1F9W,87 Port Operations
+157.4,NATIONAL,0.0,0.0,10K1F9W,1028 Port Operations
+157.425,NATIONAL,0.0,0.0,10K1F9W,88 Port Operations
+160.9,NATIONAL,0.0,0.0,10K1F9W,2006 Experimental use
+161.95,NATIONAL,0.0,0.0,10K1F9W,2027 ASM1
+161.975,NATIONAL,0.0,0.0,10K1F9W,AIS1
+162,NATIONAL,0.0,0.0,10K1F9W,2028 ASM2
+162.025,NATIONAL,0.0,0.0,10K1F9W,AIS2
+161.55,NATIONAL,0.0,0.0,10K1F9W,2019 Port Operations
+161.9,NATIONAL,0.0,0.0,10K1F9W,2026 VHF Data Exchange System
+161.925,NATIONAL,0.0,0.0,10K1F9W,2086 VHF Data Exchange System
