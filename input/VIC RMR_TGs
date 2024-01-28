@@ -1,0 +1,956 @@
+T-Group			CFS	Off	-27.84	133.21	1400.0	Circle	1
+TGID			DIST 02 ADMIN 250	Off	30250	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 02 CMND 269	Off	30269	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 02 CMND 271	Off	30271	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 02 CMND 277	Off	30277	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 02 CMND 278	Off	30278	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 04 ADMIN 288	Off	30288	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 04 CMND 293	Off	30293	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 04 CMND 302	Off	30302	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 04 CMND 304	Off	30304	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 04 CMND 309	Off	30309	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 05 ADMIN 311	Off	30311	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 05 CMND 325	Off	30325	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 05 CMND 358	Off	30358	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 05 CMND 359	Off	30359	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 05 CMND 362	Off	30362	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 06 ADMIN 363	Off	30363	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 06 CMND 364	Off	30364	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 06 CMND 366	Off	30366	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 06 CMND 373	Off	30373	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 07 ADMIN 375	Off	30375	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 06 CMND 376	Off	30376	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 07 CMND 379	Off	30379	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 07 CMND 381	Off	30381	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 07 CMND 382	Off	30382	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 07 CMND 385	Off	30385	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 08 ADMIN 387	Off	30387	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 08 CMND 389	Off	30389	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 08 CMND 391	Off	30391	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 08 CMND 393	Off	30393	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 08 CMND 398	Off	30398	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 09 ADMIN 399	Off	30399	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 09 CMND 400	Off	30400	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 09 CMND 401	Off	30401	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 09 CMND 402	Off	30402	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 09 CMND 403	Off	30403	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 10 ADMIN 406	Off	30406	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 10 CMND 407	Off	30407	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 10 CMND 410	Off	30410	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 10 CMND 411	Off	30411	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 10 CMND 412	Off	30412	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 11 ADMIN 413	Off	30413	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 11 CMND 414	Off	30414	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 11 CMND 415	Off	30415	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 11 CMND 416	Off	30416	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 11 CMND 417	Off	30417	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 12 ADMIN 418	Off	30418	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 12 CMND 419	Off	30419	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 12 CMND 420	Off	30420	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 12 CMND 421	Off	30421	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 12 CMND 422	Off	30422	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 13 ADMIN 423	Off	30423	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 13 CMND 424	Off	30424	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 13 CMND 425	Off	30425	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 13 CMND 426	Off	30426	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 13 CMND 427	Off	30427	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 ADMIN 428	Off	30428	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 CMND 429	Off	30429	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 CMND 430	Off	30430	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 CMND 431	Off	30431	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 CMND 432	Off	30432	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 15 ADMIN 434	Off	30434	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 CMND 435	Off	30435	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 CMND 436	Off	30436	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 CMND 437	Off	30437	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 15 ADMIN 438	Off	30438	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 15 CMND 439	Off	30439	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 15 CMND 440	Off	30440	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 15 CMND 441	Off	30441	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 15 CMND 442	Off	30442	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 17 ADMIN 443	Off	30443	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 17 CMND 444	Off	30444	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 17 CMND 445	Off	30445	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 17 CMND 446	Off	30446	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 17 CMND 447	Off	30447	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 18 ADMIN 448	Off	30448	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 18 CMND 449	Off	30449	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 18 CMND 450	Off	30450	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 18 CMND 451	Off	30451	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 18 CMND 452	Off	30452	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 20 ADMIN 453	Off	30453	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 20 CMND 454	Off	30454	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 20 CMND 455	Off	30455	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 20 CMND 456	Off	30456	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 20 CMND 457	Off	30457	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 ADMIN 458	Off	30458	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 CMND 459	Off	30459	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 CMND 460	Off	30460	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 CMND 461	Off	30461	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 CMND 462	Off	30462	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 23 ADMIN 463	Off	30463	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 CMND 464	Off	30464	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 CMND 465	Off	30465	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 CMND 466	Off	30466	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 CMND 467	Off	30467	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 24 ADMIN 468	Off	30468	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 34 CMND 469	Off	30469	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 34 CMND 470	Off	30470	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 34 CMND 471	Off	30471	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 34 CMND 472	Off	30472	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			473	Off 30473	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			474	Off 30474	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			475	Off	30475	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			476	Off	30476	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			477	Off	30477	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			478	Off	30478	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			479	Off	30479	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			480	Off	30480	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			481	Off	30481	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			482	Off	30482	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			483	Off	30483	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			484	Off	30484	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			485	Off	30485	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			486	Off	30486	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			487	Off	30487	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			488	Off	30488	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			489	Off	30489	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			490	Off	30490	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			491	Off	30491	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			492	Off	30492	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			493	Off	30493	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			494	Off	30494	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			495	Off	30495	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			500	Off	30500	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 08 DISP SEC	Off	30501	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 02 DISP    Off	30502	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 13 DISP SEC    Off	30503	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 04 DISP    Off	30504	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 05 DISP    Off	30505	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 06 DISP    Off	30506	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 07 DISP PRI    Off	30507	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 08 DISP PRI    Off	30508	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 09 DISP    Off	30509	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 10 DISP    Off	30510	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 11 DISP    Off	30511	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 12 DISP    Off	30512	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 13 DISP PRI    Off	30513	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 DISP PRI    Off	30514	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 15 DISP    Off	30515	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 16 DISP    Off	30516	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 17 DISP    Off	30517	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 18 DISP    Off	30518	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 DISP SEC    Off	30519	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 20 DISP    Off	30520	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 07 DISP SEC    Off	30521	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 22 DISP    Off	30522	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 23 DISP    Off	30523	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 24 DISP    Off	30524	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			525 Off	30525	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			526	Off	30526	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 27 DISP    Off	30527	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			528	Off	30528	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			529	Off	30529	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			530	Off	30530	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			531	Off	30531	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			532	Off	30532	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			533	Off	30533	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			534	Off	30534	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			535	Off	30535	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			536	Off	30536	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			537	Off	30537	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			538	Off	30538	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			539	Off	30539	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 540  Off	30540	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 541	Off	30541	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 542	Off	30542	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 543	Off	30543	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 544	Off	30544	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 545	Off	30545	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 546	Off	30546	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 547	Off	30547	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 548	Off	30548	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 549	Off	30549	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 550	Off	30550	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 551	Off	30551	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 552	Off	30552	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 553	Off	30553	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 554	Off	30554	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 555	Off	30555	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 556	Off	30556	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 557	Off	30557	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 558	Off	30558	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 559	Off	30559	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 560	Off	30560	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 561	Off	30561	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 562	Off	30562	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 563	Off	30563	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FIREGROUND 564	Off	30564	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 14 Training	Off	30565	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 13 Training	Off	30566	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 07 Training	Off	30567	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			DIST 08 Training	Off	30568	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Statewide Training	Off	30569	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MA3106 - 570	Off	30570	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MA3107 - 571	Off	30571	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MA3108 - 572	Off	30572	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MA3109 - 573	Off	30573	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MA3110 - 574	Off	30574	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MA3112 - 575	Off	30575	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			MA3113 - 576	Off	30576	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			577	Off	30577	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			578	Off	30578	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			579	Off	30579	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			580	Off	30580	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Patch FRV CNTRL1	Off	30581	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Patch FRV NRTHN2	Off	30582	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Patch FRV STHRN3	Off	30583	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Patch FRV WESTN4	Off	30584	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Patch FRV EASTN5	Off	30585	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Patch FRV ALT6	Off	30586	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			Patch FRV ALT7	Off	30587	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			588	Off	30588	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			589	Off	30589	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			590	Off	30590	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			591	Off	30591	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			592	Off	30592	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			593	Off	30593	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			594	Off	30594	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			595	Off	30595	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			596	Off	30596	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			597	Off	30597	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			598	Off	30598	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			599	Off	30599	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			FSCC Statewide	Off	30600	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 601 Off	33601	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 602 Off	33602	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 603 Off	33603	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 604 Off	33604	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 605 Off	33605	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 606 Off	33606	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 607 Off	33607	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 608 Off	33608	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 609 Off	33609	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 610 Off	33610	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 611 Off	33611	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 612 Off	33612	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 613 Off	33613	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 614 Off	33614	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 615 Off	33615	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 616 Off	33616	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 617 Off	33617	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 618 Off	33618	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 619 Off	33619	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 620 Off	33620	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 621 Off	33621	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 622 Off	33622	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 623 Off	33623	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 624 Off	33624	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 625 Off	33625	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 626 Off	33626	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 627 Off	33627	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 628 Off	33628	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 629 Off	33629	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 630 Off	33630	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 631 Off	33631	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 632 Off	33632	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 633 Off	33633	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 634 Off	33634	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 635 Off	33635	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 636 Off	33636	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 637 Off	33637	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 638 Off	33638	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 639 Off	33639	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 640 Off	33640	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 641 Off	33641	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 642 Off	33642	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 643 Off	33643	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 644 Off	33644	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 645 Off	33645	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 646 Off	33646	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 647 Off 33647	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 648 Off	33648	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 649 Off	33649	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 650 Off	33650	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 651 Off	33651	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 652 Off	33652	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 653 Off	33653	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 654 Off	33654	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			CFA AIR 655 Off	33655	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+T-Group			Inter Agency	Off	-27.84	133.21	1400.0	Circle	12
+TGID			1106 Inter-Agency	Off	1106	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1107 Inter-Agency	Off	1107	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1108 Inter-Agency	Off	1108	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1109 Inter-Agency	Off	1109	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1110 Inter-Agency	Off	1110	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1112 Inter-Agency	Off	1112	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			1113 Inter-Agency	Off	1113	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			3106 Inter-Agency	Off	30570	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			3107 Inter-Agency	Off	30571	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			3108 Inter-Agency	Off	30572	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			3109 Inter-Agency	Off	30573	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			3110 Inter-Agency	Off	30574	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			3112 Inter-Agency	Off	30575	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			3113 Inter-Agency	Off	30576	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			3116 Inter-Agency	Off	21366	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
+T-Group			SES	Off	-27.84	133.21	1400.0	Circle	2
+TGID			2101 SCMD	Off	32901	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2102 SCMD	Off	32902	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2103 SCMD	Off	32903	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2104 SCMD	Off	32904	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2105 SCMD	Off	32905	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2106 SCMD 1	Off	32906	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2107 SCMD 2 Off	32907	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2108 COMMS	Off	32908	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2109 FLEET	Off	32909	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2170 RESCUE Off	32970	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2171 TRESC	Off	32971	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2180 ESTA CMD	Off	32980	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2199 TRAVEL	Off	32999	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			Patched TGID 1	Off	32501	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			Patched TGID 2  Off	33701	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			Patched TGID 3	Off	33801	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2201 DISPATCH	Off	32201	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2202 DISPATCH	Off	32202	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2204 INCIDENT	Off	32204	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2205 INCIDENT	Off	32205	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2206 INCIDENT	Off	32206	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2207 INCIDENT	Off	32207	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2208 INCIDENT	Off	32208	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2209 REG COORD	Off	32209	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2210 REG CMD	Off	32210	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2212 ICC WGRT	Off	32212	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2213 ICC SYMR	Off	32213	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2214 ICC SHEP	Off	32214	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2215 ICC BENA	Off	32215	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2216 ICC WDGA	Off	32216	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2220 DCP TATR	Off	32220	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2221 DCP SSAR	Off	32221	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2222 DCP EURA	Off	32222	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2223 DCP YACK	Off	32223	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2224 DCP WDGA	Off	32224	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2225 DCP SYMR	Off	32225	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2226 DCP NUMU	Off	32226	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2227 DCP BRGT	Off	32227	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2228 DCP WGRT	Off	32228	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2229 DCP YEAA	Off	32229	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2230 DCP BENA	Off	32230	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2231 DCP YWGA	Off	32231	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2240 CMD ALEX	Off	32240	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2241 CMD BEEC	Off	32241	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2242 CMD BENA	Off	32242	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2243 CMD BRGT	Off	32243	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2244 CMD CHIL	Off	32244	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2245 CMD CBRM	Off	32245	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2246 CMD CORR	Off	32246	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2247 CMD EURA	Off	32247	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2248 CMD FALL	Off	32248	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2249 CMD KMRE	Off	32249	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2250 CMD KNKE	Off	32250	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2251 CMD MANS	Off	32251	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2252 CMD MVLE	Off	32252	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2253 CMD MTTA	Off	32253	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2254 CMD MRCN	Off	32254	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2255 CMD MYRT	Off	32255	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2256 CMD NUMU	Off	32256	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2257 CMD RUTH	Off	32257	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2258 CMD SYMR	Off	32258	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2259 CMD SSAR	Off	32259	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2260 CMD TALL	Off	32260	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2261 CMD TATR	Off	32261	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2262 CMD WGRT	Off	32262	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2263 CMD WDGA	Off	32263	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2264 CMD YACK	Off	32264	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2265 CMD YWGA	Off	32265	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2266 CMD	Off	32266	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2267 CMD	Off	32267	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2268 CMD	Off	32268	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2269 CMD	Off	32269	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2270 CMD	Off	32270	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2271 CMD	Off	32271	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2272 CMD	Off	32272	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2273 CMD	Off	32273	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2275 CMD	Off	32274	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2275 CMD	Off	32275	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2280 North East Local	Off	32280	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2281 North East Local	Off	32281	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2282 North East Local	Off	32282	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2283 North East Local	Off	32283	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2284 North East Local	Off	32284	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2285 North East Local	Off	32285	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2286 North East Local	Off	32286	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2287 North East Local	Off	32287	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2288 North East Local	Off	32288	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2289 North East Local	Off	32289	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2290 North East Local	Off	32290	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2291 North East Local	Off	32291	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2292 North East Local	Off	32292	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2293 North East Local	Off	32293	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2294 North East Local	Off	32294	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2295 North East Local	Off	32295	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2296 North East Local	Off	32296	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2297 North East Local	Off	32297	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2298 North East Local	Off	32298	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2299 North East Local	Off	32299	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2492 Benalla Local	Off	32492	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2301 DISPATCH	Off	32301	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2302 DISPATCH	Off	32302	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2304 INCIDENT	Off	32304	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2305 INCIDENT	Off	32305	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2306 INCIDENT	Off	32306	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2307 INCIDENT	Off	32307	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2308 INCIDENT	Off	32308	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2309 REG COORD	Off	32309	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2310 REG CMD	Off	32310	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2312 ICC BALT	Off	32312	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2313 ICC HRSM	Off	32313	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2314 ICC	Off	32314	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2315 ICC	Off	32315	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2320 DCP ARAT	Off	32320	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2321 DCP BALT	Off	32321	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2322 DCP HEPS	Off	32322	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2323 DCP STAW	Off	32323	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2324 DCP DRLY	Off	32324	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2325 DCP EDNH	Off	32325	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2326 DCP NHLL	Off	32326	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2327 DCP STAD	Off	32327	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2328 DCP WKBL	Off	32328	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2329 DCP WENO	Off	32329	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2330 DCP HRSM	Off	32330	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2340 CMD ARAT	Off	32340	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2341 CMD BACC	Off	32341	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2342 CMD BALT	Off	32342	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2343 CMD DMBL	Off	32343	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2344 CMD DUNM	Off	32344	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2345 CMD EDNH	Off	32345	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2346 CMD GRKE	Off	32346	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2347 CMD HEPS	Off	32347	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2348 CMD HRSM	Off	32348	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2349 CMD KNVA	Off	32349	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2350 CMD NHLL	Off	32350	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2351 CMD STAD	Off	32351	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2352 CMD STAW	Off	32352	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2353 CMD WKBL	Off	32353	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2354 CMD	Off	32354	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2355 CMD	Off	32355	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2356 CMD	Off	32356	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2357 CMD	Off	32357	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2358 CMD	Off	32358	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2359 CMD	Off	32359	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2360 CMD	Off	32360	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2361 CMD	Off	32361	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2362 CMD	Off	32362	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2363 CMD	Off	32363	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2380 Mid West Local	Off	32380	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2381 Mid West Local	Off	32381	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2382 Mid West Local	Off	32382	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2383 Mid West Local	Off	32383	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2384 Mid West Local	Off	32384	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2385 Mid West Local	Off	32385	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2386 Mid West Local	Off	32386	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2387 Mid West Local	Off	32387	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2388 Mid West Local	Off	32388	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2389 Mid West Local	Off	32389	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2390 Mid West Local	Off	32390	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2391 Mid West Local	Off	32391	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2392 Mid West Local	Off	32392	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2393 Mid West Local	Off	32393	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2394 Mid West Local	Off	32394	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2395 Mid West Local	Off	32395	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2396 Mid West Local	Off	32396	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2397 Mid West Local	Off	32397	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2398 Mid West Local	Off	32398	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2399 Mid West Local	Off	32399	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2401 DISPATCH	Off	32401	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2402 DISPATCH	Off	32402	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2404 INCIDENT	Off	32404	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2405 INCIDENT	Off	32405	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2406 INCIDENT	Off	32406	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2407 INCIDENT	Off	32407	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2408 INCIDENT	Off	32408	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2409 REG COORD	Off	32409	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2410 REG CMD	Off	32410	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2412 ICC MDRA	Off	32412	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2413 ICC BENO	Off	32413	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2414 ICC SWAN	Off	32414	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2415 ICC	Off	32415	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2420 DCP BENO	Off	32420	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2421 DCP MDRA	Off	32421	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2422 DCP SWAN	Off	32422	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2423 DCP WYCH	Off	32423	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2424 DCP CASE	Off	32424	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2425 DCP ECHA	Off	32425	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2426 DCP GISB	Off	32426	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2427 DCP KRNG	Off	32427	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2428 DCP KYNE	Off	32428	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2429 DCP PYRU	Off	32429	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2430 DCP MARH	Off	32430	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2440 CMD BENO	Off	32440	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2441 CMD BIRP	Off	32441	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2442 CMD CASE	Off	32442	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2443 CMD DUNO	Off	32443	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2444 CMD ECHA	Off	32444	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2445 CMD GISB	Off	32445	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2446 CMD HEAE	Off	32446	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2447 CMD KRNG	Off	32447	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2448 CMD MARG	Off	32448	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2449 CMD MARH	Off	32449	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2450 CMD MDRA	Off	32450	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2451 CMD MURE	Off	32451	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2452 CMD OUYE	Off	32452	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2453 CMD ROBE	Off	32453	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2454 CMD ROCH	Off	32454	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2455 CMD RWTH	Off	32455	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2456 CMD SWAN	Off	32456	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2457 CMD KYBM	Off	32457	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2458 CMD WEDD	Off	32458	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2459 CMD WOOG	Off	32459	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2460 CMD WYCF	Off	32460	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2461 CMD HUNT	Off	32461	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2462 CMD WOEN	Off	32462	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2463 CMD	Off	32463	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2464 CMD	Off	32464	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2465 CMD	Off	32465	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2466 CMD	Off	32466	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2467 CMD	Off	32467	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2468 CMD	Off	32468	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2469 CMD	Off	32469	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2470 CMD	Off	32470	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2471 CMD	Off	32471	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2472 CMD	Off	32472	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2480 Nth West Local	Off	32480	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2481 Nth West Local	Off	32481	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2482 Nth West Local	Off	32482	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2483 Nth West Local	Off	32483	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2484 Nth West Local	Off	32484	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2485 Nth West Local	Off	32485	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2486 Nth West Local	Off	32486	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2487 Nth West Local	Off	32487	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2488 Nth West Local	Off	32488	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2489 Nth West Local	Off	32489	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2490 Nth West Local	Off	32490	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2491 Nth West Local	Off	32491	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2492 Nth West Local	Off	32492	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2493 Nth West Local	Off	32493	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2494 Nth West Local	Off	32494	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2495 Nth West Local	Off	32495	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2496 Nth West Local	Off	32496	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2497 Nth West Local	Off	32497	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2498 Nth West Local	Off	32498	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2499 Nth West Local	Off	32499	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2501 DISPATCH	Off	32501	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2502 DISPATCH	Off	32502	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2504 INCIDENT	Off	32504	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2505 INCIDENT	Off	32505	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2506 INCIDENT	Off	32506	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2507 INCIDENT	Off	32507	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2508 INCIDENT	Off	32508	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2509 REG COORD	Off	32509	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2510 REG CMD	Off	32510	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2512 ICC GEEL	Off	32512	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2513 ICC WNBL	Off	32513	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2514 ICC	Off	32514	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2515 ICC	Off	32515	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2516 ICC	Off	32516	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2520 DCP HTON	Off	32520	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2521 DCP WNBL	Off	32521	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2522 DCP STHB	Off	32522	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2523 DCP GEEL	Off	32523	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2524 DCP CAST	Off	32524	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2525 DCP PLAD	Off	32525	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2526 DCP COLE	Off	32526	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2527 DCP PTFA	Off	32527	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2528 DCP LISM	Off	32528	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2529 DCP CBDN	Off	32529	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2530 DCP COLC	Off	32530	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2531 DCP TORQ	Off	32531	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2532 DCP CORI	Off	32532	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2540 CMD BLML	Off	32540	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2541 CMD BANN	Off	32541	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2542 CMD BELL	Off	32542	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2543 CMD CMPD	Off	32543	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2544 CMD CBDN	Off	32544	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2545 CMD COLC	Off	32545	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2546 CMD CORI	Off	32546	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2547 CMD DRTM	Off	32547	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2548 CMD DNKL	Off	32548	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2549 CMD GEEL	Off	32549	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2550 CMD HTON	Off	32550	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2551 CMD HYWD	Off	32551	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2552 CMD LISM	Off	32552	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2553 CMD LORN	Off	32553	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2554 CMD MORT	Off	32554	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2555 CMD OTWA	Off	32555	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2556 CMD PTCA	Off	32556	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2557 CMD PTFA	Off	32557	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2558 CMD PLAD	Off	32558	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2559 CMD STHB	Off	32559	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2560 CMD TRNG	Off	32560	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2561 CMD TORQ	Off	32561	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2562 CMD WNBL	Off	32562	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2563 CMD WINC	Off	32563	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2564 CMD	Off	32564	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2565 CMD	Off	32565	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2566 CMD	Off	32566	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2567 CMD	Off	32567	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2568 CMD	Off	32568	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2569 CMD	Off	32569	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2570 CMD	Off	32570	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2571 CMD	Off	32571	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2572 CMD	Off	32572	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2573 CMD	Off	32573	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2580 Sth West Local	Off	32580	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2581 Sth West Local	Off	32581	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2582 Sth West Local	Off	32582	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2583 Sth West Local	Off	32583	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2584 Sth West Local	Off	32584	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2585 Sth West Local	Off	32585	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2586 Sth West Local	Off	32586	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2587 Sth West Local	Off	32587	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2588 Sth West Local	Off	32588	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2589 Sth West Local	Off	32589	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2590 Sth West Local	Off	32590	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2591 Sth West Local	Off	32591	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2592 Sth West Local	Off	32592	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2593 Sth West Local	Off	32593	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2594 Sth West Local	Off	32594	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2595 Sth West Local	Off	32595	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2596 Sth West Local	Off	32596	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2597 Sth West Local	Off	32597	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2598 Sth West Local	Off	32598	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2599 Sth West Local	Off	32599	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2601 DISPATCH	Off	33601	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2602 DISPATCH	Off	33602	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2604 INCIDENT	Off	33604	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2605 INCIDENT	Off	33605	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2606 INCIDENT	Off	33606	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2607 INCIDENT	Off	33607	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2608 INCIDENT	Off	33608	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2609 REG COORD	Off	33609	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2610 REG CMD	Off	33610	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2612 ICC SUNS	Off	33612	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2613 ICC BURN	Off	33613	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2620 DCP ESSE	Off	33620	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2621 DCP WYNW	Off	33621	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2622 DCP BRBK	Off	33622	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2623 DCP BROA	Off	33623	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2624 DCP PLEN	Off	33624	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2625 DCP WHIT	Off	33625	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2626 DCP SBNK	Off	33626	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2640 CMD BRBK	Off	33640	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2641 CMD BROA	Off	33641	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2642 CMD CRAI	Off	33642	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2643 CMD ESSE	Off	33643	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2644 CMD FOOT	Off	33644	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2645 CMD HOBS	Off	33645	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2646 CMD MELT	Off	33646	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2647 CMD NBIK	Off	33647	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2648 CMD NORT	Off	33648	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2649 CMD SUNB	Off	33649	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2650 CMD WTLS	Off	33650	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2651 CMD WYND	Off	33651	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2652 CMD WYNW	Off	33652	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2653 CMD PTCK	Off	33653	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2654 CMD CARS	Off	33654	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2655 CMD KALK	Off	33655	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2656 CMD	Off	33656	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2657 CMD	Off	33657	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2658 CMD	Off	33658	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2681 Cntrl NW Local	Off	33681	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2682 Cntrl NW Local	Off	33682	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2683 Cntrl NW Local	Off	33683	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2684 Cntrl NW Local	Off	33684	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2685 Cntrl NW Local	Off	33685	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2686 Cntrl NW Local	Off	33686	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2687 Cntrl NW Local	Off	33687	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2688 Cntrl NW Local	Off	33688	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2689 Cntrl NW Local	Off	33689	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2690 Cntrl NW Local	Off	33690	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2691 Cntrl NW Local	Off	33691	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2692 Cntrl NW Local	Off	33692	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2693 Cntrl NW Local	Off	33693	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2694 Cntrl NW Local	Off	33694	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2695 Cntrl NW Local	Off	33695	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2696 Cntrl NW Local	Off	33696	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2697 Cntrl NW Local	Off	33697	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2698 Cntrl NW Local	Off	33698	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2699 Cntrl NW Local	Off	33699	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2701 DISPATCH	Off	33701	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2702 DISPATCH	Off	33702	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2704 INCIDENT	Off	33704	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2705 INCIDENT	Off	33705	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2706 INCIDENT	Off	33706	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2707 INCIDENT	Off	33707	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2708 INCIDENT	Off	33708	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2709 REG COORD	Off	33709	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2710 REG CMD	Off	33710	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2712 ICC FERN	Off	33712	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2713 ICC	Off	33713	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2720 DCP KNOX	Off	33720	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2721 DCP WORR	Off	33721	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2722 DCP	Off	33722	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2723 DCP	Off	33723	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2740 CMD EMER	Off	33740	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2741 CMD HEAL	Off	33741	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2742 CMD KNOX	Off	33742	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2743 CMD LILY	Off	33743	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2744 CMD MHAM	Off	33744	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2745 CMD MDAH	Off	33745	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2746 CMD UPYA	Off	33746	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2747 CMD WHSE	Off	33747	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2748 CMD	Off	33748	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2749 CMD	Off	33749	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2750 CMD	Off	33750	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2751 CMD	Off	33751	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2752 CMD	Off	33752	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2780 Cntrl East Local	Off	33780	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2781 Cntrl East Local	Off	33781	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2782 Cntrl East Local	Off	33782	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2783 Cntrl East Local	Off	33783	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2784 Cntrl East Local	Off	33784	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2785 Cntrl East Local	Off	33785	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2786 Cntrl East Local	Off	33786	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2787 Cntrl East Local	Off	33787	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2788 Cntrl East Local	Off	33788	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2789 Cntrl East Local	Off	33789	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2790 Cntrl East Local	Off	33790	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2791 Cntrl East Local	Off	33791	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2792 Cntrl East Local	Off	33792	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2793 Cntrl East Local	Off	33793	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2794 Cntrl East Local	Off	33794	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2795 Cntrl East Local	Off	33795	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2796 Cntrl East Local	Off	33796	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2797 Cntrl East Local	Off	33797	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2798 Cntrl East Local	Off	33798	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2799 Cntrl East Local	Off	33799	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2801 DISPATCH	Off	33801	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2802 DISPATCH	Off	33802	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2804 INCIDENT	Off	33804	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2805 INCIDENT	Off	33805	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2806 INCIDENT	Off	33806	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2807 INCIDENT	Off	33807	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2808 INCIDENT	Off	33808	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2809 REG COORD	Off	33809	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2810 REG CMD	Off	33810	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2812 ICC DAND	Off	33812	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2813 ICC	Off	33813	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2820 DCP CHEL	Off	33820	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2821 DCP GLEI	Off	33821	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2822 DCP PAKE	Off	33822	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2823 DCP MORO	Off	33823	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2840 CMD CHEL	Off	33840	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2841 CMD FRAN	Off	33841	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2842 CMD GLEI	Off	33842	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2843 CMD GRDA	Off	33843	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2844 CMD HAST	Off	33844	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2845 CMD MALV	Off	33845	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2846 CMD MNSH	Off	33846	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2847 CMD MOOR	Off	33847	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2848 CMD NAWA	Off	33848	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2849 CMD PAKE	Off	33849	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2850 CMD PPHI	Off	33850	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2851 CMD SORR	Off	33851	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2852 CMD CRAN	Off	33852	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2853 CMD CLYD	Off	33853	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2854 CMD OFFI	Off	33854	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2855 CMD	Off	33855	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2856 CMD	Off	33856	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2857 CMD	Off	33857	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2858 CMD	Off	33858	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2859 CMD	Off	33859	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2880 Cntrl Sth Local	Off	33880	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2881 Cntrl Sth Local	Off	33881	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2882 Cntrl Sth Local	Off	33882	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2883 Cntrl Sth Local	Off	33883	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2884 Cntrl Sth Local	Off	33884	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2885 Cntrl Sth Local	Off	33885	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2886 Cntrl Sth Local	Off	33886	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2887 Cntrl Sth Local	Off	33887	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2888 Cntrl Sth Local	Off	33888	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2889 Cntrl Sth Local	Off	33889	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2890 Cntrl Sth Local	Off	33890	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2891 Cntrl Sth Local	Off	33891	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2892 Cntrl Sth Local	Off	33892	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2893 Cntrl Sth Local	Off	33893	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2894 Cntrl Sth Local	Off	33894	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2895 Cntrl Sth Local	Off	33895	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2896 Cntrl Sth Local	Off	33896	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2897 Cntrl Sth Local	Off	33897	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2898 Cntrl Sth Local	Off	33898	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2899 Cntrl Sth Local	Off	33899	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2901 DISPATCH	Off	32901	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2902 DISPATCH	Off	32902	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2904 INCIDENT	Off	32904	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2905 INCIDENT	Off	32905	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2906 INCIDENT	Off	32906	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2907 INCIDENT	Off	32907	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2908 INCIDENT	Off	32908	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2909 REG COORD	Off	32909	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2910 REG CMD	Off	32910	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2912 ICC TRGL	Off	32912	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2913 ICC BAIR	Off	32913	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2914 ICC	Off	32914	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2915 ICC	Off	32915	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2920 DCP DROU	Off	32920	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2921 DCP LEOG	Off	32921	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2922 DCP MOEU	Off	32922	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2923 DCP YARM	Off	32923	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2924 DCP SALU	Off	32924	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2925 DCP BAIR	Off	32925	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2926 DCP ORBS	Off	32926	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2927 DCP WONT	Off	32927	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2940 CMD BAIR	Off	32940	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2941 CMD BNDC	Off	32941	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2942 CMD BTHN	Off	32942	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2943 CMD BUCN	Off	32943	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2944 CMD CANN	Off	32944	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2945 CMD ERCA	Off	32945	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2946 CMD FOSR	Off	32946	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2947 CMD INVC	Off	32947	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2948 CMD LEOG	Off	32948	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2949 CMD LSPO	Off	32949	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2950 CMD MFRA	Off	32950	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2951 CMD MCOT	Off	32951	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2952 CMD MOEU	Off	32952	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2953 CMD MWEL	Off	32953	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2954 CMD ORBS	Off	32954	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2955 CMD PHIL	Off	32955	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2956 CMD RDLE	Off	32956	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2957 CMD SALU	Off	32957	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2958 CMD SANR	Off	32958	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2959 CMD STRA	Off	32959	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2960 CMD TAMB	Off	32960	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2961 CMD WGUL	Off	32961	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2962 CMD WONT	Off	32962	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2963 CMD YARM	Off	32963	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2964 CMD	Off	32964	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2965 CMD	Off	32965	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2966 CMD	Off	32966	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2967 CMD	Off	32967	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2968 CMD	Off	32968	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2969 CMD	Off	32969	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2970 CMD	Off	32970	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2971 CMD	Off	32971	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2972 CMD	Off	32972	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2973 CMD	Off	32973	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2980 East Local	Off	32980	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2981 East Local	Off	32981	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2982 East Local	Off	32982	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2983 East Local	Off	32983	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2984 East Local	Off	32984	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2985 East Local	Off	32985	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2986 East Local	Off	32986	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2987 East Local	Off	32987	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2988 East Local	Off	32988	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2989 East Local	Off	32989	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2990 East Local	Off	32990	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2991 East Local	Off	32991	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2992 East Local	Off	32992	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2993 East Local	Off	32993	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2994 East Local	Off	32994	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2995 East Local	Off	32995	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2996 East Local	Off	32996	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2997 East Local	Off	32997	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2998 East Local	Off	32998	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			2999 East Local	Off	32999	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+T-Group			DELWP	Off	-27.84	133.21	1400.0	Circle	14
+TGID			DELWP 900	Off	33900	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 901	Off	33901	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 902	Off	33902	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 903	Off	33903	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 904	Off	33904	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 905	Off	33905	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 906	Off	33906	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 907	Off	33907	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 908	Off	33908	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 909	Off	33909	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 910	Off	33910	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 911	Off	33911	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 912	Off	33912	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 913	Off	33913	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 914	Off	33914	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 915	Off	33915	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 916	Off	33916	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 917	Off	33917	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 918	Off	33918	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 919	Off	33919	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 920	Off	33920	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 921	Off	33921	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 922	Off	33922	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 923	Off	33923	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 924	Off	33924	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 925	Off	33925	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 926	Off	33926	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 927	Off	33927	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 928	Off	33928	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 929	Off	33929	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 930	Off	33930	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 931	Off	33931	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 932	Off	33932	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 933	Off	33933	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 934	Off	33934	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 935	Off	33935	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 936	Off	33936	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 937	Off	33937	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 938	Off	33938	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 939	Off	33939	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 940	Off	33940	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 941	Off	33941	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 942	Off	33942	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 943	Off	33943	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 944	Off	33944	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 945	Off	33945	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 946	Off	33946	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 947	Off	33947	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 948	Off	33948	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 949	Off	33949	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 950	Off	33950	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 951	Off	33951	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 952	Off	33952	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 953	Off	33953	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 954	Off	33954	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 955	Off	33955	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 956	Off	33956	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 957	Off	33957	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 958	Off	33958	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 959	Off	33959	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 960	Off	33960	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 961	Off	33961	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 962	Off	33962	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 963	Off	33963	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 964	Off	33964	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 965	Off	33965	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 966	Off	33966	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 967	Off	33967	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 968	Off	33968	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 969	Off	33969	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 970	Off	33970	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 971	Off	33971	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 972	Off	33972	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 973	Off	33973	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 974	Off	33974	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 975	Off	33975	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 976	Off	33976	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 977	Off	33977	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 978	Off	33978	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 979	Off	33979	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 980	Off	33980	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 981	Off	33981	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 982	Off	33982	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 983	Off	33983	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 984	Off	33984	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 985	Off	33985	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 986	Off	33986	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 987	Off	33987	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 988	Off	33988	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 989	Off	33989	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 990	Off	33990	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 991	Off	33991	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 992	Off	33992	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 993	Off	33993	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 994	Off	33994	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 995	Off	33995	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 996	Off	33996	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 997	Off	33997	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 998	Off	33998	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			DELWP 999	Off	33999	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
