@@ -107,7 +107,7 @@ def getSites(siteId):
     return(city,lat,lon,name)
 
 
-def getRegistrations(licenceList,clientId,system,offset):
+def getRegistrations(licenceList,clientId,system,offset,widetag):
     if (offset == '0'):
         action = 'w'
     else:
@@ -146,12 +146,50 @@ def getRegistrations(licenceList,clientId,system,offset):
                             if (site != ''):
                                 (city,lat,lon,name) = getSites(site)
                             else:
-                                if (system == 'Aviation'):
+                                if (widetag == 'NATIONAL'):
                                     city = "NATIONWIDE"
+                                    lat = "-27.84"
+                                    lon = "133.21"
+                                    # range 4500mi
+                                elif (widetag == 'NSW'):
+                                    city = "NSW-WIDE"
+                                    lat = "-31.9737"
+                                    lon = "147.7538"
+                                    # range 450mi
+                                elif (widetag == 'VIC'):
+                                    city = "VIC-WIDE"
+                                    lat = "-36.6535"
+                                    lon = "144.8534"
+                                    # range 200mi
+                                elif (widetag == 'QLD'):
+                                    city = "QLD-WIDE"
+                                    lat = "-20.2600"
+                                    lon = "146.4869"
+                                    # range 750mi
+                                elif (widetag == 'SA'):
+                                    city = "SA-WIDE"
+                                    lat = "-32.1365"
+                                    lon = "134.8854"
+                                    # Range 500mi
+                                elif (widetag == 'WA'):
+                                    city = "WA-WIDE"
+                                    lat = "-23.763154"
+                                    lon = "119.768237"
+                                    # range = 825mi
+                                elif (widetag == 'NT'):
+                                    city = "NT-WIDE"
+                                    lat = "-18.852156"
+                                    lon = "133.479175"
+                                    # range = 560mi
+                                elif (widetag == 'TAS'):
+                                    city = "TAS-WIDE"
+                                    lat = "-41.539774"
+                                    lon = "146.223315"
+                                    # range = 190mi
                                 else:
                                     city = "STATEWIDE"
-                                lat = "0.0"
-                                lon = "0.0"
+                                    lat = "0.0"
+                                    lon = "0.0"
                             print(str(freq) + ',' + city + ',' + lat + ',' + lon + ',' + mode + ',')
                             csvstring = str(freq) + ',' + city + ',' + lat + ',' + lon + ',' + mode + ',\n'
                             # Ignore HF and SHF
@@ -227,50 +265,60 @@ if __name__ == "__main__":
     #    3 = Fire Dispatch
     #    4 = EMS Dispatch
     #   15 = Aviation
+    #   20 = Railroad
+    #   21 = Other
+    #   30 = Military
+    #  208 = Custom1
 
     clients = [
-        # { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
-        # { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
-        # { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
-        # { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75"},
-        # { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75" },
-        # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30" },
-        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75" },
-        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Defence", "service_type": "15", "syskey": "0", "range": "75" },
-        # { "clientID": "476492", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "1412657", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "205799", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "85022", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "91419", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "1142881", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "46945", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "1313682", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "1314310", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
-        # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75" },
+        # { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Defence", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "476492", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1412657", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "205799", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "85022", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "91419", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1142881", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "46945", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1313682", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1314310", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         #
-        # { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "25" },
-        # { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "25" },
-        # { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25" },
-        # { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25" },
-        # { "clientID": "17661", "favourite": "Emerg Services", "system": "ASNSW2", "service_type": "4", "syskey": "2", "range": "25" },
-        # { "clientID": "5832", "favourite": "Emerg Services", "system": "RFS2", "service_type": "3", "syskey": "1", "range": "25" },
-        #{ "clientID": "37658", "system": "SJA" },
-        #{ "clientID": "516364", "system": "SES2" },
-        #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
-        #{ "clientID": "20019469", "system": "Low_Power" },
-        #{ "clientID": "20020998", "system": "RMS" },
-        # { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
-        # { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
-        # { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25" },
-        #{ "clientID": "20027621", "system": "OEH" },
-        #{ "clientID": "115634", "system": "NPWS" },
-        #{ "clientID": "20029221", "system": "QPRC" },
-        #{ "clientID": "46975", "favourite": "Defence", "system": "Defence", "service_type": "3", "syskey": "0", "range": "25"},
-        #{ "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "3", "syskey": "0", "range": "25" },
-        { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "3", "syskey": "0", "range": "25" },
+        # { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "37658", "favourite": "Emerg Services", "system": "SJA", "service_type": "4", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # Pagers & Airband
+        # { "clientID": "5832", "favourite": "Emerg Services", "system": "RFS2", "service_type": "3", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "516364", "favourite": "Emerg Services", "system": "SES2", "service_type": "1", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        #
+        # { "clientID": "20012756", "favourite": "NSW MISC", "system": "Federal Agencies", "service_type": "208", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20019469", "favourite": "NSW MISC", "system": "Low Power", "service_type": "208", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20020998", "favourite": "NSW MISC", "system": "RMS", "service_type": "208", "syskey": "2", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20027621", "favourite": "NSW MISC", "system": "OEH", "service_type": "208", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "115634", "favourite": "NSW MISC", "system": "NPWS", "service_type": "208", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        #
+        { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25" },
+        { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25" },
+        { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25" },
+        # { "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "21", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "P25" },
+        # { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "21", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "P25" },
+        #
+        # { "clientID": "CUSTOM", "favourite": "Rail", "system": "Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Marine", "system": "Marine", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        #
+        # Exceeds 2000 entries
+        # { "clientID": "46975", "favourite": "Defence", "system": "Defence", "service_type": "30", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
     ]
 
 
@@ -281,6 +329,7 @@ if __name__ == "__main__":
         service_type = item["service_type"]
         syskey = item["syskey"]
         range = item["range"]
+        widetag = item["widetag"]
         print('Processing ' + clientId + ' - ' + system)
 
         # Clean any pre-exising output
@@ -294,4 +343,4 @@ if __name__ == "__main__":
             # Get Freq and Site for each licence (creates CSV per client-id)
             offsets = ['0', '2000', '4000']
             for offset in offsets:
-                getRegistrations(clientLicences,clientId,system,offset)
+                getRegistrations(clientLicences,clientId,system,offset,widetag)

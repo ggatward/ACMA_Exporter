@@ -1177,3 +1177,23 @@ TGID			17 SOU RFS	Off	42006	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			18 TID RFS	Off	42007	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			19 HQ RFS	Off	42009	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			ACT HRB	Off	42009	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
+T-Group			NPWS	Off	-27.84	133.21	1400.0	Circle	14
+TGID			FCNSW	Off	20381	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			FCNSW	Off	20382	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			FCNSW	Off	20383	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			FCNSW	Off	20384	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			FCNSW	Off	20385	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			FCNSW	Off	20386	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			FCNSW	Off	20387	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			FCNSW	Off	20388	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			FCNSW	Off	20389	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20450	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20451	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20452	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20453	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20454	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20455	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20456	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20457	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20458	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	20459	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
