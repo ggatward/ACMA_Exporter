@@ -48,7 +48,7 @@ def getPoints(finalCSV):
 
 ####################################
 
-def groupSites(csvFile,points,service_type,syskey,range,systemType):
+def groupSites(csvFile,points,service_type,syskey,siteRange,systemType,colour,colourMode,tgids):
     x1 = csvFile.split('/')
     x2 = x1[1].split('_')
     favourite = x2[0]
@@ -56,7 +56,6 @@ def groupSites(csvFile,points,service_type,syskey,range,systemType):
     system = x3[0]
 
     fav1 = 'output/' + favourite + '.hpd'
-    fav2 = 'output/' + favourite + '_nogps.hpd'
 
     # Create the top-level favourite files (only if they don't already exist)
     if not os.path.exists(fav1):
@@ -65,16 +64,8 @@ def groupSites(csvFile,points,service_type,syskey,range,systemType):
         f1.write('FormatVersion\t1.00\r\n')
         f1.close()
 
-    # Headers for nogps file
-    if not os.path.exists(fav2):
-        f2 = open(fav2, 'w' ,newline='')
-        f2.write('TargetModel\tBCDx36HP\r\n')
-        f2.write('FormatVersion\t1.00\r\n')
-        f2.close()
-
 ### Use a loop sequence rather than clientID here ????
     s1 = open('output/' + favourite + '_' + system + '_merged' + '.hpd', 'a' ,newline='')
-    s2 = open('output/' + favourite + '_' + system + '_merged' + '_nogps.hpd', 'a' ,newline='')
 
     # Read in data from CSV
     sysdelay = '0'
@@ -83,12 +74,13 @@ def groupSites(csvFile,points,service_type,syskey,range,systemType):
     p25threshmode = 'Manual'
     anaagc = 'On'
     p25agc = 'On'
+    attenuator = 'Off'
+    delay = '2'
     # Trunking defaults
     idsearch = 'Off'
     endcode = 'Analog'
     modulation = 'AUTO'
     bandplan = 'Standard'
-
 
 # 6K00A3E = AM Voice
 # 10K1F3E = FM Voice, 12.5 kHz bandwidth
@@ -155,15 +147,11 @@ def groupSites(csvFile,points,service_type,syskey,range,systemType):
             # Generate HPD SYSTEM outputs
             if (systemType == "CONV"):
                 s1.write('Conventional\t\t\t' + system + '\tOff\t\tConventional\t' + syskey + '\t0\t' + sysdelay + '\t' + anaagc + '\t' + p25agc + '\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\r\n')
-                s2.write('Conventional\t\t\t' + system + '\tOff\t\tConventional\t' + syskey + '\t0\t' + sysdelay + '\t' + anaagc + '\t' + p25agc + '\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\r\n')
             if (systemType == "MOTO"):
                 s1.write('Trunk\t\t\t' + system + '\tOff\t\tMotorola\t' + idsearch + '\tOff\tAuto\tIgnore\tSrch\t' + syskey + '\tNone\t' + sysdelay + '\t' + anaagc + '\t' + p25agc + '\t' + endcode + '\tOff\tOff\tOn\r\n')
-                s2.write('Trunk\t\t\t' + system + '\tOff\t\tMotorola\t' + idsearch + '\tOff\tAuto\tIgnore\tSrch\t' + syskey + '\tNone\t' + sysdelay + '\t' + anaagc + '\t' + p25agc + '\t' + endcode + '\tOff\tOff\tOn\r\n')
             if (systemType == "P25"):
                 s1.write('Trunk\t\t\t' + system + '\tOff\t\tP25Standard\t' + idsearch + '\tOff\tAuto\tIgnore\tSrch\t' + syskey + '\tNone\t' + sysdelay + '\t' + anaagc + '\t' + p25agc + '\t' + endcode + '\tOff\tOff\tOn\r\n')
-                s2.write('Trunk\t\t\t' + system + '\tOff\t\tP25Standard\t' + idsearch + '\tOff\tAuto\tIgnore\tSrch\t' + syskey + '\tNone\t' + sysdelay + '\t' + anaagc + '\t' + p25agc + '\t' + endcode + '\tOff\tOff\tOn\r\n')
             s1.write('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\r\n')
-            s2.write('DQKs_Status\t\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\tOn\r\n')
 
         lastSystem = system
 
@@ -172,16 +160,29 @@ def groupSites(csvFile,points,service_type,syskey,range,systemType):
         for group in main_grouplist:
             if len(group) > 0:
                 groupId += 1
+                if (group[0][1] == 'NATIONWIDE'):
+                    range = '4500'
+                elif (group[0][1] == 'NSW-WIDE'):
+                    range = '450'
+                elif (group[0][1] == 'VIC-WIDE'):
+                    range = '200'
+                elif (group[0][1] == 'QLD-WIDE'):
+                    range = '750'
+                elif (group[0][1] == 'SA-WIDE'):
+                    range = '500'
+                elif (group[0][1] == 'WA-WIDE'):
+                    range = '825'
+                elif (group[0][1] == 'NT-WIDE'):
+                    range = '560'
+                elif (group[0][1] == 'TAS-WIDE'):
+                    range = '190'
+                else:
+                    range = siteRange
+
                 if (systemType == "CONV"):
-                    if (group[0][1] == 'STATEWIDE') or (group[0][1] == 'NATIONWIDE') or (group[0][2] == '0.0') or (group[0][2] == '0'):
-                        s2.write('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\tCircle\tNone\tGlobal\r\n')
-                    else:
-                        s1.write('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\tCircle\tNone\tGlobal\r\n')
+                    s1.write('C-Group\tCGroupId=' + str(groupId) +'\tAgencyId=0\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\tCircle\tNone\tGlobal\r\n')
                 if (systemType == "MOTO") or (systemType == "P25"):
-                    if (group[0][1] == 'STATEWIDE') or (group[0][1] == 'NATIONWIDE') or (group[0][2] == '0.0') or (group[0][2] == '0'):
-                        s2.write('Site\tSiteId=' + str(groupId) +'\tTrunkId=1\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\t' + modulation + '\t' + bandplan + '\tWide\tCircle\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\t' + str(siteId) + '\tOff\tGlobal\r\n')
-                    else:
-                        s1.write('Site\tSiteId=' + str(groupId) +'\tTrunkId=1\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\t' + modulation + '\t' + bandplan + '\tWide\tCircle\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\t' + str(siteId) + '\tOff\tGlobal\r\n')
+                    s1.write('Site\tSiteId=' + str(groupId) +'\tTrunkId=1\t' + group[0][1] + '\tOff\t' + group[0][2] + '\t' + group[0][3] + '\t' + range + '\t' + modulation + '\t' + bandplan + '\tWide\tCircle\tOff\t' + p25wait + '\t' + p25threshmode + '\t' + p25thresh + '\t' + str(siteId) + '\tOff\tGlobal\r\n')
 
                 # Output the CHANNELS data for the SITE
                 for line in group:
@@ -211,41 +212,28 @@ def groupSites(csvFile,points,service_type,syskey,range,systemType):
                             alphatag = line[5]
                     except:
                         alphatag = line[1]
-                    attenuator = 'Off'
-                    delay = '2'
 
                     if (systemType == "CONV"):
-                        if (group[0][1] == 'STATEWIDE') or (group[0][1] == 'NATIONWIDE') or (group[0][2] == '0.0') or (group[0][2] == '0'):
-                            s2.write('C-Freq\t\t\t' + alphatag + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
-                            s2.flush()
-                        else:
-                            s1.write('C-Freq\t\t\t' + alphatag + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\tOff\tOn\tOff\tOff\r\n')
-                            s1.flush()
+                        s1.write('C-Freq\t\t\t' + alphatag + '\t' + avoid + '\t' + str(freq) + '\t' + mode + '\t\t' + service_type + '\t' + attenuator + '\t' + delay + '\t0\tOff\tAuto\t' + colour + '\t' + colourMode + '\tOff\tOff\r\n')
+                        s1.flush()
                     if (systemType == "MOTO") or (systemType == "P25"):
-                        if (group[0][1] == 'STATEWIDE') or (group[0][1] == 'NATIONWIDE') or (group[0][2] == '0.0') or (group[0][2] == '0'):
-                            s2.write('T-Freq\tTFreqId=0\tSiteId=' + str(groupId) + '\t\t' + avoid + '\t' + str(freq) + '\t\tSrch\r\n')
-                            s2.flush()
-                        else:
-                            s1.write('T-Freq\tTFreqId=0\tSiteId=' + str(groupId) + '\t\t' + avoid + '\t' + str(freq) + '\t\tSrch\r\n')
-                            s1.flush()
+                        s1.write('T-Freq\tTFreqId=0\tSiteId=' + str(groupId) + '\t\t' + avoid + '\t' + str(freq) + '\t\tSrch\r\n')
+                        s1.flush()
 
+        # Add trunk data if relevant
+        if tgids != 'None':
+            print("Add TG IDs to system")
+            try:
+                with open('input/' + tgids) as tgfile:
+                    s1.write(tgfile.read())
+            except:
+                print('Cannot open input/' + tgids)
     s1.close()
-    s2.close()
 
 ####################################
 
 def mergeFiles(favourite):
-    print("Merging files for " + favourite)
-    hpdFileList1 = glob.glob('output/' + favourite + '_*_merged_nogps.hpd')
-    with open('output/' + favourite + '_nogps.hpd', 'a' ,newline='\r\n') as outfile:
-        for fname1 in hpdFileList1:
-            with open(fname1) as infile:
-                outfile.write(infile.read())
-            try:
-                os.remove(fname1)
-            except:
-                print("Error while deleting file : ", fname1)
-
+    print("Building final favourite file for " + favourite)
     hpdFileList2 = glob.glob('output/' + favourite + '_*_merged.hpd')
     with open('output/' + favourite + '.hpd', 'a' ,newline='\r\n') as outfile:
         for fname2 in hpdFileList2:
@@ -260,16 +248,22 @@ def mergeFiles(favourite):
 ####################################
 def prerunClean(favourite):
     hpdFileList = glob.glob('output/' + favourite + '*.hpd')
+    csvFileList = glob.glob('output/' + favourite + '*.csv')
     for filePath in hpdFileList:
+        try:
+            os.remove(filePath)
+        except:
+            print("Error while deleting file : ", filePath)
+    for filePath in csvFileList:
         try:
             os.remove(filePath)
         except:
             print("Error while deleting file : ", filePath)
 
 
-def cleanup(favourite,system,clientId):
-    hpdFileList = glob.glob('output/' + favourite + '_' + system + '*.hpd')
-    csvFileList = glob.glob('output/' + favourite + '_' + system + '_' + clientId + '.csv')
+def postrunCleanup(favourite):
+    hpdFileList = glob.glob('output/' + favourite + '*_merged.hpd')
+    csvFileList = glob.glob('output/' + favourite + '*.csv')
     for filePath in hpdFileList:
         try:
             os.remove(filePath)
@@ -337,61 +331,82 @@ if __name__ == "__main__":
     # 115634    OFFICE OF ENVIRONMENT AND HERITAGE (NPWS)
     # 20029221  QPRC
 
+    # 20011154  DEPARTMENT OF JUSTICE AND COMMUNITY SAFETY  (VICRMR)
+	# 1315913   DEPARTMENT OF JUSTICE AND COMMUNITY SAFETY  (VICMMR)
+
     # Service Types:
     #    1 = Multi Dispatch
     #    3 = Fire Dispatch
     #    4 = EMS Dispatch
+    #    8 = Fire-Tac
+    #    9 = EMS-Tac
+    #   11 = Interop
+    #   12 = Hospital
     #   15 = Aviation
     #   20 = Railroad
     #   21 = Other
+    #   24 = Fire-Talk
+    #   25 = EMS-Talk
+    #   26 = Transportation
+    #   29 = Emergency Ops
     #   30 = Military
+    #   34 = Utilities
     #  208 = Custom1
 
+    # Colours: Off, Blue, Red, Magenta, Green, Cyan, Yellow, White
+    # Colour Modes: On, Slow Blink, Fast Blink
+
+
     clients = [
-        # { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        # { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        # { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        # { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        # { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30", "system_type": "CONV" },
-        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75", "system_type": "CONV" },
-        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "476492", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "1412657", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "205799", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "85022", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "91419", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "1142881", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "46945", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "1313682", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "1314310", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "system_type": "CONV" },
-        # { "clientID": "46975", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Military", "service_type": "15", "syskey": "0", "range": "75", "system_type": "CONV" },
-        { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "2", "range": "25", "system_type": "CONV" },
-        { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "3", "range": "25", "system_type": "CONV" },
-        { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25", "system_type": "CONV" },
-        { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25", "system_type": "CONV" },
-        #{ "clientID": "17661", "system": "ASNSW2" },
-        #{ "clientID": "37658", "system": "SJA" },
-        #{ "clientID": "516364", "system": "SES2" },
-        #{ "clientID": "5832", "system": "RFS2" },
-        #{ "clientID": "20027621", "system": "OEH" },
-        #{ "clientID": "20012756", "system": "Commonwealth_Agencies" },
-        #{ "clientID": "20019469", "system": "Low_Power" },
-        #{ "clientID": "20020998", "system": "RMS" },
-        #{ "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
-        #{ "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
-        #{ "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
-        #{ "clientID": "115634", "favourite": "NPWS", "system": "NPWS", "service_type": "208", "syskey": "0", "range": "25", "system_type": "CONV" },
-        #{ "clientID": "20029221", "system": "QPRC" },
-        { "clientID": "46975_A", "favourite": "Defence", "system": "Military", "service_type": "30", "syskey": "0", "range": "25", "system_type": "CONV" },
-        # { "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
-        # { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "3", "syskey": "0", "range": "25", "system_type": "P25" },
-        { "clientID": "CUSTOM", "favourite": "Marine", "system": "Marine", "service_type": "21", "syskey": "0", "range": "25", "system_type": "CONV" },
-        { "clientID": "CUSTOM", "favourite": "Rail", "system": "Rail", "service_type": "20", "syskey": "0", "range": "25", "system_type": "CONV" },
+        # { "clientID": "391222", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "389917", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Defence", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "476492", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1412657", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "205799", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "85022", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "91419", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1142881", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "46945", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1313682", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1314310", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        #
+        # { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Green" },
+        # { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Yellow" },
+        # { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Red" },
+        # { "clientID": "CUSTOM", "favourite": "Emerg Services", "system": "RFS FG", "service_type": "8", "syskey": "2", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Red" },
+        # { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Red" },
+        # { "clientID": "37658", "favourite": "Emerg Services", "system": "SJA", "service_type": "4", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Green" },
+        # Pagers & Airband
+        # { "clientID": "5832", "favourite": "Emerg Services", "system": "RFS2", "service_type": "3", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "516364", "favourite": "Emerg Services", "system": "SES2", "service_type": "1", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        #
+        # { "clientID": "20012756", "favourite": "NSW MISC", "system": "Federal Agencies", "service_type": "208", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20019469", "favourite": "NSW MISC", "system": "Low Power", "service_type": "208", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20020998", "favourite": "NSW MISC", "system": "RMS", "service_type": "208", "syskey": "2", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "20027621", "favourite": "NSW MISC", "system": "OEH", "service_type": "208", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        # { "clientID": "115634", "favourite": "NSW MISC", "system": "NPWS", "service_type": "208", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        #
+        { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25", "tgids": "NSW PSN_TGs" },
+        { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25", "tgids": "NSW PSN_TGs" },
+        { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25", "tgids": "NSW PSN_TGs" },
+        # { "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "21", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "P25", "tgids": "VIC RMR_TGs" },
+        # { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "21", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "P25", "tgids": "VIC MMR_TGs" },
+        #
+        # { "clientID": "CUSTOM", "favourite": "Rail", "system": "Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Marine", "system": "Marine", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        #
+        # Exceeds 2000 entries
+        # { "clientID": "46975", "favourite": "Defence", "system": "Defence", "service_type": "30", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
     ]
 
     global lastSystem
@@ -400,6 +415,8 @@ if __name__ == "__main__":
     favouriteList = []
     global csvList
     csvList = []
+    global isAviation
+    isAviation = False
 
     for item in clients:
         favourite = item["favourite"]
@@ -416,14 +433,24 @@ if __name__ == "__main__":
         syskey = item["syskey"]
         range = item["range"]
         systemType = item["system_type"]
-        print('Processing ' + clientId + ' - ' + system)
+        try:
+            colour = item["colour"]
+        except:
+            colour = 'Off'
+        try:
+            colourMode = item["colourMode"]
+        except:
+            colourMode = 'On'
+        try:
+            tgids = item["tgids"]
+        except:
+            tgids = 'None'
 
-        # Clean any pre-exising output
-        cleanup(favourite,system,clientId)
+        print('Processing ' + clientId + ' - ' + system)
 
         # Combine all the CSVs from the same system
         finalCSV = combineCSV(favourite,system)
-        csvDataString = finalCSV + ',' + service_type + ',' + syskey + ',' + range + ',' + systemType
+        csvDataString = finalCSV + ',' + service_type + ',' + syskey + ',' + range + ',' + systemType + ',' + colour + ',' + colourMode + ',' + tgids
         if csvDataString not in csvList:
             csvList.append(csvDataString)
 
@@ -435,12 +462,20 @@ if __name__ == "__main__":
         syskey = myData[2]
         range = myData[3]
         systemType = myData[4]
+        colour = myData[5]
+        colourMode = myData[6]
+        tgids = myData[7]
 
         # Build our mega csv file
         fv1 = csvFile.split('/')[1]
         favourite = fv1.split('_')[0]
         system = fv1.split('_')[1].split('.')[0]
-        print(system)
+        print("Merging sites for "+favourite+" - "+system)
+        if favourite == 'Aviation':
+            isAviation = True
+        else:
+            isAviation = False
+
         # Merge all Aviation csv's into one
         if favourite == 'Aviation' and system != 'Airservices RFF':
             print(csvFile)
@@ -461,15 +496,16 @@ if __name__ == "__main__":
 
         # Group nearby sites together
         if favourite == 'Aviation' and system != 'Airservices RFF':
-            print("Ignoring Aviation")
+            pass
         else:
             points=getPoints(csvFile)
-            groupSites(csvFile,points,service_type,syskey,range,systemType)
+            groupSites(csvFile,points,service_type,syskey,range,systemType,colour,colourMode,tgids)
 
     # Processing for Aviation lists
-    print("Processing Aviation")
-    points=getPoints('output/Aviation_Aviation.csv')
-    groupSites('output/Aviation_Aviation.csv',points,'15','0','75','CONV')
+    if isAviation == True:
+        print("Processing Aviation Data")
+        points=getPoints('output/Aviation_Aviation.csv')
+        groupSites('output/Aviation_Aviation.csv',points,'15','0','75','CONV',colour,colourMode,tgids)
 
 
     for favourite in favouriteList:
@@ -477,3 +513,9 @@ if __name__ == "__main__":
 
     # Append TGID files to trunk hpd's
 #    print("Appending NSW PSN TGIDs")
+
+    # Clean any leftover processing output
+    for favourite in favouriteList:
+        postrunCleanup(favourite)
+    # Final Aviation cleanup
+    postrunCleanup('Aviation')
