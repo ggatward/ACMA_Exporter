@@ -1,0 +1,93 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Marine	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	NATIONWIDE	Off	-27.84	133.21	4500	Circle	None	Global
+C-Freq			60(Land) Public Correspondence	Off	156025000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			60(Ship) Public Correspondence	Off	160625000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1(Land) Public Correspondence	Off	156050000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1(Ship) Public Correspondence	Off	160650000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			61(Land) Public Correspondence	Off	156075000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			61(Ship) Public Correspondence	Off	160675000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2(Land) Public Correspondence	Off	156100000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2(Ship) Public Correspondence	Off	160700000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			62(Land) Public Correspondence	Off	156125000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			62(Ship) Public Correspondence	Off	160725000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			3(Land) Public Correspondence	Off	156150000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			3(Ship) Public Correspondence	Off	160750000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			63(Land) Public Correspondence	Off	156175000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			63(Ship) Public Correspondence	Off	160775000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			4(Land) Public Correspondence	Off	156200000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			4(Ship) Public Correspondence	Off	160800000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			64(Land) Port Operations	Off	156225000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			64(Ship) Port Operations	Off	160825000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			5(Land) Public Correspondence	Off	156250000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			5(Ship) Public Correspondence	Off	160850000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			65(Land) Port Operations	Off	156275000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			65(Ship) Port Operations	Off	160875000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			6 Search and Rescue	Off	156300000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			66(Land) Public Correspondence	Off	156325000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			66(Ship) Public Correspondence	Off	160925000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7(Land) Public Correspondence	Off	156350000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			7(Ship) Public Correspondence	Off	160950000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			67 Distress urgency and Safety	Off	156375000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			8 Port Operations	Off	156400000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			68 Port Operations	Off	156425000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			9 Port Operations	Off	156450000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			69 RAN	Off	156475000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			10 Port Operations	Off	156500000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			70 Distress	Off	156525000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			11 Port Operations	Off	156550000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			71 Professional Fishing	Off	156575000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			12 Port Operations	Off	156600000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			72 Port Operations	Off	156625000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			13 Port Operations	Off	156650000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			73 Non-commercial Operations	Off	156675000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			14 Port Operations	Off	156700000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			74 Commercial Operations	Off	156725000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			15 Commercial Operations	Off	156750000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			75 AIS Satellite	Off	156775000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			16 Distress	Off	156800000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			76 AIS Satellite	Off	156825000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			17 Commercial Operations	Off	156850000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			77 Professional Fishing	Off	156875000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			18(Land) Port Operations	Off	156900000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			18(Ship) Port Operations	Off	161500000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			78(Land) Commercial Operations	Off	156925000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			78(Ship) Commercial Operations	Off	161525000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1019 Port Operations	Off	156950000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			79(Land) Port Operations	Off	156975000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			79(Ship) Port Operations	Off	161575000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			20(Land) Port Operations	Off	157000000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			20(Ship) Port Operations	Off	161600000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			80 Repeater	Off	161625000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			21 Repeater	Off	161650000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			81 Repeater	Off	161675000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			22 Repeater	Off	161700000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			82 Repeater	Off	161725000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			23(Land) Public Correspondence	Off	157150000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			23(Ship) Public Correspondence	Off	161750000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			83(Land) Public Correspondence	Off	157175000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			83(Ship) Public Correspondence	Off	161775000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			24(Land) VHF Data Exchange System	Off	157200000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			24(Ship) VHF Data Exchange System	Off	161800000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			84(Land) VHF Data Exchange System	Off	157225000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			84(Ship) VHF Data Exchange System	Off	161825000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			25(Land) VHF Data Exchange System	Off	157250000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			25(Ship) VHF Data Exchange System	Off	161850000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			85(Land) VHF Data Exchange System	Off	157275000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			85(Ship) VHF Data Exchange System	Off	161875000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1026 VHF Data Exchange System	Off	157300000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1086 VHF Data Exchange System	Off	157325000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1027 Port Operations	Off	157350000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			87 Port Operations	Off	157375000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1028 Port Operations	Off	157400000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			88 Port Operations	Off	157425000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2006 Experimental use	Off	160900000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2027 ASM1	Off	161950000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AIS1	Off	161975000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2028 ASM2	Off	162000000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AIS2	Off	162025000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2019 Port Operations	Off	161550000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2026 VHF Data Exchange System	Off	161900000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2086 VHF Data Exchange System	Off	161925000	NFM		21	Off	2	0	Off	Auto	Off	On	Off	Off

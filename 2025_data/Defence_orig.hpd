@@ -1,0 +1,669 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Defence	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	LONGREACH	Off	-23.659267	144.147773	25	Circle	None	Global
+C-Freq			LONGREACH	Off	30600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LONGREACH	Off	33200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LONGREACH	Off	39700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LONGREACH	Off	44999950	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	NATIONWIDE	Off	-27.84	133.21	4500	Circle	None	Global
+C-Freq			NATIONWIDE	Off	31100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	31150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	31200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	31250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	31300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33049999	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	33600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	37100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	37300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	37800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	37850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	37950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	38000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	39300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	39350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	39400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	39450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	39700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	40200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	40400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	40800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	40850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	41000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	42000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	42300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	42350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	42400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	42600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	44000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	44100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	44200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	44450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	44500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	44600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	44800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	45000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	45200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	45650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	45700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	45725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	45900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	46200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	46900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	46950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	47400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	47500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	47600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	47800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	48100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	48300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	48600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	48750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	48900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	49875000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	50950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	51000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	51300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	51600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	51800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54525000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54575000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	54900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55275000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55875000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	55950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60525000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	60950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	61975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	63000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	63025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	63400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	65200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67099999	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	67950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	68950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	69000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	69400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	69850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	69900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	69925000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	69950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	73100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	78040000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	79000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	84000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	84630000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	84750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	138150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	138780000	AM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	141900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	142100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	142400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151312500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151387500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151475000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151537500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151575000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151587500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151700000	AM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151775000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	151800000	AM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	152300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	152375000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	152450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	152475000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	156025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	157675000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	159790000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	168300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	171500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	172925000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	402000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	403000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	415550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	425000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	428350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	438250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	457025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	467050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	467075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	469950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	 BLUEWATER PARK	Off	-19.215134	146.334429	25	Circle	None	Global
+C-Freq			 BLUEWATER PARK	Off	72300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			 BLUEWATER PARK	Off	76300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			 BLUEWATER PARK	Off	77200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	STONEY HEAD	Off	-41.015539	147.029283	25	Circle	None	Global
+C-Freq			STONEY HEAD	Off	72325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			STONEY HEAD	Off	77975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			STONEY HEAD	Off	82325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Stony Head	Off	150425000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Stony Head	Off	150462500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Stony Head	Off	150512500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Stony Head	Off	150550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Stony Head	Off	150575000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Stony Head	Off	150993750	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Stony Head	Off	151025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	COWLEY BEACH	Off	-17.687914	146.114424	25	Circle	None	Global
+C-Freq			COWLEY BEACH	Off	72325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COWLEY BEACH	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COWLEY BEACH	Off	82325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Cowley Beach	Off	150587500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Cowley Beach	Off	150625000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Cowley Beach	Off	150675000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Cowley Beach	Off	150712500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Cowley Beach	Off	150737500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	MURRAY BRIDGE	Off	-35.129923	139.358052	25	Circle	None	Global
+C-Freq			MURRAY BRIDGE	Off	72325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MURRAY BRIDGE	Off	77775000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MURRAY BRIDGE	Off	82325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MURRAY BRIDGE	Off	150650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MURRAY BRIDGE	Off	150687500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MURRAY BRIDGE	Off	150737500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MURRAY BRIDGE	Off	150775000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MURRAY BRIDGE	Off	150800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	CANUNGRA	Off	-28.008408	153.204452	25	Circle	None	Global
+C-Freq			CANUNGRA	Off	72325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANUNGRA	Off	78125000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LOWER BEECHMONT 	Off	150662500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LOWER BEECHMONT 	Off	150700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LOWER BEECHMONT 	Off	150750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LOWER BEECHMONT 	Off	150787500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LOWER BEECHMONT 	Off	150812500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	LANCELIN	Off	-30.839573	115.229026	25	Circle	None	Global
+C-Freq			LANCELIN	Off	72325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	150575000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	150612500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	ENOGGERA	Off	-27.426034	152.984974	25	Circle	None	Global
+C-Freq			ENOGGERA	Off	72350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ENOGGERA	Off	77975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ENOGGERA	Off	82400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	BINDOON	Off	-31.307034	116.309248	25	Circle	None	Global
+C-Freq			BINDOON	Off	72350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	77975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151187500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151187500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151237500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151237500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151275000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151275000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	151300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	MT BUNDEY	Off	-13.065156	132.486834	25	Circle	None	Global
+C-Freq			MT BUNDEY	Off	72350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	DARWIN	Off	-12.444852	130.976406	25	Circle	None	Global
+C-Freq			DARWIN	Off	72450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150487500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150537500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150575000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	MT STUART	Off	-19.344664	146.7764	25	Circle	None	Global
+C-Freq			MT STUART	Off	72475000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT STUART	Off	82475000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150900000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150925000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150925000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150925000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	150975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	151000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	151000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	151000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	151025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mount Stuart	Off	151025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOWNSVILLE	Off	461100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOWNSVILLE	Off	469775000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	GREENBANK	Off	-27.688031	152.993559	25	Circle	None	Global
+C-Freq			GREENBANK	Off	72475000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENBANK	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	SINGLETON	Off	-32.632842	151.170125	25	Circle	None	Global
+C-Freq			SINGLETON	Off	72600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Singleton	Off	150475000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Singleton	Off	150512500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Singleton	Off	150625000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	WIDE BAY	Off	-25.895336	152.913245	25	Circle	None	Global
+C-Freq			WIDE BAY	Off	72600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	SHOALWATER BAY	Off	-22.54094	150.293748	25	Circle	None	Global
+C-Freq			SHOALWATER BAY	Off	72650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SHOALWATER BAY	Off	78075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SHOALWATER BAY	Off	78325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	BRADSHAW	Off	-14.953955	130.627651	25	Circle	None	Global
+C-Freq			BRADSHAW	Off	77650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	HOLSWORTHY	Off	-34.081024	150.903748	25	Circle	None	Global
+C-Freq			HOLSWORTHY	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	82400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	150962500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	151025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	151212500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	151275000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	BUCKLAND	Off	-42.448978	147.794913	25	Circle	None	Global
+C-Freq			BUCKLAND	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUCKLAND	Off	82400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUCKLAND	Off	150662500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUCKLAND	Off	150700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUCKLAND	Off	150750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Buckland	Off	150750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Buckland	Off	150787500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUCKLAND	Off	150787500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUCKLAND	Off	150812500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Buckland	Off	150812500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	GOLLA NORTH	Off	-15.248659	130.478117	25	Circle	None	Global
+C-Freq			GOLLA NORTH	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	PUCKAPUNYAL	Off	-37.000429	145.040154	25	Circle	None	Global
+C-Freq			PUCKAPUNYAL	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mt Puckapunyal	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mt Puckapunyal	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mt Puckapunyal	Off	151250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mt Puckapunyal	Off	151287500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mt Puckapunyal	Off	151312500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT PUCKAPUNYAL	Off	163650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	MT BUNDEY	Off	-12.860045	131.826827	25	Circle	None	Global
+C-Freq			MT BUNDEY	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BUNDEY	Off	82400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT BUNDEY	Off	163075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	SHOALWATER BAY	Off	-22.376575	150.573096	25	Circle	None	Global
+C-Freq			SHOALWATER BAY	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT WESTALL	Off	156375000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT WESTALL	Off	156800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	KAPOOKA	Off	-35.162784	147.271908	25	Circle	None	Global
+C-Freq			KAPOOKA	Off	77975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KAPOOKA	Off	82325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Yarragundry	Off	150400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Yarragundry	Off	150437500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Yarragundry	Off	150487500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Yarragundry	Off	150525000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Yarragundry	Off	150550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KAPOOKA	Off	165340000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	TOWNSVILLE	Off	-19.452721	146.404696	25	Circle	None	Global
+C-Freq			TOWNSVILLE	Off	77975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	150637500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	150675000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	150762500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	150787500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	163031250	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	163481250	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	CULTANA	Off	-32.520115	138.008841	25	Circle	None	Global
+C-Freq			CULTANA	Off	77975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Woolundunga	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Woolundunga	Off	150637500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Woolundunga	Off	150687500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Woolundunga	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Woolundunga	Off	150750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	TULLY	Off	-17.886969	145.812626	25	Circle	None	Global
+C-Freq			TULLY	Off	77975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	82350000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	150912500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	150950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	151000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	151037500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	151062500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	JERVIS BAY	Off	-35.122599	150.708673	25	Circle	None	Global
+C-Freq			JERVIS BAY	Off	80640000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	KANGAROO FLATS	Off	-12.786565	130.841816	25	Circle	None	Global
+C-Freq			KANGAROO FLATS	Off	82325000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	CULTANA	Off	-32.539722	137.684742	25	Circle	None	Global
+C-Freq			CULTANA	Off	82400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Port Augusta	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Port Augusta	Off	150637500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Port Augusta	Off	150687500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Port Augusta	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Port Augusta	Off	150750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	SHOALWATER BAY	Off	-22.777034	150.432765	25	Circle	None	Global
+C-Freq			SHOALWATER BAY	Off	82400000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=33	AgencyId=0	TOWNSVILLE	Off	-19.275314	146.112239	25	Circle	None	Global
+C-Freq			TOWNSVILLE	Off	82450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=34	AgencyId=0	WOOMERA	Off	-31.307589	136.81841	25	Circle	None	Global
+C-Group	CGroupId=35	AgencyId=0	NORTH HEAD	Off	-33.812196	151.29931	25	Circle	None	Global
+C-Freq			GARDEN ISLAND	Off	156200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=36	AgencyId=0	BANDIANA	Off	-36.149338	146.917881	25	Circle	None	Global
+C-Group	CGroupId=37	AgencyId=0	DARWIN	Off	-12.398579	130.867544	25	Circle	None	Global
+C-Freq			DARWIN	Off	151340000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	157630000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	415550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	468200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=38	AgencyId=0	DARWIN	Off	-12.444852	130.976406	25	Circle	None	Global
+C-Freq			DARWIN	Off	72450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	77825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150487500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150537500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150575000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	468200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=39	AgencyId=0	Shoalwater Bay	Off	-22.824444	150.339444	25	Circle	None	Global
+C-Freq			Shoalwater Bay	Off	150550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Shoalwater Bay	Off	150675000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Shoalwater Bay	Off	150700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=40	AgencyId=0	Singleton	Off	-32.725833	151.139722	25	Circle	None	Global
+C-Freq			Singleton	Off	150562500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Singleton	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=41	AgencyId=0	Lincoln Gap	Off	-32.695	137.565556	25	Circle	None	Global
+C-Freq			Lincoln Gap	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Lincoln Gap	Off	150637500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Lincoln Gap	Off	150687500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Lincoln Gap	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Lincoln Gap	Off	150750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=42	AgencyId=0	South Point	Off	-32.895	137.324444	25	Circle	None	Global
+C-Freq			South Point	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			South Point	Off	150637500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			South Point	Off	150687500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			South Point	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			South Point	Off	150750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=43	AgencyId=0	CULTANA	Off	-32.80998	137.696578	25	Circle	None	Global
+C-Freq			CULTANA	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CULTANA	Off	150637500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CULTANA	Off	150687500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CULTANA	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CULTANA	Off	150750000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=44	AgencyId=0	Hervey Range 	Off	-19.441667	146.520556	25	Circle	None	Global
+C-Freq			Hervey Range 	Off	150650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Hervey Range 	Off	150675000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Hervey Range 	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Hervey Range 	Off	150775000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Hervey Range 	Off	150800000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=45	AgencyId=0	Dotswood	Off	-19.628056	146.315	25	Circle	None	Global
+C-Freq			Dotswood	Off	150675000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	151087500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	151212500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	151237500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=46	AgencyId=0	Granite Vale	Off	-19.601667	146.549444	25	Circle	None	Global
+C-Freq			Granite Vale	Off	150675000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Granite Vale	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Granite Vale	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Granite Vale	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Granite Vale	Off	151225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=47	AgencyId=0	PORT WAKEFIELD	Off	-34.254774	138.178805	25	Circle	None	Global
+C-Freq			PORT WAKEFIELD	Off	150687500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT WAKEFIELD	Off	150812500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT WAKEFIELD	Off	150837500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=48	AgencyId=0	Parham	Off	-34.416389	138.251944	25	Circle	None	Global
+C-Freq			Parham	Off	150687500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Parham	Off	150812500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Parham	Off	150837500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=49	AgencyId=0	Learmonth	Off	-22.245134	114.084044	25	Circle	None	Global
+C-Freq			Learmonth	Off	150700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Learmonth	Off	150737500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Learmonth	Off	150787500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Learmonth	Off	150825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Learmonth	Off	150850000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=50	AgencyId=0	Dotswood	Off	-19.161389	146.2025	25	Circle	None	Global
+C-Freq			Dotswood	Off	150725000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	150887500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	151012500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dotswood	Off	151037500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=51	AgencyId=0	DELAMERE	Off	-15.625458	131.92958	25	Circle	None	Global
+C-Freq			DELAMERE	Off	150825000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DELAMERE	Off	150950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DELAMERE	Off	150975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=52	AgencyId=0	Walter Hill	Off	-17.796111	145.780278	25	Circle	None	Global
+C-Freq			Walter Hill	Off	150912500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	150950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	151000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	151037500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Walter Hill	Off	151062500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=53	AgencyId=0	Exmouth Gulf	Off	-22.456389	113.855833	25	Circle	None	Global
+C-Freq			Exmouth Gulf	Off	150925000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	150950000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	150962500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	150987500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	151012500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	151037500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	151050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Exmouth Gulf	Off	151100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=54	AgencyId=0	HOLSWORTHY	Off	-33.977269	150.926538	25	Circle	None	Global
+C-Freq			HOLSWORTHY	Off	150962500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	151025000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	151212500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	151275000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOOREBANK	Off	161200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=55	AgencyId=0	DELAMERE	Off	-15.430511	131.656952	25	Circle	None	Global
+C-Freq			DELAMERE	Off	150975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DELAMERE	Off	151100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DELAMERE	Off	151125000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=56	AgencyId=0	Marrangaroo	Off	-33.430278	150.1425	25	Circle	None	Global
+C-Freq			Marrangaroo	Off	150975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marrangaroo	Off	151012500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marrangaroo	Off	151100000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marrangaroo	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marrangaroo	Off	151250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=57	AgencyId=0	Majura	Off	-35.246944	149.210278	25	Circle	None	Global
+C-Freq			Majura	Off	151050000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Majura	Off	151087500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Majura	Off	151137500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Majura	Off	151175000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Majura	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=58	AgencyId=0	Greenvale	Off	-19.0825	144.974167	25	Circle	None	Global
+C-Freq			Greenvale	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151112500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=59	AgencyId=0	Basalt	Off	-19.566667	144.631389	25	Circle	None	Global
+C-Freq			Basalt	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Basalt	Off	151112500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Basalt	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Basalt	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Basalt	Off	151225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=60	AgencyId=0	Greenvale	Off	-19.15	145.155556	25	Circle	None	Global
+C-Freq			Greenvale	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151112500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=61	AgencyId=0	Greenvale	Off	-19.302222	144.933333	25	Circle	None	Global
+C-Freq			Greenvale	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151112500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=62	AgencyId=0	Greenvale	Off	-19.478056	144.951944	25	Circle	None	Global
+C-Freq			Greenvale	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151112500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=63	AgencyId=0	Greenvale	Off	-19.319167	144.665	25	Circle	None	Global
+C-Freq			Greenvale	Off	151075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151112500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151162500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Greenvale	Off	151225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=64	AgencyId=0	TINDAL	Off	-14.503272	132.395522	25	Circle	None	Global
+C-Freq			TINDAL	Off	151340000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TINDAL	Off	163150000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TINDAL	Off	440250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TINDAL	Off	461650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TINDAL	Off	468200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TINDAL	Off	468500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=65	AgencyId=0	HMAS CERBERUS	Off	-38.369022	145.186925	25	Circle	None	Global
+C-Freq			HMAS CERBERUS	Off	156475000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=66	AgencyId=0	CAIRNS	Off	-16.936583	145.777811	25	Circle	None	Global
+C-Freq			CAIRNS	Off	156475000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAIRNS	Off	415550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=67	AgencyId=0	ALICE SPRINGS	Off	-23.722188	133.856696	25	Circle	None	Global
+C-Freq			ALICE SPRINGS	Off	157570000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	467700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	468700000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=68	AgencyId=0	HARTS RANGE	Off	-22.961601	134.451256	25	Circle	None	Global
+C-Freq			HARTS RANGE	Off	157600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=69	AgencyId=0	HUMPTY DOO	Off	-12.608678	131.281296	25	Circle	None	Global
+C-Freq			HUMPTY DOO	Off	157630000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=70	AgencyId=0	ALICE SPRINGS	Off	-23.098556	133.717933	25	Circle	None	Global
+C-Freq			ALICE SPRINGS	Off	157675000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=71	AgencyId=0	BONSHAW	Off	-35.349639	149.198462	25	Circle	None	Global
+C-Freq			BONSHAW	Off	161000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=72	AgencyId=0	93 MILE TANK	Off	-31.35104	136.990469	25	Circle	None	Global
+C-Freq			93 MILE TANK	Off	162375000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=73	AgencyId=0	WIDE BAY	Off	-25.892845	152.194427	25	Circle	None	Global
+C-Freq			WIDE BAY	Off	163225000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=74	AgencyId=0	MT PHIPPS	Off	-22.665195	150.333636	25	Circle	None	Global
+C-Freq			MT PHIPPS	Off	163481250	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=75	AgencyId=0	EDINBURGH	Off	-34.730182	138.640883	25	Circle	None	Global
+C-Freq			EDINBURGH	Off	400035000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EDINBURGH	Off	461656250	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=76	AgencyId=0	WOOMERA	Off	-30.709657	136.123564	25	Circle	None	Global
+C-Freq			WOOMERA	Off	400500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=77	AgencyId=0	GLADSTONE	Off	-23.832056	151.256798	25	Circle	None	Global
+C-Freq			GLADSTONE	Off	415550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=78	AgencyId=0	FREMANTLE	Off	-32.047485	115.748112	25	Circle	None	Global
+C-Freq			FREMANTLE	Off	415550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=79	AgencyId=0	BEERMULLAH	Off	-31.272339	115.830599	25	Circle	None	Global
+C-Freq			BEERMULLAH	Off	440300000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=80	AgencyId=0	PEARCE	Off	-31.668723	116.020031	25	Circle	None	Global
+C-Freq			PEARCE	Off	440600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=81	AgencyId=0	WILLIAMTOWN	Off	-32.79303	151.837569	25	Circle	None	Global
+C-Freq			WILLIAMTOWN	Off	440650000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=82	AgencyId=0	NOWRA	Off	-34.937183	150.571511	25	Circle	None	Global
+C-Freq			NOWRA	Off	441250000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=83	AgencyId=0	OAKEY	Off	-27.412658	151.735004	25	Circle	None	Global
+C-Freq			OAKEY	Off	441500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=84	AgencyId=0	WEIPA	Off	-12.622569	142.079243	25	Circle	None	Global
+C-Freq			WEIPA	Off	450200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEIPA	Off	460200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=85	AgencyId=0	BRADSHAW	Off	-15.600891	130.45461	25	Circle	None	Global
+C-Freq			BRADSHAW	Off	450212500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=86	AgencyId=0	GARDEN ISLAND	Off	-32.224361	115.683984	25	Circle	None	Global
+C-Freq			GARDEN ISLAND	Off	457550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=87	AgencyId=0	DERBY	Off	-17.574731	123.830792	25	Circle	None	Global
+C-Freq			DERBY	Off	461975000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DERBY	Off	468500000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=88	AgencyId=0	PORT ADELAIDE	Off	-34.844069	138.50029	25	Circle	None	Global
+C-Freq			PORT ADELAIDE	Off	467962500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=89	AgencyId=0	WOOMERA	Off	-31.148602	136.801974	25	Circle	None	Global
+C-Freq			WOOMERA	Off	468143750	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOMERA	Off	492000000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOMERA	Off	495075000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=90	AgencyId=0	DARWIN	Off	-12.398579	130.867544	25	Circle	None	Global
+C-Freq			Robertson Barracks	Off	150450000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150487500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150537500	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150575000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Robertson Barracks	Off	150600000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	151340000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	157630000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	415550000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	468200000	NFM		30	Off	2	0	Off	Auto	Off	On	Off	Off

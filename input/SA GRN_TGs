@@ -1,0 +1,331 @@
+T-Group			MFS	Off	-32.1365	134.8854	500.0	Circle	1
+TGID			150 MFS DISPATCH	Off	649	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			151 MFS C21	Off	1011	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			152 MFS C22	Off	1013	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			153 MFS C23	Off	651	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			154 MFS C24	Off	1195	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			155 MFS C25	Off	1197	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			156 MFS C26	Off	653	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			157 MFS C27	Off	655	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			158 MFS C28	Off	657	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			159 MFS C29	Off	659	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			160 MFS C30	Off	1199	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			161 MFS C31	Off	1201	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			162 MFS C32	Off	1203	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			163 MFS C33	Off	661	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			164 MFS C34	Off	663	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			165 MFS C35	Off	665	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			166 MFS C36	Off	667	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			167 MFS C37	Off	669	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			168 MFS C38	Off	671	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			169 MFS C39	Off	673	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			170 MFS C40	Off	2563	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			171 MFS C41	Off	2735	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			172 MFS C42	Off	2737	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			173 MFS C43	Off	2739	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			174 MFS C44	Off	2741	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			175 MFS C45	Off	2743	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			176 MFS C46	Off	2745	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			177 MFS C47	Off	2747	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			178 MFS C48	Off	2749	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			179 MFS C49	Off	2751	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			180 MFS EMERG	Off	1181	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			192 MFS WEST COAST	Off	3187	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			193 MFS RIVERLAND	Off	2693	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			194 MFS MID NORTH	Off	1015	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			195 MFS STH EAST	Off	1017	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			197 MFS CQ1	Off	1019	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			198 MFS CQ2	Off	1021	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			199 MFS CQ3	Off	1023	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+T-Group			SES	Off	-32.1365	134.8854	500.0	Circle	2
+TGID			001 OPS 1	Off	825	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			002 OPS 2	Off	827	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			003 OPS 3	Off	829	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			004 OPS 4	Off	831	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			005 OPS 5	Off	833	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			006 OPS 6	Off	835	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			007 OPS 7	Off	837	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			009 SOUTH REGION	Off	841	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			010 NORTH REGION	Off	843	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			011 NTHN ADELAIDE	Off	845	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			012 OUTBACK	Off	839	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			013 STHN ADELAIDE	Off	847	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			014 HILLS FLEURIEU	Off	849	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			015 YORKE	Off	851	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			016 RIVERLAND	Off	853	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			017 MID NORTH	Off	3205	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			018 FLINDERS	Off	3207	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			019 SOUTH EAST	Off	2593	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			020 EYRE PENINSULA	Off	3209	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			021 ANDAMOOKA	Off	3211	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			022 BARMERA	Off	3213	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			023 BERRI	Off	3215	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			024 BLANCHETOWN	Off	3217	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			025 BOOLEROO CENTRE	Off	3219	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			026 BORDERTOWN	Off	2595	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			027 BURRA	Off	855	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			028 BUTE	Off	857	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			029 CAMPBELLTOWN	Off	859	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			030 CEDUNA	Off	3221	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			031 CLARE	Off	861	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			032 CLEVE	Off	3223	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			033 COCKBURN	Off	2609	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			035 CUMMINS	Off	3287	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			036 ESTN SUBURBS	Off	863	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			037 ENFIELD	Off	865	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			038 HALLETT	Off	867	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			039 HAWKER	Off	3273	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			040 KINGSCOTE	Off	2597	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			041 KAPUNDA	Off	869	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			042 KEITH	Off	871	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			043 KIMBA	Off	3229	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			044 KINGSTON	Off	2599	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			045 LAURA	Off	3231	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			046 LEIGH CREEK	Off	3233	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			047 LOXTON	Off	3235	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			048 MAITLAND	Off	873	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			050 MENINGIE	Off	875	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			051 MITCHAM	Off	877	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			053 MT BARKER	Off	517	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			054 MT GAMBIER	Off	2611	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			055 MURRAY BRIDGE	Off	881	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			056 NOARLUNGA	Off	533	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			057 SALISBURY	Off	515	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			058 NULLARBOR	Off	3241	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			059 NUNDROO	Off	3243	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			060 ONKAPARINGA	Off	887	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			061 PT AUGUSTA	Off	3245	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			062 PT BROUGHTON	Off	981	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			063 PT LINCOLN	Off	3247	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			064 PT PIRIE	Off	3249	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			065 PROSPECT	Off	535	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			066 QUORN	Off	3251	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			067 RENMARK	Off	3253	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			068 ROXBY DOWNS	Off	3255	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			069 SADDLEWORTH	Off	891	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			070 SNOWTOWN	Off	893	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			071 SOUTH COAST	Off	895	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			072 SPALDING	Off	897	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			073 STRATHALBYN	Off	899	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			074 STREAKY BAY	Off	3257	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			075 STURT	Off	537	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			076 TEA TREE GULLEY	Off	539	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			077 TUMBY BAY	Off	3259	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			078 WAROOKA	Off	905	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			079 WATTLE RANGE	Off	2601	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			080 WSTN ADELAIDE	Off	541	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			081 WHYALLA	Off	3261	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			082 WUDINNA	Off	3263	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			083 YANKALILLA	Off	909	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			084 EMERG CALL	Off	911	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			101 A OPS 1	Off	913	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			102 A OPS 2	Off	915	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			103 A OPS 3	Off	917	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			104 A OPS 4	Off	919	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			105 A OPS 5	Off	921	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			106 A OPS 6	Off	923	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			107 A OPS 7	Off	925	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			109 SOUTH REGION	Off	929	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			110 NORTH REGION	Off	931	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			111 NTHN ADELAIDE	Off	933	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			112 OUTBACK	Off	927	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			113 STHN ADELAIDE	Off	935	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			114 HILLS FLEURIEU	Off	937	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			115 YORKE	Off	939	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			116 RIVERLAND	Off	941	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			117 MID NORTH	Off	3265	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			118 FLINDERS	Off	3267	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			119 SOUTH EAST	Off	2603	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			120 EYRE PENINSULA	Off	3269	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+T-Group			CFS	Off	-32.1365	134.8854	500.0	Circle	4
+TGID			001 R6 INC05	Off	3157	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			002 R6 INC06	Off	3161	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			003 R6 INC07	Off	3165	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			004 R6 INC08	Off	3169	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			005 R6 INC09	Off	3313	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			006 R6 INC10	Off	3315	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			007 R6 OPS	Off	3171	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			008 R6 LOG	Off	3173	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			009 WESTERN EYRE	Off	3139	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			010 EASTERN EYRE	Off	3143	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			011 ELLISTON	Off	3147	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			012 CARALUE	Off	3151	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			013 R6 INC11	Off	3155	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			014 LWR EYRE	Off	3163	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			015 R6 INC12	Off	3159	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			016 TUMBY BAY	Off	3167	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			047 R4 INC01	Off	3343	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			048 R4 INC02	Off	3345	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			049 R4 INC03	Off	3335	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			050 R4 INC04	Off	3117	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			051 R4 INC05	Off	3331	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			052 R4 INC06	Off	3121	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			053 R4 AIR OPS	Off	3125	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			054 R4 INC08	Off	3327	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			055 R4 INC09	Off	3347	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			056 R4 INC10	Off	3129	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			057 R4 INC11	Off	3133	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			058 BARRIER	Off	2923	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			059 R4 INC13	Off	3319	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			060 R4 INC14	Off	3321	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			061 R4 INC15	Off	3323	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			062 R4 DISPATCH	Off	3135	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			063 R4 LOG	Off	3137	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			064 BLACK ROCK	Off	3339	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			065 BLYTH SNWTWN	Off	2495	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			066 BUNDALEER	Off	3341	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			067 BURRA	Off	3337	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			068 FLINDERS	Off	3115	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			069 HALLET	Off	3333	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			070 PASTORAL 1	Off	3119	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			071 MT REMARKABLE	Off	3123	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			072 PASTORAL 2	Off	3329	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			073 PASTORAL 3	Off	3131	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			074 SPENCER	Off	3127	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			075 R2 INC01	Off	597	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			076 R2 INC02	Off	601	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			077 R2 INC03	Off	605	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			078 R2 INC04	Off	609	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			079 R2 INC05	Off	613	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			080 R2 INC06	Off	617	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			081 R2 INC07	Off	621	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			082 R2 INC08	Off	625	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			083 R2 INC09	Off	629	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			084 R2 INC10	Off	633	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			085 R2 INC11	Off	637	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			086 R2 INC12	Off	1095	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			087 R2 INC13	Off	1097	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			088 R2 INC14	Off	1099	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			089 R2 AIR OPS	Off	1101	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			090 R2 INC16	Off	1103	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			091 R2 INC17	Off	1105	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			092 R2 INC18	Off	1107	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			093 R2 DISPATCH	Off	639	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			094 R2 LOG	Off	641	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			095 NTHN BAROSSA	Off	595	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			096 BAROSSA	Off	599	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			097 GILBERT	Off	603	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			098 GUMERACHA	Off	607	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			099 HORROCKS	Off	611	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			100 LIGHT	Off	615	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			101 NTHN YORKE	Off	619	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			102 PARA	Off	623	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			103 STHN YORKE	Off	627	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			104 WAKEFIELD	Off	631	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			105 YORKE VALLEY	Off	635	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			106 SW AIR EMERG	Off	1355	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			107 SW AIR OPS	Off	1113	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			108 AIR OPS	Off	1113	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			109 AIR OPS	Off	1115	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			110 SW AIR OPS	Off	2715	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			111 STATE OPS	Off	645	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			112 SW AIR OPS	Off	647	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			113 STATE OPS	Off	1117	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			114 STATE HF 2	Off	155	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			115 CFS EMERG	Off	1119	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			116 STATE HF 1	Off	643	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			117 R1 INC01	Off	1121	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			118 R1 INC02	Off	1123	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			119 R1 AIR OPS	Off	1125	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			120 R1 INC04	Off	1127	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			121 R1 INC05	Off	1129	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			122 R1 INC06	Off	1131	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			123 R1 OPS BGDE	Off	1133	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			124 R1 DISPATCH	Off	591	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			125 R1 LOG	Off	593	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			126 E TORRENS	Off	543	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			127 E TORRENS	Off	545	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			128 HEYSEN	Off	551	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			129 HEYSEN	Off	553	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			130 KANGAROO IS	Off	555	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			131 KANGAROO IS	Off	557	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			132 KYEEMA	Off	583	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			133 KYEEMA	Off	585	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			134 MAWSON	Off	559	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			135 MAWSON	Off	561	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			136 MOUNT LOFTY	Off	563	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			137 MOUNT LOFTY	Off	565	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			138 MUNDOO	Off	547	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			139 MUNDOO	Off	549	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			140 ONKAPARINGA	Off	567	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			141 ONKAPARINGA	Off	569	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			142 STRATHALBYN	Off	571	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			143 STRATHALBYN	Off	573	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			144 STHN FLEURIEU	Off	587	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			145 STHN FLEURIEU	Off	589	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			146 STURT	Off	575	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			147 STURT	Off	577	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			148 VICTOR HRBR	Off	579	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			149 VICTOR HRBR	Off	581	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			200 R3 INC12	Off	2457	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			201 COORONG	Off	2461	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			202 NGARKAT	Off	2465	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			203 CHAFFEY	Off	2467	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			204 MALLEE	Off	2471	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			205 KAROONDA	Off	3113	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			205 MID MURRAY	Off	2475	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			206 SWANPORT	Off	2479	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			207 RIDLEY	Off	2483	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			208 R3 INC13	Off	2487	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			209 R3 DISPATCH	Off	2491	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			210 R3 LOG	Off	2493	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			211 R3 INC01	Off	2459	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			212 R3 INC02	Off	2463	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			213 R3 INC03	Off	2733	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			214 R3 INC04	Off	2469	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			215 R3 INC05	Off	2473	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			216 R3 INC06	Off	2477	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			217 R3 INC07	Off	2481	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			218 R3 INC08	Off	2485	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			219 R3 INC09	Off	2489	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			220 R3 INC10	Off	2727	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			221 R3 INC11	Off	2729	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			222 R3 AIR OPS	Off	2731	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			223 MACKILLOP	Off	2565	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			224 LACEPEDE	Off	2519	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			225 LUCINDALE	Off	2523	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			226 MOUNT GAMBIER	Off	2527	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			227 NARACOORTE	Off	2531	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			228 KINGSLEY	Off	2535	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			229 ROBE	Off	2539	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			230 TATIARA	Off	2543	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			231 WOAKWINE	Off	2547	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			232 R5 DISPATCH	Off	2551	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			233 R5 LOG	Off	2553	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			234 R5 AIR OPS	Off	2717	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			235 R5 INC01	Off	2521	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			236 R5 INC02	Off	2525	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			237 R5 INC03	Off	2529	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			238 R5 INC04	Off	2533	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			239 R5 INC05	Off	2537	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			240 R5 INC06	Off	2541	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			241 R5 INC07	Off	2545	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			242 R5 INC08	Off	2549	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			243 R5 INC09	Off	2567	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			244 R5 INC10	Off	2719	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			245 R5 INC11	Off	2721	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			246 R6 AIR OPS	Off	3141	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			247 R6 INC02	Off	3145	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			248 R6 INC03	Off	3149	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			249 R6 INC04	Off	3153	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+T-Group			MULTIAGENCY	Off	-32.1365	134.8854	500.0	Circle	12
+TGID			017 MA-POLICE	Off	61	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			018 MA-02	Off	63	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			019 MA-03	Off	65	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			020 SRH-04	Off	67	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			021 MA-05	Off	69	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			022 MA-06	Off	71	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			023 MA-07	Off	73	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			024 MA-08	Off	75	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			025 MA-09	Off	77	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			026 MA-EW	Off	79	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			027 MA-FN	Off	41	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			028 MA-YMN	Off	43	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			029 MA-GA	Off	45	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			030 MA-MM	Off	47	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			031 MA-KIF	Off	49	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			032 MA-LC	Off	51	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			033 MA-AMB	Off	53	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			034 MA-MFS	Off	55	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			035 MA-CFS	Off	57	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+TGID			036 MA-SES	Off	59	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any

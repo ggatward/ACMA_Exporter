@@ -1,340 +1,386 @@
 T-Group			FRNSW	Off	-27.84	133.21	1400.0	Circle	1
 TGID			101 ME1 A	Off	10101	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			102 ME2 A	Off	10102	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			103 ME3 A	Off	10103	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			110 MW1 A	Off	10104	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			111 MW2 A	Off	10105	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			105 MS2 A	Off	10106	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			106 MS3 A	Off	10107	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10108	Off	10108	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10198	Off	10109	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10110	Off	10110	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			611 SYD AIR	Off	10111	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			107 MN1 A	Off	10112	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10113	Off	10113	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			108 MN2 A	Off	10114	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			109 MN3 A	Off	10115	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10116	Off	10116	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10117	Off	10117	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10118	Off	10118	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10119	Off	10119	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			104 MS1 A	Off	10120	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10121	Off	10121	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10122	Off	10122	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			102 ME2	Off	10102	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			103 ME3	Off	10103	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			110 MW1	Off	10104	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			111 MW2	Off	10105	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			105 MS2	Off	10106	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			106 MS3	Off	10107	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10108	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10109	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			532 SYDNEY AP	Off	10111	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			107 MN1	Off	10112	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10113	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			108 MN2	Off	10114	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			109 MN3	Off	10115	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			201 RN1	Off	10116	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			202 RN2	Off	10117	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			203 RN3	Off	10118	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			104 MS1	Off	10120	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			302 RS2	Off	10123	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10124	Off	10124	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			301 RS1	Off	10125	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10126	Off	10126	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10127	Off	10127	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10128	Off	10128	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			304 ACT-NSW	Off	10126	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			303 RS3	Off	10128	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			402 RW2	Off	10129	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			112 MW3 A	Off	10130	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW - 10131	Off	10131	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			112 MW3	Off	10130	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10131	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			401 RW1	Off	10132	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			403 RW3	Off	10133	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			601 TACT 01	Off	10134	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			602 TACT 02	Off	10135	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			603 TACT 03	Off	10136	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			604 TACT 04	Off	10137	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			605 TACT 05	Off	10138	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			606 TACT 06	Off	10139	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			607 TACT 07	Off	10140	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			608 TACT 08	Off	10141	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			609 TACT 09	Off	10142	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			610 TACT 10	Off	10143	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			701 TACT 11	Off	10144	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			702 TACT 12	Off	10145	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			703 TACT 13	Off	10146	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			704 TACT 14	Off	10147	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			705 TACT 15	Off	10148	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			706 TACT 16	Off	10149	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			707 TACT 17	Off	10150	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			708 TACT 18	Off	10151	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			709 TACT 19	Off	10152	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			710 TACT 20	Off	10153	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1001 COMMS	Off	10154	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1002 PROPTY	Off	10155	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1003 FLEET	Off	10156	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1004 ADMIN	Off	10157	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1005 MECH	Off	10158	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1006 ENG	Off	10159	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1101 OPCOMS	Off	10160	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1102 BA HAZ	Off	10161	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1103 BUSHFR	Off	10162	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1104 FIU	Off	10163	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1105 PRVENT	Off	10164	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1106 TRAIN	Off	10165	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1107 RESCUE	Off	10166	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1401 DSREC0	Off	10167	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1402 DSREC0	Off	10168	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1403 DSREC0	Off	10169	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1404 DSREC0	Off	10170	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1405 DSREC0	Off	10171	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1406 DSREC0	Off	10172	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1407 DSREC0	Off	10173	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1408 DSREC0	Off	10174	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1409 DSREC0	Off	10175	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1410 DSREC1	Off	10176	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1411 DSREC1	Off	10177	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1412 DSREC1	Off	10178	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1413 DSREC1	Off	10179	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1414 DSREC1	Off	10180	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1415 DSREC1	Off	10181	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1416 DSREC1	Off	10182	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW TG 10183	Off	10183	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			FRNSW TG 10184	Off	10184	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			517 PSN TAC 1	Off	10134	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			518 PSN STG 1	Off	10135	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			519 PSN RHB 1	Off	10136	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			520 PSN TAC 2	Off	10137	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			521 PSN STG 2	Off	10138	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			522 PSN RHB 2	Off	10139	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			523 PSN TAC 3	Off	10140	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			524 PSN STG 3	Off	10141	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			525 PSN RHB 3	Off	10142	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			526 PSN TAC 4	Off	10143	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			527 PSN STG 4	Off	10144	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			528 PSN RHB 4	Off	10145	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			529 PSN TAC 5	Off	10146	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			530 PSN STG 5	Off	10147	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			531 PSN RHB 5	Off	10148	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10149	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10150	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10151	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			510 PSN TASK 5	Off	10152	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			509 PSN TASK 4	Off	10153	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1501 COMMS	Off	10154	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1502 PROPERTY	Off	10155	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1503 FLEET	Off	10156	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10157	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1504 MECHAN	Off	10158	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10159	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1505 OPS COMMS	Off	10160	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1506 HAZMAT	Off	10161	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1507 BUSHFIRE	Off	10162	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10163	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1508 AVIATION	Off	10163	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1510 NDH	Off	10164	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1509 TRAINING	Off	10165	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-	Off	10166	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			506 PSN TASK 1	Off	10197	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			507 PSN TASK 2	Off	10198	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			508 PSN TASK 3	Off	10199	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			801 ALPHA STK	Off	20101	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			802 BRAVO STK	Off	20102	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			803 CHRLIE STK	Off	20103	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			804 DELTA STK	Off	20104	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			805 ECHO STK	Off	20105	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			806 FOXTRT STK	Off	20106	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			807 GOLF STK	Off	20107	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			808 HOTEL STK	Off	20108	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			809 INDIA STK	Off	20109	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			810 JULIET STK	Off	20110	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			811 KILO STK	Off	20111	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			812 LIMA STK	Off	20112	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			813 MIKE STK	Off	20113	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			814 NOVMBR STK	Off	20114	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			815 OSCAR STK	Off	20115	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			816 PAPA STK	Off	20116	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			817 QUEBEC STK	Off	20117	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			818 ROMEO STK	Off	20118	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			819 SIERRA STK	Off	20119	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			820 TANGO STK	Off	20120	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			821 UNIFRM STK	Off	20121	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			822 VICTOR STK	Off	20122	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			823 WHISKY STK	Off	20123	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			824 X RAY STK	Off	20124	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			825 YANKEE STK	Off	20125	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			826 ZULU STK	Off	20126	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			827 TASKFORCE1	Off	20127	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			828 TASKFORCE2	Off	20128	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			829 TASKFORCE3	Off	20129	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			830 TASKFORCE4	Off	20130	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			831 TASKFORCE5	Off	20131	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1601 TRAINING1	Off	20132	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1602 TRAINING2	Off	20133	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1603 TRAINING3	Off	20134	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1604 TRAINING4	Off	20135	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1605 TRAINING5	Off	20136	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1606 RECRUIT 1	Off	20137	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1607 RECRUIT 2	Off	20138	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1608 RECRUIT 3	Off	20139	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1609 RECRUIT 4	Off	20140	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1610 RECRUIT 5	Off	20141	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1611 CLM	Off	20142	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1612 APP TRNG	Off	20143	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1613 RES TRNG	Off	20144	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1614 FFOT	Off	20145	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1615 BA HAZMAT	Off	20146	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1616 EX-STRAT	Off	20147	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1617 EX-TACT	Off	20148	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1618 EX-TASK	Off	20149	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1619 EX-STG	Off	20150	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1620 EX-RHB	Off	20151	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1505 OPS COMMS	Off	10160	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 T-Group			SES	Off	-27.84	133.21	1400.0	Circle	2
-TGID			18 HN-CNT 1	Off	10223	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			19 HN-CNT 2	Off	10224	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			20 HN-CNT 3	Off	10225	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			21 HN-CNT 4	Off	10226	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			22 HN-CNT 5	Off	10227	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			17 Transport	Off	10228	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			39 COORD 1	Off	10229	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			13 TSKFCE1	Off	10230	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			14 TSKFCE2	Off	10231	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			15 TSKFCE3	Off	10232	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			16 TSKFCE4	Off	10233	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			01 State Ops Rescue	Off	10234	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			02 State Ops Dispatch	Off	10235	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 3	Off	10236	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 4	Off	10237	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 5	Off	10238	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 6	Off	10239	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 7	Off	10240	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 8	Off	10241	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 9	Off	10242	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 10	Off	10243	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 11	Off	10244	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			State Ops 12	Off	10245	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			38 ICT Comms	Off	10246	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			40 Co-ord 2	Off	10247	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			41 Co-ord 3	Off	10248	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			01 NEZ RESQ	Off	10249	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			02 NEZ DISP	Off	10250	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			03 NEZ OPS1	Off	10251	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			04 NEZ OPS2	Off	10252	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			05 NEZ OPS3	Off	10253	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			06 NEZ OPS4	Off	10254	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			07 NEZ OPS5	Off	10255	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			08 NEZ LOPR	Off	10256	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			01 NWZ RESQ	Off	10257	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			02 NWZ DISP	Off	10258	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			03 NWZ OPS1	Off	10259	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			04 NWZ OPS2	Off	10260	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			05 NWZ OPS3	Off	10261	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			06 NWZ OPS4	Off	10262	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			07 NWZ OPS5	Off	10263	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			08 NWZ LOPR	Off	10264	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			01 SEZ RESQ	Off	20201	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			02 SEZ DISP	Off	20202	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			03 SEZ OPS1	Off	20203	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			04 SEZ OPS2	Off	20204	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			05 SEZ OPS3	Off	20205	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			06 SEZ OPS4	Off	20206	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			07 SEZ OPS5	Off	20207	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			08 SEZ LOPRI	Off	20208	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			33 OPS 11	Off	20216	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			34 OPS 12	Off	20217	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			35 OPS 13	Off	20218	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			36 OPS 14	Off	20219	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			37 OPS 15	Off	20220	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			28 OPS 6	Off	20237	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			29 OPS 7	Off	20238	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			30 OPS 8	Off	20239	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			31 OPS 9	Off	20240	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			32 OPS 10	Off	20241	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			01 WTZ RESQ	Off	20244	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			02  WTZ DISP	Off	20245	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			03  WTZ OPS1	Off	20246	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			04  WTZ OPS2	Off	20247	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			05  WTZ OPS3	Off	20248	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			06 WTZ OPS4	Off	20249	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			07 WTZ OPS5	Off	20250	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			08 WTZ LOPRI	Off	20251	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			01 MTZ RESCUE	Off	20253	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			02 MTZ DISP	Off	20254	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			03 MTZ OPS 01	Off	20255	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			04 MTZ OPS 02	Off	20256	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			05 MTZ OPS 03	Off	20257	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			06 MTZ OPS 04	Off	20258	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			07 MTZ OPS 05	Off	20259	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			08 MTZ BACK CH	Off	20260	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			01 NHZ RESQ	Off	20262	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			02 NHZ DISP	Off	20263	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			03 NHZ OPS1	Off	20264	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			04 NHZ OPS2	Off	20265	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			05 NHZ OPS3	Off	20266	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			06 NHZ OPS4	Off	20267	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			07 NHZ OPS5	Off	20268	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			08 NHZ LOPRI	Off	20269	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30210	Off	30210	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30211	Off	30211	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30212	Off	30212	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30213	Off	30213	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30214	Off	30214	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30215	Off	30215	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30216	Off	30216	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30217	Off	30217	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			NSW SES 30219	Off	30219	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			23 OPS 1	Off	30226	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			24 OPS 2	Off	30227	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			25 OPS 3	Off	30228	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			26 OPS 4	Off	30229	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-TGID			27 OPS 5	Off	30230	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0916 OPS 16	Off	 10223	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0917 OPS 17	Off	 10224	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0918 OPS 18	Off	 10225	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0919 OPS 19	Off	 10226	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0920 OPS 20	Off	 10227	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0915 OPS 15	Off	 10228	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0110 S/O	Off	 10229	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0911 OPS 11	Off	 10230	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0912 OPS 12	Off	 10231	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0913 OPS 13	Off	 10232	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0914 OPS 14	Off	 10233	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0101 S/O RESC	Off	 10234	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0102 S/O DISP	Off	 10235	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0901 OPS 1	Off	 10236	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0902 OPS 2	Off	 10237	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0903 OPS 3	Off	 10238	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0904 OPS 4	Off	 10239	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0905 OPS 5	Off	 10240	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0906 OPS 6	Off	 10241	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0907 OPS 7	Off	 10242	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0908 OPS 8	Off	 10243	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0909 OPS 9	Off	 10244	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0910 OPS 10	Off	 10245	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0109 S/O COMMS1	Off	 10246	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0111 S/O ENC1	Off	 10247	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0112 S/O ENC2	Off	 10248	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0401 NEZ RESC	Off	 10249	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0402 NEZ DISP	Off	 10250	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0403 NEZ OPS1	Off	 10251	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0404 NEZ OPS2	Off	 10252	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0405 NEZ OPS3	Off	 10253	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0406 NEZ OPS4	Off	 10254	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0407 NEZ OPS5	Off	 10255	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0408 NEZ LOPRI	Off	 10256	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0801 NWZ RESC	Off	 10257	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0802 NWZ DISP	Off	 10258	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0803 NWZ OPS1	Off	 10259	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0804 NWZ OPS2	Off	 10260	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0805 NWZ OPS3	Off	 10261	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0806 NWZ OPS4	Off	 10262	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0807 NWZ OPS5	Off	 10263	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0808 NWZ LOPRI	Off	 10264	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0501 SEZ RESC	Off	 20201	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0502 SEZ DISP	Off	 20202	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0503 SEZ OPS1	Off	 20203	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0504 SEZ OPS2	Off	 20204	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0505 SEZ OPS3	Off	 20205	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0506 SEZ OPS4	Off	 20206	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0507 SEZ OPS5	Off	 20207	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0508 SEZ LOPRI	Off	 20208	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0931 OPS 31	Off	 20216	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0932 OPS 32	Off	 20217	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0933 OPS 33	Off	 20218	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0934 OPS 34	Off	 20219	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0935 OPS 35	Off	 20220	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0105 S/O LOPRI	Off	 20221	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0106 S/O LOPRI	Off	 20222	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0926 OPS 26	Off	 20237	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0927 OPS 27	Off	 20238	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0928 OPS 28	Off	 20239	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0929 OPS 29	Off	 20240	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0931 OPS 30	Off	 20241	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0103 S/O LOPRI	Off	 20242	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0104 S/O LOPRI	Off	 20243	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0701 WTZ RESC	Off	 20244	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0702 WTZ DISP	Off	 20245	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0703 WTZ OPS1	Off	 20246	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0704 WTZ OPS2	Off	 20247	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0705 WTZ OPS3	Off	 20248	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0706 WTZ OPS4	Off	 20249	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0707 WTZ OPS5	Off	 20250	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0708 WTZ LOPRI	Off	 20251	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0107 S/O LOPRI	Off	 20252	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0201 MTZ RESC	Off	 20253	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0202 MTZ DISP	Off	 20254	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0203 MTZ OPS1	Off	 20255	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0204 MTZ OPS2	Off	 20256	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0205 MTZ OPS3	Off	 20257	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0206 MTZ OPS4	Off	 20258	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0207 MTZ OPS5	Off	 20259	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0208 MTZ LOPRI	Off	 20260	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0301 NHZ RESC	Off	 20262	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0302 NHZ DISP	Off	 20263	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0303 NHZ OPS1	Off	 20264	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0304 NHZ OPS2	Off	 20265	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0305 NHZ OPS3	Off	 20266	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0306 NHZ OPS4	Off	 20267	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0307 NHZ OPS5	Off	 20268	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0308 NHZ LOPRI	Off	 20269	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0108 S/O LOPRI	Off	 20270	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0601 SHZ RESC	Off	 30210	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0602 SHZ DISP	Off	 30211	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0603 SHZ OPS1	Off	 30212	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0604 SHZ OPS2	Off	 30213	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0605 SHZ OPS3	Off	 30214	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0606 SHZ OPS4	Off	 30215	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0607 SHZ OPS5	Off	 30216	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0608 SHZ LOPRI	Off	 30217	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0921 OPS 21	Off	 30227	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0922 OPS 22	Off	 30228	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0923 OPS 23	Off	 30229	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0924 OPS 24	Off	 30230	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
+TGID			0925 OPS 25	Off	 30231	ALL	3	2	0	Off	Auto	Yellow	On	Off	Off	Any
 T-Group			ASNSW	Off	-27.84	133.21	1400.0	Circle	3
-TGID			State Operations	Off	10301	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Admin TG 2	Off	10302	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Admin TG 3	Off	10303	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Admin TG 4	Off	10304	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Admin Ed Srvcs	Off	10305	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			6 NETS	Off	10306	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			7 PUB HLTH	Off	10307	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			8 G/WEST A/H	Off	10308	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			9 HU A/H	Off	10309	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			10 NSCC A/H	Off	10310	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			11 S/W A/H	Off	10311	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			12 SSW A/H	Off	10312	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			13 SESI A/H	Off	10313	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			14 A/H INCDT	Off	10314	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			15 A/H INCDT	Off	10315	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			16 A/H INCDT	Off	10316	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			17 MEDI 1	Off	10317	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			18 MEDI 2	Off	10318	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			PTO OPS 1	Off	10319	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			PTO OPS 2	Off	10320	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			PTO OPS 3	Off	10321	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			PTO OPS 4	Off	10322	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			PTO OPS 5	Off	10323	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			PTO OPS 6	Off	10324	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			1 NTH OPS	Off	10325	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			2 STH OPS	Off	10326	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			4 EAST OPS	Off	10327	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			6 WEST OPS	Off	10328	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			7 S/W OPS	Off	10329	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			8 F S/W OPS	Off	10330	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			9 RUR OPS	Off	10331	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			10 ECP 1	Off	10332	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			11 ECP 2	Off	10333	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			12 INCDNT 1	Off	10334	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			13 INCDNT 2	Off	10335	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			14 INCDNT 3	Off	10336	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			15 INCDNT 4	Off	10337	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			16 INCDNT 5	Off	10338	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			17 INCDNT 6	Off	10339	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			18 INCDNT 7	Off	10340	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			19 SPORTS	Off	10341	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			20 WRKSHPS	Off	10342	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			21 NTH HOSP	Off	10343	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			22 STH HOSP	Off	10344	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			23 EST HOSP	Off	10345	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			24 WST HOSP	Off	10346	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 10347	Off	10347	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 10348	Off	10348	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 10349	Off	10349	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 10350	Off	10350	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			FAULT REPORT	Off	10351	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			TAC - 1	Off	10352	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			TAC - 2	Off	10353	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			TAC - 3	Off	10354	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			TAC - 4	Off	10355	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			TAC - 5	Off	10356	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			TAC - 6	Off	10357	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			IT SUPPORT	Off	10358	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 10359	Off	10359	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 10364	Off	10364	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 10365	Off	10365	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Newcastle Operations	Off	20301	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Outer Hunter Ops	Off	20302	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Gosford Operations	Off	20303	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Extended Care Para 4	Off	20304	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			INCIDENT 1	Off	20305	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			INCIDENT 2	Off	20306	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			NTH INC 2	Off	20306	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			INCIDENT 3	Off	20307	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			INCIDENT 4	Off	20308	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Mid West Operations	Off	20309	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Macquarie Ops 1	Off	20310	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Macquarie Ops 2	Off	20311	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			New England Ops 1	Off	20312	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			New England Ops 2	Off	20313	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Extended Care Para 5	Off	20314	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			INCIDENT 1	Off	20315	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			INCIDENT 2	Off	20316	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			INCIDENT 3	Off	20317	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			HOSP 1	Off	20318	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			HOSP 2	Off	20319	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hunter Hospitals	Off	20320	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 20326	Off	20326	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 20329	Off	20329	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 20330	Off	20330	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 20331	Off	20331	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 20332	Off	20332	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 20333	Off	20333	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Far Sth Coast Ops	Off	30301	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Illawarra Operations	Off	30302	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30303	Off	30303	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Wagga Operations	Off	30304	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Riverina Operations	Off	30305	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Murray Operations	Off	30306	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Extended Care Para 3	Off	30307	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			South Incident 1	Off	30308	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			South Incident 2	Off	30309	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			South Incident 3	Off	30310	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			South Incident 4	Off	30311	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			South Incident 5	Off	30312	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			South Incident 6	Off	30313	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Illawarra Hospitals	Off	30314	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Goulburn Hospitals	Off	30315	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Shoalhaven Operations	Off	30316	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30317	Off	30317	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30318	Off	30318	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30319	Off	30319	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ACT AMB Liaison	Off	30320	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Sth East Operations	Off	30321	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30326	Off	30326	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30327	Off	30327	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30328	Off	30328	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Northern Rivers Ops	Off	30329	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Sydney Events	Off	30330	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30331	Off	30331	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30332	Off	30332	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Sydney Cntrl Ops	Off	30333	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Syd Lwr Wst Ops	Off	30334	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30335	Off	30335	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30336	Off	30336	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30337	Off	30337	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30338	Off	30338	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30339	Off	30339	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30340	Off	30340	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30341	Off	30341	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30342	Off	30342	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30343	Off	30343	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30344	Off	30344	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30345	Off	30345	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30346	Off	30346	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30347	Off	30347	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30348	Off	30348	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30349	Off	30349	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30350	Off	30350	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30351	Off	30351	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30352	Off	30352	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30353	Off	30353	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30354	Off	30354	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30355	Off	30355	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30356	Off	30356	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30357	Off	30357	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30358	Off	30358	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30359	Off	30359	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30360	Off	30360	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			ASNSW TG 30367	Off	30367	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			1 STATE   	Off	10301	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			2 TG 2  	Off	10302	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			3 TG 3  	Off	10303	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			4 TG 4  	Off	10304	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			5 TG EDU  	Off	10305	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			6 NETS   	Off	10306	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			7 PUB HLTH  	Off	10307	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			8 G/WEST A/H  	Off	10308	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			9 HU A/H  	Off	10309	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			10 NSCC A/H  	Off	10310	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			11 S/W A/H  	Off	10311	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			12 SSW A/H  	Off	10312	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			13 SESI A/H  	Off	10313	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			14 A/H INCDT1  	Off	10314	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			15 A/H INCDT2  	Off	10315	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			16 A/H INCDT3  	Off	10316	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			17 MEDI 1  	Off	10317	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			18 MEDI 2  	Off	10318	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			PTO OPS 1  	Off	10319	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			PTO OPS 2  	Off	10320	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			PTO OPS 3  	Off	10321	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			PTO OPS 4  	Off	10322	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			PTO OPS 5  	Off	10323	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			PTO OPS 6  	Off	10324	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			1 NTH OPS  	Off	10325	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			2 STH OPS  	Off	10326	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			4 EAST OPS  	Off	10327	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			6 WEST OPS  	Off	10328	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			7 S/W OPS  	Off	10329	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			8 F S/W OPS 	Off	10330	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			9 F WST OPS 	Off	10331	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			10 ECP 1  	Off	10332	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			11 ECP 2  	Off	10333	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			12 INCIDENT 1  	Off	10334	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			13 INCIDENT 2  	Off	10335	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			14 INCIDENT 3  	Off	10336	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			15 INCIDENT 4  	Off	10337	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			16 INCIDENT 5  	Off	10338	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			17 INCIDENT 6  	Off	10339	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			18 U S/W OPS 	Off	10340	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			19 SPORTS   	Off	10341	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			20 WORKSHOP   	Off	10342	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			21 NTH HOSP  	Off	10343	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			22 STH HOSP  	Off	10344	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			23 EST HOSP  	Off	10345	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			24 WST HOSP  	Off	10346	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	10347	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	10348	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	10349	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	10350	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			FAULT REPORT   	Off	10351	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			TAC 1   	Off	10352	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			TAC 2   	Off	10353	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			TAC 3   	Off	10354	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			TAC 4   	Off	10355	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			TAC 5   	Off	10356	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			TAC 6   	Off	10357	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			IT SUPPORT   	Off	10358	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	10359	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	10360	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	10364	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	10365	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			NEWC OPS   	Off	20301	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			OHUN OPS   	Off	20302	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			GOS OPS   	Off	20303	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			ECP 4   	Off	20304	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 1   	Off	20305	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 2   	Off	20306	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 3   	Off	20307	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 4   	Off	20308	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			MID WEST   	Off	20309	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			MACQ 1   	Off	20310	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			MACQ 2   	Off	20311	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			NEW ENG 1  	Off	20312	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			NEW ENG 2  	Off	20313	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			ECP 5   	Off	20314	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 1   	Off	20315	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 2   	Off	20316	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 3   	Off	20317	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			HOSP 1   	Off	20318	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			HOSP 2   	Off	20319	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			HUN HOSP   	Off	20320	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20326	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20329	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20330	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20331	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20332	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20333	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20334	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20335	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20336	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	20337	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			FSC OPS   	Off	30301	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			ILLA OPS   	Off	30302	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			WAGGA OPS   	Off	30304	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			RIV OPS   	Off	30305	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			MURRAY OPS   	Off	30306	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			ECP 3   	Off	30307	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 1   	Off	30308	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 2   	Off	30309	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 3   	Off	30310	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 4   	Off	30311	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 5   	Off	30312	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			INCIDENT 6   	Off	30313	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			ILLAW HOSP   	Off	30314	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			GOULB HOSP   	Off	30315	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			S/HAVEN OPS   	Off	30316	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			ACT AMB   	Off	30320	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			EAST OPS   	Off	30321	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30326	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30327	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30328	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30329	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30330	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30331	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30332	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			3 CENT OPS  	Off	30333	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			19 L S/W OPS 	Off	30334	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30335	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30336	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30337	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30338	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30339	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30340	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30341	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30342	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30343	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30344	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30345	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30346	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30347	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30348	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30349	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30350	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30351	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30352	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30353	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30354	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30355	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30356	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30357	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30358	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30359	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30360	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30361	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30362	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30363	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30364	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30365	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30366	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30367	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30368	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30369	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			-    	Off	30370	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
 T-Group			RFS & VRA	Off	-27.84	133.21	1400.0	Circle	4
-TGID			1209 AVATN 1	Off	10030	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
-TGID			1210 AVATN 2	Off	10031	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
-TGID			1211 AVATN 3	Off	10032	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
-TGID			1212 AVATN 4	Off	10033	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
-TGID			1213 AVATN 5	Off	10034	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
-TGID			1214 AVATN 6	Off	10035	ALL	15	2	0	Off	Auto	Red	Slow Blink	Off	Off	Any
+TGID			1209 AVATN 1	Off	10030	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1210 AVATN 2	Off	10031	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1211 AVATN 3	Off	10032	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1212 AVATN 4	Off	10033	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1213 AVATN 5	Off	10034	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1214 AVATN 6	Off	10035	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			114 HILLS A	Off	10036	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			101 BLMTN A	Off	10037	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1218 CISS	Off	10038	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
@@ -386,9 +432,10 @@ TGID			125 MDCST A	Off	10084	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1247 SMSS 1	Off	10092	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1248 SMSS 2	Off	10093	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1232 ENGIN	Off	10094	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1233 ENVIRO SRVCS	Off	10095	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1233 ENVIR	Off	10095	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1215 BIA 1	Off	10096	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1237 HSW	Off	10097	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1243 LOGISTICS	Off	10098	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1243 LOGIS	Off	10098	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1246 ORT	Off	10099	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			211 FARWST B	Off	20000	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			103 CANOB A	Off	20001	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
@@ -420,6 +467,8 @@ TGID			205 CENCO B	Off	20026	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1208 AREA OPS	Off	20027	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1230 DISP 9	Off	20028	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1231 DISP 10	Off	20029	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-  	Off	20030	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			-  	Off	20031	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1249 SMSS 3	Off	20034	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1250 SMSS 4	Off	20035	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			1227 DISP 6	Off	20036	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
@@ -529,31 +578,19 @@ TGID			243 SUTHE B	Off	30087	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			245 TAMWTH B	Off	30088	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			214 HILLS B	Off	30089	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			222 LWHUN B	Off	30090	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1215 BIA 1	Off	30091	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1216 BIA 2	Off	30092	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			1217 BIA 3	Off	30093	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			VRA OPS TG 1	Off	20083	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			VRA OPS TG 2	Off	20084	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			VRA OPS TG 3	Off	20085	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			VRA OPS TG 4	Off	20086	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			VRA OPS TG 5	Off	20087	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			VRA OPS TG 6	Off	30096	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			TACT - 1	Off	30097	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			TACT - 2	Off	30098	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			TACT - 3	Off	30099	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			DISPATCH	Off	30100	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
-TGID			Last Update 16.03.2023	On	40101	ALL	208	2	0	Off	Auto	Off	On	Off	Off	Any
-T-Group			Hatzolah	Off	-27.84	133.21	1400.0	Circle	5
-TGID			Hatzolah Net 1	Off	10381	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 2	Off	10382	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 3	Off	10383	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 4	Off	10384	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 5	Off	10385	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 6	Off	10386	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 7	Off	10387	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 8	Off	10388	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 9	Off	10389	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
-TGID			Hatzolah Net 10	Off	10390	ALL	25	2	0	Off	Auto	Green	On	Off	Off	Any
+TGID			1216 BIA 2	Off	30091	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			1217 BIA 3	Off	30092	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			(ENC)	Off	30093	ALL	24	2	0	Off	Auto	Red	On	Off	Off	Any
+TGID			VRA OPS TG 1	Off	20083	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
+TGID			VRA OPS TG 2	Off	20084	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
+TGID			VRA OPS TG 3	Off	20085	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
+TGID			VRA OPS TG 4	Off	20086	ALL	24	2	0	Off	Auto	Red	Slow Blink  On	Off	Off	Any
+TGID			VRA OPS TG 5	Off	20087	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
+TGID			VRA OPS TG 6	Off	30096	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
+TGID			VRA TACT TG 1	Off	30096	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
+TGID			VRA TACT TG 2	Off	30098	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
+TGID			VRA TACT TG 3	Off	30099	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
+TGID			VRA DISP TG 1	Off	30100	ALL	24	2	0	Off	Auto	Red	Slow Blink	On	Off	Off	Any
 T-Group			TFNSW	Off	-27.84	133.21	1400.0	Circle	6
 TGID			TFNSW 10701	Off	10701	ALL	14	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			D NAT0 1	Off	10702	ALL	14	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -1072,12 +1109,6 @@ TGID			INC801453	Off	11397	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			INC801454	Off	11398	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			INC801455	Off	11399	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			IBR801450	Off	11400	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-T-Group			Hire Radios	Off	-27.84	133.21	1400.0	Circle	11
-TGID			GRN Rental 1	Off	19801	ALL	17	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			GRN Rental 2	Off	19802	ALL	17	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			GRN Rental 3	Off	19803	ALL	17	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			GRN Rental 4	Off	19804	ALL	17	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			GRN Rental 5	Off	19805	ALL	17	2	0	Off	Auto	Off	On	Off	Off	Any
 T-Group			ESO & Gov Liaison	Off	-27.84	133.21	1400.0	Circle	12
 TGID			1121 GL 01	Off	10000	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			1122 GL 02	Off	10001	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
@@ -1144,7 +1175,7 @@ TGID			8 TUG SES	Off	40085	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			9 SES IMT	Off	40086	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			10 SES IMT	Off	40087	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			11 SES IMT	Off	40088	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-T-Group			ACT PCS	Off	-27.84	133.21	1400.0	Circle	15
+T-Group			ACT PCS	Off	-27.84	133.21	1400.0	Circle	16
 TGID			PCS 1 Tactical	Off	40089	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			PCS 2 Tactical	Off	40090	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			PCS 3 Fire Mgmt	Off	40091	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -1177,7 +1208,7 @@ TGID			17 SOU RFS	Off	42006	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			18 TID RFS	Off	42007	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			19 HQ RFS	Off	42009	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			ACT HRB	Off	42009	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
-T-Group			NPWS	Off	-27.84	133.21	1400.0	Circle	14
+T-Group			NPWS	Off	-27.84	133.21	1400.0	Circle	16
 TGID			FCNSW	Off	20381	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			FCNSW	Off	20382	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			FCNSW	Off	20383	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -1197,3 +1228,51 @@ TGID			NPWS	Off	20456	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			NPWS	Off	20457	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			NPWS	Off	20458	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			NPWS	Off	20459	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21031	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21032	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21033	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21034	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21035	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21036	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21037	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21038	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21039	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21040	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21041	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21042	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21043	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21044	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21045	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21046	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21047	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21048	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21049	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21050	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21051	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21052	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21053	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21054	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21055	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21056	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21057	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21058	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21059	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21060	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21061	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21062	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21063	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21064	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21065	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21066	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21067	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21068	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			NPWS	Off	21069	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+T-Group			Marine Rescue	Off	-27.84	133.21	1400.0	Circle	5
+TGID			12526	Off	12526	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			12527	Off	12527	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			12528	Off	12528	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			12529	Off	12529	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			12530	Off	12530	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			12531	Off	12531	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			12532	Off	12532	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			12533	Off	12533	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any

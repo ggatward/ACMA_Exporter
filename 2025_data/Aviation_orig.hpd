@@ -1,0 +1,2354 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Airservices RFF	Off		Conventional	3	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	CANBERRA AIRPORT	Off	-35.301655	149.197383	30	Circle	None	Global
+C-Freq			CANBERRA AIRPORT	Off	500825000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA AIRPORT	Off	412950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA AIRPORT	Off	412937500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA AIRPORT	Off	412687500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA AIRPORT	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA AIRPORT	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA AIRPORT	Off	426187500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA AIRPORT	Off	412700000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANBERRA AIRPORT	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	MELBOURNE AIRPORT	Off	-37.666976	144.833082	30	Circle	None	Global
+C-Freq			MELBOURNE AIRPORT	Off	423412500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	415237500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	415562500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	500750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLAMARINE 3045	Off	500812500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLAMARINE 3045	Off	414637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	423300000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	424075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	414987500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLAMARINE 3045	Off	414887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	415000000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	415250000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	423700000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	500825000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE AIRPORT	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	ADELAIDE AIRPORT	Off	-34.947327	138.529879	30	Circle	None	Global
+C-Freq			ADELAIDE AIRPORT	Off	500825000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ADELAIDE	Off	418925000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ADELAIDE	Off	419175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ADELAIDE AIRPORT	Off	419675000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ADELAIDE AIRPORT	Off	419425000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ADELAIDE AIRPORT	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ADELAIDE AIRPORT	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ADELAIDE AIRPORT	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ADELAIDE AIRPORT	Off	426187500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	HOBART AIRPORT	Off	-42.838790	147.507606	30	Circle	None	Global
+C-Freq			HOBART AIRPORT	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOBART AIRPORT	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOBART AIRPORT	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOBART AIRPORT	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOBART AIRPORT	Off	415212500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOBART AIRPORT	Off	414962500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	BRISBANE AIRPORT	Off	-27.393558	153.128623	30	Circle	None	Global
+C-Freq			BRISBANE AIRPORT	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EAGLE FARM	Off	412900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRISBANE AIRPORT	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EAGLE FARM	Off	412650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRISBANE AIRPORT	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRISBANE AIRPORT	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRISBANE AIRPORT	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	HAMILTON ISLAND	Off	-20.356653	148.948841	30	Circle	None	Global
+C-Freq			HAMILTON ISLAND	Off	412875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HAMILTON ISLAND	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HAMILTON ISLAND	Off	127850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HAMILTON ISLAND	Off	500800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HAMILTON ISLAND	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HAMILTON ISLAND	Off	412625000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HAMILTON ISLAND	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	ROCKHAMPTON	Off	-23.376618	150.477408	30	Circle	None	Global
+C-Freq			ROCKHAMPTON	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKHAMPTON	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKHAMPTON	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKHAMPTON	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKHAMPTON	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	MARCOOLA	Off	-26.607150	153.092389	30	Circle	None	Global
+C-Freq			MARCOOLA	Off	412900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARCOOLA	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARCOOLA	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARCOOLA	Off	124400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARCOOLA	Off	412650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	PROSERPINE 4800	Off	-20.493328	148.556622	30	Circle	None	Global
+C-Freq			PROSERPINE 4800	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PROSERPINE 4800	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PROSERPINE 4800	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PROSERPINE 4800	Off	500787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PROSERPINE 4800	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PROSERPINE 4800	Off	126700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	PERTH	Off	-31.929566	115.953635	30	Circle	None	Global
+C-Freq			PERTH	Off	413387500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	426187500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	413037500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	127400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	412787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	COFFS HARBOUR	Off	-30.321677	153.117575	30	Circle	None	Global
+C-Freq			COFFS HARBOUR	Off	500037500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COFFS HARBOUR	Off	412850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COFFS HARBOUR	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COFFS HARBOUR	Off	413350000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COFFS HARBOUR	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COFFS HARBOUR	Off	118200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	SOUTH MACKAY	Off	-21.170404	149.176938	30	Circle	None	Global
+C-Freq			SOUTH MACKAY	Off	124500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH MACKAY	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH MACKAY	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH MACKAY	Off	500750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH MACKAY	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH MACKAY	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	MASCOT	Off	-33.934259	151.179108	30	Circle	None	Global
+C-Freq			MASCOT	Off	417737500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	500787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	415737500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	416362500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	422862500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	500800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	417362500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	416237500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDNEY AIRPORT	Off	124700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MASCOT	Off	416737500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	LAUNCESTON	Off	-41.546059	147.209054	30	Circle	None	Global
+C-Freq			LAUNCESTON	Off	415212500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAUNCESTON	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAUNCESTON AIRPORT	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAUNCESTON	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAUNCESTON	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAUNCESTON	Off	414962500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	NATIONWIDE	Off	-27.84	133.21	4500	Circle	None	Global
+C-Freq			NATIONWIDE	Off	415500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	509625000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	ALICE SPRINGS	Off	-23.801552	133.899769	30	Circle	None	Global
+C-Freq			ALICE SPRINGS	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	NEWMAN	Off	-23.418368	119.800695	30	Circle	None	Global
+C-Freq			NEWMAN	Off	426187500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	122000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	412787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	413037500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	500800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	AVALON AIRPORT	Off	-38.040097	144.470941	30	Circle	None	Global
+C-Freq			AVALON AIRPORT	Off	415562500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AVALON AIRPORT	Off	120100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AVALON AIRPORT	Off	414962500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AVALON AIRPORT	Off	415212500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AVALON AIRPORT	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	GLADSTONE	Off	-23.868397	151.225889	30	Circle	None	Global
+C-Freq			GLADSTONE	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLADSTONE	Off	500800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLADSTONE	Off	118800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLADSTONE	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLADSTONE	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLADSTONE	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	PORT HEDLAND	Off	-20.382089	118.626205	30	Circle	None	Global
+C-Freq			PORT HEDLAND	Off	500500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	412787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	426187500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	413037500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	TOWNSVILLE	Off	-19.255722	146.771782	30	Circle	None	Global
+C-Freq			TOWNSVILLE	Off	500750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOWNSVILLE	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOWNSVILLE	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOWNSVILLE	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOWNSVILLE	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOWNSVILLE	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	COOLANGATTA	Off	-28.163539	153.508425	30	Circle	None	Global
+C-Freq			COOLANGATTA	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COOLANGATTA	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COOLANGATTA	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COOLANGATTA	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COOLANGATTA	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	BROOME	Off	-17.946292	122.227493	30	Circle	None	Global
+C-Freq			BROOME	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	413037500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	500750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	426187500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	412787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	CAIRNS AIRPORT	Off	-16.877967	145.746884	30	Circle	None	Global
+C-Freq			CAIRNS AIRPORT	Off	124900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAIRNS AIRPORT	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAIRNS AIRPORT	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAIRNS AIRPORT	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAIRNS AIRPORT	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAIRNS AIRPORT	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAIRNS AIRPORT	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	BALLINA	Off	-28.835351	153.560454	30	Circle	None	Global
+C-Freq			BALLINA	Off	500787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLINA	Off	412850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLINA	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLINA	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLINA	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLINA	Off	413350000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	KARRATHA	Off	-20.708375	116.773968	30	Circle	None	Global
+C-Freq			KARRATHA	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARRATHA	Off	500750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARRATHA	Off	127350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARRATHA	Off	413037500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARRATHA	Off	412787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARRATHA	Off	426187500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	MARRARA	Off	-12.409820	130.873977	30	Circle	None	Global
+C-Freq			MARRARA	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	133100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	YULARA	Off	-25.186431	130.973717	30	Circle	None	Global
+C-Freq			YULARA	Off	412637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	131000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	500050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	412887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	426325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	STATEWIDE	Off	0.0	0.0	30	Circle	None	Global
+C-Freq			STATEWIDE	Off	415500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Aviation	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	COFFS HARBOUR	Off	-30.324022	153.114871	75	Circle	None	Global
+C-Freq			CFS TWR	Off	118200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CFS ATIS	Off	130300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	472175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	474950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	TAMWORTH NSW	Off	-31.081479	150.843071	75	Circle	None	Global
+C-Freq			TW TWR	Off	118250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TW TWR	Off	119400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TW SMC	Off	121900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TW ATIS	Off	123800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491575000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130375000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	509725000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	KYEEMAGH	Off	-33.948015	151.169014	75	Circle	None	Global
+C-Freq			SY DEP W	Off	118400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY ATIS	Off	118550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY PRM W	Off	119450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY PRM W	Off	119450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY TWR	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY SMC E	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY DEP N	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY DEP N	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY APP N	Off	124400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY APP N	Off	124400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY TWR	Off	124700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY DIR E	Off	125300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY DIR E	Off	125300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY DIR W	Off	126100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY DIR W	Off	126100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY SMC W	Off	126500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY COORD	Off	127600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY APP S	Off	128300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	128600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY DEP S	Off	129699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY ACD	Off	133800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY PRM E	Off	133949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY PRM E	Off	133949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY APP W	Off	135900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VICTOR 1	Off	120800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	119525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	450325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	40750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	153800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	450325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	503725000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485300000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504700000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504762500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506925000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504100000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506725000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492487500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466762500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130074999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	507212500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	505737500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506262500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	467125000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485625000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	505012500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	507662500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490725000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492087500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	129074999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	129250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	507425000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	508150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	509800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	507075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	126400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	509962500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	124925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	505262500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	470600000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	129900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	471800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	506437500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	135825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	464325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	464650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	128975000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	462900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	WENTWORTH FALLS	Off	-33.753987	150.371969	75	Circle	None	Global
+C-Freq			SY DEP W	Off	118400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	123400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY FIA	Off	124550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	128600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY TFC	Off	135100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY APP W	Off	135900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	JENOLAN	Off	-33.832338	149.990306	75	Circle	None	Global
+C-Freq			ML ACC	Off	118500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	119700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	125000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	129800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	CANOBOLAS	Off	-33.345995	148.981072	75	Circle	None	Global
+C-Freq			ML ACC	Off	118500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	122750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AERIS	Off	127700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	133050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	135250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	YENDA	Off	-34.121528	146.235101	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	118600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	134650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	CANBERRA AIRPORT	Off	-35.301655	149.197383	75	Circle	None	Global
+C-Freq			CB TWR	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CB SMC	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CB APP E	Off	124500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CB APP W	Off	125900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CB ATIS	Off	127450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	128400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	495150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	464550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	464000000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	130850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	475150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	450350000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	493125000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509975000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	463750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ACT ESA	Off	120650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ACT ESA	Off	124250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CORP AIR	Off	126400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ACT ESA	Off	129150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			34 SQN	Off	129650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Canberra Airport	Off	487075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Canberra Airport	Off	461862500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Canberra Airport	Off	463500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Canberra Airport	Off	486675000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Canberra Airport	Off	487425000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			STAR AVIATION	Off	131775000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			34 SQN	Off	129650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	COOMA	Off	-36.293471	148.970082	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	119400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	MT GININI	Off	-35.529552	148.772605	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	119500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	122750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	124100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AERIS	Off	128650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	EBOR	Off	-30.481729	152.397643	75	Circle	None	Global
+C-Freq			EBOR	Off	119750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	124625000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	127200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	130900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	134199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	BANKSTOWN	Off	-33.921847	150.981887	75	Circle	None	Global
+C-Freq			BK SMC	Off	119900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BK ATIS	Off	120900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BK TWR	Off	123600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BK TWR	Off	132800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLSWORTHY	Off	132900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	CAMDEN	Off	-34.040788	150.688774	75	Circle	None	Global
+C-Freq			CN TWR	Off	120100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CN SMC	Off	121900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CN ATIS	Off	125100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	MT NARDI	Off	-28.544867	153.288034	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	120300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BNA SFIS INFO	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	GLOUCESTER	Off	-32.106585	151.766462	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	120550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	123400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	130100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	132350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	BROWN MOUNTAIN	Off	-36.597889	149.381782	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	120750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	MOUNT MOOMBIL	Off	-30.31763	152.859773	75	Circle	None	Global
+C-Freq			MOUNT MOOMBIL	Off	120950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	122600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	124625000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	MT MACALISTER	Off	-34.449545	149.753686	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	121200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	125000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	129800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	NATIONWIDE	Off	-27.84	133.21	4500	Circle	None	Global
+C-Freq			GUARD	Off	121500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	130699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	130800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	133750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLIDING	Off	122500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLIDING	Off	122700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLIDING	Off	122900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AIR-TO-AIR	Off	123450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CTAF	Off	126700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	471350000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			3SQN F35	Off	238800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2OCU F35	Off	253600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2OCU F35	Off	254800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1SQN F18	Off	279800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2OCU F35	Off	282500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SAR	Off	282800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			3SQN F35	Off	288600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AAR PRIMARY	Off	301500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1SQN FA18	Off	315000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1SQN FA18	Off	316200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1SQN FA18	Off	320500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			3SQN F35	Off	324400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Taipan Air-Air	Off	328000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROULETTES	Off	335800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			2OCU F35	Off	336000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1SQN FA18	Off	344100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Seahawks	Off	350500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			1SQN FA18	Off	362800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UNID	Off	363000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROULETTES	Off	375400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			3SQN F35	Off	376600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	119700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	121000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	121400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	123300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	126200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	126250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	132500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	133100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	133500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	134375000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	134875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135575000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135775000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	135975000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	136200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	136700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	136725000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	136775000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	136800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	136850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NATIONWIDE	Off	136875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	ALBURY	Off	-36.069902	146.953233	75	Circle	None	Global
+C-Freq			AY SMC	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AY ATIS	Off	133850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AY TWR	Off	123250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130375000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	495125000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	BROKEN HILL	Off	-32.004883	141.476284	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	122600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AERIS	Off	128250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	132800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	DUBBO	Off	-32.219845	148.568704	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YSDU CTAF	Off	134000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	BALLINA	Off	-28.837701	153.554792	75	Circle	None	Global
+C-Freq			BNA SFIS INFO	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN FIA	Off	126050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	466175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	130750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	465600000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	129050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	495075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Pelican	Off	129525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	MT HEATON	Off	-32.96753	151.463358	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	124800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	125700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT HEATON	Off	120700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	KORREO	Off	-31.63372	144.73862	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	124900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	LORD HOWE ISLAND	Off	-31.528851	159.073332	75	Circle	None	Global
+C-Freq			BN ACC	Off	124950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	BOURKE NSW	Off	-30.044842	145.949812	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	125350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	128199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	ROUND MOUNTAIN	Off	-30.437669	152.2403	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	125750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	WORONORA	Off	-34.116839	150.952024	75	Circle	None	Global
+C-Freq			SY FIA	Off	125800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY ATIS	Off	126250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY APP S	Off	128300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SY DEP S	Off	129699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	PORT MACQUARIE	Off	-31.435672	152.866742	75	Circle	None	Global
+C-Freq			BN FIA	Off	126600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YPMQ CTAF	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	123050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130425000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	474950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	MOUNT DOWE	Off	-30.284506	150.167542	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	127100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	133000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	BINALONG	Off	-34.639833	148.589815	75	Circle	None	Global
+C-Freq			ML ACC	Off	128400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=33	AgencyId=0	PORTERS CAMP	Off	-31.277859	151.850464	75	Circle	None	Global
+C-Freq			BN ACC	Off	130100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	130900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	132350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=34	AgencyId=0	MT FLAKNEY	Off	-35.289077	147.430529	75	Circle	None	Global
+C-Freq			ML ACC	Off	132199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	119500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=35	AgencyId=0	MT SANDON	Off	-31.38717	151.411857	75	Circle	None	Global
+C-Freq			BN ACC	Off	133000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=36	AgencyId=0	MELBOURNE AIRPORT	Off	-37.659031	144.842044	75	Circle	None	Global
+C-Freq			ML ATIS	Off	118000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ESSENDON	Off	118450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML DEP N	Off	118900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML DEP N	Off	118900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EN ATIS	Off	119800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML TWR	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML SMC	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EN SMC	Off	121900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	123750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EN TWR	Off	125100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACD	Off	127200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML DEP S	Off	129400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML DEP S	Off	129400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML APP	Off	132000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	134325000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	135300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	135700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	119525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	130850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504525000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506675000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	505350000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	507925000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506037500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	129225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	493000000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504000000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504887500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	129675000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	131925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	484825000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	502350000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	502650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	502050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	124925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	130150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	509837500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	450450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	471450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	464362500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131324999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	463750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	464062500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=37	AgencyId=0	HOBART AIRPORT	Off	-42.835664	147.501648	75	Circle	None	Global
+C-Freq			HB TWR	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HB TWR	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HB SMC	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HB APP	Off	125550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HB APP	Off	125550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HB ATIS	Off	128449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	465700000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	500500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	509737500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	509950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	509625000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=38	AgencyId=0	MOORABBIN VIC	Off	-37.976699	145.094922	75	Circle	None	Global
+C-Freq			MB TWR	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MB ATIS	Off	120900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MB TWR	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MB SMC	Off	134250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=39	AgencyId=0	AVALON AIRPORT	Off	-38.039384	144.476695	75	Circle	None	Global
+C-Freq			AV ATIS	Off	118200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AV TWR	Off	120100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AVALON AIRPORT	Off	122550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AVALON AIRPORT	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AVALON AIRPORT	Off	127900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AVALON AIRPORT	Off	129199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AV UNICOM	Off	129300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AV APP	Off	133550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	450175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=40	AgencyId=0	LAUNCESTON AIRPORT	Off	-41.547661	147.208895	75	Circle	None	Global
+C-Freq			LT TWR	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LT APP	Off	123800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LT ATIS	Off	134750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	495112500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=41	AgencyId=0	MT BARROW	Off	-41.377304	147.421683	75	Circle	None	Global
+C-Freq			LT TWR	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LT APP	Off	123800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	126500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=42	AgencyId=0	MT WILLIAM	Off	-37.293132	142.601406	75	Circle	None	Global
+C-Freq			AERIS	Off	119750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	125800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	127400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	128500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=43	AgencyId=0	DEVONPORT	Off	-41.17044	146.427729	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	120700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	450162500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	124875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=44	AgencyId=0	MT HICKEY	Off	-37.176593	145.15275	75	Circle	None	Global
+C-Freq			MT HICKEY	Off	121100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=45	AgencyId=0	MILDURA	Off	-34.231555	142.082412	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	122100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	132600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	509762500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	495025000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	484950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=46	AgencyId=0	MT MACEDON	Off	-37.383377	144.575878	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	122400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	123750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	128500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML APP	Off	132000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	134325000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	135700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=47	AgencyId=0	TABLE CAPE	Off	-40.953239	145.730974	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	122600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	123950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=48	AgencyId=0	ARTHURS SEAT	Off	-38.354268	144.952035	75	Circle	None	Global
+C-Freq			ARTHURS SEAT	Off	123350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	135300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=49	AgencyId=0	KING ISLAND TAS	Off	-39.879353	143.880235	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=50	AgencyId=0	MT READ	Off	-41.84401	145.54152	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=51	AgencyId=0	MT TASSIE	Off	-38.399922	146.565555	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	124000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	130300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=52	AgencyId=0	MT BIG BEN	Off	-36.403588	146.939863	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	125200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	132199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=53	AgencyId=0	MELBOURNE	Off	-37.855033	144.975751	75	Circle	None	Global
+C-Freq			MELBOURNE	Off	132100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=54	AgencyId=0	MT COTTRELL	Off	-37.762587	144.622572	75	Circle	None	Global
+C-Freq			AV APP	Off	133550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=55	AgencyId=0	GOOCHEGOOCHERA	Off	-17.068995	133.47198	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AERIS	Off	128449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=56	AgencyId=0	DARWIN	Off	-12.379644	130.973933	75	Circle	None	Global
+C-Freq			BN FIA	Off	118150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	123850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	129850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YMKT CTAF	Off	127100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LEE POINT	Off	133600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=57	AgencyId=0	GREENHILL	Off	-34.952052	138.717388	75	Circle	None	Global
+C-Freq			AD APP SE	Off	118200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AD APP N	Off	128600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AD FIA	Off	130449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AD ATIS	Off	134500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=58	AgencyId=0	ADELAIDE AIRPORT	Off	-34.952429	138.53208	75	Circle	None	Global
+C-Freq			AD APP SE	Off	118200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AD TWR	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AD SMC	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AD APP NW	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	125300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AD ACD	Off	126100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	127050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AD APP N	Off	128600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	466900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	465450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	465875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	463800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	464950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	463500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509637500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	505425000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	507200000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	484950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	507700000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	494950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	494825000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	129850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	495125000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	463750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	463175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	471562500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	505362500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	506937500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	462312500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	467425000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	490325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	129350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=59	AgencyId=0	ALICE SPRINGS	Off	-23.722366	133.857241	75	Circle	None	Global
+C-Freq			AS TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	119800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AS ATIS	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	128850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	463075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462300000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491575000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=60	AgencyId=0	PARAFIELD AIRPORT	Off	-34.790857	138.636422	75	Circle	None	Global
+C-Freq			PF TWR	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PF SMC	Off	119900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PF ATIS	Off	120900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PF TWR	Off	124600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ED SMCV	Off	127250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ED SMC	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EDINBURGH	Off	129175000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EDINBURGH	Off	134800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=61	AgencyId=0	TRIAL HILL	Off	-34.654719	138.953374	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	118950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	125300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	135450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=62	AgencyId=0	MOOMBA	Off	-28.119995	140.212106	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	119500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	128100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=63	AgencyId=0	MOUNT GAMBIER	Off	-37.745243	140.7846	75	Circle	None	Global
+C-Freq			MOUNT GAMBIER	Off	120300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YMTG CTAF	Off	126650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=64	AgencyId=0	OODNADATTA SA	Off	-27.50715	135.445475	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	120700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	132900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=65	AgencyId=0	PARAFIELD AIRPORT	Off	-34.790857	138.636422	75	Circle	None	Global
+C-Freq			PF TWR	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PF SMC	Off	119900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PF ATIS	Off	120900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PF TWR	Off	124600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EDINBURGH	Off	129175000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=66	AgencyId=0	LEIGH CREEK	Off	-30.596581	138.42131	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	121200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=67	AgencyId=0	ALICE SPRINGS	Off	-23.722366	133.857241	75	Circle	None	Global
+C-Freq			AS TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	119800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AS ATIS	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	128850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	463075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462300000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491575000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=68	AgencyId=0	YULARA	Off	-25.17238	130.974801	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	121850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	131800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YAYE CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	450350000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=69	AgencyId=0	WOOMERA	Off	-31.142831	136.807311	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	122000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	135400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WR TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOMERA	Off	132949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=70	AgencyId=0	TENNANT CREEK	Off	-19.645175	134.185173	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	122100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	134000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=71	AgencyId=0	GROOTE EYLANDT	Off	-13.975208	136.456443	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	122200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YGTE CTAF	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=72	AgencyId=0	TINDAL	Off	-14.513021	132.363418	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	122600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	133199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AIRMOVEMENTS	Off	364600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TN TWR	Off	119700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TN TRAFFIC	Off	125800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TN SMCV	Off	127250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TN SMC	Off	135850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TN ATIS	Off	124000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TN APP	Off	120950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TINDAL	Off	130100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=73	AgencyId=0	DELAMERE	Off	-35.606353	138.16037	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=74	AgencyId=0	MANINGRIDA	Off	-12.062521	134.231788	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	123400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YMGD CTAF	Off	127500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=75	AgencyId=0	CEDUNA	Off	-32.126284	133.727031	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AERIS	Off	128449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=76	AgencyId=0	LIMBUNYA	Off	-17.22415	129.882658	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	123700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	134199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=77	AgencyId=0	THE BLUFF	Off	-33.103845	138.16414	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=78	AgencyId=0	JABIRU	Off	-12.669497	132.834489	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	124100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=79	AgencyId=0	WOOLPUNDA	Off	-34.233277	140.171745	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	124300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=80	AgencyId=0	GOVE	Off	-12.268359	136.820817	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	125000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	133699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YPGV CTAF	Off	127800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=81	AgencyId=0	PORT LINCOLN	Off	-34.694583	135.830562	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	125900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YPLC CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=82	AgencyId=0	NORTH BLOCK SA	Off	-34.357453	135.550842	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	125900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	135000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=83	AgencyId=0	TIBOOBURRA	Off	-29.445342	142.057387	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	126500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=84	AgencyId=0	KILGOUR	Off	-17.320189	135.667558	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	128500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	134400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=85	AgencyId=0	DARWIN	Off	-12.379644	130.973933	75	Circle	None	Global
+C-Freq			BN FIA	Off	118150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	123850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	129850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	488912500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	485075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	127825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	133900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	489262500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509912500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	495087500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	475050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN DEP	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN ATIS	Off	128250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN APP W	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN ACD	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=86	AgencyId=0	COOK	Off	-31.581174	130.757746	75	Circle	None	Global
+C-Freq			ML ACC	Off	132699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=87	AgencyId=0	BRISBANE AIRPORT	Off	-27.387867	153.115481	75	Circle	None	Global
+C-Freq			BN TWR 01L/19R	Off	118000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACD	Off	118850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN FINALS	Off	119250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN TWR 01R/19L	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC DOM	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC S	Off	122250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC N	Off	124050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ATIS	Off	125500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471225000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462287500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	119525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	505850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485012500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492600000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130324999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	495150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	450337500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490025000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	484950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	485100000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	491837500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	124925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	494837500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	130050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	495075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	134550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	507575000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	490950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	475175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=88	AgencyId=0	ROCKHAMPTON	Off	-23.376857	150.47759	75	Circle	None	Global
+C-Freq			RK TWR	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RK SMC	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CORAL APP RK	Off	123750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RK ATIS	Off	128500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485062500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKHAMPTON	Off	133850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=89	AgencyId=0	ARCHERFIELD	Off	-27.576195	153.004396	75	Circle	None	Global
+C-Freq			AF TWR	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AF SMC	Off	119900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AF ATIS	Off	120900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AF TWR	Off	123600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=90	AgencyId=0	KINTORE QLD	Off	-14.296547	143.344985	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	118200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=91	AgencyId=0	SADDLE MOUNTAIN	Off	-16.818231	145.662937	75	Circle	None	Global
+C-Freq			CS APP	Off	118400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	121200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	123800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CS TWR	Off	124900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CS APP	Off	126100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=92	AgencyId=0	CAIRNS	Off	-16.874845	145.755164	75	Circle	None	Global
+C-Freq			CS APP	Off	118400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CS SMC	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CS TWR	Off	124900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CS APP	Off	126100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CS ACD	Off	128750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	450462500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	486675000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	129199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	465700000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	484800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130475000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506375000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506675000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	495125000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	462400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131324999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	485025000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=93	AgencyId=0	MOUNT GLORIOUS	Off	-27.314943	152.748074	75	Circle	None	Global
+C-Freq			BN DEP SE	Off	118450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN FINALS	Off	119250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN FIA	Off	125700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	129000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN DEP NW	Off	133449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	134300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	135200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=94	AgencyId=0	MOUNT COOT-THA	Off	-27.460831	152.957846	75	Circle	None	Global
+C-Freq			BN DEP SE	Off	118450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN APP NW	Off	124700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN APP SE	Off	125600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT COOT-THA	Off	128150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=95	AgencyId=0	MORANBAH	Off	-22.059997	148.0741	75	Circle	None	Global
+C-Freq			MORANBAH	Off	118450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YMRB CTAF	Off	127500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	475100000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	484850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=96	AgencyId=0	NORMANTON	Off	-17.695551	141.073293	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	118600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=97	AgencyId=0	HAMILTON ISLAND	Off	-20.351381	148.955383	75	Circle	None	Global
+C-Freq			HM TWR	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HM CTAF	Off	127850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HM ATIS	Off	128350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	465600000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	475150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=98	AgencyId=0	COOLANGATTA	Off	-28.163919	153.509192	75	Circle	None	Global
+C-Freq			CG TWR	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CG SMC	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN APP 	Off	123500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CG ACD	Off	128750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490350000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506025000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505625000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	474900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	128850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	465475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	509625000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	507900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	509975000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	466200000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=99	AgencyId=0	JACKSON QLD	Off	-27.577935	142.378726	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	118800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	132449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=100	AgencyId=0	ST GEORGE	Off	-28.046891	148.59728	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	118950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	133800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=101	AgencyId=0	SPRINGBROOK	Off	-28.240297	153.2665	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	119500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SPRINGBROOK	Off	122000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN APP 	Off	123500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	127200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SPRINGBROOK	Off	128150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SPRINGBROOK	Off	130400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	132850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CG ATIS	Off	134500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YMUR CTAF	Off	127550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=102	AgencyId=0	MT ALMA	Off	-23.959428	150.804655	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	119550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	125900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	135300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=103	AgencyId=0	MT BELLENDEN KER	Off	-17.264216	145.853685	75	Circle	None	Global
+C-Freq			AERIS	Off	119750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	121300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	124600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	127600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CS ATIS	Off	131100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=104	AgencyId=0	CHEVIOT HILLS	Off	-19.576196	144.08425	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	119800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	133000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=105	AgencyId=0	MARCOOLA	Off	-26.591879	153.091807	75	Circle	None	Global
+C-Freq			MARCOOLA	Off	119800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARCOOLA	Off	121100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	124400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	135200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	472900000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	129949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	474875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	509800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	128850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=106	AgencyId=0	KUTTABUL	Off	-21.032368	148.943457	75	Circle	None	Global
+C-Freq			AERIS	Off	119850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	135500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=107	AgencyId=0	MT MOWBULLAN	Off	-26.898449	151.620285	75	Circle	None	Global
+C-Freq			AERIS	Off	119950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN FIA	Off	121200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	123950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT MOWBULLAN	Off	125250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	135600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=108	AgencyId=0	HANN TABLELAND	Off	-16.915811	145.252256	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	120150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	123800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	127600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=109	AgencyId=0	THURSDAY ISLAND	Off	-10.577242	142.227501	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	120300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=110	AgencyId=0	MOUNT ISA	Off	-20.675411	139.486561	75	Circle	None	Global
+C-Freq			AERIS	Off	120350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	122400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	125200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YBMA CTAF	Off	126500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	475100000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	124875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=111	AgencyId=0	TOWNSVILLE	Off	-19.189145	146.764722	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	120550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	466175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	488300000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	462225000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	474800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	485050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	508025000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	490212500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AIRMOVEMENTS	Off	361600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TL TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TL SMC	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TL APP	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=112	AgencyId=0	TABLETOP MOUNTAIN	Off	-19.3785	146.493497	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	120550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=113	AgencyId=0	HOPE VALE	Off	-15.315608	145.086405	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	121300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	134650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=114	AgencyId=0	MACKAY	Off	-21.170012	149.174507	75	Circle	None	Global
+C-Freq			MK SMC	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MK TWR	Off	124500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CORAL APP MK	Off	125650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MK ATIS	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	475100000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=115	AgencyId=0	LONGREACH	Off	-23.428125	144.288156	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	122100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	134199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	484850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=116	AgencyId=0	WEIPA	Off	-12.66895	141.922869	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	122100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	135300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	509575000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=117	AgencyId=0	EMERALD	Off	-23.567045	148.171345	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	122300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	128699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	494825000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	484850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=118	AgencyId=0	NORTH STRADBROKE ISLAND	Off	-27.499735	153.453142	75	Circle	None	Global
+C-Freq			BN ACC	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN APP NW	Off	124700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN APP SE	Off	125600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTH STRADBROKE ISLAND	Off	130400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTH STRADBROKE ISLAND	Off	131824999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	132850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN DEP NW	Off	133449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	134300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	135600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=119	AgencyId=0	TABLE MOUNTAIN	Off	-23.516917	150.383195	75	Circle	None	Global
+C-Freq			CORAL APP RK	Off	123750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	125900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=120	AgencyId=0	KYNUNA	Off	-21.456761	141.95114	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	123950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=121	AgencyId=0	SLOPING HUMMOCK	Off	-24.842686	152.426609	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	124100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YBUD CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=122	AgencyId=0	MT WATALGAN	Off	-24.702091	151.96254	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	124100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=123	AgencyId=0	MARYBOROUGH	Off	-25.516394	152.663212	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	124600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YMYB CTAF	Off	126550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=124	AgencyId=0	CHARLEVILLE	Off	-26.41928	146.249761	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	124800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	133400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	494950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	474825000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=125	AgencyId=0	BIRDSVILLE	Off	-25.896287	139.353462	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=126	AgencyId=0	MORNINGTON ISLAND	Off	-16.659067	139.17088	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	125700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	135700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	124875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=127	AgencyId=0	ROMA	Off	-26.542756	148.781523	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YROM CTAF	Off	126950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	474950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=128	AgencyId=0	PASSCHENDAELE	Off	-28.535886	151.833096	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=129	AgencyId=0	EUNGELLA	Off	-21.082453	148.439174	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	128550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	133199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=130	AgencyId=0	BEDOURIE	Off	-24.357947	139.471482	75	Circle	None	Global
+C-Freq			BN ACC	Off	132000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=131	AgencyId=0	CREDITON	Off	-21.230035	148.537347	75	Circle	None	Global
+C-Freq			BN ACC	Off	133199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=132	AgencyId=0	PROSERPINE	Off	-20.490743	148.555438	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	134700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485112500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	129025000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=133	AgencyId=0	JANDAKOT	Off	-32.095467	115.87706	75	Circle	None	Global
+C-Freq			JT TWR	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JT TWR	Off	119400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JT SMC	Off	124300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JT ATIS	Off	128650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=134	AgencyId=0	MOUNT BARRETT	Off	-18.163178	127.550287	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	118200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	132900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=135	AgencyId=0	TARIN ROCK	Off	-33.129341	118.161213	75	Circle	None	Global
+C-Freq			ML ACC	Off	118200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=136	AgencyId=0	LEONORA WA	Off	-28.879582	121.320455	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	118400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=137	AgencyId=0	PERTH	Off	-31.943372	115.975061	75	Circle	None	Global
+C-Freq			PH ACD	Off	118550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH SMC W	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH SMC E	Off	122200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH APP	Off	123600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH ATIS	Off	123800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH TWR	Off	127400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	494850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	463325000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	463000000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	463437500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	465800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	465450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462487500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490862500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509562500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	507450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492812500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492162500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491462500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	493525000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	126400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	494050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	485025000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	494812500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	466000000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	494312500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	450387500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130574999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	507750000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	495062500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	509687500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131324999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=138	AgencyId=0	PORT HEDLAND	Off	-20.387302	118.643055	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	118600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PD INFO / CTAF	Off	119900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	127000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PD ATIS	Off	133650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	508875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=139	AgencyId=0	KALAMUNDA	Off	-31.990709	116.071581	75	Circle	None	Global
+C-Freq			PH DEP	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	122400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH APP	Off	123600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	125200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH APP	Off	132949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH FIA	Off	135250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=140	AgencyId=0	PARKERVILLE	Off	-31.858301	116.117063	75	Circle	None	Global
+C-Freq			PH DEP	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	120300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	122400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	125200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH APP	Off	132949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PH FIA	Off	135250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=141	AgencyId=0	BALGO HILLS	Off	-20.135556	127.988889	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	118900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	132100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=142	AgencyId=0	MT KEITH	Off	-27.283432	120.554212	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	118950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=143	AgencyId=0	DOONGAN WA	Off	-15.379439	126.310401	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	120750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	132900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=144	AgencyId=0	GERALDTON	Off	-28.79377	114.703361	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	121200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	134199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YGEL CTAF	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	475000000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=145	AgencyId=0	BROOME	Off	-17.946292	122.227493	75	Circle	None	Global
+C-Freq			BRM SMC	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC/FIA	Off	123950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRM TWR	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRM ATIS	Off	128199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	134650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	485075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	509975000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=146	AgencyId=0	DERBY WA	Off	-17.368879	123.661526	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	122100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AERIS	Off	128449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	133400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=147	AgencyId=0	CARNARVON	Off	-24.882254	113.663514	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	122100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=148	AgencyId=0	KUNUNURRA	Off	-15.784622	128.710931	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	122400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YPKU CTAF	Off	127000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=149	AgencyId=0	KARRATHA WA	Off	-20.707532	116.773775	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	122400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KA SMC	Off	123550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KA TWR	Off	127350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KA ATIS	Off	134550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131949999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509675000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=150	AgencyId=0	MEEKATHARRA	Off	-26.611804	118.544891	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	122600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	127300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AERIS	Off	128449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YMEK CTAF	Off	126550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=151	AgencyId=0	NEWMAN WA	Off	-23.362272	119.7255	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	128150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YNWN CTAF	Off	122000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509675000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=152	AgencyId=0	YERBILLON	Off	-31.40819	118.76508	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	135800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=153	AgencyId=0	ALBANY	Off	-34.946539	117.804168	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	123900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YABA CTAF	Off	127850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=154	AgencyId=0	ESPERANCE	Off	-33.687469	121.827522	75	Circle	None	Global
+C-Freq			ML ACC	Off	123950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	133199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=155	AgencyId=0	WANNOO	Off	-26.815617	114.613246	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	124500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	132000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=156	AgencyId=0	MT SINGLETON	Off	-29.465964	117.298928	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	124800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=157	AgencyId=0	FITZROY CROSSING	Off	-18.188591	125.561532	75	Circle	None	Global
+C-Freq			BN ACC/FIA	Off	124800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=158	AgencyId=0	WARBURTON	Off	-26.128047	126.577733	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	124900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	130900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YWBR CTAF	Off	127100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=159	AgencyId=0	ROELANDS	Off	-33.286876	115.900392	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	124900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=160	AgencyId=0	TELFER WA	Off	-21.712367	122.214847	75	Circle	None	Global
+C-Freq			ML ACC	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	134500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YTEF CFAF	Off	126650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=161	AgencyId=0	PARABURDOO	Off	-23.232611	117.665036	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	125700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	133500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YPBO CTAF	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=162	AgencyId=0	KALGOORLIE	Off	-30.780915	121.45868	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	125750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AERIS	Off	128250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	134300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YPKG CTAF	Off	126600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=163	AgencyId=0	LEARMONTH	Off	-22.240937	114.09436	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	125900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	134000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YPLM CTAF	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LM TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LM APP	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=164	AgencyId=0	GLENAYLE WA	Off	-25.264759	122.044686	75	Circle	None	Global
+C-Freq			ML ACC	Off	133600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=165	AgencyId=0	CAIGUNA	Off	-32.265889	125.488958	75	Circle	None	Global
+C-Freq			ML ACC/FIA	Off	134199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=166	AgencyId=0	GINGIN	Off	-31.46094	115.8662	75	Circle	None	Global
+C-Freq			PEA APP	Off	135900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=167	AgencyId=0	COOMA	Off	-36.1802	148.5826	75	Circle	None	Global
+C-Freq			YCOM CTAF	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=168	AgencyId=0	TAREE	Off	-31.5319	152.305	75	Circle	None	Global
+C-Freq			YTRE CTAF	Off	118100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=169	AgencyId=0	BACCHUS MARSH	Off	-37.44	144.252	75	Circle	None	Global
+C-Freq			YBSS CTAF	Off	118800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=170	AgencyId=0	GLADSTONE	Off	-23.8716	151.2245	75	Circle	None	Global
+C-Freq			YGLA CTAF	Off	118800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	494925000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	129050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	484850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=171	AgencyId=0	HORSHAM	Off	-36.4011	142.1022	75	Circle	None	Global
+C-Freq			YHSM CTAF	Off	118800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=172	AgencyId=0	MILDURA	Off	-34.1345	142.0508	75	Circle	None	Global
+C-Freq			YMIA CTAF	Off	118800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=173	AgencyId=0	WENTWORTH	Off	-34.0516	141.5331	75	Circle	None	Global
+C-Freq			YWTO CTAF	Off	118800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=174	AgencyId=0	SHEPPARTON	Off	-36.2544	145.2333	75	Circle	None	Global
+C-Freq			YSHT CTAF	Off	118800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=175	AgencyId=0	KEMPSEY	Off	-31.0428	152.4611	75	Circle	None	Global
+C-Freq			YKMP CTAF	Off	118900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=176	AgencyId=0	DENILLIQUIN	Off	-35.3334	144.5647	75	Circle	None	Global
+C-Freq			YDLQ CTAF	Off	119000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=177	AgencyId=0	KYNETON	Off	-37.1332	144.2649	75	Circle	None	Global
+C-Freq			YKTN CTAF	Off	119000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=178	AgencyId=0	TORQUAY	Off	-38.18	144.2154	75	Circle	None	Global
+C-Freq			YTQY CTAF	Off	119000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=179	AgencyId=0	BARWON	Off	-38.0849	144.1021	75	Circle	None	Global
+C-Freq			YGBF CTAF	Off	119000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=180	AgencyId=0	HECK FIELD	Off	-27.4603	153.2022	75	Circle	None	Global
+C-Freq			YHEC CTAF	Off	119000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471225000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462287500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=181	AgencyId=0	ORANGE	Off	-33.2241	149.0732	75	Circle	None	Global
+C-Freq			YORG CTAF	Off	119000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=182	AgencyId=0	SWAN HILL	Off	-35.2233	143.3158	75	Circle	None	Global
+C-Freq			YSWH CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=183	AgencyId=0	ECHUCA	Off	-36.0926	144.4543	75	Circle	None	Global
+C-Freq			YECH CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=184	AgencyId=0	WANGARATTA	Off	-36.2457	146.1825	75	Circle	None	Global
+C-Freq			YWGT CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=185	AgencyId=0	STAWELL	Off	-37.0418	142.4425	75	Circle	None	Global
+C-Freq			YSWL CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=186	AgencyId=0	COLDSTREAM	Off	-37.4342	145.2432	75	Circle	None	Global
+C-Freq			YCEM CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=187	AgencyId=0	MARYBOROUGH	Off	-37.0159	143.4232	75	Circle	None	Global
+C-Freq			YMBU CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=188	AgencyId=0	MURRAY FIELD	Off	-32.3037	115.5	75	Circle	None	Global
+C-Freq			YMUL CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=189	AgencyId=0	PHILLIP ISLAND HLS	Off	-38.3112	145.1936	75	Circle	None	Global
+C-Freq			YPID CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HMAS CERBERUS	Off	133300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HMAS CERBERUS	Off	135000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=190	AgencyId=0	SAINT HELENS	Off	-41.2012	148.1655	75	Circle	None	Global
+C-Freq			YSTH CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=191	AgencyId=0	SMITHTON	Off	-40.5006	145.0501	75	Circle	None	Global
+C-Freq			YSMI CTAF	Off	119100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=192	AgencyId=0	BENDIGO	Off	-36.4421	144.1947	75	Circle	None	Global
+C-Freq			YBDG CTAF	Off	119300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=193	AgencyId=0	BRIDGEWATER	Off	-36.37	143.57	75	Circle	None	Global
+C-Freq			YBGR CTAF	Off	119300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=194	AgencyId=0	BAMYILI	Off	-14.3111	132.53	75	Circle	None	Global
+C-Freq			YBMY CTAF	Off	119700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=195	AgencyId=0	BARROW ISLAND	Off	-20.5152	115.2422	75	Circle	None	Global
+C-Freq			YBWX CTAF	Off	120100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=196	AgencyId=0	MERREDIN	Off	-31.3124	118.1912	75	Circle	None	Global
+C-Freq			YMDN CTAF	Off	120100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=197	AgencyId=0	MANGALORE	Off	-36.5318	145.1103	75	Circle	None	Global
+C-Freq			YMNG CTAF	Off	121100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=198	AgencyId=0	MELTON	Off	-37.3718	144.3356	75	Circle	None	Global
+C-Freq			YMEL CTAF	Off	121600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=199	AgencyId=0	WEDDERBURN	Off	-34.1048	150.4832	75	Circle	None	Global
+C-Freq			YWBN CTAF	Off	122550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=200	AgencyId=0	CESSNOCK	Off	-32.4715	151.203	75	Circle	None	Global
+C-Freq			YCNK CTAF	Off	122650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=201	AgencyId=0	BOONAH	Off	-28.0103	152.4036	75	Circle	None	Global
+C-Freq			YBOA CTAF	Off	122750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=202	AgencyId=0	WESTMEAD HLS	Off	-33.4818	150.5918	75	Circle	None	Global
+C-Freq			YWST CTAF	Off	124150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=203	AgencyId=0	BROOKLET	Off	-28.4423	153.2914	75	Circle	None	Global
+C-Freq			YBBF CTAF	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=204	AgencyId=0	HAMILTON	Off	-37.3856	142.0355	75	Circle	None	Global
+C-Freq			YHML CTAF	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=205	AgencyId=0	NORTHAM	Off	-31.3733	116.4104	75	Circle	None	Global
+C-Freq			YNTM CTAF	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=206	AgencyId=0	QUEENSTOWN	Off	-42.0432	145.3151	75	Circle	None	Global
+C-Freq			YQNS CTAF	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=207	AgencyId=0	TOORADIN	Off	-38.1256	145.2525	75	Circle	None	Global
+C-Freq			YTDN CTAF	Off	124200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=208	AgencyId=0	TOCUMWAL	Off	-35.4839	145.3615	75	Circle	None	Global
+C-Freq			YTOC CTAF	Off	125500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=209	AgencyId=0	BENALLA	Off	-36.3315	146.0033	75	Circle	None	Global
+C-Freq			YBLA CTAF	Off	125600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=210	AgencyId=0	CABOOLTURE	Off	-27.0437	152.5913	75	Circle	None	Global
+C-Freq			YCAB CTAF	Off	125850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=211	AgencyId=0	CALOUNDRA	Off	-26.4807	153.0619	75	Circle	None	Global
+C-Freq			YCDR CTAF	Off	125850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=212	AgencyId=0	CARRAPATEENA	Off	-31.183	137.2636	75	Circle	None	Global
+C-Freq			YCPT CTAF	Off	125850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=213	AgencyId=0	GRUYERE	Off	-28.0203	123.4851	75	Circle	None	Global
+C-Freq			YGRM CTAF	Off	125850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=214	AgencyId=0	KINGSCOTE	Off	-35.425	137.3117	75	Circle	None	Global
+C-Freq			YKSC CTAF	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=215	AgencyId=0	LATROBE VALLEY	Off	-38.1226	146.2813	75	Circle	None	Global
+C-Freq			YLTV CTAF	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=216	AgencyId=0	MOUNT BEAUTY	Off	-36.4343	147.1001	75	Circle	None	Global
+C-Freq			YMBT CTAF	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=217	AgencyId=0	ROTTNEST ISLAND	Off	-32.0024	115.3223	75	Circle	None	Global
+C-Freq			YRTI CTAF	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=218	AgencyId=0	WARRNAMBOOL	Off	-38.1743	142.2648	75	Circle	None	Global
+C-Freq			YWBL CTAF	Off	126000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=219	AgencyId=0	TEMORA	Off	-34.2517	147.3042	75	Circle	None	Global
+C-Freq			YTEM CTAF	Off	126150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=220	AgencyId=0	POINT COOK	Off	-37.5556	144.4512	75	Circle	None	Global
+C-Freq			YMPC CTAF	Off	126200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=221	AgencyId=0	CHINCHILLA	Off	-26.461	150.37	75	Circle	None	Global
+C-Freq			YCCA CTAF	Off	126350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=222	AgencyId=0	MOUNT HOLLAND	Off	-32.063	119.4536	75	Circle	None	Global
+C-Freq			YMHL CTAF	Off	126400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=223	AgencyId=0	HORN ISLAND	Off	-10.09	142.1027	75	Circle	None	Global
+C-Freq			YHID CTAF	Off	126500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=224	AgencyId=0	BATHURST ISLAND	Off	-11.4609	130.3711	75	Circle	None	Global
+C-Freq			YBTI CTAF	Off	126500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=225	AgencyId=0	LEINSTER	Off	-27.5036	120.4212	75	Circle	None	Global
+C-Freq			YLST CTAF	Off	126500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=226	AgencyId=0	GRIFFITH	Off	-34.1503	146.0402	75	Circle	None	Global
+C-Freq			YGTH CTAF	Off	126550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=227	AgencyId=0	GAWLER	Off	-34.3555	138.4317	75	Circle	None	Global
+C-Freq			YGAW CTAF	Off	126550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=228	AgencyId=0	KAMBALDA	Off	-31.1126	121.3554	75	Circle	None	Global
+C-Freq			YKBL CTAF	Off	126600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=229	AgencyId=0	OLYMPIC DAM	Off	-30.2906	136.5236	75	Circle	None	Global
+C-Freq			YOLD CTAF	Off	126600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=230	AgencyId=0	PROMINENT HILL	Off	-29.4304	135.3128	75	Circle	None	Global
+C-Freq			YPMH CTAF	Off	126600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=231	AgencyId=0	ONSLOW	Off	-21.4006	115.0647	75	Circle	None	Global
+C-Freq			YOLW CTAF	Off	126600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=232	AgencyId=0	ROBERTSON BARRACKS	Off	-12.253	130.5824	75	Circle	None	Global
+C-Freq			YRBK CTAF	Off	126600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=233	AgencyId=0	KOORALBYN	Off	-28.0524	152.5027	75	Circle	None	Global
+C-Freq			YKBN CTAF	Off	126650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=234	AgencyId=0	MOUNT GAMBIER	Off	-37.4444	140.4707	75	Circle	None	Global
+C-Freq			YMTG CTAF	Off	126650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=235	AgencyId=0	MOUNT HOTHAM	Off	-37.0254	147.2003	75	Circle	None	Global
+C-Freq			YHOT CTAF	Off	126750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=236	AgencyId=0	LAVERTON	Off	-28.3649	122.2526	75	Circle	None	Global
+C-Freq			YLTN CTAF	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=237	AgencyId=0	LEONORA	Off	-28.5241	121.1853	75	Circle	None	Global
+C-Freq			YLEO CTAF	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=238	AgencyId=0	BEVERLEY	Off	-32.0729	116.57	75	Circle	None	Global
+C-Freq			YBEV CTAF	Off	126850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=239	AgencyId=0	KING ISLAND	Off	-39.5239	143.5242	75	Circle	None	Global
+C-Freq			YKII CTAF	Off	126850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=240	AgencyId=0	DEVONPORT	Off	-41.1011	146.2549	75	Circle	None	Global
+C-Freq			YDPO CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=241	AgencyId=0	KARARA	Off	-29.1258	116.4112	75	Circle	None	Global
+C-Freq			YKAR CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=242	AgencyId=0	PORT AUGUSTA	Off	-32.3025	137.43	75	Circle	None	Global
+C-Freq			YPAG CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YFFD CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=243	AgencyId=0	PORT PIRIE	Off	-33.142	137.5942	75	Circle	None	Global
+C-Freq			YPIR CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=244	AgencyId=0	WHYALLA	Off	-33.0332	137.3052	75	Circle	None	Global
+C-Freq			YWHA CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=245	AgencyId=0	WYNYARD	Off	-40.5956	145.4352	75	Circle	None	Global
+C-Freq			YWYY CTAF	Off	126900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=246	AgencyId=0	WAGGA WAGGA	Off	-35.0955	147.2759	75	Circle	None	Global
+C-Freq			YSWG CTAF	Off	126950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=247	AgencyId=0	GOOLWA	Off	35.2855	138.4505	75	Circle	None	Global
+C-Freq			YGWA CTAF	Off	126950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=248	AgencyId=0	BUNBURY	Off	-33.2241	115.4037	75	Circle	None	Global
+C-Freq			YBUN CTAF	Off	127000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=249	AgencyId=0	BUSSLETON	Off	-33.4114	115.2401	75	Circle	None	Global
+C-Freq			YBLN CTAF	Off	127000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=250	AgencyId=0	BARIMUNYA	Off	-22.4026	119.0958	75	Circle	None	Global
+C-Freq			YBRY CTAF	Off	127050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=251	AgencyId=0	DARWIN	Off	-12.379644	130.973933	75	Circle	None	Global
+C-Freq			BN FIA	Off	118150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	123850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YMKT CTAF	Off	127100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=252	AgencyId=0	PETERBOROUGH	Off	-38.3624	142.5422	75	Circle	None	Global
+C-Freq			YPHB CTAF / GRT OCEAN RD BA	Off	127100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=253	AgencyId=0	GOULBURN	Off	-34.800996	149.717663	75	Circle	None	Global
+C-Freq			YGLB CTAF	Off	127150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=254	AgencyId=0	ELCHO ISLAND	Off	-12.011	135.3414	75	Circle	None	Global
+C-Freq			YELD CTAF	Off	127150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=255	AgencyId=0	REDCLIFFE	Off	-27.1224	153.0404	75	Circle	None	Global
+C-Freq			YRED CTAF	Off	127150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=256	AgencyId=0	CAPE LEVEQUE	Off	-16.2402	122.5553	75	Circle	None	Global
+C-Freq			WEST KIMBERLY BA	Off	127200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=257	AgencyId=0	KOOLAN ISLAND	Off	-16.0733	123.4405	75	Circle	None	Global
+C-Freq			WEST KIMBERLY BA	Off	127200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=258	AgencyId=0	JUNDEE	Off	-26.2516	120.3439	75	Circle	None	Global
+C-Freq			YJUN CTAF	Off	127200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=259	AgencyId=0	WILUNA	Off	-26.3745	120.1314	75	Circle	None	Global
+C-Freq			YWLU CTAF	Off	127200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=260	AgencyId=0	ARGYLE	Off	-16.3813	128.2705	75	Circle	None	Global
+C-Freq			YARG CTAF	Off	127300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=261	AgencyId=0	THE MONUMENT	Off	-21.4843	139.5524	75	Circle	None	Global
+C-Freq			YTMO CTAF	Off	127300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=262	AgencyId=0	BELLBURN	Off	-17.3241	128.1818	75	Circle	None	Global
+C-Freq			YBEB CTAF / BUNGLES BA	Off	127300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=263	AgencyId=0	GEORGE TOWN	Off	-41.0448	146.5024	75	Circle	None	Global
+C-Freq			YGTO CTAF	Off	127300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=264	AgencyId=0	SHELLHARBOUR	Off	-34.334	150.4719	75	Circle	None	Global
+C-Freq			YSHL CTAF	Off	127300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=265	AgencyId=0	WATTS BRIDGE	Off	-27.0544	152.2735	75	Circle	None	Global
+C-Freq			YWSG CTAF	Off	127300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=266	AgencyId=0	BATHURST	Off	-33.2434	149.3907	75	Circle	None	Global
+C-Freq			YBTH CTAF	Off	127350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=267	AgencyId=0	SEABUOY	Off	-20.2548	116.4251	75	Circle	None	Global
+C-Freq			YSBY CTAF	Off	127350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=268	AgencyId=0	GUNNEDAH	Off	-30.574	150.1502	75	Circle	None	Global
+C-Freq			YGDH CTAF	Off	127400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=269	AgencyId=0	KINGAROY	Off	-26.3451	151.5028	75	Circle	None	Global
+C-Freq			YKRY CTAF	Off	127450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=270	AgencyId=0	ARMIDALE	Off	-30.3141	151.3702	75	Circle	None	Global
+C-Freq			YARM CTAF	Off	127500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=271	AgencyId=0	MILINGIMBI	Off	-12.054	134.5337	75	Circle	None	Global
+C-Freq			YMGB CTAF	Off	127500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=272	AgencyId=0	MURRAY BRIDGE	Off	-35.0352	139.1336	75	Circle	None	Global
+C-Freq			YMBD CTAF	Off	127500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=273	AgencyId=0	LONGATHA	Off	-38.2944	145.5135	75	Circle	None	Global
+C-Freq			YLEG CTAF	Off	127550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=274	AgencyId=0	LETHBRIDGE	Off	-37.5508	144.0604	75	Circle	None	Global
+C-Freq			YLED CTAF	Off	127650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=275	AgencyId=0	WELLCAMP	Off	-27.3331	151.4739	75	Circle	None	Global
+C-Freq			YBWW CTAF	Off	127650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YTWB CTAF	Off	127650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=276	AgencyId=0	BALLARAT	Off	-37.3042	143.4728	75	Circle	None	Global
+C-Freq			YBLT CTAF	Off	127750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=277	AgencyId=0	ANNA CREEK	Off	-28.535	136.1014	75	Circle	None	Global
+C-Freq			YANK CTAF	Off	127800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YWMC CTAF / LAKE EYRE BA	Off	127800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=278	AgencyId=0	MARREE	Off	-29.3946	138.0357	75	Circle	None	Global
+C-Freq			YMRE CTAF	Off	127800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=279	AgencyId=0	CUNDERDIN	Off	-31.372	117.13	75	Circle	None	Global
+C-Freq			YCUN CTAF	Off	127800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=280	AgencyId=0	FLINDERS ISLAND	Off	-40.0529	147.5934	75	Circle	None	Global
+C-Freq			YFLI CTAF	Off	127800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=281	AgencyId=0	QUIRINDI	Off	-31.2955	150.3105	75	Circle	None	Global
+C-Freq			YQDI CTAF	Off	127800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=282	AgencyId=0	DENMARK	Off	-34.5645	117.235	75	Circle	None	Global
+C-Freq			YDEK CTAF	Off	127850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=283	AgencyId=0	WHITSUNDAYS	Off	-20.2129	148.5706	75	Circle	None	Global
+C-Freq			WHITSUNDAYS BA	Off	127850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=284	AgencyId=0	WARWICK	Off	-28.0858	151.5635	75	Circle	None	Global
+C-Freq			YWCK CTAF	Off	127850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=285	AgencyId=0	PORTLAND	Off	-38.1905	141.2816	75	Circle	None	Global
+C-Freq			YPOD CTAF	Off	127950000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=286	AgencyId=0	TUMBY BAY	Off	-34.214	136.0542	75	Circle	None	Global
+C-Freq			YTBB CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=287	AgencyId=0	TROUGHTON ISLAND	Off	-13.4506	126.0854	75	Circle	None	Global
+C-Freq			YTTI CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=288	AgencyId=0	DRYSDALE RIVER	Off	-15.4247	126.2253	75	Circle	None	Global
+C-Freq			YDRD CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=289	AgencyId=0	GIBB RIVER	Off	-16.2507	126.2646	75	Circle	None	Global
+C-Freq			YGIB CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=290	AgencyId=0	KALUMBURU	Off	-14.1717	126.3752	75	Circle	None	Global
+C-Freq			YKAL CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=291	AgencyId=0	SCONE	Off	-32.0214	150.4956	75	Circle	None	Global
+C-Freq			YSCO CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=292	AgencyId=0	TYABB	Off	-38.16	145.103	75	Circle	None	Global
+C-Freq			YTYA CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=293	AgencyId=0	WYNDHAM	Off	-15.3041	128.0911	75	Circle	None	Global
+C-Freq			YWYM CTAF	Off	128000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=294	AgencyId=0	BASS STRAIT RIGS	Off	-38.1311	148	75	Circle	None	Global
+C-Freq			YUOF CTAF	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=295	AgencyId=0	MORUYA	Off	-35.898329	150.144999	75	Circle	None	Global
+C-Freq			YMRY CTAF	Off	132050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=296	AgencyId=0	CAPE PRESTON	Off	-20.5838	116.163	75	Circle	None	Global
+C-Freq			YCPR CTAF	Off	132050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=297	AgencyId=0	TURTLE PARK	Off	-21.123	148.5842	75	Circle	None	Global
+C-Freq			YTPK CTAF	Off	132050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=298	AgencyId=0	BATMAN PARK HLS	Off	-37.492	144.5724	75	Circle	None	Global
+C-Freq			YBPK CTAF	Off	132100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=299	AgencyId=0	LAKE MACQUARIE	Off	-33.2627	151.2207	75	Circle	None	Global
+C-Freq			YLMQ CTAF	Off	132100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YSMB CTAF	Off	132100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=300	AgencyId=0	EMU PARK	Off	-23.1524	150.4848	75	Circle	None	Global
+C-Freq			YEMP CTAF	Off	132199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=301	AgencyId=0	AUGUSTA	Off	-34.1948	115.0924	75	Circle	None	Global
+C-Freq			YAUG CTAF	Off	132250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=302	AgencyId=0	LAKE KEEPIT	Off	-30.5324	150.3136	75	Circle	None	Global
+C-Freq			YKEP CTAF	Off	132250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=303	AgencyId=0	CASINO / LISMORE	Off	-28.5258	153.0401	75	Circle	None	Global
+C-Freq			YCAS CTAF	Off	132449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=304	AgencyId=0	COROWA	Off	-35.5925	146.2105	75	Circle	None	Global
+C-Freq			YCOR CTAF	Off	132449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=305	AgencyId=0	NARRANDERA	Off	-34.4208	146.3044	75	Circle	None	Global
+C-Freq			YNAR CTAF	Off	132850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=306	AgencyId=0	CARDWELL	Off	-18.1042	145.57	75	Circle	None	Global
+C-Freq			YCDW CTAF	Off	132900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=307	AgencyId=0	INNISFAIL	Off	-17.3331	146.0042	75	Circle	None	Global
+C-Freq			YIFL CTAF	Off	132900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=308	AgencyId=0	TULLY	Off	-17.561	145.5616	75	Circle	None	Global
+C-Freq			YTUY CTAF	Off	132900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=309	AgencyId=0	NARROGIN	Off	-32.5548	117.0448	75	Circle	None	Global
+C-Freq			YNRG CTAF	Off	134000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=310	AgencyId=0	Mount Farquhar	Off	-22.431419	116.886650	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=311	AgencyId=0	DARWIN	Off	-12.430721	130.961087	75	Circle	None	Global
+C-Freq			BN ACC	Off	129850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	488912500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	485075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	127825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	133900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	489262500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509912500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	495087500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	475050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN SMC	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN DEP	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN ATIS	Off	128250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN APP W	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN ACD	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LEE POINT	Off	133600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=312	AgencyId=0	WILLIAMTOWN	Off	-32.804169	151.840350	75	Circle	None	Global
+C-Freq			QANTAS	Off	129025000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506787500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Pelican	Off	129525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WM TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WM SMCV	Off	127250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WM SMC	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WM APP	Off	135700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WILLIAMTOWN	Off	119300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WILLIAMTOWN	Off	123850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WILLIAMTOWN	Off	133100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=313	AgencyId=0	BRISBANE AIRPORT	Off	-27.387867	153.115481	75	Circle	None	Global
+C-Freq			BN TWR 01L/19R	Off	118000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACD	Off	118850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN FINALS	Off	119250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN TWR 01R/19L	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC DOM	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC S	Off	122250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC N	Off	124050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ATIS	Off	125500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YHEC CTAF	Off	119000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471225000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462287500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	119525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	505850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485012500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492600000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130324999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	495150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	450337500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490025000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	484950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	485100000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	491837500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	124925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	494837500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	130050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	495075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	134550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	507575000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	490950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	475175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=314	AgencyId=0	NEWMAN	Off	-22.290387	119.432890	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=315	AgencyId=0	CLONCURRY	Off	-20.668866	140.508502	75	Circle	None	Global
+C-Freq			QANTAS	Off	131900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=316	AgencyId=0	MOREE	Off	-29.496336	149.849958	75	Circle	None	Global
+C-Freq			QANTAS	Off	130850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=317	AgencyId=0	PORT AUGUSTA	Off	-32.508478	137.718744	75	Circle	None	Global
+C-Freq			QANTAS	Off	462500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=318	AgencyId=0	PARABURDOO	Off	-23.173750	117.747844	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=319	AgencyId=0	KINGSCOTE AIRPORT	Off	-35.709501	137.523523	75	Circle	None	Global
+C-Freq			QANTAS	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462300000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=320	AgencyId=0	BROCKMAN 4	Off	-22.542550	117.280322	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=321	AgencyId=0	ONSLOW	Off	-21.665656	115.112336	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=322	AgencyId=0	ORANGE	Off	-33.381553	149.124736	75	Circle	None	Global
+C-Freq			QANTAS	Off	462475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	130125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=323	AgencyId=0	COOBER PEDY	Off	-29.035388	134.723146	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=324	AgencyId=0	BRISBANE AIRPORT	Off	-27.387867	153.115481	75	Circle	None	Global
+C-Freq			BN TWR 01L/19R	Off	118000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACD	Off	118850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN FINALS	Off	119250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN TWR 01R/19L	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC DOM	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC S	Off	122250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN SMC N	Off	124050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ATIS	Off	125500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471225000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	132650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462287500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	119525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	505850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485012500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492600000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506450000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	506800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490650000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130324999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	495150000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	450337500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	492075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	490025000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	484950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	485100000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	491837500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	124925000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	494837500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	130050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	495075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	134550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	507575000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	490950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	475175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=325	AgencyId=0	HAMERSLEY RANGE	Off	-22.2550	117.851667	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=326	AgencyId=0	Griffith	Off	-34.255254	146.062436	75	Circle	None	Global
+C-Freq			QANTAS	Off	131699999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=327	AgencyId=0	BENDIGO	Off	-36.738338	144.326357	75	Circle	None	Global
+C-Freq			QANTAS	Off	509850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=328	AgencyId=0	CHRISTMAS CREEK MINE	Off	-22.356598	119.651850	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=329	AgencyId=0	MANKARLYIRRKURRA VILLAGE Via NEWMAN	Off	-22.581608	120.035621	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=330	AgencyId=0	LEINSTER	Off	-27.838924	120.703704	75	Circle	None	Global
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=331	AgencyId=0	NARRABRI	Off	-30.318753	149.828760	75	Circle	None	Global
+C-Freq			Virgin	Off	484925000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=332	AgencyId=0	URANGAN	Off	-25.320014	152.885090	75	Circle	None	Global
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	485062500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505175000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505475000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=333	AgencyId=0	BUNDABERG	Off	-24.898863	152.321269	75	Circle	None	Global
+C-Freq			Virgin	Off	491125000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131775000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=334	AgencyId=0	ALICE SPRINGS	Off	-23.802212	133.900743	75	Circle	None	Global
+C-Freq			ALICE SPRINGS	Off	121700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	463075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	462300000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	491575000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=335	AgencyId=0	CHRISTMAS ISLAND	Off	-10.450988	105.688706	75	Circle	None	Global
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=336	AgencyId=0	MOUNT COOT-THA	Off	-27.460831	152.957846	75	Circle	None	Global
+C-Freq			BN DEP SE	Off	118450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN APP NW	Off	124700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN APP SE	Off	125600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT COOT-THA	Off	128150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	471775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504500000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130324999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	504875000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	131150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	130050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Swissport	Off	131750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=337	AgencyId=0	RAVENSTHORPE	Off	-33.792836	120.212301	75	Circle	None	Global
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=338	AgencyId=0	BUSSELTON	Off	-33.685989	115.398856	75	Circle	None	Global
+C-Freq			Virgin	Off	130600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=339	AgencyId=0	TOM PRICE	Off	-22.385481	117.376497	75	Circle	None	Global
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=340	AgencyId=0	WA	Off	-23.133389	118.707724	75	Circle	None	Global
+C-Freq			Virgin	Off	128800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=341	AgencyId=0	MILES	Off	-26.809989	150.161886	75	Circle	None	Global
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=342	AgencyId=0	BARCALDINE	Off	-23.561233	145.300683	75	Circle	None	Global
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=343	AgencyId=0	BLACKALL	Off	-24.428518	145.433751	75	Circle	None	Global
+C-Freq			Q-Link	Off	130250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=344	AgencyId=0	ARMIDALE	Off	-30.532055	151.615094	75	Circle	None	Global
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	494950000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=345	AgencyId=0	WHYALLA	Off	-33.052415	137.521737	75	Circle	None	Global
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	495075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=346	AgencyId=0	PORT LINCOLN	Off	-34.603333	135.874543	75	Circle	None	Global
+C-Freq			Q-Link	Off	484800000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	495125000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=347	AgencyId=0	WAGGA WAGGA	Off	-35.159187	147.461893	75	Circle	None	Global
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REX	Off	126450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WAGGA WAGGA	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=348	AgencyId=0	MT HOTHAM	Off	-37.051754	147.338344	75	Circle	None	Global
+C-Freq			Q-Link	Off	131650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=349	AgencyId=0	ROXBY DOWNS	Off	-30.483498	136.884010	75	Circle	None	Global
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=350	AgencyId=0	CAPE PRESTON 6714	Off	-20.980278	116.276944	75	Circle	None	Global
+C-Freq			Alliance	Off	129750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=351	AgencyId=0	EXMOUTH	Off	-21.924946	114.121937	75	Circle	None	Global
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=352	AgencyId=0	EUCLA	Off	-31.676945	128.883249	75	Circle	None	Global
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=353	AgencyId=0	ALICE SPRINGS	Off	-23.722366	133.857241	75	Circle	None	Global
+C-Freq			AS TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC/FIA	Off	119800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AS ATIS	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ML ACC	Off	128850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=354	AgencyId=0	BAMAGA	Off	-10.942609	142.450041	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=355	AgencyId=0	PARKES	Off	-33.139109	148.233307	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=356	AgencyId=0	THARGOMINDAH	Off	-27.987141	143.815544	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=357	AgencyId=0	RICHMOND	Off	-20.700137	143.117546	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=358	AgencyId=0	WINTON	Off	-22.363295	143.084398	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=359	AgencyId=0	BURKETOWN	Off	-17.745447	139.538483	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=360	AgencyId=0	GRAFTON	Off	-29.759445	153.028345	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=361	AgencyId=0	NARRANDERA	Off	-34.705847	146.511934	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=362	AgencyId=0	CUNNAMULLA	Off	-28.033279	145.623912	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=363	AgencyId=0	DOOMADGEE	Off	-17.939182	138.821445	75	Circle	None	Global
+C-Freq			REX	Off	124875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=364	AgencyId=0	KARUMBA	Off	-17.455846	140.831796	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=365	AgencyId=0	HUGHENDEN	Off	-20.816597	144.227110	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=366	AgencyId=0	SHARK BAY	Off	-25.889006	113.577163	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=367	AgencyId=0	JULIA CREEK	Off	-20.667320	141.722402	75	Circle	None	Global
+C-Freq			REX	Off	124875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=368	AgencyId=0	GREAT VICTORIA DESERT	Off	-30.903789	132.200919	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=369	AgencyId=0	WINDORAH	Off	-25.411985	142.663510	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=370	AgencyId=0	MERIMBULA	Off	-36.909657	149.902118	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=371	AgencyId=0	BOULIA	Off	-22.912326	139.902877	75	Circle	None	Global
+C-Freq			REX	Off	124875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=372	AgencyId=0	WELLCAMP	Off	-27.563856	151.795719	75	Circle	None	Global
+C-Freq			REX	Off	124875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=373	AgencyId=0	QUILPIE	Off	-26.611929	144.256959	75	Circle	None	Global
+C-Freq			REX	Off	135550000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=374	AgencyId=0	BOMBIRA	Off	-32.563753	149.615566	75	Circle	None	Global
+C-Freq			Pelican	Off	129525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=375	AgencyId=0	COBAR	Off	-31.537534	145.797508	75	Circle	None	Global
+C-Freq			Pelican	Off	129525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=376	AgencyId=0	GARDEN ISLAND	Off	-32.143	115.4102	75	Circle	None	Global
+C-Freq			STIRLING SUPPORT	Off	132500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Flight Deck Trainer	Off	393500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=377	AgencyId=0	NSW-WIDE	Off	-31.9737	147.7538	450	Circle	None	Global
+C-Freq			Air Ambulance	Off	132750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=378	AgencyId=0	NOWRA	Off	-34.936979	150.571649	75	Circle	None	Global
+C-Freq			Eagle Ops	Off	136025000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Nowra Training	Off	296300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NW TWR	Off	118850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NW SMCV	Off	122050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NW SMC	Off	135850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NW ATIS	Off	125650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NW ACC	Off	132300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWRA	Off	118225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWRA	Off	119975000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWRA HILL	Off	128350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWRA	Off	129449999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWRA	Off	132400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWRA	Off	134125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWRA	Off	135175000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWRA	Off	136825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=379	AgencyId=0	HOLSWORTHY	Off	-33.5942	150.5709	75	Circle	None	Global
+C-Freq			AIR COORD NET	Off	136500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=380	AgencyId=0	RICHMOND	Off	-33.60049	150.767141	75	Circle	None	Global
+C-Freq			RICCOM	Off	261700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AIRMOVEMENTS	Off	361600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RI TWR	Off	135500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RI SMC	Off	128250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RI ATIS	Off	126300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RICHMOND	Off	136025000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=381	AgencyId=0	AMBERLY	Off	-27.649507	152.720715	75	Circle	None	Global
+C-Freq			AIRMOVEMENTS	Off	361600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AM TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AM SMC	Off	129350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AM ATIS	Off	123300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AM APP	Off	126200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AMBERLEY	Off	121600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AMBERLEY	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AMBERLEY	Off	134875000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=382	AgencyId=0	PEARCE	Off	-31.651547	116.018078	75	Circle	None	Global
+C-Freq			AIRMOVEMENTS	Off	361600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEA TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEA SMCV	Off	121600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEA SMC	Off	127250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEA APP	Off	130199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEA ACD	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEA ACC	Off	123300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEA ACC	Off	135900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BULLSBROOK	Off	119500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BULLSBROOK	Off	119700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BULLSBROOK	Off	126200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEARCE	Off	134800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BULLSBROOK	Off	135125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=383	AgencyId=0	NOWRA	Off	-34.5656	150.3213	75	Circle	None	Global
+C-Freq			WASH 1	Off	376750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WASH 2	Off	377750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WASH 3	Off	378750000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=384	AgencyId=0	POINT COOK	Off	-37.931937	144.749363	75	Circle	None	Global
+C-Freq			PC CTAF	Off	126200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			POINT COOK	Off	135500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=385	AgencyId=0	OAKEY	Off	-27.412658	151.735004	75	Circle	None	Global
+C-Freq			OK TWR	Off	120100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK SMC	Off	121900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK FINAL	Off	135850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK ATIS	Off	124300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK APP	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OAKEY	Off	133850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OAKEY	Off	134775000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OAKEY	Off	135400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=386	AgencyId=0	OAKEY	Off	-27.412658	151.735004	75	Circle	None	Global
+C-Freq			OK TWR	Off	120100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK SMC	Off	121900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK FINAL	Off	135850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK ATIS	Off	124300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK APP	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OAKEY	Off	134775000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OAKEY	Off	135400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=387	AgencyId=0	BARNES HILL	Off	-27.185118	152.099663	75	Circle	None	Global
+C-Freq			OK APP	Off	123700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=388	AgencyId=0	JERVIS BAY	Off	-35.161008	150.730582	75	Circle	None	Global
+C-Freq			NW APP	Off	118350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JERVIS BAY	Off	132300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=389	AgencyId=0	EVANS HEAD	Off	-29.195636	153.387738	75	Circle	None	Global
+C-Freq			EVD RANGE	Off	133900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=390	AgencyId=0	EAST SALE	Off	-38.111267	147.157376	75	Circle	None	Global
+C-Freq			ES TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ES SMC	Off	127250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ES ATIS	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ES APP	Off	123300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ES ACD	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ES ACC	Off	135800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EAST SALE	Off	120200000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EAST SALE	Off	121450000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EAST SALE	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EAST SALE	Off	132975000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EAST SALE	Off	134800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EAST SALE	Off	135125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=391	AgencyId=0	PARAFIELD AIRPORT	Off	-34.790857	138.636422	75	Circle	None	Global
+C-Freq			PF TWR	Off	118700000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PF SMC	Off	119900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PF TWR	Off	124600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ED SMCV	Off	127250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ED SMC	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EDINBURGH	Off	129175000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EDINBURGH	Off	134800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=392	AgencyId=0	EATON	Off	-12.408066	130.877350	75	Circle	None	Global
+C-Freq			QANTAS	Off	488912500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	485075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	127825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	133900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	489262500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509912500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	495087500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	475050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN SMC	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN DEP	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN ATIS	Off	128250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN APP W	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN ACD	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LEE POINT	Off	133600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=393	AgencyId=0	DERBY	Off	-17.586607	123.828598	75	Circle	None	Global
+C-Freq			CIN TWR	Off	118300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=394	AgencyId=0	GLENBROOK	Off	-33.761127	150.636003	75	Circle	None	Global
+C-Freq			GBK OPS	Off	118050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=395	AgencyId=0	COROWA	Off	-35.991648	146.356686	75	Circle	None	Global
+C-Freq			COROWA	Off	118225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COROWA	Off	136825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=396	AgencyId=0	DELAMERE	Off	-15.740003	131.917188	75	Circle	None	Global
+C-Freq			DELAMERE	Off	119300000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=397	AgencyId=0	GARDEN ISLAND	Off	-32.24073	115.686565	75	Circle	None	Global
+C-Freq			GARDEN ISLAND	Off	121000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GARDEN ISLAND	Off	132500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=398	AgencyId=0	BRADSHAW	Off	-15.354819	130.251364	75	Circle	None	Global
+C-Freq			BRADSHAW	Off	126050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=399	AgencyId=0	Greenvale	Off	-19.15	145.155556	75	Circle	None	Global
+C-Freq			Greenvale	Off	126050000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=400	AgencyId=0	STOREY MTN	Off	-27.450972	151.847863	75	Circle	None	Global
+C-Freq			STOREY MTN	Off	127650000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=401	AgencyId=0	DELAMERE	Off	-15.660931	131.685076	75	Circle	None	Global
+C-Freq			DELAMERE	Off	130199999	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=402	AgencyId=0	BRADSHAW	Off	-15.040862	129.755472	75	Circle	None	Global
+C-Freq			BRADSHAW	Off	132150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=403	AgencyId=0	DARWIN	Off	-12.379644	130.973933	75	Circle	None	Global
+C-Freq			BN FIA	Off	118150000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BN ACC	Off	123850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	488912500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	485075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484550000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	484850000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	127825000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	129500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	133900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QANTAS	Off	489262500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	509912500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	130350000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	136900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Virgin	Off	466400000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alliance	Off	495087500	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	130225000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	505775000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	136125000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Jetstar	Off	506075000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	124525000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Dnata	Off	475050000	NFM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN SMC	Off	121800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN DEP	Off	123000000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN ATIS	Off	128250000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN APP W	Off	134100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DN ACD	Off	126800000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	120500000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LEE POINT	Off	133600000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=404	AgencyId=0	OAKEY	Off	-27.412658	151.735004	75	Circle	None	Global
+C-Freq			OK TWR	Off	120100000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK SMC	Off	121900000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK FINAL	Off	135850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OK APP	Off	125400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OAKEY	Off	133850000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OAKEY	Off	134775000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OAKEY	Off	135400000	AM		15	Off	2	0	Off	Auto	Off	On	Off	Off

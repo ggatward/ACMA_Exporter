@@ -1,0 +1,9 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Rail	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	NATIONWIDE	Off	-27.84	133.21	4500	Circle	None	Global
+C-Freq			COMMON	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			XPT	Off	450250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MAINT	Off	450412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GSR On-Train	Off	410825000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off

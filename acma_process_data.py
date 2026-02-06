@@ -363,15 +363,12 @@ if __name__ == "__main__":
         # { "clientID": "396261", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "401054", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "399343", "favourite": "Aviation", "system": "Airservices", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
-        # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Defence", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "CTAF", "service_type": "15", "syskey": "1", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
-        # { "clientID": "CUSTOM", "favourite": "Aviation", "system": "Defence", "service_type": "15", "syskey": "0", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "476492", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "1412657", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "205799", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
-        # { "clientID": "85022", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
-        # { "clientID": "91419", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "1142881", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "46945", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "1313682", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
@@ -379,34 +376,78 @@ if __name__ == "__main__":
         # { "clientID": "20053302", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "1421512", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
         # { "clientID": "20003775", "favourite": "Aviation", "system": "Company", "service_type": "15", "syskey": "2", "range": "75", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1441780", "favourite": "Aviation", "system": "Airservices RFF", "service_type": "15", "syskey": "3", "range": "30", "widetag": "NATIONAL", "system_type": "CONV" },
         #
-        # { "clientID": "20011941", "favourite": "Emerg Services", "system": "ASNSW", "service_type": "4", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Green" },
-        # { "clientID": "20012532", "favourite": "Emerg Services", "system": "SES", "service_type": "1", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Yellow" },
-        # { "clientID": "20005985", "favourite": "Emerg Services", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Red" },
-        # { "clientID": "CUSTOM", "favourite": "Emerg Services", "system": "RFS FG", "service_type": "8", "syskey": "2", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Red" },
-        # { "clientID": "20008471", "favourite": "Emerg Services", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Red" },
-        # { "clientID": "37658", "favourite": "Emerg Services", "system": "SJA", "service_type": "4", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Green" },
-        # Pagers & Airband
-        # { "clientID": "5832", "favourite": "Emerg Services", "system": "RFS2", "service_type": "3", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV" },
-        # { "clientID": "516364", "favourite": "Emerg Services", "system": "SES2", "service_type": "1", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV" },
-        #
-        # { "clientID": "20012756", "favourite": "NSW MISC", "system": "Federal Agencies", "service_type": "208", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV" },
-        # { "clientID": "20019469", "favourite": "NSW MISC", "system": "Low Power", "service_type": "208", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV" },
-        # { "clientID": "20020998", "favourite": "NSW MISC", "system": "RMS", "service_type": "208", "syskey": "2", "range": "25", "widetag": "NSW", "system_type": "CONV" },
-        # { "clientID": "20027621", "favourite": "NSW MISC", "system": "OEH", "service_type": "208", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV" },
-        # { "clientID": "115634", "favourite": "NSW MISC", "system": "NPWS", "service_type": "208", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV" },
-        #
-        { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25", "tgids": "NSW PSN_TGs" },
-        { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25", "tgids": "NSW PSN_TGs" },
-        { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25", "tgids": "NSW PSN_TGs" },
-        # { "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "21", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "P25", "tgids": "VIC RMR_TGs" },
-        # { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "21", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "P25", "tgids": "VIC MMR_TGs" },
-        #
-        # { "clientID": "CUSTOM", "favourite": "Rail", "system": "Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        # National Marine
         # { "clientID": "CUSTOM", "favourite": "Marine", "system": "Marine", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
         #
-        # Exceeds 2000 entries
+        # National Rail
+        # { "clientID": "165570", "favourite": "Rail", "system": "ARTC", "service_type": "20", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "20033195", "favourite": "Rail", "system": "Pacific National", "service_type": "20", "syskey": "1", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1504613", "favourite": "Rail", "system": "One Rail", "service_type": "20", "syskey": "2", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        # { "clientID": "1206023", "favourite": "Rail", "system": "GSR", "service_type": "20", "syskey": "3", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+        #
+        # National Defence - Exceeds 2000 entries
         # { "clientID": "46975", "favourite": "Defence", "system": "Defence", "service_type": "30", "syskey": "0", "range": "25", "widetag": "NATIONAL", "system_type": "CONV" },
+
+        ########################
+        # { "clientID": "160", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25" },
+        # { "clientID": "525851", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25" },
+        # { "clientID": "20036348", "favourite": "NSW PSN", "system": "NSW PSN", "service_type": "21", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "P25" },
+
+        { "clientID": "20008471", "favourite": "NSW EMS", "system": "FRNSW", "service_type": "3", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        { "clientID": "20005985", "favourite": "NSW EMS", "system": "RFS", "service_type": "3", "syskey": "1", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        { "clientID": "CUSTOM", "favourite": "NSW EMS", "system": "RFS FG", "service_type": "8", "syskey": "2", "range": "25", "widetag": "NSW", "system_type": "CONV", "colour": "Red" },
+        { "clientID": "20011941", "favourite": "NSW EMS", "system": "ASNSW", "service_type": "4", "syskey": "3", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        { "clientID": "20012532", "favourite": "NSW EMS", "system": "SES", "service_type": "1", "syskey": "4", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+
+        { "clientID": "115634", "favourite": "NSW MISC", "system": "NPWS", "service_type": "208", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        { "clientID": "45451", "favourite": "NSW Rail", "system": "ZigZag", "service_type": "20", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV" },
+        #
+        ########################
+        # { "clientID": "84379", "favourite": "QLD EMS", "system": "QFES", "service_type": "3", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "270141", "favourite": "QLD EMS", "system": "RFS", "service_type": "1", "syskey": "1", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "79601", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "521072", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "1401916", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "20060946", "favourite": "QLD EMS", "system": "SES", "service_type": "4", "syskey": "4", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "58050", "favourite": "QLD EMS", "system": "QPS", "service_type": "2", "syskey": "5", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+
+        # { "clientID": "1149151", "favourite": "QLD Rail", "system": "Queensland Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "20028378", "favourite": "QLD Rail", "system": "Queensland Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "20036656", "favourite": "QLD Rail", "system": "Queensland Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "20037246", "favourite": "QLD Rail", "system": "Queensland Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+
+
+        ########################
+        # { "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "21", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "P25" },
+        # { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "21", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "P25" },
+
+        # { "clientID": "144590", "favourite": "VIC EMS", "system": "FRVIC", "service_type": "3", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+        # { "clientID": "210019", "favourite": "VIC EMS", "system": "CFA", "service_type": "3", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+        # { "clientID": "446656", "favourite": "VIC EMS", "system": "CFA", "service_type": "3", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+        # { "clientID": "159075", "favourite": "VIC EMS", "system": "AMBVIC", "service_type": "4", "syskey": "3", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+        # { "clientID": "159095", "favourite": "VIC EMS", "system": "SES", "service_type": "1", "syskey": "4", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+
+        # { "clientID": "1310687", "favourite": "VIC Rail", "system": "VicRail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+        # { "clientID": "1141005", "favourite": "VIC Rail", "system": "VicRail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+        # { "clientID": "20041674", "favourite": "VIC Rail", "system": "Puffing Billy", "service_type": "20", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+
+
+        ########################
+        # { "clientID": "169283", "favourite": "SA EMS", "system": "CFS", "service_type": "3", "syskey": "1", "range": "25", "widetag": "SA", "system_type": "CONV" },
+
+        # { "clientID": "1500993", "favourite": "SA Rail", "system": "Pichi Richi", "service_type": "20", "syskey": "0", "range": "25", "widetag": "SA", "system_type": "CONV" },
+
+
+        ########################
+        # { "clientID": "192835", "favourite": "WA EMS", "system": "DFESWA", "service_type": "3", "syskey": "1", "range": "25", "widetag": "WA", "system_type": "CONV" },
+        # { "clientID": "206335", "favourite": "WA EMS", "system": "DFESWA", "service_type": "3", "syskey": "1", "range": "25", "widetag": "WA", "system_type": "CONV" },
+
+        # { "clientID": "1147725", "favourite": "WA Rail", "system": "Hotham Valley", "service_type": "20", "syskey": "0", "range": "25", "widetag": "WA", "system_type": "CONV" },
+
+        ########################
+        # { "clientID": "180004", "favourite": "NT EMS", "system": "NTPOL", "service_type": "2", "syskey": "5", "range": "25", "widetag": "NT", "system_type": "CONV" },
     ]
 
     global lastSystem
