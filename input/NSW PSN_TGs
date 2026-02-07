@@ -777,37 +777,7 @@ TGID			45 - COMMS 1	Off	10645	ALL	14	2	0	Off	Auto	White	On	45	Off	Any
 TGID			46 - COMMS 2	Off	10646	ALL	14	2	0	Off	Auto	White	On	46	Off	Any
 TGID			47 - SECUR 1	Off	10647	ALL	14	2	0	Off	Auto	White	On	47	Off	Any
 TGID			48 - SECUR 2	Off	10648	ALL	14	2	0	Off	Auto	White	On	48	Off	Any
-T-Group			Sydney Ferries	Off	-27.84	133.21	1400.0	Circle	9
-TGID			Syd Hrbr Ops Ch 1	Off	10901	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Parmta Rvr Ops Ch 2	Off	10902	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Maintenance	Off	10903	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr Ch 4	Off	10904	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Admin Ch 5	Off	10905	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr Ch 6	Off	10906	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Balmain Shpyrd Ch 7	Off	10907	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr Ch 8	Off	10908	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Revenue Ch 9	Off	10909	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10910	Off	10910	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10911	Off	10911	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10912	Off	10912	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10913	Off	10913	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10914	Off	10914	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10915	Off	10915	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10916	Off	10916	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10917	Off	10917	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10918	Off	10918	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10919	Off	10919	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			McMahons Pnt Wharf	Off	10920	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Meadowbank Wharf	Off	10921	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10922	Off	10922	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10923	Off	10923	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Watson Bay Wharf	Off	10924	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10925	Off	10925	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10926	Off	10926	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Taronga Zoo Wharf	Off	10927	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10928	Off	10928	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-TGID			Syd Ferr TG10929	Off	10929	ALL	26	2	0	Off	Auto	Off	On	Off	Off	Any
-T-Group			Railcorp	Off	-27.84	133.21	1400.0	Circle	10
+T-Group			Railcorp	Off	-27.84	133.21	1400.0	Circle	9
 TGID			BLACK	Off	1	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			BLACK	Off	2	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			801 460	Off	11101	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -1109,7 +1079,7 @@ TGID			INC801453	Off	11397	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			INC801454	Off	11398	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			INC801455	Off	11399	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			IBR801450	Off	11400	ALL	20	2	0	Off	Auto	Off	On	Off	Off	Any
-T-Group			ESO & Gov Liaison	Off	-27.84	133.21	1400.0	Circle	12
+T-Group			ESO & Gov Liaison	Off	-27.84	133.21	1400.0	Circle	10
 TGID			1121 GL 01	Off	10000	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			1122 GL 02	Off	10001	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			1123 GL 03	Off	10002	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
@@ -1140,7 +1110,7 @@ TGID			1117 ESO 17	Off	10026	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			1118 ESO 18	Off	10027	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			1119 ESO 19	Off	10028	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			1120 ESO 20	Off	10029	ALL	25	2	0	Off	Auto	Cyan	On	Off	Off	Any
-T-Group			ACT ESA	Off	-27.84	133.21	1400.0	Circle	13
+T-Group			ACT ESA	Off	-27.84	133.21	1400.0	Circle	11
 TGID			ESA 7	Off	40010	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			ESA 8	Off	40011	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			AIR SUP	Off	40031	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
@@ -1163,7 +1133,7 @@ TGID			ESA 18	Off	40005	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			ESA 19	Off	40006	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			ESA 20	Off	40007	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			ESA 21	Off	40008	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-T-Group			ACT SES	Off	-27.84	133.21	1400.0	Circle	14
+T-Group			ACT SES	Off	-27.84	133.21	1400.0	Circle	12
 TGID			1 SES OPS	Off	40078	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			2 BEL SES	Off	40079	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			3 GUN SES	Off	40080	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
@@ -1175,7 +1145,7 @@ TGID			8 TUG SES	Off	40085	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			9 SES IMT	Off	40086	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			10 SES IMT	Off	40087	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
 TGID			11 SES IMT	Off	40088	ALL	25	2	0	Off	Auto	Yellow	On	Off	Off	Any
-T-Group			ACT PCS	Off	-27.84	133.21	1400.0	Circle	16
+T-Group			ACT PCS	Off	-27.84	133.21	1400.0	Circle	14
 TGID			PCS 1 Tactical	Off	40089	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			PCS 2 Tactical	Off	40090	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			PCS 3 Fire Mgmt	Off	40091	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
@@ -1187,7 +1157,7 @@ TGID			PCS 8 Off	40096	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			PCS 9 HRB   Off	40097	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			PCS 10  Off	40098	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			PCS 11  Off	40099	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
-T-Group			ACT RFS	Off	-27.84	133.21	1400.0	Circle	15
+T-Group			ACT RFS	Off	-27.84	133.21	1400.0	Circle	13
 TGID			1 RFS OPS	Off	40068	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			2 FIREGROUND	Off	40069	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			3 FIREGROUND	Off	40070	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
@@ -1208,7 +1178,7 @@ TGID			17 SOU RFS	Off	42006	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			18 TID RFS	Off	42007	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			19 HQ RFS	Off	42009	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			ACT HRB	Off	42009	ALL	25	2	0	Off	Auto	Red	On	Off	Off	Any
-T-Group			NPWS	Off	-27.84	133.21	1400.0	Circle	16
+T-Group			NPWS	Off	-27.84	133.21	1400.0	Circle	14
 TGID			FCNSW	Off	20381	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			FCNSW	Off	20382	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
 TGID			FCNSW	Off	20383	ALL	25	2	0	Off	Auto	Off	On	Off	Off	Any
