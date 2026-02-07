@@ -334,14 +334,19 @@ if __name__ == "__main__":
         # { "clientID": "20036656", "favourite": "QLD Rail", "system": "Queensland Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
         # { "clientID": "20037246", "favourite": "QLD Rail", "system": "Queensland Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
 
+        # { "clientID": "20037246", "favourite": "QLD MISC", "system": "Wilmar Sugar", "service_type": "208", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "20037246", "favourite": "QLD MISC", "system": "Wilmar Sugar", "service_type": "208", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "20037246", "favourite": "QLD MISC", "system": "Wilmar Sugar", "service_type": "208", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "1480691", "favourite": "QLD MISC", "system": "Mackay Sugar", "service_type": "208", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "86515", "favourite": "QLD MISC", "system": "Tully Sugar", "service_type": "208", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
 
         ########################
         # { "clientID": "20011154", "favourite": "VIC xMR", "system": "VIC RMR", "service_type": "21", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "P25" },
         # { "clientID": "1315913", "favourite": "VIC xMR", "system": "VIC MMR", "service_type": "21", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "P25" },
 
         # { "clientID": "144590", "favourite": "VIC EMS", "system": "FRVIC", "service_type": "3", "syskey": "0", "range": "25", "widetag": "VIC", "system_type": "CONV" },
-        { "clientID": "210019", "favourite": "VIC EMS", "system": "CFA", "service_type": "3", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "CONV" },
-        { "clientID": "446656", "favourite": "VIC EMS", "system": "CFA", "service_type": "3", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+        # { "clientID": "210019", "favourite": "VIC EMS", "system": "CFA", "service_type": "3", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "CONV" },
+        # { "clientID": "446656", "favourite": "VIC EMS", "system": "CFA", "service_type": "3", "syskey": "1", "range": "25", "widetag": "VIC", "system_type": "CONV" },
         # { "clientID": "159075", "favourite": "VIC EMS", "system": "AMBVIC", "service_type": "4", "syskey": "3", "range": "25", "widetag": "VIC", "system_type": "CONV" },
         # { "clientID": "159095", "favourite": "VIC EMS", "system": "SES", "service_type": "1", "syskey": "4", "range": "25", "widetag": "VIC", "system_type": "CONV" },
 

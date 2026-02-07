@@ -308,6 +308,73 @@ TGID			246 R6 AIR OPS	Off	3141	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			247 R6 INC02	Off	3145	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			248 R6 INC03	Off	3149	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
 TGID			249 R6 INC04	Off	3153	ALL	3	2	0	Off	Auto	Red	On	Off	Off	Any
+T-Group			Pub Transport	Off	-32.1365	134.8854	500.0	Circle	9
+TGID			B014 MASTER COORD	Off	81	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES TMC	Off	89	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			B15 PTS COORD	Off	95	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAM PA04 TRAM	Off	161	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL PB09 POWER	Off	163	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL PB10 ADMIN	Off	165	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL PC05 OPS	Off	167	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL PC15 INC1	Off	169	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL PC16 INC2	Off	171	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			B11 PAX TSPT BD1	Off	699	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			B12 PAX TSPT BD2	Off	701	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			B13 PAX TSPT BD3	Off	703	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL C03 OP3 SEAFORD	Off	1153	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL C04 OP4 BELAIR	Off	1155	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL B01 NOC	Off	1157	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL B02 PAX SVC	Off	1159	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL B03 SIGNALS	Off	1161	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL B04 PERWAY	Off	1163	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL B05 WORKS	Off	1165	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL B08 MAINT1	Off	1167	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL B07 ADL STN	Off	1169	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL C01 OP1 GAWLER	Off	1173	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			RAIL C02 OP2 OHARBR LINE	Off	1175	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			B16 PTS EMERGENCY	Off	1520
+TGID			COORDINATOR	Off	1520	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			WILSON SECUR CH1	Off	1649	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			WILSON SECUR CH2	Off	1651	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B01 MILE END	Off	17100	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B03 NEWTON	Off	17102	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B04 PT ADELAIDE	Off	17103	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B05 ST AGNES	Off	17104	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B06 M-VILLE	Off	17105	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B02 EDINBURGH	Off	17106	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAMS A01 OPS 1	Off	17107	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES Off	17108	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAMS A11 TT COORD	Off		ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B07 EVENT	Off	17110	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B08 COORD	Off	17111	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B16 TT EMERG	Off	17112	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES B10 TT MULTI	Off	17113	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES A01 LONSDALE	Off	17114	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES A02 EVENT	Off	17115	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES A03 COORD	Off	17116	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES A16 EMERG	Off	17117
+TGID			BUSES A10 MULTI	Off	17118	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES 01 HILLS	Off	17119	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES 02 EVENT	Off	17120	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES 04 S-LINK	Off	17121	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES 16 EMERG	Off	17122	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			BUSES S-LINK MULTI	Off	17123	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAMS A02 TRAM OPS2	Off	17124	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAMS A03 TRAM ADMIN	Off	17125	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAMS A04 TRAM INC	Off	17126	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAMS A05 MAINT	Off	17127	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAMS A06 MAINT	Off	17128	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			TRAMS A16 EMERG	Off	17129	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A61 EMERG INC01	Off	27400	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A62 EMERG INC02	Off	27401	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A63 EMERG INC03	Off	27402	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A64 EMERG INC04	Off	27403	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A65 EMERG INC05	Off	27404	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A66 EMERG INC06	Off	27405	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A67 EMERG INC07	Off	27406	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A68 EMERG INC08	Off	27407	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A69 EMERG INC09	Off	27408	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			A70 EMERG INC10	Off	27409	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
 T-Group			MULTIAGENCY	Off	-32.1365	134.8854	500.0	Circle	12
 TGID			017 MA-POLICE	Off	61	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			018 MA-02	Off	63	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
