@@ -1,0 +1,1378 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Puffing Billy	Off		Conventional	1	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	BELGRAVE	Off	-37.910364	145.358508	25	Circle	None	Global
+C-Freq			BELGRAVE	Off	163950000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	153112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163625000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	164550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MENZIES CREEK	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163087500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MENZIES CREEK	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	162350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	164100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	162662500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	163325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	153112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	BELGRAVE	Off	-37.910364	145.358508	25	Circle	None	Global
+C-Freq			BELGRAVE	Off	163950000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	153112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163625000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCKATOO	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	164550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MENZIES CREEK	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163087500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MENZIES CREEK	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	162350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	164100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	163425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	162662500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	163325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	153112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCKATOO	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	EMERALD	Off	-37.931098	145.459774	25	Circle	None	Global
+C-Freq			EMERALD	Off	153112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163625000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCKATOO	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163087500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	164100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	163425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	162662500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCKATOO	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	EMERALD	Off	-37.931098	145.459774	25	Circle	None	Global
+C-Freq			EMERALD	Off	153112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163625000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCKATOO	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MENZIES CREEK	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163087500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	162100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MENZIES CREEK	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	164100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Gembrook	Off	163425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	162662500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCKATOO	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	BELGRAVE	Off	-37.910364	145.358508	25	Circle	None	Global
+C-Freq			BELGRAVE	Off	163950000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	153112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163625000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCKATOO	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	164550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MENZIES CREEK	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	163087500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MENZIES CREEK	Off	152712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	162350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	164100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EMERALD	Off	162662500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	163325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELGRAVE	Off	153112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCKATOO	Off	153512500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			VicRail	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	GEELONG	Off	-38.144158	144.3550	25	Circle	None	Global
+C-Freq			GEELONG	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marshall	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Shore	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marshall	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Geelong	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Shore	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Geelong	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marshall	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARSHALL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HERNE HILL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARSHALL	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Shore	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HERNE HILL	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	MELBOURNE	Off	-37.814485	144.949983	25	Circle	None	Global
+C-Freq			MELBOURNE	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	414712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	508450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507600000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			West Melbourne	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509075000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RICHMOND	Off	474225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418462500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507500000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507875000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	38575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	Ouyen	Off	-35.070642	142.318144	25	Circle	None	Global
+C-Freq			Ouyen	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			OUYEN HILL	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ouyen	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ouyen	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Ouyen	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	SUNSHINE	Off	-37.789447	144.832622	25	Circle	None	Global
+C-Freq			SUNSHINE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			West Melbourne	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Brooklyn	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418462500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	MELBOURNE	Off	-37.814485	144.949983	25	Circle	None	Global
+C-Freq			MELBOURNE	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	414712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	508450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507600000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			West Melbourne	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509075000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RICHMOND	Off	474225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418462500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507500000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAULFIELD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507875000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	38575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	QUARRY HILL	Off	-36.765849	144.283283	25	Circle	None	Global
+C-Freq			QUARRY HILL	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GOLDEN SQUARE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GOLDEN SQUARE	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUARRY HILL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUARRY HILL	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUARRY HILL	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	MELBOURNE	Off	-37.814485	144.949983	25	Circle	None	Global
+C-Freq			MELBOURNE	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	414712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	508450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507600000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			West Melbourne	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Brooklyn	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509075000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RICHMOND	Off	474225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418462500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507500000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507875000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	38575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	GEELONG	Off	-38.144158	144.3550	25	Circle	None	Global
+C-Freq			GEELONG	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marshall	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marshall	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Geelong	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Geelong	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Waurn Ponds	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marshall	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARSHALL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HERNE HILL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARSHALL	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Waurn Ponds	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Waurn Ponds	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HERNE HILL	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	VIC-WIDE	Off	-36.6535	144.8534	200	Circle	None	Global
+C-Freq			VIC-WIDE	Off	471812500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	484800000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	410625000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	411625000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	471637500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	471775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	450412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	410700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	472062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	462125000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VIC-WIDE	Off	418100000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	SYDENHAM	Off	-37.701602	144.774596	25	Circle	None	Global
+C-Freq			SYDENHAM	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	GEELONG	Off	-38.144158	144.3550	25	Circle	None	Global
+C-Freq			GEELONG	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Shore	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Geelong	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Shore	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Geelong	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LARA	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HERNE HILL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH GEELONG	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG NORTH	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEELONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Shore	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HERNE HILL	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LARA	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	MOE	Off	-38.176672	146.261633	25	Circle	None	Global
+C-Freq			MOE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	FRANKSTON	Off	-38.141665	145.126775	25	Circle	None	Global
+C-Freq			FRANKSTON	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FRANKSTON	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Bonbeach	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Seaford	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Bonbeach	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Seaford	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FRANKSTON	Off	508125000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	Maddingley	Off	-37.701724	144.415609	25	Circle	None	Global
+C-Freq			Maddingley	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Maddingley	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MADDINGLEY	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Maddingley	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PARWAN	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Maddingley	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MADDINGLEY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BACCHUS MARSH	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BACCHUS MARSH	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PARWAN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Maddingley	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MADDINGLEY	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Bacchus Marsh	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	Boorcan	Off	-38.213847	143.013733	25	Circle	None	Global
+C-Freq			Boorcan	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Boorcan	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	PAKENHAM	Off	-38.078066	145.474118	25	Circle	None	Global
+C-Freq			PAKENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PAKENHAM	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	WALLAN EAST	Off	-37.416821	145.005337	25	Circle	None	Global
+C-Freq			WALLAN EAST	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALLAN EAST	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	Shepparton	Off	-36.360159	145.431193	25	Circle	None	Global
+C-Freq			Shepparton	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Shepparton	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Shepparton	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mooroopna	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Mooroopna	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	WENDOUREE	Off	-37.539520	143.818924	25	Circle	None	Global
+C-Freq			WENDOUREE	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLARAT	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WENDOUREE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLARAT	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLARAT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	CARLSRUHE	Off	-37.307306	144.484720	25	Circle	None	Global
+C-Freq			CARLSRUHE	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KYNETON	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KYNETON	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARLSRUHE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KYNETON	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	DUNOLLY	Off	-36.864161	143.729812	25	Circle	None	Global
+C-Freq			DUNOLLY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	CLARKEFIELD	Off	-37.483401	144.745228	25	Circle	None	Global
+C-Freq			CLARKEFIELD	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLARKEFIELD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	KILMORE EAST	Off	-37.293107	144.983061	25	Circle	None	Global
+C-Freq			KILMORE EAST	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KILMORE EAST	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Kilmore East	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Kilmore East	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	Hastings	Off	-38.305111	145.186112	25	Circle	None	Global
+C-Freq			Hastings	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			STONY POINT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HASTINGS	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			STONY POINT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	ROXBRUGH PARK	Off	-37.639636	144.936056	25	Circle	None	Global
+C-Freq			ROXBRUGH PARK	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CRAIGIEBURN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROADMEADOWS	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROADMEADOWS	Off	508150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JACANA	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JACANA	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	MARYBOROUGH	Off	-37.049848	143.743368	25	Circle	None	Global
+C-Freq			MARYBOROUGH	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	MT BUNINYONG	Off	-37.652930	143.926465	25	Circle	None	Global
+C-Freq			MT BUNINYONG	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BUNINYONG	Off	461243750	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BUNINYONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	LITTLE RIVER	Off	-37.960711	144.501586	25	Circle	None	Global
+C-Freq			LITTLE RIVER	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MAMBOURIN	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LARA	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LITTLE RIVER	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MAMBOURIN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LARA	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	MELBOURNE	Off	-37.814485	144.949983	25	Circle	None	Global
+C-Freq			MELBOURNE	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	414712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	508450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507600000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			West Melbourne	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509075000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RICHMOND	Off	474225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418462500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507500000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAULFIELD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507875000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	38575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	FRANKSTON	Off	-38.141665	145.126775	25	Circle	None	Global
+C-Freq			FRANKSTON	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FRANKSTON	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Bonbeach	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Seaford	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Bonbeach	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Seaford	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	SUNSHINE	Off	-37.789447	144.832622	25	Circle	None	Global
+C-Freq			SUNSHINE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDENHAM	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Brooklyn	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKBANK	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SYDENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKBANK	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	SEYMOUR	Off	-37.024128	145.139463	25	Circle	None	Global
+C-Freq			SEYMOUR	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SEYMOUR	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SEYMOUR	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SEYMOUR	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=33	AgencyId=0	LITTLE RIVER	Off	-37.960711	144.501586	25	Circle	None	Global
+C-Freq			LITTLE RIVER	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MAMBOURIN	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Wyndham Vale	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Wyndham Vale	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LITTLE RIVER	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MAMBOURIN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Wyndham Vale	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=34	AgencyId=0	BALLAN	Off	-37.604360	144.2255	25	Circle	None	Global
+C-Freq			BALLAN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALLAN	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=35	AgencyId=0	SALE	Off	-38.103396	147.054383	25	Circle	None	Global
+C-Freq			SALE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=36	AgencyId=0	HARCOURT	Off	-36.966475	144.245201	25	Circle	None	Global
+C-Freq			HARCOURT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HARCOURT	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSWOOD	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSWOOD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=37	AgencyId=0	ROXBRUGH PARK	Off	-37.639636	144.936056	25	Circle	None	Global
+C-Freq			ROXBRUGH PARK	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CRAIGIEBURN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROADMEADOWS	Off	508150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=38	AgencyId=0	MORWELL	Off	-38.236322	146.438368	25	Circle	None	Global
+C-Freq			MORWELL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Maryvale	Off	412000000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORWELL	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORWELL	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TRARALGON	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORWELL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TRARALGON	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TRARALGON	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=39	AgencyId=0	YARRAMAN	Off	-37.979999	145.194471	25	Circle	None	Global
+C-Freq			YARRAMAN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SPRINGVALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Clayton Monash	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DANDENONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Springvale	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=40	AgencyId=0	Swan Hill	Off	-35.342885	143.562479	25	Circle	None	Global
+C-Freq			Swan Hill	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=41	AgencyId=0	Tourello	Off	-37.348534	143.796543	25	Circle	None	Global
+C-Freq			Tourello	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Tourello	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=42	AgencyId=0	Warrnambool	Off	-38.387052	142.479401	25	Circle	None	Global
+C-Freq			Warrnambool	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Warrnambool	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=43	AgencyId=0	MELBOURNE	Off	-37.814485	144.949983	25	Circle	None	Global
+C-Freq			MELBOURNE	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	414712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	508450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507600000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			West Melbourne	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509075000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RICHMOND	Off	474225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418462500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507500000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAULFIELD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507875000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	38575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=44	AgencyId=0	TARADALE	Off	-37.127554	144.353329	25	Circle	None	Global
+C-Freq			TARADALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TARADALE	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=45	AgencyId=0	MELBOURNE	Off	-37.814485	144.949983	25	Circle	None	Global
+C-Freq			MELBOURNE	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	414712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	508450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507600000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			West Melbourne	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Brooklyn	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509075000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418462500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507500000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507875000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	38575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=46	AgencyId=0	CASTLEMAINE	Off	-37.062980	144.213995	25	Circle	None	Global
+C-Freq			CASTLEMAINE	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASTLEMAINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=47	AgencyId=0	MORWELL	Off	-38.236322	146.438368	25	Circle	None	Global
+C-Freq			MORWELL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Maryvale	Off	412000000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORWELL	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORWELL	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORWELL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=48	AgencyId=0	YARRAMAN	Off	-37.979999	145.194471	25	Circle	None	Global
+C-Freq			YARRAMAN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SPRINGVALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Clayton Monash	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT WAVERLEY	Off	507825000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DANDENONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHELTENHAM	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHELTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Springvale	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=49	AgencyId=0	Nagambie	Off	-36.785786	145.160346	25	Circle	None	Global
+C-Freq			Nagambie	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Nagambie	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=50	AgencyId=0	MORWELL	Off	-38.236322	146.438368	25	Circle	None	Global
+C-Freq			MORWELL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Maryvale	Off	412000000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORWELL	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TRARALGON	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TRARALGON	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TRARALGON	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=51	AgencyId=0	MELBOURNE	Off	-37.818668	144.965714	25	Circle	None	Global
+C-Freq			MELBOURNE	Off	414712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	508450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509075000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RICHMOND	Off	474225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAULFIELD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Clayton Monash	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT WAVERLEY	Off	507825000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHELTENHAM	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHELTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=52	AgencyId=0	NEW GISBORNE	Off	-37.459153	144.599546	25	Circle	None	Global
+C-Freq			NEW GISBORNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEW GISBORNE	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=53	AgencyId=0	WARRAGUL	Off	-38.164569	145.931448	25	Circle	None	Global
+C-Freq			WARRAGUL	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WARRAGUL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Warragul	Off	412000000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=54	AgencyId=0	RAVENHALL	Off	-37.771174	144.747797	25	Circle	None	Global
+C-Freq			RAVENHALL	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKBANK	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENHALL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKBANK	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=55	AgencyId=0	MAMBOURIN	Off	-37.925551	144.592718	25	Circle	None	Global
+C-Freq			MAMBOURIN	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Wyndham Vale	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Wyndham Vale	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MAMBOURIN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Wyndham Vale	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=56	AgencyId=0	BAIRNSDALE	Off	-37.828803	147.627633	25	Circle	None	Global
+C-Freq			BAIRNSDALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=57	AgencyId=0	Marshall	Off	-38.200794	144.354143	25	Circle	None	Global
+C-Freq			Marshall	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marshall	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Waurn Ponds	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Marshall	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARSHALL	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARSHALL	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Waurn Ponds	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Waurn Ponds	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=58	AgencyId=0	Murchison East	Off	-36.612317	145.240550	25	Circle	None	Global
+C-Freq			Murchison East	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Murchison East	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=59	AgencyId=0	YARRAMAN	Off	-37.979999	145.194471	25	Circle	None	Global
+C-Freq			YARRAMAN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SPRINGVALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAULFIELD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Clayton Monash	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT WAVERLEY	Off	507825000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHELTENHAM	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHELTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Springvale	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=60	AgencyId=0	FRANKSTON	Off	-38.141665	145.126775	25	Circle	None	Global
+C-Freq			FRANKSTON	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FRANKSTON	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Seaford	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Seaford	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FRANKSTON	Off	508125000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=61	AgencyId=0	SPRINGVALE	Off	-37.949109	145.153164	25	Circle	None	Global
+C-Freq			SPRINGVALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAULFIELD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Clayton Monash	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT WAVERLEY	Off	507825000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Springvale	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=62	AgencyId=0	YARRAMAN	Off	-37.979999	145.194471	25	Circle	None	Global
+C-Freq			YARRAMAN	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SPRINGVALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DANDENONG	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Springvale	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=63	AgencyId=0	ROXBRUGH PARK	Off	-37.639636	144.936056	25	Circle	None	Global
+C-Freq			ROXBRUGH PARK	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROADMEADOWS	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROADMEADOWS	Off	508150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JACANA	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JACANA	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=64	AgencyId=0	Toolamba	Off	-36.489785	145.338428	25	Circle	None	Global
+C-Freq			Toolamba	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Toolamba	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=65	AgencyId=0	SUNBURY	Off	-37.578732	144.728529	25	Circle	None	Global
+C-Freq			SUNBURY	Off	418312500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNBURY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=66	AgencyId=0	North Shore	Off	-38.099803	144.365170	25	Circle	None	Global
+C-Freq			North Shore	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Shore	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LITTLE RIVER	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LARA	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LITTLE RIVER	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Shore	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LARA	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=67	AgencyId=0	BUNYIP	Off	-38.099040	145.717893	25	Circle	None	Global
+C-Freq			BUNYIP	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNYIP	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=68	AgencyId=0	Warncoort	Off	-38.315831	143.737328	25	Circle	None	Global
+C-Freq			Warncoort	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Warncoort	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=69	AgencyId=0	MELBOURNE	Off	-37.814485	144.949983	25	Circle	None	Global
+C-Freq			MELBOURNE	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418437500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	414712500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418162500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	508450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508775000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507600000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			West Melbourne	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415062500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Brooklyn	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418350000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418137500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	509075000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	508175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418112500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418325000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418462500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	412375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507500000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507850000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418150000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	507550000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507875000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SUNSHINE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418250000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418337500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	38575000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418400000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOTTENHAM	Off	411375000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418412500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	415387500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418475000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Carlton	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			North Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418425000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWPORT	Off	418262500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418175000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418487500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	418300000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	507700000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418450000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418287500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FOOTSCRAY	Off	418212500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418187500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Melbourne	Off	418237500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MELBOURNE	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHBANK	Off	418200000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=70	AgencyId=0	SPRINGVALE	Off	-37.949109	145.153164	25	Circle	None	Global
+C-Freq			SPRINGVALE	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAULFIELD	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Clayton Monash	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHELTENHAM	Off	418362500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHELTENHAM	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Springvale	Off	410650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=71	AgencyId=0	Ultima	Off	-35.461096	143.262113	25	Circle	None	Global
+C-Freq			Ultima	Off	412000000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=72	AgencyId=0	MT BLACKWOOD	Off	-37.557663	144.359699	25	Circle	None	Global
+C-Freq			MT BLACKWOOD	Off	462937500	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=73	AgencyId=0	WANGARATTA	Off	-36.354772	146.316926	25	Circle	None	Global
+C-Freq			WANGARATTA	Off	450050000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off

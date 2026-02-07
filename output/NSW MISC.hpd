@@ -1,0 +1,245 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			NPWS	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	NSW-WIDE	Off	-31.9737	147.7538	450	Circle	None	Global
+C-Freq			NSW-WIDE	Off	134700000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	162700000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	164137500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	162525000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	162637500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	161175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	122850000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	125450000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	164125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	161312500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	164162500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	124050000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	161137500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	123850000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NSW-WIDE	Off	161300000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	NELSON BAY	Off	-32.731782	152.131062	25	Circle	None	Global
+C-Freq			NELSON BAY	Off	163525000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	CANGAI EAST	Off	-29.613986	152.479179	25	Circle	None	Global
+C-Freq			CANGAI EAST	Off	164687500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	EBOR	Off	-30.481464	152.392978	25	Circle	None	Global
+C-Freq			EBOR	Off	163950000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EBOR	Off	165137500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	MOUNT MOONIMBA	Off	-29.110836	153.258124	25	Circle	None	Global
+C-Freq			MOUNT MOONIMBA	Off	164550000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	THE TOPS	Off	-29.807612	150.278748	25	Circle	None	Global
+C-Freq			THE TOPS	Off	164450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	SANDY HOLLOW	Off	-32.336627	150.486646	25	Circle	None	Global
+C-Freq			SANDY HOLLOW	Off	164012500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SANDY HOLLOW	Off	164562500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	SYDNEY HARBOUR	Off	-33.858384	151.257462	25	Circle	None	Global
+C-Freq			SYDNEY HARBOUR	Off	164400000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARLINGHURST	Off	162312500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WATSONS BAY	Off	163512500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			VAUCLUSE	Off	164787500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	MT JINGELLIC	Off	-35.932388	147.599889	25	Circle	None	Global
+C-Freq			MT JINGELLIC	Off	162687500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	GEEHI	Off	-36.394870	148.118590	25	Circle	None	Global
+C-Freq			GEEHI	Off	163450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GEEHI	Off	163762500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	MANGROVE MOUNTAIN	Off	-33.288974	151.236658	25	Circle	None	Global
+C-Freq			MANGROVE MOUNTAIN	Off	163437500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	HOWES VALLEY	Off	-32.751897	150.865994	25	Circle	None	Global
+C-Freq			HOWES VALLEY	Off	164600000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWES VALLEY	Off	130650000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	RICHLANDS	Off	-34.286759	149.888741	25	Circle	None	Global
+C-Freq			RICHLANDS	Off	163225000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	VINCENTIA	Off	-35.085058	150.678449	25	Circle	None	Global
+C-Freq			VINCENTIA	Off	164812500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	PERISHER VALLEY	Off	-36.405453	148.414461	25	Circle	None	Global
+C-Freq			PERISHER VALLEY	Off	119600000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERISHER VALLEY	Off	461956250	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERISHER VALLEY	Off	162850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	UPPER ALLYN	Off	-32.126705	151.430340	25	Circle	None	Global
+C-Freq			UPPER ALLYN	Off	165175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT BARRINGTON	Off	163100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT BARRINGTON	Off	162875000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	UPPER EDEN CREEK	Off	-28.496430	152.878420	25	Circle	None	Global
+C-Freq			UPPER EDEN CREEK	Off	162062500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	MOUNT KAPUTAR NATIONAL PARK	Off	-30.278821	150.152139	25	Circle	None	Global
+C-Freq			MOUNT KAPUTAR NATIONAL PARK	Off	165000000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	NUNGAR	Off	-35.874034	148.736686	25	Circle	None	Global
+C-Freq			NUNGAR	Off	162762500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	HELENSBURGH	Off	-34.170617	150.969881	25	Circle	None	Global
+C-Freq			HELENSBURGH	Off	162325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LILYVALE	Off	164825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	MT KEIRA	Off	-34.401865	150.856681	25	Circle	None	Global
+C-Freq			MT KEIRA	Off	163612500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	BOCOBLE	Off	-32.806630	149.750663	25	Circle	None	Global
+C-Freq			BOCOBLE	Off	162375000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	MEGALONG VALLEY	Off	-33.787733	150.260525	25	Circle	None	Global
+C-Freq			MEGALONG VALLEY	Off	162350000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	MATHOURA	Off	-35.800230	144.900311	25	Circle	None	Global
+C-Freq			MATHOURA	Off	163337500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	YALWAL	Off	-34.905891	150.411230	25	Circle	None	Global
+C-Freq			YALWAL	Off	461868750	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	MACLEAN	Off	-29.355086	153.079786	25	Circle	None	Global
+C-Freq			MACLEAN	Off	164212500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	YABBRA	Off	-28.621165	152.510042	25	Circle	None	Global
+C-Freq			YABBRA	Off	164512500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	TENTERFIELD	Off	-28.801597	152.133239	25	Circle	None	Global
+C-Freq			TENTERFIELD	Off	164675000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	ATHOLWOOD	Off	-29.063288	151.102397	25	Circle	None	Global
+C-Freq			ATHOLWOOD	Off	163087500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	TENTERFIELD	Off	-29.086035	151.966834	25	Circle	None	Global
+C-Freq			TENTERFIELD	Off	164475000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	WELLINGTON	Off	-32.425676	149.104091	25	Circle	None	Global
+C-Freq			WELLINGTON	Off	164475000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	GWABEGAR	Off	-30.598105	149.027098	25	Circle	None	Global
+C-Freq			GWABEGAR	Off	163875000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=33	AgencyId=0	MT CENN CRUAICH	Off	-31.342526	149.023751	25	Circle	None	Global
+C-Freq			MT CENN CRUAICH	Off	163137500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=34	AgencyId=0	NARRABRI	Off	-30.803078	149.484306	25	Circle	None	Global
+C-Freq			NARRABRI	Off	163825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=35	AgencyId=0	DANDRY	Off	-31.043984	149.372045	25	Circle	None	Global
+C-Freq			DANDRY	Off	163975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=36	AgencyId=0	BUDAWANG	Off	-35.479975	149.995640	25	Circle	None	Global
+C-Freq			BUDAWANG	Off	162812500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUDAWANG	Off	162100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=37	AgencyId=0	DEUA	Off	-35.976375	149.858842	25	Circle	None	Global
+C-Freq			DEUA	Off	163850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=38	AgencyId=0	JERANGLE	Off	-35.947945	149.510779	25	Circle	None	Global
+C-Freq			JERANGLE	Off	164800000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=39	AgencyId=0	ELLSMORE TOWER	Off	-34.586576	150.212469	25	Circle	None	Global
+C-Freq			ELLSMORE TOWER	Off	162550000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=40	AgencyId=0	MOUNT ADRAH	Off	-35.2214	147.834915	25	Circle	None	Global
+C-Freq			MOUNT ADRAH	Off	164725000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=41	AgencyId=0	MT BLACK JACK	Off	-35.974939	148.313252	25	Circle	None	Global
+C-Freq			MT BLACK JACK	Off	162650000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BLACK JACK	Off	162975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=42	AgencyId=0	SUNNY CORNER	Off	-33.382916	149.900188	25	Circle	None	Global
+C-Freq			SUNNY CORNER	Off	165025000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=43	AgencyId=0	KERRS CREEK	Off	-33.091690	149.138570	25	Circle	None	Global
+C-Freq			KERRS CREEK	Off	163237500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=44	AgencyId=0	MURRURUNDI	Off	-31.728017	150.843597	25	Circle	None	Global
+C-Freq			MURRURUNDI	Off	164875000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=45	AgencyId=0	CURRICABARK	Off	-31.727410	151.7158	25	Circle	None	Global
+C-Freq			CURRICABARK	Off	163450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=46	AgencyId=0	DUMARESQ	Off	-30.376205	151.601371	25	Circle	None	Global
+C-Freq			DUMARESQ	Off	164987500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=47	AgencyId=0	BOMBALA	Off	-36.931153	149.279401	25	Circle	None	Global
+C-Freq			BOMBALA	Off	162900000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=48	AgencyId=0	MUMBULLA MOUNTAIN	Off	-36.544939	149.866163	25	Circle	None	Global
+C-Freq			MUMBULLA MOUNTAIN	Off	163437500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUMBULLA MOUNTAIN	Off	163925000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=49	AgencyId=0	WATAGAN	Off	-33.044229	151.264477	25	Circle	None	Global
+C-Freq			WATAGAN	Off	165012500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=50	AgencyId=0	MOPARRABAH	Off	-31.117679	152.351010	25	Circle	None	Global
+C-Freq			MOPARRABAH	Off	163325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOPARRABAH	Off	163062500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=51	AgencyId=0	PINE LODGE	Off	-35.691643	145.397068	25	Circle	None	Global
+C-Freq			PINE LODGE	Off	163375000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=52	AgencyId=0	SPRINGBROOK	Off	-28.234862	153.288859	25	Circle	None	Global
+C-Freq			SPRINGBROOK	Off	164600000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=53	AgencyId=0	NABIAC	Off	-32.060282	152.377668	25	Circle	None	Global
+C-Freq			NABIAC	Off	163212500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=54	AgencyId=0	YARRAHAPINNI	Off	-30.814078	152.920305	25	Circle	None	Global
+C-Freq			YARRAHAPINNI	Off	164862500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YARRAHAPINNI	Off	163825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=55	AgencyId=0	YAMBULLA	Off	-37.117778	149.505767	25	Circle	None	Global
+C-Freq			YAMBULLA	Off	162975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=56	AgencyId=0	MIDDLE BROTHER	Off	-31.705886	152.674238	25	Circle	None	Global
+C-Freq			MIDDLE BROTHER	Off	163975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=57	AgencyId=0	DINGO FOREST	Off	-31.660760	152.142490	25	Circle	None	Global
+C-Freq			DINGO FOREST	Off	162100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=58	AgencyId=0	THE GULF	Off	-30.055310	152.358890	25	Circle	None	Global
+C-Freq			THE GULF	Off	163712500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=59	AgencyId=0	MOUNT MOOMBIL	Off	-30.317419	152.859724	25	Circle	None	Global
+C-Freq			MOUNT MOOMBIL	Off	164500000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=60	AgencyId=0	ROSS HILL	Off	-29.755581	151.613632	25	Circle	None	Global
+C-Freq			ROSS HILL	Off	164437500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=61	AgencyId=0	MT NARDI	Off	-28.545563	153.287606	25	Circle	None	Global
+C-Freq			MT NARDI	Off	163100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=62	AgencyId=0	YARROWITCH	Off	-31.277367	151.849914	25	Circle	None	Global
+C-Freq			YARROWITCH	Off	163462500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=63	AgencyId=0	MUNGO NATIONAL PARK	Off	-33.496767	143.106423	25	Circle	None	Global
+C-Freq			MUNGO NATIONAL PARK	Off	476475000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=64	AgencyId=0	TALBINGO	Off	-35.6163	148.331463	25	Circle	None	Global
+C-Freq			TALBINGO	Off	162750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=65	AgencyId=0	INGEBIRAH	Off	-36.644075	148.456890	25	Circle	None	Global
+C-Freq			INGEBIRAH	Off	162875000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=66	AgencyId=0	RHINE FALLS	Off	-36.191369	148.883137	25	Circle	None	Global
+C-Freq			RHINE FALLS	Off	163162500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=67	AgencyId=0	GOONOO FOREST	Off	-32.056728	148.863914	25	Circle	None	Global
+C-Freq			GOONOO FOREST	Off	164000000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=68	AgencyId=0	NONE	Off	-33.180617	151.622565	25	Circle	None	Global
+C-Freq			NONE	Off	164987500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=69	AgencyId=0	COWAN	Off	-33.581669	151.186045	25	Circle	None	Global
+C-Freq			COWAN	Off	164687500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=70	AgencyId=0	KNIGHTS HILL	Off	-34.623507	150.694439	25	Circle	None	Global
+C-Freq			KNIGHTS HILL	Off	162150000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=71	AgencyId=0	TALOUMBI	Off	-29.585045	153.277150	25	Circle	None	Global
+C-Freq			TALOUMBI	Off	164887500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=72	AgencyId=0	BINGARA	Off	-29.976387	150.650603	25	Circle	None	Global
+C-Freq			BINGARA	Off	163850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=73	AgencyId=0	GIBRALTAR RANGE	Off	-29.487504	152.344028	25	Circle	None	Global
+C-Freq			GIBRALTAR RANGE	Off	164200000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=74	AgencyId=0	COONAMBLE	Off	-30.897329	147.465075	25	Circle	None	Global
+C-Freq			COONAMBLE	Off	163937500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=75	AgencyId=0	MT GININI	Off	-35.529552	148.772605	25	Circle	None	Global
+C-Freq			MT GININI	Off	164875000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GININI	Off	162075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=76	AgencyId=0	PEAK ALONE	Off	-36.303791	149.783906	25	Circle	None	Global
+C-Freq			PEAK ALONE	Off	162887500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=77	AgencyId=0	WOLUMLA PEAK	Off	-36.864455	149.728115	25	Circle	None	Global
+C-Freq			WOLUMLA PEAK	Off	163075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=78	AgencyId=0	MOUNT TOMAH	Off	-33.552544	150.415303	25	Circle	None	Global
+C-Freq			MOUNT TOMAH	Off	162300000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=79	AgencyId=0	ALECTOWN	Off	-32.902960	148.381510	25	Circle	None	Global
+C-Freq			ALECTOWN	Off	164825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=80	AgencyId=0	UPPER MYALL	Off	-32.257231	152.120368	25	Circle	None	Global
+C-Freq			UPPER MYALL	Off	165025000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			UPPER MYALL	Off	165125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=81	AgencyId=0	TUMORRAMA	Off	-35.239366	148.500225	25	Circle	None	Global
+C-Freq			TUMORRAMA	Off	163012500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=82	AgencyId=0	BUSBYS FLAT	Off	-29.126510	152.739950	25	Circle	None	Global
+C-Freq			BUSBYS FLAT	Off	164800000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=83	AgencyId=0	MANILLA	Off	-30.6870	150.9825	25	Circle	None	Global
+C-Freq			MANILLA	Off	163962500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=84	AgencyId=0	MULGOA	Off	-33.805468	150.630979	25	Circle	None	Global
+C-Freq			MULGOA	Off	165125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=85	AgencyId=0	MT SELWYN	Off	-35.906617	148.460019	25	Circle	None	Global
+C-Freq			MT SELWYN	Off	162250000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=86	AgencyId=0	GREEN CAPE	Off	-37.261449	150.049480	25	Circle	None	Global
+C-Freq			GREEN CAPE	Off	162912500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=87	AgencyId=0	BOOKHAM	Off	-34.818947	148.729035	25	Circle	None	Global
+C-Freq			BOOKHAM	Off	162125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=88	AgencyId=0	LANE COVE	Off	-33.778968	151.135968	25	Circle	None	Global
+C-Freq			LANE COVE	Off	162537500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=89	AgencyId=0	CASSILIS	Off	-31.819213	150.162854	25	Circle	None	Global
+C-Freq			CASSILIS	Off	164237500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=90	AgencyId=0	WIDDEN	Off	-32.825839	150.350810	25	Circle	None	Global
+C-Freq			WIDDEN	Off	164200000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=91	AgencyId=0	GRENFELL	Off	-33.820025	148.160360	25	Circle	None	Global
+C-Freq			GRENFELL	Off	163587500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=92	AgencyId=0	MT TINGARINGY	Off	-36.997741	148.677056	25	Circle	None	Global
+C-Freq			MT TINGARINGY	Off	163325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=93	AgencyId=0	CAPTAINS FLAT	Off	-35.530623	149.517890	25	Circle	None	Global
+C-Freq			CAPTAINS FLAT	Off	162287500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPTAINS FLAT	Off	162162500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=94	AgencyId=0	BERRIGAN	Off	-35.788870	145.7811	25	Circle	None	Global
+C-Freq			BERRIGAN	Off	163150000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=95	AgencyId=0	GUNNEDAH	Off	-31.023907	150.191973	25	Circle	None	Global
+C-Freq			GUNNEDAH	Off	162900000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=96	AgencyId=0	CANOELANDS	Off	-33.496679	151.038335	25	Circle	None	Global
+C-Freq			CANOELANDS	Off	164525000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANOELANDS	Off	162125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=97	AgencyId=0	NEWCASTLE	Off	-32.898947	151.539071	25	Circle	None	Global
+C-Freq			NEWCASTLE	Off	164050000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=98	AgencyId=0	BOMADERRY	Off	-34.788481	150.542204	25	Circle	None	Global
+C-Freq			BOMADERRY	Off	162562500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=99	AgencyId=0	BIGGA	Off	-34.160731	149.238193	25	Circle	None	Global
+C-Freq			BIGGA	Off	164812500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=100	AgencyId=0	MITTAGONG	Off	-34.371084	150.335635	25	Circle	None	Global
+C-Freq			MITTAGONG	Off	164412500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=101	AgencyId=0	MT CANOBOLAS	Off	-33.341888	148.982860	25	Circle	None	Global
+C-Freq			MT CANOBOLAS	Off	163850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=102	AgencyId=0	GOOBARRAGANDRA	Off	-35.459614	148.448633	25	Circle	None	Global
+C-Freq			GOOBARRAGANDRA	Off	164550000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=103	AgencyId=0	SHOOTERS HILL	Off	-33.897924	149.849618	25	Circle	None	Global
+C-Freq			SHOOTERS HILL	Off	162887500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off

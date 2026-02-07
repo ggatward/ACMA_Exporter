@@ -1,5 +1,5 @@
-output/*
-!output/
-!output/*CUSTOM*
+#output/*
+#!output/
+#!output/*CUSTOM*
 #downloads/*
 #!downloads/

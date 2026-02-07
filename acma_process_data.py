@@ -405,13 +405,13 @@ if __name__ == "__main__":
         # { "clientID": "45451", "favourite": "NSW Rail", "system": "ZigZag", "service_type": "20", "syskey": "0", "range": "25", "widetag": "NSW", "system_type": "CONV" },
         #
         ########################
-        { "clientID": "84379", "favourite": "QLD EMS", "system": "QFES", "service_type": "3", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
-        { "clientID": "270141", "favourite": "QLD EMS", "system": "RFS", "service_type": "1", "syskey": "1", "range": "25", "widetag": "QLD", "system_type": "CONV" },
-        { "clientID": "79601", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
-        { "clientID": "521072", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
-        { "clientID": "1401916", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
-        { "clientID": "20060946", "favourite": "QLD EMS", "system": "SES", "service_type": "4", "syskey": "4", "range": "25", "widetag": "QLD", "system_type": "CONV" },
-        { "clientID": "58050", "favourite": "QLD EMS", "system": "QPS", "service_type": "2", "syskey": "5", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "84379", "favourite": "QLD EMS", "system": "QFES", "service_type": "3", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "270141", "favourite": "QLD EMS", "system": "RFS", "service_type": "1", "syskey": "1", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "79601", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "521072", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "1401916", "favourite": "QLD EMS", "system": "QAS", "service_type": "4", "syskey": "3", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "20060946", "favourite": "QLD EMS", "system": "SES", "service_type": "4", "syskey": "4", "range": "25", "widetag": "QLD", "system_type": "CONV" },
+        # { "clientID": "58050", "favourite": "QLD EMS", "system": "QPS", "service_type": "2", "syskey": "5", "range": "25", "widetag": "QLD", "system_type": "CONV" },
 
         # { "clientID": "1149151", "favourite": "QLD Rail", "system": "Queensland Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },
         # { "clientID": "20028378", "favourite": "QLD Rail", "system": "Queensland Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "QLD", "system_type": "CONV" },

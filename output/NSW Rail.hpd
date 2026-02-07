@@ -1,0 +1,8 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			ZigZag	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	CLARENCE	Off	-33.477470	150.2162	25	Circle	None	Global
+C-Freq			CLARENCE	Off	163650000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLARENCE	Off	489225000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLARENCE	Off	163275000	NFM		20	Off	2	0	Off	Auto	Off	On	Off	Off

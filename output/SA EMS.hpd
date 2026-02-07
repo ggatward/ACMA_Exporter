@@ -1,0 +1,162 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			CFS	Off		Conventional	1	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	SA-WIDE	Off	-32.1365	134.8854	500	Circle	None	Global
+C-Freq			SA-WIDE	Off	467625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	163250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	476600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	162762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	163375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	162187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	162687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161025000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	163087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	163287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	469537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	162462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	162600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	165125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	163787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	BORDERTOWN	Off	-36.310311	140.769357	25	Circle	None	Global
+C-Freq			BORDERTOWN	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BORDERTOWN	Off	161150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BORDERTOWN	Off	161000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BORDERTOWN	Off	161012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BORDERTOWN	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BORDERTOWN	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BORDERTOWN	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BORDERTOWN	Off	161037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	LAMEROO	Off	-35.329552	140.517743	25	Circle	None	Global
+C-Freq			LAMEROO	Off	161012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAMEROO	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAMEROO	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAMEROO	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAMEROO	Off	161037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAMEROO	Off	161150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAMEROO	Off	161000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAMEROO	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	PORT PIRIE	Off	-33.189695	138.005798	25	Circle	None	Global
+C-Freq			PORT PIRIE	Off	162175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	PINNAROO	Off	-35.261276	140.909803	25	Circle	None	Global
+C-Freq			PINNAROO	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINNAROO	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINNAROO	Off	161150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINNAROO	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINNAROO	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINNAROO	Off	161000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINNAROO	Off	161012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINNAROO	Off	161037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	O`HALLORAN HILL	Off	-35.054908	138.545049	25	Circle	None	Global
+C-Freq			O`HALLORAN HILL	Off	161062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	NARACOORTE	Off	-36.957297	140.739177	25	Circle	None	Global
+C-Freq			NARACOORTE	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARACOORTE	Off	161112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	GAWLER	Off	-34.603424	138.750141	25	Circle	None	Global
+C-Freq			GAWLER	Off	162212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	GLEN OSMOND	Off	-34.960966	138.644204	25	Circle	None	Global
+C-Freq			GLEN OSMOND	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	MT GAMBIER	Off	-37.838016	140.806213	25	Circle	None	Global
+C-Freq			MT GAMBIER	Off	161150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GAMBIER	Off	161000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT GAMBIER	Off	162062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GAMBIER	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GAMBIER	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GAMBIER	Off	161112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GAMBIER	Off	161087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GAMBIER	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT GAMBIER	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	PENOLA	Off	-37.377961	140.839144	25	Circle	None	Global
+C-Freq			PENOLA	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PENOLA	Off	161112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PENOLA	Off	161087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PENOLA	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PENOLA	Off	161000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PENOLA	Off	161150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PENOLA	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PENOLA	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	PORT LINCOLN	Off	-34.731638	135.865787	25	Circle	None	Global
+C-Freq			PORT LINCOLN	Off	162212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	PARINGA	Off	-34.179654	140.783692	25	Circle	None	Global
+C-Freq			PARINGA	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RENMARK	Off	161387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PARINGA	Off	161012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PARINGA	Off	161037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PARINGA	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PARINGA	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	STENHOUSE BAY	Off	-35.279944	136.939611	25	Circle	None	Global
+C-Freq			STENHOUSE BAY	Off	476475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	PANEY HOMESTEAD	Off	-32.651960	135.626743	25	Circle	None	Global
+C-Freq			PANEY HOMESTEAD	Off	476600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	WHYALLA	Off	-33.029033	137.551822	25	Circle	None	Global
+C-Freq			WHYALLA	Off	161400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	WALLAROO	Off	-33.932827	137.625844	25	Circle	None	Global
+C-Freq			WALLAROO	Off	161375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KADINA	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	PORT MACDONNELL	Off	-38.052412	140.702282	25	Circle	None	Global
+C-Freq			PORT MACDONNELL	Off	161087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT MACDONNELL	Off	161200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT MACDONNELL	Off	161112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT MACDONNELL	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT MACDONNELL	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	BENBONYATHE HILL	Off	-30.408177	139.179352	25	Circle	None	Global
+C-Freq			BENBONYATHE HILL	Off	163540000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	PORT AUGUSTA	Off	-32.497713	137.770726	25	Circle	None	Global
+C-Freq			PORT AUGUSTA	Off	160987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	MURRAY BRIDGE	Off	-35.133201	139.279220	25	Circle	None	Global
+C-Freq			MURRAY BRIDGE	Off	162212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	LOXTON	Off	-34.446322	140.578664	25	Circle	None	Global
+C-Freq			LOXTON	Off	162175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	TANUNDA	Off	-34.517869	138.967712	25	Circle	None	Global
+C-Freq			TANUNDA	Off	162062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	MOONTA	Off	-34.068507	137.587451	25	Circle	None	Global
+C-Freq			MOONTA	Off	161287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	PETERBOROUGH	Off	-32.969441	138.839567	25	Circle	None	Global
+C-Freq			PETERBOROUGH	Off	162062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	ROCKY RIVER	Off	-35.980714	136.733018	25	Circle	None	Global
+C-Freq			ROCKY RIVER	Off	476425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	TOTHILL BELT	Off	-33.9777	138.960730	25	Circle	None	Global
+C-Freq			TOTHILL BELT	Off	423737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	VICTOR HARBOR	Off	-35.549958	138.612908	25	Circle	None	Global
+C-Freq			VICTOR HARBOR	Off	161375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	BERRI	Off	-34.285783	140.597409	25	Circle	None	Global
+C-Freq			BERRI	Off	162062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	KINGSTON	Off	-36.706983	140.164704	25	Circle	None	Global
+C-Freq			KINGSTON	Off	476525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	MT BRYAN	Off	-33.426020	138.974462	25	Circle	None	Global
+C-Freq			MT BRYAN	Off	423862500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	KAPUNDA	Off	-34.343519	138.913780	25	Circle	None	Global
+C-Freq			KAPUNDA	Off	162175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off

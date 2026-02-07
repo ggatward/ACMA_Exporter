@@ -1,0 +1,1754 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Trunk			SA GRN	Off		P25Standard	Off	Off	Auto	Ignore	Srch	0	None	0	On	On	Analog	Off	Off	On
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+Site	SiteId=1	TrunkId=1	NUNJIKOMPITA	Off	-32.261441	134.260476	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=1		Off	417000000		Srch
+T-Freq	TFreqId=0	SiteId=1		Off	415000000		Srch
+T-Freq	TFreqId=0	SiteId=1		Off	413000000		Srch
+T-Freq	TFreqId=0	SiteId=1		Off	412500000		Srch
+T-Freq	TFreqId=0	SiteId=1		Off	417500000		Srch
+T-Freq	TFreqId=0	SiteId=1		Off	416500000		Srch
+T-Freq	TFreqId=0	SiteId=1		Off	418500000		Srch
+Site	SiteId=2	TrunkId=1	BUNABIE	Off	-31.543670	129.217592	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=2		Off	413450000		Srch
+T-Freq	TFreqId=0	SiteId=2		Off	416450000		Srch
+T-Freq	TFreqId=0	SiteId=2		Off	412950000		Srch
+T-Freq	TFreqId=0	SiteId=2		Off	416950000		Srch
+T-Freq	TFreqId=0	SiteId=2		Off	417450000		Srch
+Site	SiteId=3	TrunkId=1	YANGOONABIE	Off	-31.504570	130.011587	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=3		Off	413325000		Srch
+T-Freq	TFreqId=0	SiteId=3		Off	416325000		Srch
+T-Freq	TFreqId=0	SiteId=3		Off	417325000		Srch
+T-Freq	TFreqId=0	SiteId=3		Off	416825000		Srch
+T-Freq	TFreqId=0	SiteId=3		Off	412825000		Srch
+Site	SiteId=4	TrunkId=1	PILLAWORTA HILL	Off	-34.392486	135.954465	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=4		Off	416687500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	420687500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	421937500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	417187500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	420437500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	416187500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	420187500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	421437500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	412687500		Srch
+T-Freq	TFreqId=0	SiteId=4		Off	413187500		Srch
+Site	SiteId=5	TrunkId=1	PORT LINCOLN	Off	-34.694583	135.830562	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=5		Off	416812500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	416312500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	415062500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	418562500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	412812500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	417312500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	418812500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	414812500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	413312500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	415312500		Srch
+T-Freq	TFreqId=0	SiteId=5		Off	414712500		Srch
+Site	SiteId=6	TrunkId=1	TOOLIGIE HILL	Off	-33.796901	135.845472	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=6		Off	417275000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	415275000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	418775000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	414775000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	413275000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	412775000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	418525000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	416275000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	416775000		Srch
+T-Freq	TFreqId=0	SiteId=6		Off	415025000		Srch
+Site	SiteId=7	TrunkId=1	CHERRY GARDENS	Off	-35.071585	138.627476	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=7		Off	417225000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	415025000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	415725000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	412725000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	416725000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	416225000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	416025000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	418025000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	417725000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	415225000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	414725000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	417025000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	417525000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	414550000		Srch
+T-Freq	TFreqId=0	SiteId=7		Off	413225000		Srch
+Site	SiteId=8	TrunkId=1	YANKALILLA	Off	-35.480670	138.288165	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=8		Off	418500000		Srch
+T-Freq	TFreqId=0	SiteId=8		Off	417750000		Srch
+T-Freq	TFreqId=0	SiteId=8		Off	416250000		Srch
+T-Freq	TFreqId=0	SiteId=8		Off	415237500		Srch
+T-Freq	TFreqId=0	SiteId=8		Off	413250000		Srch
+T-Freq	TFreqId=0	SiteId=8		Off	417250000		Srch
+T-Freq	TFreqId=0	SiteId=8		Off	415750000		Srch
+T-Freq	TFreqId=0	SiteId=8		Off	418625000		Srch
+T-Freq	TFreqId=0	SiteId=8		Off	416750000		Srch
+Site	SiteId=9	TrunkId=1	ADELAIDE	Off	-34.924828	138.598754	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=9		Off	418812500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	419300000		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	419362500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	417062500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	416312500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	417312500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	415062500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	415312500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	415812500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	416062500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	419225000		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	416812500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	417562500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	418562500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	417812500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	412812500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	412650000		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	419062500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	419475000		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	413062500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	413312500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	414900000		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	416562500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	418637500		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	413150000		Srch
+T-Freq	TFreqId=0	SiteId=9		Off	412562500		Srch
+Site	SiteId=10	TrunkId=1	MOUNT BARKER	Off	-35.066685	138.921342	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=10		Off	421387500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	417887500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	417387500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	412887500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	415887500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	414887500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	416387500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	421637500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	421887500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	416887500		Srch
+T-Freq	TFreqId=0	SiteId=10		Off	413387500		Srch
+Site	SiteId=11	TrunkId=1	STRATHALBYN	Off	-35.277104	138.835858	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=12	TrunkId=1	WICKHAM HILL	Off	-35.187597	138.655798	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=12		Off	416525000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	420725000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	415975000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	415275000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	417975000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	417475000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	421475000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	416975000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	412475000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	420225000		Srch
+T-Freq	TFreqId=0	SiteId=12		Off	412975000		Srch
+Site	SiteId=13	TrunkId=1	MT TERRIBLE	Off	-35.329613	138.502184	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=13		Off	416500000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	415250000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	417500000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	416000000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	420750000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	421250000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	418000000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	417000000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	413000000		Srch
+T-Freq	TFreqId=0	SiteId=13		Off	412500000		Srch
+Site	SiteId=14	TrunkId=1	NITSCHKE HILL	Off	-34.882778	138.871250	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=14		Off	415637500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	417637500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	416137500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	420387500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	413137500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	412637500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	420637500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	417137500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	415137500		Srch
+T-Freq	TFreqId=0	SiteId=14		Off	420137500		Srch
+Site	SiteId=15	TrunkId=1	BEDFORD PARK	Off	-35.021982	138.569418	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=15		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=15		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=15		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=15		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=15		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=15		Off	412487500		Srch
+Site	SiteId=16	TrunkId=1	PENNESHAW	Off	-35.768005	138.007947	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=16		Off	414662500		Srch
+T-Freq	TFreqId=0	SiteId=16		Off	417162500		Srch
+T-Freq	TFreqId=0	SiteId=16		Off	418662500		Srch
+T-Freq	TFreqId=0	SiteId=16		Off	413162500		Srch
+T-Freq	TFreqId=0	SiteId=16		Off	412662500		Srch
+T-Freq	TFreqId=0	SiteId=16		Off	414912500		Srch
+T-Freq	TFreqId=0	SiteId=16		Off	422162500		Srch
+T-Freq	TFreqId=0	SiteId=16		Off	416162500		Srch
+T-Freq	TFreqId=0	SiteId=16		Off	416662500		Srch
+Site	SiteId=17	TrunkId=1	KADAMERE	Off	-35.917989	136.808781	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=17		Off	414525000		Srch
+T-Freq	TFreqId=0	SiteId=17		Off	414775000		Srch
+T-Freq	TFreqId=0	SiteId=17		Off	412775000		Srch
+T-Freq	TFreqId=0	SiteId=17		Off	413275000		Srch
+T-Freq	TFreqId=0	SiteId=17		Off	416275000		Srch
+T-Freq	TFreqId=0	SiteId=17		Off	415275000		Srch
+T-Freq	TFreqId=0	SiteId=17		Off	415025000		Srch
+T-Freq	TFreqId=0	SiteId=17		Off	417275000		Srch
+T-Freq	TFreqId=0	SiteId=17		Off	416775000		Srch
+Site	SiteId=18	TrunkId=1	BROWN HILL	Off	-35.504608	138.646883	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=18		Off	421875000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	413125000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	416625000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	421375000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	421625000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	415625000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	417625000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	415125000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=18		Off	417125000		Srch
+Site	SiteId=19	TrunkId=1	DELAMERE	Off	-35.606254	138.160374	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=19		Off	418537500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	421537500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	421787500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	413037500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	416537500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	416037500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	417037500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	421287500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	418037500		Srch
+T-Freq	TFreqId=0	SiteId=19		Off	418787500		Srch
+Site	SiteId=20	TrunkId=1	MOUNT GORE	Off	-34.987054	137.265319	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=20		Off	415212500		Srch
+T-Freq	TFreqId=0	SiteId=20		Off	416962500		Srch
+T-Freq	TFreqId=0	SiteId=20		Off	412587500		Srch
+T-Freq	TFreqId=0	SiteId=20		Off	416462500		Srch
+T-Freq	TFreqId=0	SiteId=20		Off	412962500		Srch
+T-Freq	TFreqId=0	SiteId=20		Off	417462500		Srch
+Site	SiteId=21	TrunkId=1	PLAYFORD	Off	-35.791902	136.780731	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=21		Off	414612500		Srch
+T-Freq	TFreqId=0	SiteId=21		Off	416862500		Srch
+T-Freq	TFreqId=0	SiteId=21		Off	415362500		Srch
+T-Freq	TFreqId=0	SiteId=21		Off	415112500		Srch
+T-Freq	TFreqId=0	SiteId=21		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=21		Off	413362500		Srch
+T-Freq	TFreqId=0	SiteId=21		Off	416362500		Srch
+T-Freq	TFreqId=0	SiteId=21		Off	414862500		Srch
+T-Freq	TFreqId=0	SiteId=21		Off	417362500		Srch
+Site	SiteId=22	TrunkId=1	WEAVER HILL	Off	-34.946691	137.681089	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=22		Off	421875000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	412625000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	413125000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	421375000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	421625000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	417125000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	415375000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	420625000		Srch
+T-Freq	TFreqId=0	SiteId=22		Off	416625000		Srch
+Site	SiteId=23	TrunkId=1	MOONABIE	Off	-33.264385	137.201635	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=23		Off	414787500		Srch
+T-Freq	TFreqId=0	SiteId=23		Off	412787500		Srch
+T-Freq	TFreqId=0	SiteId=23		Off	417287500		Srch
+T-Freq	TFreqId=0	SiteId=23		Off	413287500		Srch
+T-Freq	TFreqId=0	SiteId=23		Off	418787500		Srch
+T-Freq	TFreqId=0	SiteId=23		Off	416787500		Srch
+T-Freq	TFreqId=0	SiteId=23		Off	415037500		Srch
+T-Freq	TFreqId=0	SiteId=23		Off	415287500		Srch
+T-Freq	TFreqId=0	SiteId=23		Off	416287500		Srch
+Site	SiteId=24	TrunkId=1	PARACHILNA	Off	-31.399426	138.808410	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=24		Off	420512500		Srch
+T-Freq	TFreqId=0	SiteId=24		Off	420012500		Srch
+T-Freq	TFreqId=0	SiteId=24		Off	420762500		Srch
+T-Freq	TFreqId=0	SiteId=24		Off	476500000		Srch
+T-Freq	TFreqId=0	SiteId=24		Off	420262500		Srch
+T-Freq	TFreqId=0	SiteId=24		Off	421262500		Srch
+Site	SiteId=25	TrunkId=1	MT NIELSEN	Off	-31.148737	138.641886	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=25		Off	420550000		Srch
+T-Freq	TFreqId=0	SiteId=25		Off	421300000		Srch
+T-Freq	TFreqId=0	SiteId=25		Off	412550000		Srch
+T-Freq	TFreqId=0	SiteId=25		Off	420300000		Srch
+T-Freq	TFreqId=0	SiteId=25		Off	476600000		Srch
+T-Freq	TFreqId=0	SiteId=25		Off	420050000		Srch
+Site	SiteId=26	TrunkId=1	WILPENA	Off	-31.585870	138.548950	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=26		Off	421475000		Srch
+T-Freq	TFreqId=0	SiteId=26		Off	421225000		Srch
+T-Freq	TFreqId=0	SiteId=26		Off	420725000		Srch
+T-Freq	TFreqId=0	SiteId=26		Off	476450000		Srch
+T-Freq	TFreqId=0	SiteId=26		Off	420475000		Srch
+T-Freq	TFreqId=0	SiteId=26		Off	420225000		Srch
+Site	SiteId=27	TrunkId=1	WONOKA HILL	Off	-31.818594	138.409613	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=27		Off	415300000		Srch
+T-Freq	TFreqId=0	SiteId=27		Off	417050000		Srch
+T-Freq	TFreqId=0	SiteId=27		Off	417550000		Srch
+T-Freq	TFreqId=0	SiteId=27		Off	413050000		Srch
+T-Freq	TFreqId=0	SiteId=27		Off	418800000		Srch
+T-Freq	TFreqId=0	SiteId=27		Off	416550000		Srch
+Site	SiteId=28	TrunkId=1	WIGUNDA	Off	-31.556579	130.395202	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=29	TrunkId=1	MODBURY	Off	-34.831791	138.690684	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=29		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=29		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=29		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=29		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=29		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=29		Off	412487500		Srch
+Site	SiteId=30	TrunkId=1	NORTHFIELD	Off	-34.846042	138.641734	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=30		Off	414600000		Srch
+Site	SiteId=31	TrunkId=1	KANGAROO CREEK	Off	-34.874449	138.771582	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=31		Off	420650000		Srch
+T-Freq	TFreqId=0	SiteId=31		Off	420150000		Srch
+T-Freq	TFreqId=0	SiteId=31		Off	421400000		Srch
+T-Freq	TFreqId=0	SiteId=31		Off	421650000		Srch
+T-Freq	TFreqId=0	SiteId=31		Off	420400000		Srch
+T-Freq	TFreqId=0	SiteId=31		Off	421900000		Srch
+Site	SiteId=32	TrunkId=1	MOUNT WEDGE	Off	-33.475649	135.142178	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=32		Off	421475000		Srch
+T-Freq	TFreqId=0	SiteId=32		Off	416225000		Srch
+T-Freq	TFreqId=0	SiteId=32		Off	413225000		Srch
+T-Freq	TFreqId=0	SiteId=32		Off	412725000		Srch
+T-Freq	TFreqId=0	SiteId=32		Off	416725000		Srch
+T-Freq	TFreqId=0	SiteId=32		Off	417225000		Srch
+T-Freq	TFreqId=0	SiteId=32		Off	421225000		Srch
+Site	SiteId=33	TrunkId=1	BAROSSA RANGE	Off	-34.527076	139.035963	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=33		Off	422162500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	416662500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	415662500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	417662500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	421912500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	417162500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	415162500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	413162500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	421662500		Srch
+T-Freq	TFreqId=0	SiteId=33		Off	416162500		Srch
+Site	SiteId=34	TrunkId=1	MT REMARKABLE	Off	-32.802229	138.039560	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=34		Off	421962500		Srch
+T-Freq	TFreqId=0	SiteId=34		Off	420212500		Srch
+T-Freq	TFreqId=0	SiteId=34		Off	421462500		Srch
+T-Freq	TFreqId=0	SiteId=34		Off	420462500		Srch
+T-Freq	TFreqId=0	SiteId=34		Off	420712500		Srch
+Site	SiteId=35	TrunkId=1	MOONTA	Off	-34.060820	137.598873	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=35		Off	421425000		Srch
+T-Freq	TFreqId=0	SiteId=35		Off	420675000		Srch
+T-Freq	TFreqId=0	SiteId=35		Off	421925000		Srch
+T-Freq	TFreqId=0	SiteId=35		Off	420175000		Srch
+T-Freq	TFreqId=0	SiteId=35		Off	421675000		Srch
+T-Freq	TFreqId=0	SiteId=35		Off	420425000		Srch
+Site	SiteId=36	TrunkId=1	POOCHERA HILL	Off	-32.712715	134.871579	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=36		Off	414975000		Srch
+T-Freq	TFreqId=0	SiteId=36		Off	418725000		Srch
+T-Freq	TFreqId=0	SiteId=36		Off	416975000		Srch
+T-Freq	TFreqId=0	SiteId=36		Off	415225000		Srch
+T-Freq	TFreqId=0	SiteId=36		Off	412975000		Srch
+T-Freq	TFreqId=0	SiteId=36		Off	417475000		Srch
+T-Freq	TFreqId=0	SiteId=36		Off	416475000		Srch
+Site	SiteId=37	TrunkId=1	TALINGA	Off	-35.343978	139.964908	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=37		Off	416837500		Srch
+T-Freq	TFreqId=0	SiteId=37		Off	418837500		Srch
+T-Freq	TFreqId=0	SiteId=37		Off	412837500		Srch
+T-Freq	TFreqId=0	SiteId=37		Off	413337500		Srch
+T-Freq	TFreqId=0	SiteId=37		Off	416337500		Srch
+T-Freq	TFreqId=0	SiteId=37		Off	417337500		Srch
+Site	SiteId=38	TrunkId=1	SALT CREEK	Off	-36.138824	139.663509	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=38		Off	413150000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	417150000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	414900000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	412650000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	418650000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	416650000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	414650000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	415400000		Srch
+T-Freq	TFreqId=0	SiteId=38		Off	416150000		Srch
+Site	SiteId=39	TrunkId=1	BULL CREEK	Off	-35.231149	138.779299	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=39		Off	416050000		Srch
+T-Freq	TFreqId=0	SiteId=39		Off	412925000		Srch
+T-Freq	TFreqId=0	SiteId=39		Off	415362500		Srch
+T-Freq	TFreqId=0	SiteId=39		Off	420050000		Srch
+T-Freq	TFreqId=0	SiteId=39		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=39		Off	418050000		Srch
+T-Freq	TFreqId=0	SiteId=39		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=39		Off	412525000		Srch
+T-Freq	TFreqId=0	SiteId=39		Off	415175000		Srch
+Site	SiteId=40	TrunkId=1	WOOMERA	Off	-31.192064	136.814854	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=40		Off	412637500		Srch
+T-Freq	TFreqId=0	SiteId=40		Off	416137500		Srch
+T-Freq	TFreqId=0	SiteId=40		Off	415137500		Srch
+T-Freq	TFreqId=0	SiteId=40		Off	416637500		Srch
+T-Freq	TFreqId=0	SiteId=40		Off	417137500		Srch
+T-Freq	TFreqId=0	SiteId=40		Off	413137500		Srch
+Site	SiteId=41	TrunkId=1	DARTMOOR	Off	-37.861337	141.053167	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=41		Off	416137500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	413137500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	421887500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	421637500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	420137500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	420637500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	417137500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	416637500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	420387500		Srch
+T-Freq	TFreqId=0	SiteId=41		Off	421387500		Srch
+Site	SiteId=42	TrunkId=1	NARACOORTE	Off	-36.975958	140.770134	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=42		Off	412725000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	415225000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	416725000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	417225000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	418725000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	413225000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	416225000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	414725000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	420475000		Srch
+T-Freq	TFreqId=0	SiteId=42		Off	414975000		Srch
+Site	SiteId=43	TrunkId=1	KEITH NORTH	Off	-35.772154	140.887845	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=43		Off	416075000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	412700000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	413450000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	476425000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	414700000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	417450000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	416950000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	412950000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	416450000		Srch
+T-Freq	TFreqId=0	SiteId=43		Off	414950000		Srch
+Site	SiteId=44	TrunkId=1	HAHNDORF	Off	-35.024259	138.800221	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=44		Off	413050000		Srch
+T-Freq	TFreqId=0	SiteId=44		Off	412550000		Srch
+T-Freq	TFreqId=0	SiteId=44		Off	417550000		Srch
+T-Freq	TFreqId=0	SiteId=44		Off	416550000		Srch
+T-Freq	TFreqId=0	SiteId=44		Off	413300000		Srch
+T-Freq	TFreqId=0	SiteId=44		Off	418800000		Srch
+T-Freq	TFreqId=0	SiteId=44		Off	412800000		Srch
+T-Freq	TFreqId=0	SiteId=44		Off	415300000		Srch
+T-Freq	TFreqId=0	SiteId=44		Off	417050000		Srch
+Site	SiteId=45	TrunkId=1	MT ROBINSON	Off	-35.545775	138.400736	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=45		Off	412912500		Srch
+T-Freq	TFreqId=0	SiteId=45		Off	413412500		Srch
+T-Freq	TFreqId=0	SiteId=45		Off	421412500		Srch
+T-Freq	TFreqId=0	SiteId=45		Off	417412500		Srch
+T-Freq	TFreqId=0	SiteId=45		Off	421912500		Srch
+T-Freq	TFreqId=0	SiteId=45		Off	416412500		Srch
+T-Freq	TFreqId=0	SiteId=45		Off	415162500		Srch
+T-Freq	TFreqId=0	SiteId=45		Off	421662500		Srch
+T-Freq	TFreqId=0	SiteId=45		Off	416912500		Srch
+Site	SiteId=46	TrunkId=1	MENINGIE	Off	-35.688571	139.347172	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=46		Off	418812500		Srch
+T-Freq	TFreqId=0	SiteId=46		Off	420562500		Srch
+T-Freq	TFreqId=0	SiteId=46		Off	420312500		Srch
+T-Freq	TFreqId=0	SiteId=46		Off	412812500		Srch
+T-Freq	TFreqId=0	SiteId=46		Off	415312500		Srch
+T-Freq	TFreqId=0	SiteId=46		Off	418562500		Srch
+T-Freq	TFreqId=0	SiteId=46		Off	420062500		Srch
+Site	SiteId=47	TrunkId=1	ADELAIDE	Off	-34.920137	138.586699	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=47		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=47		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=47		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=47		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=47		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=47		Off	412675000		Srch
+Site	SiteId=48	TrunkId=1	COFFIN BAY	Off	-34.585892	135.447259	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=48		Off	416562500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	413062500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	421312500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	417062500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	420562500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	417562500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	422062500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	421812500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	412562500		Srch
+T-Freq	TFreqId=0	SiteId=48		Off	421562500		Srch
+Site	SiteId=49	TrunkId=1	CALCA	Off	-33.037572	134.466982	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=49		Off	417125000		Srch
+T-Freq	TFreqId=0	SiteId=49		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=49		Off	416625000		Srch
+T-Freq	TFreqId=0	SiteId=49		Off	415125000		Srch
+T-Freq	TFreqId=0	SiteId=49		Off	414625000		Srch
+T-Freq	TFreqId=0	SiteId=49		Off	413125000		Srch
+T-Freq	TFreqId=0	SiteId=49		Off	412625000		Srch
+Site	SiteId=50	TrunkId=1	COONAWARRA	Off	-37.292053	140.835209	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=50		Off	416850000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	415100000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	418850000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	418600000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	413350000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	416350000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	415350000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	412850000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	417350000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	413100000		Srch
+T-Freq	TFreqId=0	SiteId=50		Off	414850000		Srch
+Site	SiteId=51	TrunkId=1	JIP JIP	Off	-36.481183	140.190027	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=51		Off	416500000		Srch
+T-Freq	TFreqId=0	SiteId=51		Off	417000000		Srch
+T-Freq	TFreqId=0	SiteId=51		Off	412500000		Srch
+T-Freq	TFreqId=0	SiteId=51		Off	415000000		Srch
+T-Freq	TFreqId=0	SiteId=51		Off	415250000		Srch
+T-Freq	TFreqId=0	SiteId=51		Off	414750000		Srch
+T-Freq	TFreqId=0	SiteId=51		Off	417500000		Srch
+T-Freq	TFreqId=0	SiteId=51		Off	413000000		Srch
+Site	SiteId=52	TrunkId=1	ATACAMA	Off	-37.941310	140.493805	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=52		Off	421850000		Srch
+T-Freq	TFreqId=0	SiteId=52		Off	420100000		Srch
+T-Freq	TFreqId=0	SiteId=52		Off	420350000		Srch
+T-Freq	TFreqId=0	SiteId=52		Off	421600000		Srch
+T-Freq	TFreqId=0	SiteId=52		Off	420600000		Srch
+T-Freq	TFreqId=0	SiteId=52		Off	421350000		Srch
+Site	SiteId=53	TrunkId=1	BROKEN HILL	Off	-32.047775	141.170550	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=53		Off	414625000		Srch
+T-Freq	TFreqId=0	SiteId=53		Off	416625000		Srch
+T-Freq	TFreqId=0	SiteId=53		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=53		Off	413125000		Srch
+T-Freq	TFreqId=0	SiteId=53		Off	417125000		Srch
+T-Freq	TFreqId=0	SiteId=53		Off	412625000		Srch
+Site	SiteId=54	TrunkId=1	DONOVANS	Off	-38.009523	140.934303	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=54		Off	420500000		Srch
+T-Freq	TFreqId=0	SiteId=54		Off	420750000		Srch
+T-Freq	TFreqId=0	SiteId=54		Off	421500000		Srch
+T-Freq	TFreqId=0	SiteId=54		Off	421250000		Srch
+T-Freq	TFreqId=0	SiteId=54		Off	421750000		Srch
+T-Freq	TFreqId=0	SiteId=54		Off	420250000		Srch
+Site	SiteId=55	TrunkId=1	KEITH	Off	-36.007852	140.336529	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=55		Off	421700000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	417075000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	420700000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	421950000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	417200000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	421450000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	422200000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	413200000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	416200000		Srch
+T-Freq	TFreqId=0	SiteId=55		Off	416700000		Srch
+Site	SiteId=56	TrunkId=1	MINDARIE	Off	-34.804727	140.193597	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=56		Off	421462500		Srch
+T-Freq	TFreqId=0	SiteId=56		Off	412962500		Srch
+T-Freq	TFreqId=0	SiteId=56		Off	417462500		Srch
+T-Freq	TFreqId=0	SiteId=56		Off	421212500		Srch
+T-Freq	TFreqId=0	SiteId=56		Off	416962500		Srch
+T-Freq	TFreqId=0	SiteId=56		Off	416462500		Srch
+T-Freq	TFreqId=0	SiteId=56		Off	413462500		Srch
+T-Freq	TFreqId=0	SiteId=56		Off	420712500		Srch
+T-Freq	TFreqId=0	SiteId=56		Off	421962500		Srch
+Site	SiteId=57	TrunkId=1	PARINGA	Off	-34.166996	140.782064	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=57		Off	414625000		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	416625000		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	412625000		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	414875000		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	413125000		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	420375000		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	415125000		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	416937500		Srch
+T-Freq	TFreqId=0	SiteId=57		Off	422125000		Srch
+Site	SiteId=58	TrunkId=1	THE GAP	Off	-36.683676	140.642162	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=58		Off	420725000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	416975000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	421725000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	421475000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	417475000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	412975000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	412475000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	421225000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	416475000		Srch
+T-Freq	TFreqId=0	SiteId=58		Off	421975000		Srch
+Site	SiteId=59	TrunkId=1	HACKHAM WEST	Off	-35.138024	138.511147	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=59		Off	416475000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	415350000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	420350000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	413350000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	416900000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	417850000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	417350000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	413100000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	418725000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	412850000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	418850000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	412600000		Srch
+T-Freq	TFreqId=0	SiteId=59		Off	418587500		Srch
+Site	SiteId=60	TrunkId=1	MINNIPA HILL	Off	-32.807371	135.174152	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=61	TrunkId=1	WUDINNA	Off	-32.976043	135.480951	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=61		Off	415100000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	414850000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	418600000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	422100000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	416850000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	413350000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	416350000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	417350000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	418850000		Srch
+T-Freq	TFreqId=0	SiteId=61		Off	412850000		Srch
+Site	SiteId=62	TrunkId=1	WIRRULLA	Off	-32.407779	134.612751	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=62		Off	412750000		Srch
+T-Freq	TFreqId=0	SiteId=62		Off	413250000		Srch
+T-Freq	TFreqId=0	SiteId=62		Off	415250000		Srch
+T-Freq	TFreqId=0	SiteId=62		Off	416250000		Srch
+T-Freq	TFreqId=0	SiteId=62		Off	417250000		Srch
+T-Freq	TFreqId=0	SiteId=62		Off	416750000		Srch
+T-Freq	TFreqId=0	SiteId=62		Off	414750000		Srch
+Site	SiteId=63	TrunkId=1	COONARIE HILL	Off	-35.112891	137.162763	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=63		Off	417050000		Srch
+T-Freq	TFreqId=0	SiteId=63		Off	413300000		Srch
+T-Freq	TFreqId=0	SiteId=63		Off	417550000		Srch
+T-Freq	TFreqId=0	SiteId=63		Off	418800000		Srch
+T-Freq	TFreqId=0	SiteId=63		Off	414800000		Srch
+T-Freq	TFreqId=0	SiteId=63		Off	416550000		Srch
+T-Freq	TFreqId=0	SiteId=63		Off	413050000		Srch
+T-Freq	TFreqId=0	SiteId=63		Off	418550000		Srch
+T-Freq	TFreqId=0	SiteId=63		Off	412550000		Srch
+Site	SiteId=64	TrunkId=1	MOUNT GAMBIER	Off	-37.835247	140.761343	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=64		Off	417387500		Srch
+T-Freq	TFreqId=0	SiteId=64		Off	413387500		Srch
+T-Freq	TFreqId=0	SiteId=64		Off	418637500		Srch
+T-Freq	TFreqId=0	SiteId=64		Off	422137500		Srch
+T-Freq	TFreqId=0	SiteId=64		Off	412637500		Srch
+T-Freq	TFreqId=0	SiteId=64		Off	415387500		Srch
+T-Freq	TFreqId=0	SiteId=64		Off	416387500		Srch
+T-Freq	TFreqId=0	SiteId=64		Off	412887500		Srch
+T-Freq	TFreqId=0	SiteId=64		Off	416887500		Srch
+Site	SiteId=65	TrunkId=1	NULLARBOR	Off	-31.581463	130.757752	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=65		Off	417475000		Srch
+T-Freq	TFreqId=0	SiteId=65		Off	412975000		Srch
+T-Freq	TFreqId=0	SiteId=65		Off	412475000		Srch
+T-Freq	TFreqId=0	SiteId=65		Off	416475000		Srch
+T-Freq	TFreqId=0	SiteId=65		Off	416975000		Srch
+Site	SiteId=66	TrunkId=1	MT LOFTY	Off	-34.974597	138.709155	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=66		Off	419512500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	415762500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	417012500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	418550000		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	415387500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	415012500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	416012500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	418512500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	418012500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	413012500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	419137500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	469250000		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	419262500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	418887500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	417262500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	468000000		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	468500000		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	415262500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	469000000		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	469500000		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	419762500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	414762500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	412762500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	416512500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	413262500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	417762500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	412512500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	416262500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	416762500		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	468750000		Srch
+T-Freq	TFreqId=0	SiteId=66		Off	417512500		Srch
+Site	SiteId=67	TrunkId=1	COOBER PEDY	Off	-29.016218	134.754235	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=67		Off	415225000		Srch
+T-Freq	TFreqId=0	SiteId=67		Off	412475000		Srch
+T-Freq	TFreqId=0	SiteId=67		Off	417475000		Srch
+T-Freq	TFreqId=0	SiteId=67		Off	416475000		Srch
+T-Freq	TFreqId=0	SiteId=67		Off	416975000		Srch
+T-Freq	TFreqId=0	SiteId=67		Off	412975000		Srch
+Site	SiteId=68	TrunkId=1	SA-WIDE	Off	-32.1365	134.8854	500	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=68		Off	422837500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422612500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422825000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422862500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	468337500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	468687500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426037500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	468875000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467575000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	414475000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	162537500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	415487500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426300000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467837500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467987500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423737500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423612500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422237500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	415475000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422887500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426287500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	468187500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	468450000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	412737500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	412900000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	414600000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467725000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	412612500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	413237500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426262500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426400000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422800000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467600000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422637500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426050000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	469462500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467587500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	162200000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426062500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426212500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422900000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	415450000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423237500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422487500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423112500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426325000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467750000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	469087500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	412612500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422650000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422812500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426362500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	420000000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422750000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423362500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	413025000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	412637500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422712500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426012500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422687500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422937500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426200000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422950000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423487500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422112500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467625000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422662500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426025000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	415550000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426112500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426087500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426337500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426225000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426350000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423000000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422362500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426375000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	467675000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	162225000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	415437500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	419987500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	422962500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426237500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	415525000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	426150000		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423987500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	423862500		Srch
+T-Freq	TFreqId=0	SiteId=68		Off	469300000		Srch
+Site	SiteId=69	TrunkId=1	MT LAURA	Off	-32.997342	137.524211	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=69		Off	412650000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	416650000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	417150000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	417400000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	416900000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	413150000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	420650000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	421400000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	416150000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	416400000		Srch
+T-Freq	TFreqId=0	SiteId=69		Off	420400000		Srch
+Site	SiteId=70	TrunkId=1	GOULD CREEK	Off	-34.735937	138.713340	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=70		Off	417962500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	413212500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	416962500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	417712500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	414712500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	415962500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	417212500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	412712500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	418712500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	416212500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	417462500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	415212500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	416712500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	416462500		Srch
+T-Freq	TFreqId=0	SiteId=70		Off	415712500		Srch
+Site	SiteId=71	TrunkId=1	PORT AUGUSTA	Off	-32.494279	137.765344	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=71		Off	417337500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	416587500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	417087500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	415087500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	413087500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	413337500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	415337500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	414837500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	412837500		Srch
+T-Freq	TFreqId=0	SiteId=71		Off	416837500		Srch
+Site	SiteId=72	TrunkId=1	NORTHFIELD	Off	-34.844612	138.628435	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=72		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=72		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=72		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=72		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=72		Off	414625000		Srch
+T-Freq	TFreqId=0	SiteId=72		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=72		Off	412675000		Srch
+Site	SiteId=73	TrunkId=1	BANKSIA PARK	Off	-34.813759	138.748772	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=73		Off	415837500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	416337500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	416587500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	414587500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	417587500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	416087500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	413337500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	415587500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	417337500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	412587500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	414837500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	418762500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	416837500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	415337500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	412837500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	417087500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	417837500		Srch
+T-Freq	TFreqId=0	SiteId=73		Off	413087500		Srch
+Site	SiteId=74	TrunkId=1	BELAIR	Off	-34.996973	138.626675	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=74		Off	415200000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	421300000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	412962500		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	413200000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	415700000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	417200000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	415425000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	416700000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	418612500		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	417700000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	420362500		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	421612500		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	412700000		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	418862500		Srch
+T-Freq	TFreqId=0	SiteId=74		Off	416200000		Srch
+Site	SiteId=75	TrunkId=1	MT CONE	Off	-33.590384	138.947803	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=75		Off	416725000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	414975000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	421975000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	418725000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	417225000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	415225000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	414725000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	412725000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	413225000		Srch
+T-Freq	TFreqId=0	SiteId=75		Off	416225000		Srch
+Site	SiteId=76	TrunkId=1	PORT VINCENT	Off	-34.769570	137.853098	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=77	TrunkId=1	TAILEM BEND	Off	-35.256460	139.469343	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=77		Off	420487500		Srch
+T-Freq	TFreqId=0	SiteId=77		Off	421487500		Srch
+T-Freq	TFreqId=0	SiteId=77		Off	421987500		Srch
+T-Freq	TFreqId=0	SiteId=77		Off	421237500		Srch
+T-Freq	TFreqId=0	SiteId=77		Off	420237500		Srch
+T-Freq	TFreqId=0	SiteId=77		Off	418737500		Srch
+T-Freq	TFreqId=0	SiteId=77		Off	420737500		Srch
+T-Freq	TFreqId=0	SiteId=77		Off	415237500		Srch
+T-Freq	TFreqId=0	SiteId=77		Off	421737500		Srch
+Site	SiteId=78	TrunkId=1	NORTH BLOCK	Off	-34.356557	135.549465	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=78		Off	414937500		Srch
+T-Freq	TFreqId=0	SiteId=78		Off	415187500		Srch
+T-Freq	TFreqId=0	SiteId=78		Off	417437500		Srch
+T-Freq	TFreqId=0	SiteId=78		Off	415437500		Srch
+T-Freq	TFreqId=0	SiteId=78		Off	413437500		Srch
+T-Freq	TFreqId=0	SiteId=78		Off	414687500		Srch
+T-Freq	TFreqId=0	SiteId=78		Off	416437500		Srch
+T-Freq	TFreqId=0	SiteId=78		Off	416937500		Srch
+T-Freq	TFreqId=0	SiteId=78		Off	412937500		Srch
+Site	SiteId=79	TrunkId=1	CARALUE BLUFF	Off	-33.283268	136.182499	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=79		Off	421412500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	413412500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	416412500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	417412500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	412912500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	422162500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	421912500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	421662500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	416912500		Srch
+T-Freq	TFreqId=0	SiteId=79		Off	420662500		Srch
+Site	SiteId=80	TrunkId=1	MT BEEVOR	Off	-34.929104	139.034726	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=80		Off	420175000		Srch
+T-Freq	TFreqId=0	SiteId=80		Off	422175000		Srch
+T-Freq	TFreqId=0	SiteId=80		Off	420675000		Srch
+T-Freq	TFreqId=0	SiteId=80		Off	421925000		Srch
+T-Freq	TFreqId=0	SiteId=80		Off	420425000		Srch
+T-Freq	TFreqId=0	SiteId=80		Off	421425000		Srch
+T-Freq	TFreqId=0	SiteId=80		Off	414925000		Srch
+T-Freq	TFreqId=0	SiteId=80		Off	421675000		Srch
+Site	SiteId=81	TrunkId=1	COONALPYN	Off	-35.774372	140.013121	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=81		Off	420037500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	420187500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	414487500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	412537500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	414737500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	421712500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	415412500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	420437500		Srch
+T-Freq	TFreqId=0	SiteId=81		Off	420787500		Srch
+Site	SiteId=82	TrunkId=1	PORT WAKEFIELD	Off	-34.255140	138.179476	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=82		Off	415300000		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	420762500		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	412525000		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	420200000		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	422050000		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	420375000		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	414575000		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	420037500		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	413387500		Srch
+T-Freq	TFreqId=0	SiteId=82		Off	418650000		Srch
+Site	SiteId=83	TrunkId=1	GRACE PLAINS	Off	-34.407419	138.447649	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=83		Off	420300000		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	420462500		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	415400000		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	418825000		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	420125000		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	415050000		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	418525000		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	414612500		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	421712500		Srch
+T-Freq	TFreqId=0	SiteId=83		Off	422150000		Srch
+Site	SiteId=84	TrunkId=1	WOOLPUNDA	Off	-34.233277	140.171745	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=84		Off	415387500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	412537500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	420787500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	414487500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	421237500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	420487500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	413137500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	420037500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	420337500		Srch
+T-Freq	TFreqId=0	SiteId=84		Off	421837500		Srch
+Site	SiteId=85	TrunkId=1	PERPONDA	Off	-34.977332	139.837745	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=85		Off	417362500		Srch
+T-Freq	TFreqId=0	SiteId=85		Off	416362500		Srch
+T-Freq	TFreqId=0	SiteId=85		Off	418612500		Srch
+T-Freq	TFreqId=0	SiteId=85		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=85		Off	413362500		Srch
+T-Freq	TFreqId=0	SiteId=85		Off	415112500		Srch
+T-Freq	TFreqId=0	SiteId=85		Off	416862500		Srch
+Site	SiteId=86	TrunkId=1	LOXTON	Off	-34.464334	140.533467	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=86		Off	417500000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	412500000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	416500000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	414750000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	415000000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	417000000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	414500000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	418500000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	418750000		Srch
+T-Freq	TFreqId=0	SiteId=86		Off	413000000		Srch
+Site	SiteId=87	TrunkId=1	ELIZABETH VALE	Off	-34.747853	138.665730	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=87		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=87		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=87		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=87		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=87		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=87		Off	412862500		Srch
+Site	SiteId=88	TrunkId=1	CLEVE	Off	-33.678060	136.481940	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=88		Off	418837500		Srch
+T-Freq	TFreqId=0	SiteId=88		Off	412837500		Srch
+T-Freq	TFreqId=0	SiteId=88		Off	418587500		Srch
+T-Freq	TFreqId=0	SiteId=88		Off	416337500		Srch
+T-Freq	TFreqId=0	SiteId=88		Off	413087500		Srch
+T-Freq	TFreqId=0	SiteId=88		Off	416837500		Srch
+T-Freq	TFreqId=0	SiteId=88		Off	413337500		Srch
+T-Freq	TFreqId=0	SiteId=88		Off	417337500		Srch
+T-Freq	TFreqId=0	SiteId=88		Off	415337500		Srch
+Site	SiteId=89	TrunkId=1	ADELAIDE AIRPORT	Off	-34.938529	138.537434	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=89		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=89		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=89		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=89		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=89		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=89		Off	412862500		Srch
+Site	SiteId=90	TrunkId=1	MONASH	Off	-34.245548	140.533027	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=90		Off	415250000		Srch
+T-Freq	TFreqId=0	SiteId=90		Off	415375000		Srch
+T-Freq	TFreqId=0	SiteId=90		Off	416250000		Srch
+T-Freq	TFreqId=0	SiteId=90		Off	418625000		Srch
+T-Freq	TFreqId=0	SiteId=90		Off	416750000		Srch
+T-Freq	TFreqId=0	SiteId=90		Off	413250000		Srch
+T-Freq	TFreqId=0	SiteId=90		Off	416375000		Srch
+T-Freq	TFreqId=0	SiteId=90		Off	412750000		Srch
+T-Freq	TFreqId=0	SiteId=90		Off	417250000		Srch
+Site	SiteId=91	TrunkId=1	PENONG	Off	-31.925513	132.918751	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=91		Off	412962500		Srch
+T-Freq	TFreqId=0	SiteId=91		Off	416462500		Srch
+T-Freq	TFreqId=0	SiteId=91		Off	418712500		Srch
+T-Freq	TFreqId=0	SiteId=91		Off	416962500		Srch
+T-Freq	TFreqId=0	SiteId=91		Off	414712500		Srch
+T-Freq	TFreqId=0	SiteId=91		Off	417462500		Srch
+Site	SiteId=92	TrunkId=1	FOWLERS BAY	Off	-31.907030	132.499541	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=92		Off	416987500		Srch
+T-Freq	TFreqId=0	SiteId=92		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=92		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=92		Off	416487500		Srch
+T-Freq	TFreqId=0	SiteId=92		Off	417487500		Srch
+Site	SiteId=93	TrunkId=1	MOOCKRA	Off	-32.398266	138.418936	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=93		Off	416487500		Srch
+T-Freq	TFreqId=0	SiteId=93		Off	417487500		Srch
+T-Freq	TFreqId=0	SiteId=93		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=93		Off	414987500		Srch
+T-Freq	TFreqId=0	SiteId=93		Off	415237500		Srch
+T-Freq	TFreqId=0	SiteId=93		Off	416987500		Srch
+T-Freq	TFreqId=0	SiteId=93		Off	414737500		Srch
+Site	SiteId=94	TrunkId=1	MACAW HILL	Off	-34.197217	138.660254	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=94		Off	412975000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	412475000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	420725000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	421475000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	416475000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	421725000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	416975000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	420225000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	420475000		Srch
+T-Freq	TFreqId=0	SiteId=94		Off	417475000		Srch
+Site	SiteId=95	TrunkId=1	MCVITTIES HILL	Off	-34.825912	139.001124	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=95		Off	415750000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	413250000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	415000000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	416750000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	418750000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	416250000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	414750000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	417250000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	415250000		Srch
+T-Freq	TFreqId=0	SiteId=95		Off	422000000		Srch
+Site	SiteId=96	TrunkId=1	MT EDWARDS	Off	-32.464586	139.814967	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=96		Off	417512500		Srch
+T-Freq	TFreqId=0	SiteId=96		Off	412512500		Srch
+T-Freq	TFreqId=0	SiteId=96		Off	417012500		Srch
+T-Freq	TFreqId=0	SiteId=96		Off	413012500		Srch
+T-Freq	TFreqId=0	SiteId=96		Off	416512500		Srch
+T-Freq	TFreqId=0	SiteId=96		Off	415262500		Srch
+Site	SiteId=97	TrunkId=1	DUTTON	Off	-34.315311	139.127007	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=97		Off	415987500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	414737500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	416987500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	414987500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	417487500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	417987500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	415237500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	416487500		Srch
+T-Freq	TFreqId=0	SiteId=97		Off	412987500		Srch
+Site	SiteId=98	TrunkId=1	MAITLAND	Off	-34.356877	137.694726	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=98		Off	412775000		Srch
+T-Freq	TFreqId=0	SiteId=98		Off	414650000		Srch
+T-Freq	TFreqId=0	SiteId=98		Off	414900000		Srch
+T-Freq	TFreqId=0	SiteId=98		Off	413400000		Srch
+T-Freq	TFreqId=0	SiteId=98		Off	420650000		Srch
+T-Freq	TFreqId=0	SiteId=98		Off	415150000		Srch
+T-Freq	TFreqId=0	SiteId=98		Off	421400000		Srch
+T-Freq	TFreqId=0	SiteId=98		Off	412650000		Srch
+T-Freq	TFreqId=0	SiteId=98		Off	413150000		Srch
+Site	SiteId=99	TrunkId=1	THE BLUFF	Off	-33.103845	138.164140	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=99		Off	417525000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	422025000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	416275000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	413275000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	416525000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	417025000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	417275000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	415025000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	412775000		Srch
+T-Freq	TFreqId=0	SiteId=99		Off	416775000		Srch
+Site	SiteId=100	TrunkId=1	BROWNES HILL	Off	-33.164008	138.709480	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=100		Off	412937500		Srch
+T-Freq	TFreqId=0	SiteId=100		Off	414687500		Srch
+T-Freq	TFreqId=0	SiteId=100		Off	416187500		Srch
+T-Freq	TFreqId=0	SiteId=100		Off	416437500		Srch
+T-Freq	TFreqId=0	SiteId=100		Off	412687500		Srch
+T-Freq	TFreqId=0	SiteId=100		Off	413187500		Srch
+T-Freq	TFreqId=0	SiteId=100		Off	416687500		Srch
+T-Freq	TFreqId=0	SiteId=100		Off	417187500		Srch
+Site	SiteId=101	TrunkId=1	MUCRA HILL	Off	-32.839943	138.624921	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=101		Off	417312500		Srch
+T-Freq	TFreqId=0	SiteId=101		Off	415062500		Srch
+T-Freq	TFreqId=0	SiteId=101		Off	413312500		Srch
+T-Freq	TFreqId=0	SiteId=101		Off	414812500		Srch
+T-Freq	TFreqId=0	SiteId=101		Off	415312500		Srch
+T-Freq	TFreqId=0	SiteId=101		Off	416812500		Srch
+T-Freq	TFreqId=0	SiteId=101		Off	416312500		Srch
+Site	SiteId=102	TrunkId=1	KIMBA	Off	-33.122512	136.396322	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=102		Off	413162500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	414662500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	416162500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	412662500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	414912500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	418662500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	415162500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	416662500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	415412500		Srch
+T-Freq	TFreqId=0	SiteId=102		Off	417162500		Srch
+Site	SiteId=103	TrunkId=1	BLACK HILL	Off	-34.669208	139.454395	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=103		Off	417312500		Srch
+T-Freq	TFreqId=0	SiteId=103		Off	416312500		Srch
+T-Freq	TFreqId=0	SiteId=103		Off	414562500		Srch
+T-Freq	TFreqId=0	SiteId=103		Off	415312500		Srch
+T-Freq	TFreqId=0	SiteId=103		Off	414812500		Srch
+T-Freq	TFreqId=0	SiteId=103		Off	415812500		Srch
+T-Freq	TFreqId=0	SiteId=103		Off	415062500		Srch
+T-Freq	TFreqId=0	SiteId=103		Off	413312500		Srch
+T-Freq	TFreqId=0	SiteId=103		Off	416812500		Srch
+Site	SiteId=104	TrunkId=1	MURTHO	Off	-33.977694	140.921466	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=104		Off	412875000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	413375000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	416875000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	421375000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	476500000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	420625000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	421625000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	421875000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	420125000		Srch
+T-Freq	TFreqId=0	SiteId=104		Off	417375000		Srch
+Site	SiteId=105	TrunkId=1	RAMCO	Off	-34.188857	139.932076	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=105		Off	413150000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	412650000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	420150000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	416150000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	416650000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	417150000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	420650000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	418650000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	421650000		Srch
+T-Freq	TFreqId=0	SiteId=105		Off	413400000		Srch
+Site	SiteId=106	TrunkId=1	QUIN GAP	Off	-33.990368	138.916622	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=106		Off	418687500		Srch
+T-Freq	TFreqId=0	SiteId=106		Off	420437500		Srch
+T-Freq	TFreqId=0	SiteId=106		Off	415187500		Srch
+T-Freq	TFreqId=0	SiteId=106		Off	415437500		Srch
+T-Freq	TFreqId=0	SiteId=106		Off	420187500		Srch
+T-Freq	TFreqId=0	SiteId=106		Off	412562500		Srch
+T-Freq	TFreqId=0	SiteId=106		Off	420687500		Srch
+T-Freq	TFreqId=0	SiteId=106		Off	412812500		Srch
+Site	SiteId=107	TrunkId=1	PORT ADELAIDE	Off	-34.827978	138.511115	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=107		Off	414687500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	415687500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	417187500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	415937500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	416937500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	416187500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	416775000		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	417437500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	413187500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	413437500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	417687500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	415187500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	416687500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	416275000		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	417275000		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	412687500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	416437500		Srch
+T-Freq	TFreqId=0	SiteId=107		Off	414937500		Srch
+Site	SiteId=108	TrunkId=1	TROTT PARK	Off	-35.055405	138.536252	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=108		Off	414700000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	415950000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	418700000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	418575000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	413075000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	415325000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	416450000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	413325000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	412825000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	414950000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	417950000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	417825000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	416950000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	412950000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	412575000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	413450000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	417450000		Srch
+T-Freq	TFreqId=0	SiteId=108		Off	415100000		Srch
+Site	SiteId=109	TrunkId=1	PINNAROO	Off	-35.254920	140.899522	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=109		Off	412587500		Srch
+T-Freq	TFreqId=0	SiteId=109		Off	416087500		Srch
+T-Freq	TFreqId=0	SiteId=109		Off	417087500		Srch
+T-Freq	TFreqId=0	SiteId=109		Off	414837500		Srch
+T-Freq	TFreqId=0	SiteId=109		Off	413087500		Srch
+T-Freq	TFreqId=0	SiteId=109		Off	416587500		Srch
+Site	SiteId=110	TrunkId=1	MT ARDEN	Off	-32.151913	137.978806	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=110		Off	412962500		Srch
+T-Freq	TFreqId=0	SiteId=110		Off	418825000		Srch
+T-Freq	TFreqId=0	SiteId=110		Off	412712500		Srch
+T-Freq	TFreqId=0	SiteId=110		Off	412587500		Srch
+T-Freq	TFreqId=0	SiteId=110		Off	422087500		Srch
+T-Freq	TFreqId=0	SiteId=110		Off	414712500		Srch
+T-Freq	TFreqId=0	SiteId=110		Off	413212500		Srch
+T-Freq	TFreqId=0	SiteId=110		Off	418675000		Srch
+T-Freq	TFreqId=0	SiteId=110		Off	415212500		Srch
+Site	SiteId=111	TrunkId=1	TRIAL HILL	Off	-34.654719	138.953374	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=111		Off	413287500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	412775000		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	417787500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	415037500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	416787500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	416287500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	418537500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	417287500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	415287500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	418787500		Srch
+T-Freq	TFreqId=0	SiteId=111		Off	415787500		Srch
+Site	SiteId=112	TrunkId=1	IRON KNOB	Off	-32.737613	137.140423	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=112		Off	413200000		Srch
+T-Freq	TFreqId=0	SiteId=112		Off	421700000		Srch
+T-Freq	TFreqId=0	SiteId=112		Off	416700000		Srch
+T-Freq	TFreqId=0	SiteId=112		Off	422200000		Srch
+T-Freq	TFreqId=0	SiteId=112		Off	412700000		Srch
+T-Freq	TFreqId=0	SiteId=112		Off	416200000		Srch
+T-Freq	TFreqId=0	SiteId=112		Off	421450000		Srch
+T-Freq	TFreqId=0	SiteId=112		Off	421950000		Srch
+T-Freq	TFreqId=0	SiteId=112		Off	417200000		Srch
+Site	SiteId=113	TrunkId=1	CASTERTON	Off	-37.582038	141.300599	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=113		Off	414762500		Srch
+T-Freq	TFreqId=0	SiteId=113		Off	417512500		Srch
+T-Freq	TFreqId=0	SiteId=113		Off	413012500		Srch
+T-Freq	TFreqId=0	SiteId=113		Off	418512500		Srch
+T-Freq	TFreqId=0	SiteId=113		Off	415012500		Srch
+T-Freq	TFreqId=0	SiteId=113		Off	416512500		Srch
+T-Freq	TFreqId=0	SiteId=113		Off	417012500		Srch
+T-Freq	TFreqId=0	SiteId=113		Off	412512500		Srch
+T-Freq	TFreqId=0	SiteId=113		Off	415262500		Srch
+Site	SiteId=114	TrunkId=1	MINECROW	Off	-36.829049	140.220593	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=115	TrunkId=1	TARATAP	Off	-36.580535	139.951471	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=115		Off	414775000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	418775000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	416775000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	417275000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	416275000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	418525000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	415025000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	415275000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	413275000		Srch
+T-Freq	TFreqId=0	SiteId=115		Off	412775000		Srch
+Site	SiteId=116	TrunkId=1	BUMBUNGA HILL	Off	-33.903603	138.130403	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=116		Off	416750000		Srch
+T-Freq	TFreqId=0	SiteId=116		Off	417500000		Srch
+T-Freq	TFreqId=0	SiteId=116		Off	417000000		Srch
+T-Freq	TFreqId=0	SiteId=116		Off	418500000		Srch
+T-Freq	TFreqId=0	SiteId=116		Off	413000000		Srch
+T-Freq	TFreqId=0	SiteId=116		Off	416500000		Srch
+T-Freq	TFreqId=0	SiteId=116		Off	417250000		Srch
+T-Freq	TFreqId=0	SiteId=116		Off	416250000		Srch
+Site	SiteId=117	TrunkId=1	CLARE	Off	-33.849035	138.595627	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=117		Off	416550000		Srch
+T-Freq	TFreqId=0	SiteId=117		Off	412800000		Srch
+T-Freq	TFreqId=0	SiteId=117		Off	417550000		Srch
+T-Freq	TFreqId=0	SiteId=117		Off	416800000		Srch
+T-Freq	TFreqId=0	SiteId=117		Off	413300000		Srch
+T-Freq	TFreqId=0	SiteId=117		Off	416300000		Srch
+T-Freq	TFreqId=0	SiteId=117		Off	412550000		Srch
+T-Freq	TFreqId=0	SiteId=117		Off	417050000		Srch
+T-Freq	TFreqId=0	SiteId=117		Off	413050000		Srch
+Site	SiteId=118	TrunkId=1	MOOTATUNGA	Off	-34.945578	140.837647	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=118		Off	413050000		Srch
+T-Freq	TFreqId=0	SiteId=118		Off	412550000		Srch
+T-Freq	TFreqId=0	SiteId=118		Off	414800000		Srch
+T-Freq	TFreqId=0	SiteId=118		Off	416550000		Srch
+T-Freq	TFreqId=0	SiteId=118		Off	418550000		Srch
+T-Freq	TFreqId=0	SiteId=118		Off	415050000		Srch
+T-Freq	TFreqId=0	SiteId=118		Off	418800000		Srch
+T-Freq	TFreqId=0	SiteId=118		Off	417050000		Srch
+T-Freq	TFreqId=0	SiteId=118		Off	417550000		Srch
+Site	SiteId=119	TrunkId=1	NOTTS WELL	Off	-34.403430	139.795427	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=119		Off	412825000		Srch
+T-Freq	TFreqId=0	SiteId=119		Off	417325000		Srch
+T-Freq	TFreqId=0	SiteId=119		Off	416325000		Srch
+T-Freq	TFreqId=0	SiteId=119		Off	416825000		Srch
+T-Freq	TFreqId=0	SiteId=119		Off	414825000		Srch
+T-Freq	TFreqId=0	SiteId=119		Off	415325000		Srch
+T-Freq	TFreqId=0	SiteId=119		Off	413325000		Srch
+Site	SiteId=120	TrunkId=1	REFUGE ROCKS	Off	-33.177422	136.836226	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=120		Off	413450000		Srch
+T-Freq	TFreqId=0	SiteId=120		Off	414700000		Srch
+T-Freq	TFreqId=0	SiteId=120		Off	412950000		Srch
+T-Freq	TFreqId=0	SiteId=120		Off	416950000		Srch
+T-Freq	TFreqId=0	SiteId=120		Off	417450000		Srch
+T-Freq	TFreqId=0	SiteId=120		Off	416450000		Srch
+T-Freq	TFreqId=0	SiteId=120		Off	415200000		Srch
+Site	SiteId=121	TrunkId=1	Adelaide	Off	-34.920228	138.596142	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=121		Off	420737500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	421862500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	420487500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	420112500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	421237500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	421987500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	422125000		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	421737500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	420612500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	421362500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	421487500		Srch
+T-Freq	TFreqId=0	SiteId=121		Off	420237500		Srch
+Site	SiteId=122	TrunkId=1	MERGHINY	Off	-32.138803	133.789472	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=122		Off	416387500		Srch
+T-Freq	TFreqId=0	SiteId=122		Off	422137500		Srch
+T-Freq	TFreqId=0	SiteId=122		Off	417387500		Srch
+T-Freq	TFreqId=0	SiteId=122		Off	414637500		Srch
+T-Freq	TFreqId=0	SiteId=122		Off	416887500		Srch
+T-Freq	TFreqId=0	SiteId=122		Off	413387500		Srch
+Site	SiteId=123	TrunkId=1	BRAMFIELD HILL	Off	-33.584953	134.969276	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=123		Off	416650000		Srch
+T-Freq	TFreqId=0	SiteId=123		Off	416150000		Srch
+T-Freq	TFreqId=0	SiteId=123		Off	412650000		Srch
+T-Freq	TFreqId=0	SiteId=123		Off	414900000		Srch
+T-Freq	TFreqId=0	SiteId=123		Off	417150000		Srch
+T-Freq	TFreqId=0	SiteId=123		Off	414650000		Srch
+T-Freq	TFreqId=0	SiteId=123		Off	413150000		Srch
+Site	SiteId=124	TrunkId=1	MANNUM	Off	-34.911561	139.365280	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=124		Off	412937500		Srch
+T-Freq	TFreqId=0	SiteId=124		Off	413437500		Srch
+T-Freq	TFreqId=0	SiteId=124		Off	416937500		Srch
+T-Freq	TFreqId=0	SiteId=124		Off	415437500		Srch
+T-Freq	TFreqId=0	SiteId=124		Off	418687500		Srch
+T-Freq	TFreqId=0	SiteId=124		Off	415937500		Srch
+T-Freq	TFreqId=0	SiteId=124		Off	416437500		Srch
+T-Freq	TFreqId=0	SiteId=124		Off	417437500		Srch
+Site	SiteId=125	TrunkId=1	MURRAY BRIDGE	Off	-35.133841	139.218647	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=125		Off	414937500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	414687500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	416687500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	416187500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	413187500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	417687500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	415687500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	412687500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	415187500		Srch
+T-Freq	TFreqId=0	SiteId=125		Off	417187500		Srch
+Site	SiteId=126	TrunkId=1	WOODVILLE	Off	-34.883872	138.5334	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=126		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=126		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=126		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=126		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=126		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=126		Off	412487500		Srch
+Site	SiteId=127	TrunkId=1	KADINA	Off	-33.964270	137.717426	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=127		Off	415362500		Srch
+T-Freq	TFreqId=0	SiteId=127		Off	413112500		Srch
+T-Freq	TFreqId=0	SiteId=127		Off	417362500		Srch
+T-Freq	TFreqId=0	SiteId=127		Off	413362500		Srch
+T-Freq	TFreqId=0	SiteId=127		Off	416362500		Srch
+T-Freq	TFreqId=0	SiteId=127		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=127		Off	416862500		Srch
+T-Freq	TFreqId=0	SiteId=127		Off	415112500		Srch
+T-Freq	TFreqId=0	SiteId=127		Off	414862500		Srch
+Site	SiteId=128	TrunkId=1	MOUNT COMPASS	Off	-35.391570	138.619351	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=128		Off	414625000		Srch
+T-Freq	TFreqId=0	SiteId=128		Off	417375000		Srch
+T-Freq	TFreqId=0	SiteId=128		Off	416875000		Srch
+T-Freq	TFreqId=0	SiteId=128		Off	413375000		Srch
+T-Freq	TFreqId=0	SiteId=128		Off	414875000		Srch
+T-Freq	TFreqId=0	SiteId=128		Off	416375000		Srch
+T-Freq	TFreqId=0	SiteId=128		Off	417875000		Srch
+T-Freq	TFreqId=0	SiteId=128		Off	415875000		Srch
+T-Freq	TFreqId=0	SiteId=128		Off	412875000		Srch
+Site	SiteId=129	TrunkId=1	MOUNT CHARLES	Off	-36.070928	140.062894	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=130	TrunkId=1	GREENHILL	Off	-34.949232	138.716978	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=130		Off	413237500		Srch
+T-Freq	TFreqId=0	SiteId=130		Off	412900000		Srch
+T-Freq	TFreqId=0	SiteId=130		Off	412612500		Srch
+Site	SiteId=131	TrunkId=1	OAKLANDS PARK	Off	-35.016722	138.544658	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=131		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=131		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=131		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=131		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=131		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=131		Off	412987500		Srch
+Site	SiteId=132	TrunkId=1	MURRAY BRIDGE	Off	-35.119585	139.271957	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=132		Off	421325000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	418825000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	420575000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	421575000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	414800000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	421825000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	412625000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	420325000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	415075000		Srch
+T-Freq	TFreqId=0	SiteId=132		Off	420075000		Srch
+Site	SiteId=133	TrunkId=1	STREAKY BAY	Off	-32.765183	134.159371	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=133		Off	414875000		Srch
+T-Freq	TFreqId=0	SiteId=133		Off	416875000		Srch
+T-Freq	TFreqId=0	SiteId=133		Off	417375000		Srch
+T-Freq	TFreqId=0	SiteId=133		Off	413375000		Srch
+T-Freq	TFreqId=0	SiteId=133		Off	416375000		Srch
+T-Freq	TFreqId=0	SiteId=133		Off	412875000		Srch
+Site	SiteId=134	TrunkId=1	RETTIES BLUFF	Off	-35.637169	137.522773	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=134		Off	412787500		Srch
+T-Freq	TFreqId=0	SiteId=134		Off	416287500		Srch
+T-Freq	TFreqId=0	SiteId=134		Off	414787500		Srch
+T-Freq	TFreqId=0	SiteId=134		Off	422037500		Srch
+T-Freq	TFreqId=0	SiteId=134		Off	413287500		Srch
+T-Freq	TFreqId=0	SiteId=134		Off	416787500		Srch
+T-Freq	TFreqId=0	SiteId=134		Off	417287500		Srch
+T-Freq	TFreqId=0	SiteId=134		Off	415037500		Srch
+T-Freq	TFreqId=0	SiteId=134		Off	415287500		Srch
+Site	SiteId=135	TrunkId=1	PARNDANA	Off	-35.843902	137.152783	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=135		Off	417487500		Srch
+T-Freq	TFreqId=0	SiteId=135		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=135		Off	416987500		Srch
+T-Freq	TFreqId=0	SiteId=135		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=135		Off	415237500		Srch
+T-Freq	TFreqId=0	SiteId=135		Off	418737500		Srch
+T-Freq	TFreqId=0	SiteId=135		Off	416487500		Srch
+T-Freq	TFreqId=0	SiteId=135		Off	414987500		Srch
+T-Freq	TFreqId=0	SiteId=135		Off	414737500		Srch
+Site	SiteId=136	TrunkId=1	MT BURR	Off	-37.601764	140.482496	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=136		Off	416262500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	417262500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	421262500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	416762500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	421762500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	420512500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	412762500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	420762500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	413262500		Srch
+T-Freq	TFreqId=0	SiteId=136		Off	421512500		Srch
+Site	SiteId=137	TrunkId=1	APSLEY	Off	-37.002806	141.161222	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=137		Off	416787500		Srch
+T-Freq	TFreqId=0	SiteId=137		Off	415287500		Srch
+T-Freq	TFreqId=0	SiteId=137		Off	416287500		Srch
+T-Freq	TFreqId=0	SiteId=137		Off	417287500		Srch
+T-Freq	TFreqId=0	SiteId=137		Off	413287500		Srch
+Site	SiteId=138	TrunkId=1	ELGIN	Off	-37.347881	140.109881	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=138		Off	417437500		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	414625000		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	415125000		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	413125000		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	414875000		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	416625000		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	415375000		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	418625000		Srch
+T-Freq	TFreqId=0	SiteId=138		Off	417125000		Srch
+Site	SiteId=139	TrunkId=1	ADELAIDE	Off	-34.927603	138.601388	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=139		Off	420500000		Srch
+T-Freq	TFreqId=0	SiteId=139		Off	415112500		Srch
+T-Freq	TFreqId=0	SiteId=139		Off	421500000		Srch
+T-Freq	TFreqId=0	SiteId=139		Off	421750000		Srch
+T-Freq	TFreqId=0	SiteId=139		Off	414775000		Srch
+T-Freq	TFreqId=0	SiteId=139		Off	420250000		Srch
+T-Freq	TFreqId=0	SiteId=139		Off	414962500		Srch
+T-Freq	TFreqId=0	SiteId=139		Off	413275000		Srch
+Site	SiteId=140	TrunkId=1	Balgowan	Off	-34.335778	137.5099	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=141	TrunkId=1	EDEN HILLS	Off	-35.006240	138.600550	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=141		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=141		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=141		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=141		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=141		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=141		Off	412487500		Srch
+Site	SiteId=142	TrunkId=1	BINNIE LOOKOUT	Off	-35.674906	139.649993	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=142		Off	412562500		Srch
+T-Freq	TFreqId=0	SiteId=142		Off	417062500		Srch
+T-Freq	TFreqId=0	SiteId=142		Off	421562500		Srch
+T-Freq	TFreqId=0	SiteId=142		Off	417562500		Srch
+T-Freq	TFreqId=0	SiteId=142		Off	421812500		Srch
+T-Freq	TFreqId=0	SiteId=142		Off	413062500		Srch
+T-Freq	TFreqId=0	SiteId=142		Off	416562500		Srch
+T-Freq	TFreqId=0	SiteId=142		Off	421312500		Srch
+Site	SiteId=143	TrunkId=1	CAMEL BACK	Off	-37.113950	140.187564	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=143		Off	421375000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	416875000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	413375000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	416375000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	421625000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	420375000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	420625000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	421875000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	417375000		Srch
+T-Freq	TFreqId=0	SiteId=143		Off	412875000		Srch
+Site	SiteId=144	TrunkId=1	MOUNT BENSON	Off	-37.032761	139.811318	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=144		Off	421250000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	421500000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	421750000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	413250000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	416750000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	412750000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	416250000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	420750000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	417250000		Srch
+T-Freq	TFreqId=0	SiteId=144		Off	422000000		Srch
+Site	SiteId=145	TrunkId=1	NANGWARRY	Off	-37.580142	140.888304	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=145		Off	414800000		Srch
+T-Freq	TFreqId=0	SiteId=145		Off	417550000		Srch
+T-Freq	TFreqId=0	SiteId=145		Off	418800000		Srch
+T-Freq	TFreqId=0	SiteId=145		Off	412550000		Srch
+T-Freq	TFreqId=0	SiteId=145		Off	415050000		Srch
+T-Freq	TFreqId=0	SiteId=145		Off	418550000		Srch
+T-Freq	TFreqId=0	SiteId=145		Off	413050000		Srch
+T-Freq	TFreqId=0	SiteId=145		Off	416550000		Srch
+T-Freq	TFreqId=0	SiteId=145		Off	417050000		Srch
+Site	SiteId=146	TrunkId=1	ONE TREE HILL	Off	-35.508005	140.172854	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=146		Off	420662500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	416412500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	420412500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	413412500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	417412500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	421662500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	420162500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	421912500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	416912500		Srch
+T-Freq	TFreqId=0	SiteId=146		Off	421412500		Srch
+Site	SiteId=147	TrunkId=1	FREGON	Off	-26.761995	132.036833	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=147		Off	412900000		Srch
+T-Freq	TFreqId=0	SiteId=147		Off	413300000		Srch
+Site	SiteId=148	TrunkId=1	KOONIBBA	Off	-31.948719	133.345404	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=148		Off	415362500		Srch
+T-Freq	TFreqId=0	SiteId=148		Off	416862500		Srch
+T-Freq	TFreqId=0	SiteId=148		Off	413362500		Srch
+T-Freq	TFreqId=0	SiteId=148		Off	417362500		Srch
+T-Freq	TFreqId=0	SiteId=148		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=148		Off	416362500		Srch
+Site	SiteId=149	TrunkId=1	MOUNT SCOTT	Off	-30.632512	138.355180	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=149		Off	418600000		Srch
+T-Freq	TFreqId=0	SiteId=149		Off	415350000		Srch
+T-Freq	TFreqId=0	SiteId=149		Off	413350000		Srch
+T-Freq	TFreqId=0	SiteId=149		Off	416850000		Srch
+T-Freq	TFreqId=0	SiteId=149		Off	416350000		Srch
+T-Freq	TFreqId=0	SiteId=149		Off	412850000		Srch
+T-Freq	TFreqId=0	SiteId=149		Off	417350000		Srch
+Site	SiteId=150	TrunkId=1	Iwantja	Off	-26.965978	133.310912	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=150		Off	414850000		Srch
+T-Freq	TFreqId=0	SiteId=150		Off	415100000		Srch
+T-Freq	TFreqId=0	SiteId=150		Off	413350000		Srch
+T-Freq	TFreqId=0	SiteId=150		Off	413100000		Srch
+T-Freq	TFreqId=0	SiteId=150		Off	412850000		Srch
+Site	SiteId=151	TrunkId=1	NORTHSIDE HILL	Off	-34.752328	135.821787	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=151		Off	412900000		Srch
+T-Freq	TFreqId=0	SiteId=151		Off	412612500		Srch
+T-Freq	TFreqId=0	SiteId=151		Off	413237500		Srch
+Site	SiteId=152	TrunkId=1	OODNADATTA	Off	-27.553093	135.457030	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=152		Off	412887500		Srch
+T-Freq	TFreqId=0	SiteId=152		Off	413387500		Srch
+T-Freq	TFreqId=0	SiteId=152		Off	417387500		Srch
+T-Freq	TFreqId=0	SiteId=152		Off	415137500		Srch
+T-Freq	TFreqId=0	SiteId=152		Off	416387500		Srch
+T-Freq	TFreqId=0	SiteId=152		Off	416887500		Srch
+Site	SiteId=153	TrunkId=1	MARLA	Off	-27.301653	133.628290	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=153		Off	416762500		Srch
+T-Freq	TFreqId=0	SiteId=153		Off	415262500		Srch
+T-Freq	TFreqId=0	SiteId=153		Off	412762500		Srch
+T-Freq	TFreqId=0	SiteId=153		Off	413262500		Srch
+T-Freq	TFreqId=0	SiteId=153		Off	417262500		Srch
+T-Freq	TFreqId=0	SiteId=153		Off	416262500		Srch
+Site	SiteId=154	TrunkId=1	ROXBY DOWNS	Off	-30.546465	136.894640	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=154		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=154		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=154		Off	417487500		Srch
+T-Freq	TFreqId=0	SiteId=154		Off	418737500		Srch
+T-Freq	TFreqId=0	SiteId=154		Off	416987500		Srch
+T-Freq	TFreqId=0	SiteId=154		Off	416487500		Srch
+T-Freq	TFreqId=0	SiteId=154		Off	415237500		Srch
+Site	SiteId=155	TrunkId=1	VIRGINIA	Off	-34.663785	138.541907	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=155		Off	412912500		Srch
+T-Freq	TFreqId=0	SiteId=155		Off	413412500		Srch
+T-Freq	TFreqId=0	SiteId=155		Off	417412500		Srch
+T-Freq	TFreqId=0	SiteId=155		Off	416912500		Srch
+T-Freq	TFreqId=0	SiteId=155		Off	417912500		Srch
+T-Freq	TFreqId=0	SiteId=155		Off	414662500		Srch
+T-Freq	TFreqId=0	SiteId=155		Off	412662500		Srch
+T-Freq	TFreqId=0	SiteId=155		Off	416412500		Srch
+T-Freq	TFreqId=0	SiteId=155		Off	415912500		Srch
+Site	SiteId=156	TrunkId=1	CADELL	Off	-34.056096	139.757950	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=156		Off	412637500		Srch
+Site	SiteId=157	TrunkId=1	NORTH ADELAIDE	Off	-34.912030	138.600232	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=157		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=157		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=157		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=157		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=157		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=157		Off	413425000		Srch
+Site	SiteId=158	TrunkId=1	BLANCHETOWN	Off	-34.351488	139.604407	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=158		Off	413275000		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	420750000		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	414512500		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	420212500		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	415412500		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	418525000		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	414950000		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	420062500		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	420450000		Srch
+T-Freq	TFreqId=0	SiteId=158		Off	421225000		Srch
+Site	SiteId=159	TrunkId=1	BUTLER	Off	-34.056620	136.091663	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=160	TrunkId=1	GLENELG	Off	-34.981233	138.511468	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=160		Off	415162500		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	415437500		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	420100000		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	412750000		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	418837500		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	420600000		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	421350000		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	420312500		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	413112500		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	421687500		Srch
+T-Freq	TFreqId=0	SiteId=160		Off	418500000		Srch
+Site	SiteId=161	TrunkId=1	MCDONALD HILL	Off	-32.228280	140.429135	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=161		Off	416262500		Srch
+T-Freq	TFreqId=0	SiteId=161		Off	422012500		Srch
+T-Freq	TFreqId=0	SiteId=161		Off	417262500		Srch
+T-Freq	TFreqId=0	SiteId=161		Off	413262500		Srch
+T-Freq	TFreqId=0	SiteId=161		Off	416762500		Srch
+Site	SiteId=162	TrunkId=1	KAPUNDA	Off	-34.300206	138.836901	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=162		Off	413350000		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	415350000		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	418850000		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	412850000		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	417350000		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	413100000		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	412600000		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	415775000		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	416637500		Srch
+T-Freq	TFreqId=0	SiteId=162		Off	417850000		Srch
+Site	SiteId=163	TrunkId=1	NANTABIBBIE	Off	-32.845855	139.151336	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=163		Off	412562500		Srch
+T-Freq	TFreqId=0	SiteId=163		Off	413062500		Srch
+T-Freq	TFreqId=0	SiteId=163		Off	416562500		Srch
+T-Freq	TFreqId=0	SiteId=163		Off	418812500		Srch
+T-Freq	TFreqId=0	SiteId=163		Off	417062500		Srch
+T-Freq	TFreqId=0	SiteId=163		Off	417562500		Srch
+Site	SiteId=164	TrunkId=1	LAMEROO	Off	-35.328703	140.512907	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=164		Off	416712500		Srch
+T-Freq	TFreqId=0	SiteId=164		Off	417212500		Srch
+T-Freq	TFreqId=0	SiteId=164		Off	414712500		Srch
+T-Freq	TFreqId=0	SiteId=164		Off	413212500		Srch
+T-Freq	TFreqId=0	SiteId=164		Off	416212500		Srch
+T-Freq	TFreqId=0	SiteId=164		Off	414962500		Srch
+T-Freq	TFreqId=0	SiteId=164		Off	415212500		Srch
+T-Freq	TFreqId=0	SiteId=164		Off	412712500		Srch
+Site	SiteId=165	TrunkId=1	BORDERTOWN	Off	-36.306135	140.763833	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=165		Off	415325000		Srch
+T-Freq	TFreqId=0	SiteId=165		Off	413325000		Srch
+T-Freq	TFreqId=0	SiteId=165		Off	416825000		Srch
+T-Freq	TFreqId=0	SiteId=165		Off	416575000		Srch
+T-Freq	TFreqId=0	SiteId=165		Off	414825000		Srch
+T-Freq	TFreqId=0	SiteId=165		Off	416325000		Srch
+T-Freq	TFreqId=0	SiteId=165		Off	422075000		Srch
+T-Freq	TFreqId=0	SiteId=165		Off	417325000		Srch
+Site	SiteId=166	TrunkId=1	BARN HILL	Off	-33.586679	138.136317	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=166		Off	416125000		Srch
+T-Freq	TFreqId=0	SiteId=166		Off	416375000		Srch
+T-Freq	TFreqId=0	SiteId=166		Off	416625000		Srch
+T-Freq	TFreqId=0	SiteId=166		Off	416875000		Srch
+T-Freq	TFreqId=0	SiteId=166		Off	414625000		Srch
+T-Freq	TFreqId=0	SiteId=166		Off	417125000		Srch
+T-Freq	TFreqId=0	SiteId=166		Off	413375000		Srch
+T-Freq	TFreqId=0	SiteId=166		Off	413125000		Srch
+Site	SiteId=167	TrunkId=1	CURRAMULKA	Off	-34.628427	137.722336	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=167		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=167		Off	415175000		Srch
+T-Freq	TFreqId=0	SiteId=167		Off	412925000		Srch
+T-Freq	TFreqId=0	SiteId=167		Off	422175000		Srch
+T-Freq	TFreqId=0	SiteId=167		Off	412675000		Srch
+T-Freq	TFreqId=0	SiteId=167		Off	412800000		Srch
+T-Freq	TFreqId=0	SiteId=167		Off	418675000		Srch
+T-Freq	TFreqId=0	SiteId=167		Off	414925000		Srch
+T-Freq	TFreqId=0	SiteId=167		Off	413425000		Srch
+Site	SiteId=168	TrunkId=1	YALATA	Off	-31.468740	131.865780	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=168		Off	412850000		Srch
+T-Freq	TFreqId=0	SiteId=168		Off	417350000		Srch
+T-Freq	TFreqId=0	SiteId=168		Off	413350000		Srch
+T-Freq	TFreqId=0	SiteId=168		Off	415350000		Srch
+T-Freq	TFreqId=0	SiteId=168		Off	416350000		Srch
+T-Freq	TFreqId=0	SiteId=168		Off	416850000		Srch
+Site	SiteId=169	TrunkId=1	DICK PLAIN	Off	-31.374797	131.500376	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=169		Off	417225000		Srch
+T-Freq	TFreqId=0	SiteId=169		Off	413225000		Srch
+T-Freq	TFreqId=0	SiteId=169		Off	416225000		Srch
+T-Freq	TFreqId=0	SiteId=169		Off	416725000		Srch
+T-Freq	TFreqId=0	SiteId=169		Off	415225000		Srch
+Site	SiteId=170	TrunkId=1	MORKALLA	Off	-34.271886	141.134166	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=171	TrunkId=1	MT OLINTHUS	Off	-33.577151	136.797126	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=171		Off	416075000		Srch
+T-Freq	TFreqId=0	SiteId=171		Off	416575000		Srch
+T-Freq	TFreqId=0	SiteId=171		Off	414825000		Srch
+T-Freq	TFreqId=0	SiteId=171		Off	418575000		Srch
+T-Freq	TFreqId=0	SiteId=171		Off	416325000		Srch
+T-Freq	TFreqId=0	SiteId=171		Off	416825000		Srch
+T-Freq	TFreqId=0	SiteId=171		Off	417325000		Srch
+T-Freq	TFreqId=0	SiteId=171		Off	415325000		Srch
+T-Freq	TFreqId=0	SiteId=171		Off	413325000		Srch
+Site	SiteId=172	TrunkId=1	GAWLER	Off	-34.602986	138.760909	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=172		Off	416037500		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	412787500		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	415125000		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	418037500		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	414537500		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	414787500		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	417537500		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	418625000		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	412537500		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	413037500		Srch
+T-Freq	TFreqId=0	SiteId=172		Off	417037500		Srch
+Site	SiteId=173	TrunkId=1	MORGAN	Off	-34.027008	139.665443	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=173		Off	420025000		Srch
+T-Freq	TFreqId=0	SiteId=173		Off	421525000		Srch
+T-Freq	TFreqId=0	SiteId=173		Off	420775000		Srch
+T-Freq	TFreqId=0	SiteId=173		Off	421275000		Srch
+T-Freq	TFreqId=0	SiteId=173		Off	421775000		Srch
+T-Freq	TFreqId=0	SiteId=173		Off	420525000		Srch
+T-Freq	TFreqId=0	SiteId=173		Off	420275000		Srch
+Site	SiteId=174	TrunkId=1	PARACHILNA	Off	-31.137273	138.396069	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=175	TrunkId=1	NUNDROO	Off	-31.752274	132.127987	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=175		Off	418525000		Srch
+T-Freq	TFreqId=0	SiteId=175		Off	416775000		Srch
+T-Freq	TFreqId=0	SiteId=175		Off	413275000		Srch
+T-Freq	TFreqId=0	SiteId=175		Off	416275000		Srch
+T-Freq	TFreqId=0	SiteId=175		Off	417275000		Srch
+Site	SiteId=176	TrunkId=1	PARACOMBE	Off	-34.846257	138.790724	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=176		Off	420337500		Srch
+T-Freq	TFreqId=0	SiteId=176		Off	420587500		Srch
+T-Freq	TFreqId=0	SiteId=176		Off	421837500		Srch
+T-Freq	TFreqId=0	SiteId=176		Off	421337500		Srch
+T-Freq	TFreqId=0	SiteId=176		Off	420087500		Srch
+T-Freq	TFreqId=0	SiteId=176		Off	421587500		Srch
+Site	SiteId=177	TrunkId=1	DRY CREEK	Off	-34.826787	138.590727	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=177		Off	419100000		Srch
+T-Freq	TFreqId=0	SiteId=177		Off	418600000		Srch
+Site	SiteId=178	TrunkId=1	YALATA	Off	-31.409481	131.068486	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=179	TrunkId=1	ELIZABETH	Off	-34.718336	138.668525	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=179		Off	413425000		Srch
+T-Freq	TFreqId=0	SiteId=179		Off	412862500		Srch
+T-Freq	TFreqId=0	SiteId=179		Off	412987500		Srch
+T-Freq	TFreqId=0	SiteId=179		Off	412487500		Srch
+T-Freq	TFreqId=0	SiteId=179		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=179		Off	412675000		Srch
+Site	SiteId=180	TrunkId=1	MOUNT GAMBIER	Off	-37.725873	140.571325	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=180		Off	412612500		Srch
+T-Freq	TFreqId=0	SiteId=180		Off	413237500		Srch
+T-Freq	TFreqId=0	SiteId=180		Off	412900000		Srch
+Site	SiteId=181	TrunkId=1	BERRI	Off	-34.282332	140.598338	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=181		Off	412612500		Srch
+T-Freq	TFreqId=0	SiteId=181		Off	412900000		Srch
+T-Freq	TFreqId=0	SiteId=181		Off	413237500		Srch
+Site	SiteId=182	TrunkId=1	THE BLUFF	Off	-33.086404	138.162772	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=182		Off	412900000		Srch
+T-Freq	TFreqId=0	SiteId=182		Off	413237500		Srch
+T-Freq	TFreqId=0	SiteId=182		Off	412612500		Srch
+Site	SiteId=183	TrunkId=1	LUCINDALE	Off	-36.974931	140.369715	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=184	TrunkId=1	LUCINDALE SOUTH	Off	-37.175291	140.459129	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=185	TrunkId=1	LILLIMUR	Off	-36.361401	141.115106	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=185		Off	416425000		Srch
+T-Freq	TFreqId=0	SiteId=185		Off	413175000		Srch
+T-Freq	TFreqId=0	SiteId=185		Off	415175000		Srch
+T-Freq	TFreqId=0	SiteId=185		Off	416175000		Srch
+T-Freq	TFreqId=0	SiteId=185		Off	417175000		Srch
+T-Freq	TFreqId=0	SiteId=185		Off	416675000		Srch
+Site	SiteId=186	TrunkId=1	Port Victoria	Off	-34.500633	137.498458	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=187	TrunkId=1	SHERWOOD	Off	-36.077139	140.609390	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=188	TrunkId=1	KANGARILLA	Off	-35.132188	138.685577	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=188		Off	420025000		Srch
+T-Freq	TFreqId=0	SiteId=188		Off	420775000		Srch
+T-Freq	TFreqId=0	SiteId=188		Off	418775000		Srch
+T-Freq	TFreqId=0	SiteId=188		Off	420275000		Srch
+T-Freq	TFreqId=0	SiteId=188		Off	421775000		Srch
+T-Freq	TFreqId=0	SiteId=188		Off	420525000		Srch
+T-Freq	TFreqId=0	SiteId=188		Off	421275000		Srch
+T-Freq	TFreqId=0	SiteId=188		Off	421525000		Srch
+Site	SiteId=189	TrunkId=1	TANUNDA	Off	-34.561113	138.987308	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=189		Off	413237500		Srch
+T-Freq	TFreqId=0	SiteId=189		Off	412900000		Srch
+T-Freq	TFreqId=0	SiteId=189		Off	412612500		Srch
+Site	SiteId=190	TrunkId=1	WINDY HILL	Off	-34.047856	139.025205	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=191	TrunkId=1	MT HORROCKS	Off	-33.932219	138.676867	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=192	TrunkId=1	WALLAROO	Off	-33.942461	137.616558	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=193	TrunkId=1	WORUMBA	Off	-31.883792	138.681917	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=193		Off	476575000		Srch
+Site	SiteId=194	TrunkId=1	FRANCES	Off	-36.714020	140.954170	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=195	TrunkId=1	NECTAR BROOK	Off	-32.766657	137.965256	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=196	TrunkId=1	PARUNA	Off	-34.718049	140.730867	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=197	TrunkId=1	MOORAK	Off	-37.859944	140.685892	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=197		Off	414600000		Srch
+Site	SiteId=198	TrunkId=1	PORT MACDONNELL	Off	-38.055172	140.666218	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=199	TrunkId=1	YACKA	Off	-33.520963	138.415878	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=200	TrunkId=1	SHERINGA	Off	-33.854656	135.248052	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=201	TrunkId=1	PARACHILNA	Off	-31.475751	138.427110	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=202	TrunkId=1	ARDROSSAN	Off	-34.429164	137.888939	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=203	TrunkId=1	NEWLAND HILL	Off	-35.582362	138.572686	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+T-Freq	TFreqId=0	SiteId=203		Off	412612500		Srch
+T-Freq	TFreqId=0	SiteId=203		Off	413237500		Srch
+T-Freq	TFreqId=0	SiteId=203		Off	412900000		Srch
+Site	SiteId=204	TrunkId=1	KULKAMI	Off	-35.156549	140.283919	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=205	TrunkId=1	Kingston SE	Off	-36.840517	139.853881	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=206	TrunkId=1	EUCLA	Off	-31.593612	129.626391	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global
+Site	SiteId=207	TrunkId=1	MT DAMPER	Off	-33.142395	135.112891	25	AUTO	Standard	Wide	Circle	Off	500	Manual	6	0	Off	Global

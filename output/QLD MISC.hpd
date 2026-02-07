@@ -1,0 +1,196 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Wilmar Sugar	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	QLD-WIDE	Off	-20.2600	146.4869	750	Circle	None	Global
+C-Freq			QLD-WIDE	Off	467068750	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Tully Sugar	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	TULLY	Off	-17.935556	145.927014	25	Circle	None	Global
+C-Freq			TULLY	Off	72375000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	509562500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	78337500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	471700000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	471850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	471475000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	70037500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	509712500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	509650000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	75262500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	471275000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TULLY	Off	509862500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	FELUGA	Off	-17.875012	146.010161	25	Circle	None	Global
+C-Freq			FELUGA	Off	77662500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			Mackay Sugar	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	MACKAY	Off	-21.031638	148.943342	25	Circle	None	Global
+C-Freq			MACKAY	Off	162137500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	163125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SEAFORTH	Off	73490000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SEAFORTH	Off	164075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SEAFORTH	Off	164400000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	162562500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	162600000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	162075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	162750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	PLEYSTOWE	Off	-21.143251	149.039205	25	Circle	None	Global
+C-Freq			PLEYSTOWE	Off	485125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	73460000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450375000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	160570000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	75500000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	157960000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450050000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450250000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	471850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	472100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450300000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	MIRANI	Off	-21.103210	148.854235	25	Circle	None	Global
+C-Freq			MIRANI	Off	162850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	476425000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	MARIAN	Off	-21.144072	148.942562	25	Circle	None	Global
+C-Freq			MARIAN	Off	471350000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450375000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	472175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450050000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	476425000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	475150000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	470175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471425000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450250000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	160480000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	471850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471550000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450300000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	474825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	PLEYSTOWE	Off	-21.143251	149.039205	25	Circle	None	Global
+C-Freq			PLEYSTOWE	Off	485125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471950000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	73460000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450375000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	163075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	160570000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	75500000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	157960000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450050000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450250000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	164625000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471525000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	471850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	73460000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	472100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450300000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	161075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	MACKAY	Off	-21.100795	149.101323	25	Circle	None	Global
+C-Freq			MACKAY	Off	471750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471950000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	73460000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	160570000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	75500000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	157960000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471525000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	472100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	161075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	PLEYSTOWE	Off	-21.143251	149.039205	25	Circle	None	Global
+C-Freq			PLEYSTOWE	Off	485125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471950000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	73460000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450375000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	160570000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	75500000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	157960000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450050000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450250000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471525000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	471850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	472100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450300000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	161075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	PLEYSTOWE	Off	-21.143251	149.039205	25	Circle	None	Global
+C-Freq			PLEYSTOWE	Off	485125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471350000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	73460000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450375000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	75500000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	157960000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450050000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	470175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450250000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	471850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	472100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	450300000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	MARIAN	Off	-21.144072	148.942562	25	Circle	None	Global
+C-Freq			MARIAN	Off	471350000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	472175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	476425000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	475150000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	470175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471425000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	160480000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471550000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	474825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	MACKAY	Off	-21.100795	149.101323	25	Circle	None	Global
+C-Freq			MACKAY	Off	471750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	163075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	164625000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	73460000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	472100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	PLEYSTOWE	Off	-21.143251	149.039205	25	Circle	None	Global
+C-Freq			PLEYSTOWE	Off	485125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471950000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	73460000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	484975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	160570000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	75500000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PLEYSTOWE	Off	157960000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471525000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	472100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	471325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MACKAY	Off	161075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	CALEN	Off	-20.912385	148.768824	25	Circle	None	Global
+C-Freq			CALEN	Off	164300000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	MIRANI	Off	-21.103210	148.854235	25	Circle	None	Global
+C-Freq			MIRANI	Off	162850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471350000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	472175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	476425000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	475150000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	470175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471425000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	160480000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	471550000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARIAN	Off	474825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	MT PINNACLE	Off	-21.157335	148.656172	25	Circle	None	Global
+C-Freq			MT PINNACLE	Off	162325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT PINNACLE	Off	162125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT PINNACLE	Off	163550000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	SARINA	Off	-21.394248	149.237658	25	Circle	None	Global
+C-Freq			SARINA	Off	163125000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	NEBO	Off	-21.440099	148.709048	25	Circle	None	Global
+C-Freq			NEBO	Off	163325000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
