@@ -1,0 +1,449 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			NTFS	Off		Conventional	0	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	BERRIMAH	Off	-12.415270	130.926204	25	Circle	None	Global
+C-Freq			BERRIMAH	Off	461681250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	461331250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	461981250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARAMA	Off	461993750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	461281250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	461531250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	461393750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	461306250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	461631250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	461943750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	BERRIMAH	Off	-12.415270	130.926204	25	Circle	None	Global
+C-Freq			BERRIMAH	Off	461681250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	461331250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARAMA	Off	461993750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	461281250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	461531250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	461393750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	461306250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	461631250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	ALICE SPRINGS	Off	-23.722555	133.857595	25	Circle	None	Global
+C-Freq			ALICE SPRINGS	Off	461143750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	461418750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	461981250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	NHULUNBUY	Off	-12.181399	136.776970	25	Circle	None	Global
+C-Freq			NHULUNBUY	Off	461993750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	KATHERINE	Off	-14.446119	132.296190	25	Circle	None	Global
+C-Freq			KATHERINE	Off	461731250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATHERINE	Off	461731250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	BERRIMAH	Off	-12.415270	130.926204	25	Circle	None	Global
+C-Freq			BERRIMAH	Off	461681250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	461981250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARAMA	Off	461993750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	461306250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	461943750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	JABIRU	Off	-12.669437	132.833725	25	Circle	None	Global
+C-Freq			JABIRU	Off	461743750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	DARWIN	Off	-12.458896	130.836978	25	Circle	None	Global
+C-Freq			DARWIN	Off	461318750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461668750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	461281250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461418750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	461393750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461218750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461293750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	TENNANT CREEK	Off	-19.646642	134.189925	25	Circle	None	Global
+C-Freq			TENNANT CREEK	Off	461993750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	BERRIMAH	Off	-12.415270	130.926204	25	Circle	None	Global
+C-Freq			BERRIMAH	Off	461681250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	461331250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461318750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461668750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARAMA	Off	461993750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	461281250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461418750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	461531250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	461393750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	461306250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	461631250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461218750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	461293750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	NT-WIDE	Off	-18.852156	133.479175	560	Circle	None	Global
+C-Freq			NT-WIDE	Off	422825000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	422925000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	422650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	422725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	YULARA	Off	-25.225624	130.975304	25	Circle	None	Global
+C-Freq			YULARA	Off	461993750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	HUMPTY DOO	Off	-12.575142	131.103394	25	Circle	None	Global
+C-Freq			HUMPTY DOO	Off	461431250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			NTBFC	Off		Conventional	1	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	IPPIA HILL	Off	-25.112753	133.067311	25	Circle	None	Global
+C-Freq			IPPIA HILL	Off	163175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			NTPOL	Off		Conventional	5	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	BORROLOOLA	Off	-16.053538	136.300698	25	Circle	None	Global
+C-Freq			BORROLOOLA	Off	468875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	GUNBALANYA	Off	-12.325139	133.054401	25	Circle	None	Global
+C-Freq			GUNBALANYA	Off	468887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	ORMISTON GORGE	Off	-23.619306	132.743083	25	Circle	None	Global
+C-Freq			ORMISTON GORGE	Off	468825000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	HOWARD SPRINGS	Off	-12.493014	131.016492	25	Circle	None	Global
+C-Freq			HOWARD SPRINGS	Off	467812500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	415662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	417162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416375000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	417125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	415625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	416662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	415875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	417662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	417625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	416162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	468112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	NT-WIDE	Off	-18.852156	133.479175	560	Circle	None	Global
+C-Freq			NT-WIDE	Off	172925000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468300000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469150000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468950000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469575000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	426125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	426350000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469412500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468700000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468962500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469712500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469750000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	467962500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468900000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468925000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469437500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	426275000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	467912500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468912500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469650000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468650000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468550000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468937500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	426050000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	426200000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	467975000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469337500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468312500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	467950000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469450000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	468400000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	467512500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	KARAMA	Off	-12.417121	130.921353	25	Circle	None	Global
+C-Freq			KARAMA	Off	468162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	417600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	415600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	415612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	417112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	417612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	416100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	416600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	417100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416387500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	415862500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	415675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416425000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	468112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	415850000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416362500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	DARWIN	Off	-12.458896	130.836978	25	Circle	None	Global
+C-Freq			DARWIN	Off	467562500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	417150000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	415650000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	416150000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	416650000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	415675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416425000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	415900000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	416400000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	416900000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	417650000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	468262500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	YULARA	Off	-25.237571	130.987069	25	Circle	None	Global
+C-Freq			YULARA	Off	416087500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	417087500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	415587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	416587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	416337500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	KARAMA	Off	-12.417121	130.921353	25	Circle	None	Global
+C-Freq			KARAMA	Off	468162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	417600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	415600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	415612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	417112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	417612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	416100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	416600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	417100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416387500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	415862500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	415675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416425000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	415850000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416362500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	KATHERINE	Off	-14.446119	132.296190	25	Circle	None	Global
+C-Freq			KATHERINE	Off	415587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATHERINE	Off	416587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATHERINE	Off	417087500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATHERINE	Off	468975000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATHERINE	Off	416337500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATHERINE	Off	416087500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	HOWARD SPRINGS	Off	-12.493014	131.016492	25	Circle	None	Global
+C-Freq			HOWARD SPRINGS	Off	467812500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	415662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	417162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416375000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	417125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	415625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	416662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	415875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416387500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	417662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	417625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	416162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	468112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	BATHURST ISLAND	Off	-11.565058	130.315945	25	Circle	None	Global
+C-Freq			BATHURST ISLAND	Off	468900000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	GROOTE EYLANDT	Off	-13.847163	136.434502	25	Circle	None	Global
+C-Freq			GROOTE EYLANDT	Off	468850000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	HUMPTY DOO	Off	-12.575142	131.103394	25	Circle	None	Global
+C-Freq			HUMPTY DOO	Off	417187500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HUMPTY DOO	Off	417687500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HUMPTY DOO	Off	416187500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HUMPTY DOO	Off	416687500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HUMPTY DOO	Off	415687500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	ALICE SPRINGS	Off	-23.722188	133.856696	25	Circle	None	Global
+C-Freq			ALICE SPRINGS	Off	417137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	416137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	417637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	416637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	415887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	468900000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	415637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	467800000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALICE SPRINGS	Off	468450000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	MT LEISLER	Off	-23.330185	129.363604	25	Circle	None	Global
+C-Freq			MT LEISLER	Off	468875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	CENTRAL MOUNT WEDGE	Off	-22.856902	131.826267	25	Circle	None	Global
+C-Freq			CENTRAL MOUNT WEDGE	Off	469000000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	JABIRU	Off	-12.669437	132.833725	25	Circle	None	Global
+C-Freq			JABIRU	Off	467800000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JABIRU	Off	468812500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	ALI CURUNG	Off	-21.003202	134.402865	25	Circle	None	Global
+C-Freq			ALI CURUNG	Off	468850000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	MINYERRI	Off	-15.219739	134.080276	25	Circle	None	Global
+C-Freq			MINYERRI	Off	469025000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	NHULUNBUY	Off	-12.181399	136.776970	25	Circle	None	Global
+C-Freq			NHULUNBUY	Off	416587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NHULUNBUY	Off	416087500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NHULUNBUY	Off	417087500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NHULUNBUY	Off	415587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NHULUNBUY	Off	416337500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	KULGERA	Off	-25.842861	133.3015	25	Circle	None	Global
+C-Freq			KULGERA	Off	468862500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	BERRY SPRINGS	Off	-12.656774	131.037649	25	Circle	None	Global
+C-Freq			BERRY SPRINGS	Off	416200000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRY SPRINGS	Off	416700000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRY SPRINGS	Off	415700000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRY SPRINGS	Off	417700000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRY SPRINGS	Off	417200000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	KARAMA	Off	-12.417121	130.921353	25	Circle	None	Global
+C-Freq			KARAMA	Off	468162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	467562500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	417600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	417150000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	415600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	415612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	417112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	417612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	416100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	416600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	417100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	415650000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	416150000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	416650000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416387500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	415862500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	415675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416425000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	415850000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	415900000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	416400000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	416900000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	417650000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARWIN	Off	468262500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416362500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	RAMINGINING	Off	-12.328371	134.932955	25	Circle	None	Global
+C-Freq			RAMINGINING	Off	468950000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	MEREENIE	Off	-23.993195	131.556865	25	Circle	None	Global
+C-Freq			MEREENIE	Off	468862500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	MANINGRIDA	Off	-12.048066	134.225264	25	Circle	None	Global
+C-Freq			MANINGRIDA	Off	468875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	LAJAMANU	Off	-18.337482	130.667890	25	Circle	None	Global
+C-Freq			LAJAMANU	Off	469037500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	WARUMUNGU	Off	-19.634140	134.223606	25	Circle	None	Global
+C-Freq			WARUMUNGU	Off	417087500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WARUMUNGU	Off	416587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WARUMUNGU	Off	415587500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TENNANT CREEK	Off	468212500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WARUMUNGU	Off	416087500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WARUMUNGU	Off	416337500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	KARAMA	Off	-12.417121	130.921353	25	Circle	None	Global
+C-Freq			KARAMA	Off	468162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	417600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416375000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	417125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	415600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	415612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	415625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	417112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	417612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	415875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	416100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	416600000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	417100000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416387500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416612500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	415862500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	415675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417175000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	417675000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	417625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARRARA	Off	416425000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	468112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASUARINA	Off	415850000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TIWI	Off	416362500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	GALIWINKU	Off	-12.019816	135.568150	25	Circle	None	Global
+C-Freq			GALIWINKU	Off	469012500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	NGUKURR	Off	-14.729225	134.728052	25	Circle	None	Global
+C-Freq			NGUKURR	Off	468812500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=33	AgencyId=0	PORT KEATS	Off	-14.241142	129.521148	25	Circle	None	Global
+C-Freq			PORT KEATS	Off	469012500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=34	AgencyId=0	ADELAIDE RIVER	Off	-13.235617	131.091446	25	Circle	None	Global
+C-Freq			ADELAIDE RIVER	Off	468837500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=35	AgencyId=0	WURRUMIYANGA	Off	-11.775508	130.567183	25	Circle	None	Global
+C-Freq			WURRUMIYANGA	Off	468875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=36	AgencyId=0	PEPPIMENARTI	Off	-14.147523	130.072486	25	Circle	None	Global
+C-Freq			PEPPIMENARTI	Off	469025000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=37	AgencyId=0	Santa Teresa	Off	-24.129167	134.3714	25	Circle	None	Global
+C-Freq			Santa Teresa	Off	469012500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=38	AgencyId=0	ELLIOTT	Off	-17.551260	133.540716	25	Circle	None	Global
+C-Freq			ELLIOTT	Off	468850000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=39	AgencyId=0	MELVILLE ISLAND	Off	-11.424079	130.676003	25	Circle	None	Global
+C-Freq			MELVILLE ISLAND	Off	468950000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=40	AgencyId=0	YUENDUMU	Off	-22.255254	131.795934	25	Circle	None	Global
+C-Freq			YUENDUMU	Off	469012500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=41	AgencyId=0	DALY RIVER	Off	-13.767290	130.674250	25	Circle	None	Global
+C-Freq			DALY RIVER	Off	469037500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=42	AgencyId=0	HOWARD SPRINGS	Off	-12.493014	131.016492	25	Circle	None	Global
+C-Freq			HOWARD SPRINGS	Off	467812500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	415662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	417162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARAMA	Off	468162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416375000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	417125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	415625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	416662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	415875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416387500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416125000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	416625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	417662500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FARRAR	Off	417625000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWARD SPRINGS	Off	416162500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PALMERSTON	Off	468112500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	415637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	416637500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BERRIMAH	Off	417137500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=43	AgencyId=0	Mutitjulu	Off	-25.351384	131.065561	25	Circle	None	Global
+C-Freq			Mutitjulu	Off	468812500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=44	AgencyId=0	YIRRKALA	Off	-12.250520	136.895560	25	Circle	None	Global
+C-Freq			YIRRKALA	Off	468850000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=45	AgencyId=0	KINGS CANYON NATIONAL PARK	Off	-24.386699	131.688923	25	Circle	None	Global
+C-Freq			KINGS CANYON NATIONAL PARK	Off	468887500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=46	AgencyId=0	Angurugu	Off	-13.981682	136.460370	25	Circle	None	Global
+C-Freq			Angurugu	Off	468862500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=47	AgencyId=0	Avon Downs	Off	-20.023860	137.4887	25	Circle	None	Global
+C-Freq			Avon Downs	Off	468875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=48	AgencyId=0	MATARANKA	Off	-14.916580	133.060064	25	Circle	None	Global
+C-Freq			MATARANKA	Off	469037500	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=49	AgencyId=0	BATCHELOR	Off	-13.045603	131.025366	25	Circle	None	Global
+C-Freq			BATCHELOR	Off	468825000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=50	AgencyId=0	KALKARINGI	Off	-17.447648	130.833353	25	Circle	None	Global
+C-Freq			KALKARINGI	Off	468875000	NFM		2	Off	2	0	Off	Auto	Off	On	Off	Off

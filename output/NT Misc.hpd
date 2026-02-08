@@ -1,0 +1,132 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			Parks & Wildlife	Off		Conventional	3	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	ULURU	Off	-25.357742	131.020751	25	Circle	None	Global
+C-Freq			ULURU	Off	128900000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ULURU	Off	162787500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ULURU	Off	126900000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUTITJULU	Off	91700000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YULARA	Off	471400000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ULURU	Off	163575000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUTITJULU	Off	461143750	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	ULURU	Off	-25.209412	130.908526	25	Circle	None	Global
+C-Freq			ULURU	Off	163175000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	ULURU	Off	-25.339685	131.258801	25	Circle	None	Global
+C-Freq			ULURU	Off	163350000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	YULARA	Off	-25.300243	130.682695	25	Circle	None	Global
+C-Freq			YULARA	Off	162550000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	NT-WIDE	Off	-18.852156	133.479175	560	Circle	None	Global
+C-Freq			NT-WIDE	Off	161450000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	163812500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NT-WIDE	Off	469937500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	ULURU	Off	-25.359686	130.828802	25	Circle	None	Global
+C-Freq			ULURU	Off	162650000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	KAKADU	Off	-13.553820	132.273430	25	Circle	None	Global
+C-Freq			KAKADU	Off	152900000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	GULUNG MARDRULK	Off	-13.434403	132.415077	25	Circle	None	Global
+C-Freq			GULUNG MARDRULK	Off	161075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KAKADU NATIONAL PARK	Off	164350000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	KAKADU	Off	-12.927779	132.571388	25	Circle	None	Global
+C-Freq			KAKADU	Off	471400000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	SOUTH ALLIGATOR	Off	-12.707810	132.435330	25	Circle	None	Global
+C-Freq			SOUTH ALLIGATOR	Off	163675000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KAKADU	Off	152975000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	MT BASEDOW	Off	-12.990753	132.685438	25	Circle	None	Global
+C-Freq			MT BASEDOW	Off	162950000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	MT EVELYN	Off	-13.597542	132.895256	25	Circle	None	Global
+C-Freq			MT EVELYN	Off	165100000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	KAKADU	Off	-13.3116	132.7820	25	Circle	None	Global
+C-Freq			KAKADU	Off	152750000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BASEDOW	Off	164575000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	JABIRU	Off	-12.673630	132.815550	25	Circle	None	Global
+C-Freq			JABIRU	Off	152850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JABIRU	Off	163875000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	OLD GOODPARLA	Off	-13.449690	132.292350	25	Circle	None	Global
+C-Freq			OLD GOODPARLA	Off	164775000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	JABIRU	Off	-12.515930	132.940225	25	Circle	None	Global
+C-Freq			JABIRU	Off	163412500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KAKADU	Off	152600000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	KAKADU	Off	-12.525783	132.124256	25	Circle	None	Global
+C-Freq			KAKADU	Off	163925000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	MT HOOPER	Off	-12.260990	132.352462	25	Circle	None	Global
+C-Freq			MT HOOPER	Off	163212500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	KAKADU NATIONAL PARK	Off	-13.192660	132.301020	25	Circle	None	Global
+C-Freq			KAKADU NATIONAL PARK	Off	164075000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	KAKADU	Off	-12.175481	132.240833	25	Circle	None	Global
+C-Freq			KAKADU	Off	152675000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	CHANNEL POINT	Off	-13.165581	130.132771	25	Circle	None	Global
+C-Freq			CHANNEL POINT	Off	161625000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHANNEL POINT	Off	469862500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	Katherine	Off	-14.312503	132.458420	25	Circle	None	Global
+C-Freq			Katherine	Off	469800000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATHERINE	Off	469787500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATHERINE GORGE	Off	469812500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	STOKES CREEK	Off	-24.3360	131.787611	25	Circle	None	Global
+C-Freq			STOKES CREEK	Off	469912500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	ALICE SPRINGS	Off	-23.401172	132.395060	25	Circle	None	Global
+C-Freq			ALICE SPRINGS	Off	469850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	ORMISTON GORGE	Off	-23.619306	132.743083	25	Circle	None	Global
+C-Freq			ORMISTON GORGE	Off	469837500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	WEST MACDONNELL RANGES	Off	-23.755167	133.714322	25	Circle	None	Global
+C-Freq			WEST MACDONNELL RANGES	Off	469775000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	ARLTUNGA	Off	-23.450636	134.749447	25	Circle	None	Global
+C-Freq			ARLTUNGA	Off	469887500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	WALKERS CREEK	Off	-13.122831	130.695697	25	Circle	None	Global
+C-Freq			WALKERS CREEK	Off	469837500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	KEEP RIVER	Off	-15.833291	129.127552	25	Circle	None	Global
+C-Freq			KEEP RIVER	Off	469775000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	ALICE SPRINGS	Off	-23.722555	133.857595	25	Circle	None	Global
+C-Freq			ALICE SPRINGS	Off	469862500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Alice Springs	Off	469950000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	WEST MACDONNELL NATIONAL PARK	Off	-23.767778	132.9075	25	Circle	None	Global
+C-Freq			WEST MACDONNELL NATIONAL PARK	Off	469825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	EIGHT MILE GAP	Off	-23.782658	133.139119	25	Circle	None	Global
+C-Freq			EIGHT MILE GAP	Off	469787500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=33	AgencyId=0	LAKE BENNETT	Off	-12.945597	131.137831	25	Circle	None	Global
+C-Freq			LAKE BENNETT	Off	469812500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=34	AgencyId=0	TINDAL	Off	-14.723113	132.381793	25	Circle	None	Global
+C-Freq			TINDAL	Off	469837500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=35	AgencyId=0	HOWARD SPRINGS	Off	-12.496859	131.016565	25	Circle	None	Global
+C-Freq			HOWARD SPRINGS	Off	469787500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=36	AgencyId=0	COBOURG PENINSULA	Off	-11.155559	132.144450	25	Circle	None	Global
+C-Freq			COBOURG PENINSULA	Off	161625000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=37	AgencyId=0	LITCHFIELD STATION	Off	-13.369297	130.653593	25	Circle	None	Global
+C-Freq			LITCHFIELD STATION	Off	469850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=38	AgencyId=0	BERRY SPRINGS	Off	-12.702427	130.993032	25	Circle	None	Global
+C-Freq			BERRY SPRINGS	Off	469912500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Berry Springs	Off	469762500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=39	AgencyId=0	GHAN	Off	-24.187911	133.106081	25	Circle	None	Global
+C-Freq			GHAN	Off	469800000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=40	AgencyId=0	KEEP RIVER	Off	-15.468499	129.225297	25	Circle	None	Global
+C-Freq			KEEP RIVER	Off	469787500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=41	AgencyId=0	CARMICHAEL CRAG	Off	-24.205459	131.588151	25	Circle	None	Global
+C-Freq			CARMICHAEL CRAG	Off	469887500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=42	AgencyId=0	NITMILUK	Off	-14.178433	132.186058	25	Circle	None	Global
+C-Freq			NITMILUK	Off	469912500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EDITH FALLS	Off	469762500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=43	AgencyId=0	KATHERINE	Off	-14.161425	132.378072	25	Circle	None	Global
+C-Freq			KATHERINE	Off	469775000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=44	AgencyId=0	KINGS CANYON NATIONAL PARK	Off	-24.386699	131.688923	25	Circle	None	Global
+C-Freq			KINGS CANYON NATIONAL PARK	Off	469925000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=45	AgencyId=0	BEATRICE HILL	Off	-12.644312	131.319362	25	Circle	None	Global
+C-Freq			BEATRICE HILL	Off	469775000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=46	AgencyId=0	KEEP RIVER	Off	-15.614195	129.116026	25	Circle	None	Global
+C-Freq			KEEP RIVER	Off	469762500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=47	AgencyId=0	KINGS CANYON	Off	-24.2907	131.547231	25	Circle	None	Global
+C-Freq			KINGS CANYON	Off	469900000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=48	AgencyId=0	NAMATJIRA	Off	-24.0775	132.76	25	Circle	None	Global
+C-Freq			NAMATJIRA	Off	469812500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=49	AgencyId=0	KATHERINE	Off	-14.446119	132.296190	25	Circle	None	Global
+C-Freq			KATHERINE	Off	469862500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=50	AgencyId=0	Trephina Gorge	Off	-23.513485	134.451498	25	Circle	None	Global
+C-Freq			Trephina Gorge	Off	469912500	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TREPHINA GORGE	Off	469900000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=51	AgencyId=0	BATCHELOR	Off	-13.049561	130.885075	25	Circle	None	Global
+C-Freq			BATCHELOR	Off	469825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=52	AgencyId=0	MT BUNDEY	Off	-12.872975	131.589410	25	Circle	None	Global
+C-Freq			MT BUNDEY	Off	469925000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=53	AgencyId=0	Mataranka	Off	-14.913138	133.230831	25	Circle	None	Global
+C-Freq			Mataranka	Off	469825000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=54	AgencyId=0	Mt Flora	Off	-14.682227	131.566253	25	Circle	None	Global
+C-Freq			Mt Flora	Off	469850000	NFM		208	Off	2	0	Off	Auto	Off	On	Off	Off

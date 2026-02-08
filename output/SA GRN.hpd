@@ -2150,3 +2150,27 @@ TGID			033 MA-AMB	Off	53	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			034 MA-MFS	Off	55	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			035 MA-CFS	Off	57	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
 TGID			036 MA-SES	Off	59	ALL	3	2	0	Off	Auto	Cyan	On	Off	Off	Any
+T-Group			DEW	Off	-32.1365	134.8854	500.0	Circle	14
+TGID			01 TRAVEL	Off	749	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			02 SPARE	Off	759	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			03 AIR OPS	Off	751	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			04 MT LOFTY 1	Off	763	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			05 MT LOFTY 2	Off	767	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			06 BTNC GDNS	Off	765	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			07 KANGAROO IS	Off	2613	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			08 COORONG	Off	2617	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			09 SOUTH EAST	Off	2621	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			10 MALLEE 	Off	2579	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			11 MRY DRLNG	Off	2581	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			12 YORKE PEN	Off	761	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			13 BURRA	Off	2571	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			14 STHN FLINDERS	Off	3349	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			15 OUTBACK	Off	3311	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			16 CNTL FLINDERS	Off	3279	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			17 EYRE PEN	Off	3281	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			18 FAR WEST	Off	3201	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			19 INVESTIG	Off	753	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			20 MARINE	Off	2577	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			21 TRAINING 1	Off	1183	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			22 TRAINING 2	Off	1185	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any
+TGID			23 EMERGENCY	Off	1009	ALL	3	2	0	Off	Auto	Off	On	Off	Off	Any

@@ -1,5 +1,28 @@
 TargetModel	BCDx36HP
 FormatVersion	1.00
+Conventional			SES	Off		Conventional	4	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	PORT LINCOLN	Off	-34.722176	135.869641	25	Circle	None	Global
+C-Freq			PORT LINCOLN	Off	163990000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	SA-WIDE	Off	-32.1365	134.8854	500	Circle	None	Global
+C-Freq			SA-WIDE	Off	164625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	168662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	153112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	162337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	168737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	163812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	162500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	163287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	152650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SA-WIDE	Off	153262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	COPPUDURBA HILL	Off	-31.950623	133.770226	25	Circle	None	Global
+C-Freq			COPPUDURBA HILL	Off	476425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	ST FRANCIS ISLAND	Off	-32.510866	133.306021	25	Circle	None	Global
+C-Freq			ST FRANCIS ISLAND	Off	476550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	COWELL	Off	-33.685430	136.929025	25	Circle	None	Global
+C-Freq			COWELL	Off	165670000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	TUMBY BAY	Off	-34.346593	135.987563	25	Circle	None	Global
+C-Freq			TUMBY BAY	Off	167410000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
 Conventional			CFS	Off		Conventional	1	0	0	On	On	500	Manual	6
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group	CGroupId=1	AgencyId=0	SA-WIDE	Off	-32.1365	134.8854	500	Circle	None	Global

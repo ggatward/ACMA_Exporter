@@ -1,0 +1,1716 @@
+TargetModel	BCDx36HP
+FormatVersion	1.00
+Conventional			DFES	Off		Conventional	1	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	WILLIAMS	Off	-33.043112	116.826372	25	Circle	None	Global
+C-Freq			WILLIAMS	Off	164687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WILLIAMS	Off	78575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WILLIAMS	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	WEST PERTH	Off	-31.952954	115.844092	25	Circle	None	Global
+C-Freq			WEST PERTH	Off	467950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	468037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	163712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	163350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	164212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	162750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLAREMONT	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLAREMONT	Off	165012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	165012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	162262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	162912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	467637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ARDROSS	Off	164487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	123100000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	131600000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	BROOME	Off	-17.887309	122.288344	25	Circle	None	Global
+C-Freq			BROOME	Off	163362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	78575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	WA-WIDE	Off	-23.763154	119.768237	825	Circle	None	Global
+C-Freq			WA-WIDE	Off	467537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	467787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	78865000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	163287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	468087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	162325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	164625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	126350000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	119100000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	467712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	467575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	78075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	457687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	457737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	467587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	78850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	78910000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	476500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	457787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	78820000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	457987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	467687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	467737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	75900000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76875000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	77200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	468037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	162150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	78880000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	457587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	467987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	77100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	457712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161450000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	162250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	75975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	162087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	162187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	161075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	76975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	457575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	CAPE RANGE	Off	-21.890667	114.047247	25	Circle	None	Global
+C-Freq			CAPE RANGE	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPE RANGE	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPE RANGE	Off	164800000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPE RANGE	Off	162300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPE RANGE	Off	163562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EXMOUTH	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	POINT D`ENTRECASTEAUX	Off	-34.838479	116.003828	25	Circle	None	Global
+C-Freq			POINT D`ENTRECASTEAUX	Off	161675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	HYDEN	Off	-32.395882	119.194850	25	Circle	None	Global
+C-Freq			HYDEN	Off	78562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HYDEN	Off	162525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	YARLOOP	Off	-32.937624	116.023879	25	Circle	None	Global
+C-Freq			YARLOOP	Off	165137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YARLOOP	Off	78375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YARLOOP	Off	164537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YARLOOP	Off	469587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	THREE SPRINGS	Off	-29.543630	115.674137	25	Circle	None	Global
+C-Freq			THREE SPRINGS	Off	78512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			THREE SPRINGS	Off	162525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	WALEBING	Off	-30.6833	116.238149	25	Circle	None	Global
+C-Freq			WALEBING	Off	162337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALEBING	Off	78425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	NORTHAM	Off	-31.682776	116.616741	25	Circle	None	Global
+C-Freq			NORTHAM	Off	164962500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLACKLINE	Off	164775000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLACKLINE	Off	78575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLACKLINE	Off	163025000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLACKLINE	Off	163425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAM	Off	162937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAM	Off	163550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAM	Off	164075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAM	Off	78087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAM	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLACKLINE	Off	164112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLACKLINE	Off	78337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	BOULDER	Off	-30.845866	121.507854	25	Circle	None	Global
+C-Freq			BOULDER	Off	163512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOULDER	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOULDER	Off	163737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOULDER	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOULDER	Off	78087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	NOWERGUP	Off	-31.658857	115.775975	25	Circle	None	Global
+C-Freq			NOWERGUP	Off	165100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWERGUP	Off	162475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWERGUP	Off	163250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NOWERGUP	Off	163012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	BEVERLEY	Off	-32.109296	116.923049	25	Circle	None	Global
+C-Freq			BEVERLEY	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	MEEKATHARRA	Off	-26.591247	118.497741	25	Circle	None	Global
+C-Freq			MEEKATHARRA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MEEKATHARRA	Off	164487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	MT MAGNET	Off	-28.063666	117.846197	25	Circle	None	Global
+C-Freq			MT MAGNET	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	MUTHAWANDERY SPRING	Off	-30.581222	115.755149	25	Circle	None	Global
+C-Freq			MUTHAWANDERY SPRING	Off	162250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	GERALDTON	Off	-28.683059	114.677791	25	Circle	None	Global
+C-Freq			GERALDTON	Off	164400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	163250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	78075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	165187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	161725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	CUNDERDIN	Off	-31.650188	117.237736	25	Circle	None	Global
+C-Freq			CUNDERDIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CUNDERDIN	Off	162087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CUNDERDIN	Off	78412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	DALWALLINU	Off	-30.276120	116.660103	25	Circle	None	Global
+C-Freq			DALWALLINU	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	DERBY	Off	-17.304131	123.628887	25	Circle	None	Global
+C-Freq			DERBY	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DERBY	Off	163562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DERBY	Off	161675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Derby	Off	469587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DERBY	Off	468625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	KALBARRI	Off	-27.713288	114.165240	25	Circle	None	Global
+C-Freq			KALBARRI	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALBARRI	Off	161625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	FORRESTFIELD	Off	-31.976052	115.991443	25	Circle	None	Global
+C-Freq			FORRESTFIELD	Off	152812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	468037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	154387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	163712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	162987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	161400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	164800000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	163637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	163987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	163375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	154600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	467637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	163037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALLISTON	Off	467787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	123100000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	131600000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	SERPENTINE	Off	-32.372429	116.021758	25	Circle	None	Global
+C-Freq			SERPENTINE	Off	162087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SERPENTINE	Off	165150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JARRAHDALE	Off	163262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JARRAHDALE	Off	163912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JARRAHDALE	Off	165125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JARRAHDALE	Off	78537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JARRAHDALE	Off	78412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JARRAHDALE	Off	164337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SERPENTINE	Off	162500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SERPENTINE	Off	163687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	BYFORD	Off	-32.241601	116.027823	25	Circle	None	Global
+C-Freq			BYFORD	Off	162512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BYFORD	Off	78487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BYFORD	Off	164287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BYFORD	Off	163725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BYFORD	Off	164862500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	TRAYNING	Off	-31.114880	117.791457	25	Circle	None	Global
+C-Freq			TRAYNING	Off	162187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TRAYNING	Off	163462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	LANCELIN	Off	-31.053181	115.4310	25	Circle	None	Global
+C-Freq			LANCELIN	Off	163550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	162937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	78112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	164550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	78387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	164162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NILGEN	Off	161700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	GUILDERTON	Off	-31.311493	115.532341	25	Circle	None	Global
+C-Freq			GUILDERTON	Off	162925000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GUILDERTON	Off	164025000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GUILDERTON	Off	163475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GUILDERTON	Off	164887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	HACKETTS GULLY	Off	-31.989068	116.130282	25	Circle	None	Global
+C-Freq			HACKETTS GULLY	Off	163287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	164825000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	78350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	164275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	163062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALLISTON	Off	467787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	WALPOLE	Off	-34.960706	116.739521	25	Circle	None	Global
+C-Freq			WALPOLE	Off	78437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALPOLE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALPOLE	Off	164900000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	RAVENSTHORPE	Off	-33.580782	120.045362	25	Circle	None	Global
+C-Freq			RAVENSTHORPE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSTHORPE	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSTHORPE	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSTHORPE	Off	78487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSTHORPE	Off	163237500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSTHORPE	Off	162687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSTHORPE	Off	78075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	COLLIE	Off	-33.356691	116.148092	25	Circle	None	Global
+C-Freq			COLLIE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COLLIE	Off	162400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COLLIE	Off	78475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=33	AgencyId=0	NORSEMAN	Off	-32.198090	121.781360	25	Circle	None	Global
+C-Freq			NORSEMAN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORSEMAN	Off	467887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORSEMAN	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORSEMAN	Off	163012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORSEMAN	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=34	AgencyId=0	MT BURDETT	Off	-33.457591	122.142778	25	Circle	None	Global
+C-Freq			MT BURDETT	Off	78125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BURDETT	Off	162612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BURDETT	Off	78475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BURDETT	Off	163962500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=35	AgencyId=0	HOWICK HILL	Off	-33.724575	122.751062	25	Circle	None	Global
+C-Freq			HOWICK HILL	Off	78075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWICK HILL	Off	164125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWICK HILL	Off	161650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWICK HILL	Off	78375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOWICK HILL	Off	163300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=36	AgencyId=0	LEARMONTH	Off	-22.103160	113.999633	25	Circle	None	Global
+C-Freq			LEARMONTH	Off	162525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=37	AgencyId=0	HALLS CREEK	Off	-18.367066	128.632059	25	Circle	None	Global
+C-Freq			HALLS CREEK	Off	163362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HALLS CREEK	Off	78562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=38	AgencyId=0	ABROLHOS	Off	-28.717390	113.785918	25	Circle	None	Global
+C-Freq			ABROLHOS	Off	161675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=39	AgencyId=0	WIALKI	Off	-30.441113	118.067887	25	Circle	None	Global
+C-Freq			WIALKI	Off	164400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WIALKI	Off	78575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=40	AgencyId=0	MERREDIN	Off	-31.409076	118.272433	25	Circle	None	Global
+C-Freq			MERREDIN	Off	162150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MERREDIN	Off	78462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MERREDIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MERREDIN	Off	162162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=41	AgencyId=0	BRUCE ROCK	Off	-31.869866	118.113643	25	Circle	None	Global
+C-Freq			BRUCE ROCK	Off	78425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRUCE ROCK	Off	162262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRUCE ROCK	Off	162262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=42	AgencyId=0	GLENTULLOCH	Off	-34.041522	116.258263	25	Circle	None	Global
+C-Freq			GLENTULLOCH	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GLENTULLOCH	Off	164400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=43	AgencyId=0	SALMON GUMS	Off	-33.091816	121.594090	25	Circle	None	Global
+C-Freq			SALMON GUMS	Off	78412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SALMON GUMS	Off	163312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SALMON GUMS	Off	164112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SALMON GUMS	Off	78100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=44	AgencyId=0	NYABING	Off	-33.493995	118.230910	25	Circle	None	Global
+C-Freq			NYABING	Off	78387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NYABING	Off	163012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=45	AgencyId=0	WESTONIA	Off	-31.164883	118.687231	25	Circle	None	Global
+C-Freq			WESTONIA	Off	162625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WESTONIA	Off	78525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=46	AgencyId=0	GNOWANGERUP	Off	-33.928279	118.001214	25	Circle	None	Global
+C-Freq			GNOWANGERUP	Off	78525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=47	AgencyId=0	MARGARET RIVER	Off	-34.167552	115.059565	25	Circle	None	Global
+C-Freq			MARGARET RIVER	Off	78550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARGARET RIVER	Off	162337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARGARET RIVER	Off	162687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARGARET RIVER	Off	78337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=48	AgencyId=0	MUNGLINUP	Off	-33.655709	120.804969	25	Circle	None	Global
+C-Freq			MUNGLINUP	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUNGLINUP	Off	163212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUNGLINUP	Off	162337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUNGLINUP	Off	78350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=49	AgencyId=0	WALKAWAY	Off	-28.948308	114.7762	25	Circle	None	Global
+C-Freq			WALKAWAY	Off	162912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=50	AgencyId=0	KUNUNURRA	Off	-15.776515	128.732582	25	Circle	None	Global
+C-Freq			KUNUNURRA	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KUNUNURRA	Off	163112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KUNUNURRA	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KUNUNURRA	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KUNUNURRA	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KUNUNURRA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=51	AgencyId=0	CANNING MILLS	Off	-32.074437	116.082857	25	Circle	None	Global
+C-Freq			CANNING MILLS	Off	163525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARTIN	Off	467587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	469512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	163675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	164900000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	164000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALLISTON	Off	467787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	162562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=52	AgencyId=0	WEST PERTH	Off	-31.952954	115.844092	25	Circle	None	Global
+C-Freq			WEST PERTH	Off	467950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	468037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	154387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	163712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	161400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	164212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	162750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	163637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	154600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	467637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	163037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	123100000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	131600000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=53	AgencyId=0	MOUNT MELVILLE	Off	-35.018050	117.870931	25	Circle	None	Global
+C-Freq			MOUNT MELVILLE	Off	163975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	78087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	164512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	78462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	163150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	80430000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT CLARENCE	Off	161725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	164962500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=54	AgencyId=0	DEEPDENE	Off	-34.285849	115.085757	25	Circle	None	Global
+C-Freq			DEEPDENE	Off	161725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AUGUSTA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=55	AgencyId=0	BALINGUP	Off	-33.773508	115.969530	25	Circle	None	Global
+C-Freq			BALINGUP	Off	164225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALINGUP	Off	162687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=56	AgencyId=0	PORT HEDLAND	Off	-20.311536	118.577918	25	Circle	None	Global
+C-Freq			PORT HEDLAND	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	163262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	78075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=57	AgencyId=0	ESPERANCE	Off	-33.877587	121.890671	25	Circle	None	Global
+C-Freq			ESPERANCE	Off	469587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ESPERANCE	Off	161700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ESPERANCE	Off	163887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ESPERANCE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ESPERANCE	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ESPERANCE	Off	162537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=58	AgencyId=0	BREMER BAY	Off	-34.441431	119.372090	25	Circle	None	Global
+C-Freq			BREMER BAY	Off	469587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BREMER BAY	Off	163350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BREMER BAY	Off	78437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BREMER BAY	Off	162650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BREMER BAY	Off	78112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BREMER BAY	Off	468087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BREMER BAY	Off	162912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=59	AgencyId=0	GNARABUP	Off	-33.986131	115.003762	25	Circle	None	Global
+C-Freq			GNARABUP	Off	469587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GNARABUP	Off	162525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GNARABUP	Off	78337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GNARABUP	Off	164787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GNARABUP	Off	468087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARGARET RIVER	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARGARET RIVER	Off	164762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=60	AgencyId=0	BINDOON	Off	-31.382806	116.106795	25	Circle	None	Global
+C-Freq			BINDOON	Off	78412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	163737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	164300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	164875000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINDOON	Off	163087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=61	AgencyId=0	WICKHAM	Off	-20.673891	117.141680	25	Circle	None	Global
+C-Freq			WICKHAM	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=62	AgencyId=0	WONGAN HILLS	Off	-30.890959	116.715817	25	Circle	None	Global
+C-Freq			WONGAN HILLS	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WONGAN HILLS	Off	78487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WONGAN HILLS	Off	162112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=63	AgencyId=0	ESPERANCE	Off	-33.711675	121.429103	25	Circle	None	Global
+C-Freq			ESPERANCE	Off	78062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ESPERANCE	Off	162150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=64	AgencyId=0	GERALDTON	Off	-28.777190	114.602078	25	Circle	None	Global
+C-Freq			GERALDTON	Off	77200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	76750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	76975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	76875000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	77100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=65	AgencyId=0	MULLEWA	Off	-28.598194	115.493283	25	Circle	None	Global
+C-Freq			MULLEWA	Off	78412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MULLEWA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MULLEWA	Off	163237500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MULLEWA	Off	78412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MULLEWA	Off	163237500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=66	AgencyId=0	KULIN	Off	-32.686509	118.913985	25	Circle	None	Global
+C-Freq			KULIN	Off	162587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KULIN	Off	78587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=67	AgencyId=0	MUKINBUDIN	Off	-30.965992	118.098825	25	Circle	None	Global
+C-Freq			MUKINBUDIN	Off	78500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUKINBUDIN	Off	162487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUKINBUDIN	Off	162487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MUKINBUDIN	Off	163462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=68	AgencyId=0	KELLERBERRIN	Off	-31.622079	117.709452	25	Circle	None	Global
+C-Freq			KELLERBERRIN	Off	78387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KELLERBERRIN	Off	162325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KELLERBERRIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=69	AgencyId=0	TWO ROCKS	Off	-31.479993	115.602985	25	Circle	None	Global
+C-Freq			TWO ROCKS	Off	78375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TWO ROCKS	Off	162600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TWO ROCKS	Off	164050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TWO ROCKS	Off	163225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YANCHEP	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TWO ROCKS	Off	162312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=70	AgencyId=0	ENEABBA	Off	-29.831704	115.334166	25	Circle	None	Global
+C-Freq			ENEABBA	Off	163262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ENEABBA	Off	163750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=71	AgencyId=0	QUAIRADING	Off	-32.036591	117.373241	25	Circle	None	Global
+C-Freq			QUAIRADING	Off	162412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUAIRADING	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=72	AgencyId=0	DAVENPORT	Off	-33.376224	115.677706	25	Circle	None	Global
+C-Freq			DAVENPORT	Off	133050000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	119100000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	468037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	80430000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	163462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	163712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	78087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	164262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	165100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUNBURY	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			EATON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=73	AgencyId=0	TAMMIN	Off	-31.673493	117.494155	25	Circle	None	Global
+C-Freq			TAMMIN	Off	162400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TAMMIN	Off	78587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TAMMIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=74	AgencyId=0	MORAWA	Off	-29.199469	115.831845	25	Circle	None	Global
+C-Freq			MORAWA	Off	162637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORAWA	Off	78575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=75	AgencyId=0	CARNAMAH	Off	-29.696340	115.878886	25	Circle	None	Global
+C-Freq			CARNAMAH	Off	163550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNAMAH	Off	78587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNAMAH	Off	78562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNAMAH	Off	162887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=76	AgencyId=0	COOROW	Off	-30.090053	115.549140	25	Circle	None	Global
+C-Freq			COOROW	Off	162687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COOROW	Off	78375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=77	AgencyId=0	WUBIN	Off	-30.128497	116.747088	25	Circle	None	Global
+C-Freq			WUBIN	Off	78437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WUBIN	Off	164675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=78	AgencyId=0	BINNU	Off	-28.045790	114.719180	25	Circle	None	Global
+C-Freq			BINNU	Off	163150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BINNU	Off	78550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=79	AgencyId=0	PINJARRA	Off	-32.636851	116.018526	25	Circle	None	Global
+C-Freq			PINJARRA	Off	163212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	161725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HUNTLEY	Off	164975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HUNTLEY	Off	78587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HUNTLEY	Off	78337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HUNTLEY	Off	164312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	164975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	162112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	78112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	164312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=80	AgencyId=0	NANNUP	Off	-33.979448	115.764721	25	Circle	None	Global
+C-Freq			NANNUP	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARLOTTA	Off	164062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARLOTTA	Off	78062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARLOTTA	Off	78525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARLOTTA	Off	162575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=81	AgencyId=0	CHRISTMAS ISLAND	Off	-10.431036	105.684660	25	Circle	None	Global
+C-Freq			CHRISTMAS ISLAND	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHRISTMAS ISLAND	Off	164000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHRISTMAS ISLAND	Off	461975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHRISTMAS ISLAND	Off	152425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=82	AgencyId=0	DUNSBOROUGH	Off	-33.614759	115.102697	25	Circle	None	Global
+C-Freq			DUNSBOROUGH	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DUNSBOROUGH	Off	161700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DUNSBOROUGH	Off	78600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DUNSBOROUGH	Off	162650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=83	AgencyId=0	HANN	Off	-17.511877	122.419919	25	Circle	None	Global
+C-Freq			HANN	Off	163250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HANN	Off	161700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=84	AgencyId=0	FORRESTFIELD	Off	-31.976052	115.991443	25	Circle	None	Global
+C-Freq			FORRESTFIELD	Off	152812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	154387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	162987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	163612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	78125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	165187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	163837500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	161400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	164800000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	163500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	163637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	163987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	163375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	154600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	163037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALLISTON	Off	467787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=85	AgencyId=0	Peak Charles National Park	Off	-32.882123	121.162023	25	Circle	None	Global
+C-Freq			Peak Charles National Park	Off	163700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=86	AgencyId=0	GREENMOUNT	Off	-31.909465	116.062182	25	Circle	None	Global
+C-Freq			GREENMOUNT	Off	162987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	163612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRIGADOON	Off	161437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRIGADOON	Off	161312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	78125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	165187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	163837500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	164800000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	163500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST SWAN	Off	161312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST SWAN	Off	161437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	163987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	162300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	163375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	163300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	78437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	164125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	164637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=87	AgencyId=0	DAMPIER	Off	-20.580147	116.808306	25	Circle	None	Global
+C-Freq			DAMPIER	Off	78112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DAMPIER	Off	164887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DAMPIER	Off	469600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DAMPIER	Off	476525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DAMPIER	Off	467950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=88	AgencyId=0	REDHILL	Off	-31.829306	116.101815	25	Circle	None	Global
+C-Freq			REDHILL	Off	163612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRIGADOON	Off	161437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRIGADOON	Off	161312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	78125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	165187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	163837500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	163500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST SWAN	Off	161312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST SWAN	Off	161437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	162300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	163300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	78437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	164125000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MILLENDON	Off	164637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=89	AgencyId=0	JURIEN	Off	-30.186761	115.198242	25	Circle	None	Global
+C-Freq			JURIEN	Off	78450000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JURIEN	Off	163062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JURIEN	Off	161650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=90	AgencyId=0	WANDERING	Off	-32.676901	116.699954	25	Circle	None	Global
+C-Freq			WANDERING	Off	164050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WANDERING	Off	78387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WANDERING	Off	164050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=91	AgencyId=0	LEONORA	Off	-28.881898	121.335043	25	Circle	None	Global
+C-Freq			LEONORA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=92	AgencyId=0	LEARMONTH	Off	-22.562138	113.721662	25	Circle	None	Global
+C-Freq			LEARMONTH	Off	162325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=93	AgencyId=0	CARNARVON	Off	-24.931994	113.732712	25	Circle	None	Global
+C-Freq			CARNARVON	Off	78600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNARVON	Off	162887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNARVON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNARVON	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNARVON	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=94	AgencyId=0	GREEN RANGE	Off	-34.662324	118.422762	25	Circle	None	Global
+C-Freq			GREEN RANGE	Off	78362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREEN RANGE	Off	163862500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREEN RANGE	Off	162637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREEN RANGE	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREEN RANGE	Off	161675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=95	AgencyId=0	BODDINGTON	Off	-32.964855	116.450861	25	Circle	None	Global
+C-Freq			BODDINGTON	Off	164937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BODDINGTON	Off	78450000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BODDINGTON	Off	163550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BODDINGTON	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=96	AgencyId=0	BORDEN	Off	-34.322674	118.346077	25	Circle	None	Global
+C-Freq			BORDEN	Off	78112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BORDEN	Off	162850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=97	AgencyId=0	CASCADES	Off	-33.540374	121.201728	25	Circle	None	Global
+C-Freq			CASCADES	Off	78550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CASCADES	Off	162575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=98	AgencyId=0	HOPETOUN	Off	-33.933552	120.133249	25	Circle	None	Global
+C-Freq			HOPETOUN	Off	78537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOPETOUN	Off	164100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOPETOUN	Off	78337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOPETOUN	Off	163550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOPETOUN	Off	161650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=99	AgencyId=0	TOM PRICE	Off	-22.526558	118.3704	25	Circle	None	Global
+C-Freq			TOM PRICE	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOM PRICE	Off	164862500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOM PRICE	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=100	AgencyId=0	KALBARRI	Off	-27.592436	114.218570	25	Circle	None	Global
+C-Freq			KALBARRI	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALBARRI	Off	161625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALBARRI	Off	163825000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALBARRI	Off	78337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALBARRI	Off	162475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALBARRI	Off	467887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=101	AgencyId=0	SAWYERS VALLEY	Off	-31.902172	116.219024	25	Circle	None	Global
+C-Freq			SAWYERS VALLEY	Off	165075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SAWYERS VALLEY	Off	163750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SAWYERS VALLEY	Off	162587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SAWYERS VALLEY	Off	164225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=102	AgencyId=0	TOM PRICE	Off	-22.719869	117.761274	25	Circle	None	Global
+C-Freq			TOM PRICE	Off	163987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOM PRICE	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOM PRICE	Off	163987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOM PRICE	Off	468625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=103	AgencyId=0	WAROONA	Off	-32.843523	115.922226	25	Circle	None	Global
+C-Freq			WAROONA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=104	AgencyId=0	BRIDGETOWN	Off	-33.955610	116.136378	25	Circle	None	Global
+C-Freq			BRIDGETOWN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRIDGETOWN	Off	162487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRIDGETOWN	Off	78462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=105	AgencyId=0	TOODYAY	Off	-31.586191	116.498402	25	Circle	None	Global
+C-Freq			TOODYAY	Off	164150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOODYAY	Off	78362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOODYAY	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=106	AgencyId=0	BUREKUP	Off	-33.396879	115.915219	25	Circle	None	Global
+C-Freq			BUREKUP	Off	164012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUREKUP	Off	78350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUREKUP	Off	164325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUREKUP	Off	164012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUREKUP	Off	78425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BUREKUP	Off	164325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=107	AgencyId=0	ONSLOW	Off	-21.642714	115.113688	25	Circle	None	Global
+C-Freq			ONSLOW	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=108	AgencyId=0	WANNEROO	Off	-31.756215	115.816073	25	Circle	None	Global
+C-Freq			WANNEROO	Off	78075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WANNEROO	Off	162950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WANNEROO	Off	164612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=109	AgencyId=0	SHARK BAY	Off	-26.148651	113.161663	25	Circle	None	Global
+C-Freq			SHARK BAY	Off	161700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=110	AgencyId=0	DERBY	Off	-17.577229	123.323735	25	Circle	None	Global
+C-Freq			DERBY	Off	163612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DERBY	Off	78462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=111	AgencyId=0	CARNARVON	Off	-24.228591	113.4013	25	Circle	None	Global
+C-Freq			CARNARVON	Off	162812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNARVON	Off	161675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=112	AgencyId=0	CARDABIA	Off	-22.892327	113.924365	25	Circle	None	Global
+C-Freq			CARDABIA	Off	163362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=113	AgencyId=0	YERRAMIN	Off	-34.209337	116.460466	25	Circle	None	Global
+C-Freq			YERRAMIN	Off	163500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YERRAMIN	Off	162250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=114	AgencyId=0	CORAL BAY	Off	-23.330481	113.827544	25	Circle	None	Global
+C-Freq			CORAL BAY	Off	163312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CORAL BAY	Off	163775000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CORAL BAY	Off	161725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=115	AgencyId=0	MOUNT MELVILLE	Off	-35.018050	117.870931	25	Circle	None	Global
+C-Freq			MOUNT MELVILLE	Off	163975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	78087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	164512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	78462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	163150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	80430000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	164962500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=116	AgencyId=0	NORTHCLIFFE	Off	-34.630845	116.123276	25	Circle	None	Global
+C-Freq			NORTHCLIFFE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHCLIFFE	Off	164887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHCLIFFE	Off	78387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=117	AgencyId=0	PINGELLY	Off	-32.533937	117.077947	25	Circle	None	Global
+C-Freq			PINGELLY	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=118	AgencyId=0	KULIN	Off	-32.666919	118.156474	25	Circle	None	Global
+C-Freq			KULIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KULIN	Off	163825000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KULIN	Off	78475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KULIN	Off	164925000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=119	AgencyId=0	COCOS ISLAND	Off	-12.188425	96.829136	25	Circle	None	Global
+C-Freq			COCOS ISLAND	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCOS ISLAND	Off	164000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COCOS ISLAND	Off	152425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=120	AgencyId=0	WYNDHAM	Off	-15.452150	128.121748	25	Circle	None	Global
+C-Freq			WYNDHAM	Off	163350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYNDHAM	Off	161625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYNDHAM	Off	78600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYNDHAM	Off	163350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYNDHAM	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYNDHAM	Off	161625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=121	AgencyId=0	GIDGEGANNUP	Off	-31.676826	116.184372	25	Circle	None	Global
+C-Freq			GIDGEGANNUP	Off	163925000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIDGEGANNUP	Off	162062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIDGEGANNUP	Off	162875000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIDGEGANNUP	Off	162437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIDGEGANNUP	Off	162575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=122	AgencyId=0	NEWDEGATE	Off	-33.055754	119.373506	25	Circle	None	Global
+C-Freq			NEWDEGATE	Off	163200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWDEGATE	Off	162425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAKE BUCHAN	Off	78462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAKE BUCHAN	Off	163200000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=123	AgencyId=0	KAMBALDA	Off	-31.203134	121.656705	25	Circle	None	Global
+C-Freq			KAMBALDA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=124	AgencyId=0	DONGARA	Off	-29.269413	114.925883	25	Circle	None	Global
+C-Freq			DONGARA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=125	AgencyId=0	CANNING MILLS	Off	-32.074437	116.082857	25	Circle	None	Global
+C-Freq			CANNING MILLS	Off	163525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARTIN	Off	467587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	469512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	163675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	164900000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	164000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	162562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=126	AgencyId=0	ROEBOURNE	Off	-20.767229	117.144936	25	Circle	None	Global
+C-Freq			ROEBOURNE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=127	AgencyId=0	KONDININ	Off	-32.491608	118.547058	25	Circle	None	Global
+C-Freq			KONDININ	Off	162250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KONDININ	Off	78450000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=128	AgencyId=0	NAREMBEEN	Off	-32.184034	118.447331	25	Circle	None	Global
+C-Freq			NAREMBEEN	Off	78487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NAREMBEEN	Off	162812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=129	AgencyId=0	BRUNSWICK JUNCTION	Off	-33.271039	115.860665	25	Circle	None	Global
+C-Freq			BRUNSWICK JUNCTION	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRUNSWICK JUNCTION	Off	163312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRUNSWICK JUNCTION	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=130	AgencyId=0	MANJIMUP	Off	-34.456373	116.008072	25	Circle	None	Global
+C-Freq			MANJIMUP	Off	78100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANJIMUP	Off	162250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEMBERTON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=131	AgencyId=0	WOODANILLING	Off	-33.568011	117.461454	25	Circle	None	Global
+C-Freq			WOODANILLING	Off	164950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOODANILLING	Off	164950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=132	AgencyId=0	BOYUP BROOK	Off	-33.857767	116.408584	25	Circle	None	Global
+C-Freq			BOYUP BROOK	Off	78412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOYUP BROOK	Off	164550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BOYUP BROOK	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=133	AgencyId=0	FALCON	Off	-32.585791	115.657365	25	Circle	None	Global
+C-Freq			FALCON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANDURAH	Off	78562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANDURAH	Off	164137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DAWESVILLE	Off	161650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANDURAH	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=134	AgencyId=0	MT BARKER	Off	-34.672207	117.841690	25	Circle	None	Global
+C-Freq			MT BARKER	Off	78350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BARKER	Off	162700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BARKER	Off	78425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BARKER	Off	163100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=135	AgencyId=0	GOOMALLING	Off	-31.299002	116.829559	25	Circle	None	Global
+C-Freq			GOOMALLING	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GOOMALLING	Off	163950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=136	AgencyId=0	BROOME	Off	-17.965218	122.229273	25	Circle	None	Global
+C-Freq			BROOME	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	163212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=137	AgencyId=0	HALLS CREEK	Off	-18.227189	127.666938	25	Circle	None	Global
+C-Freq			HALLS CREEK	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HALLS CREEK	Off	467887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=138	AgencyId=0	KOJONUP	Off	-33.857379	117.164738	25	Circle	None	Global
+C-Freq			KOJONUP	Off	162662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KOJONUP	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=139	AgencyId=0	KENINE HILL	Off	-33.581366	117.180380	25	Circle	None	Global
+C-Freq			KENINE HILL	Off	78487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KENINE HILL	Off	164675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=140	AgencyId=0	Yarawindah	Off	-31.095253	116.264629	25	Circle	None	Global
+C-Freq			Yarawindah	Off	164062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Yarawindah	Off	78525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=141	AgencyId=0	SOUTHERN CROSS	Off	-31.232076	119.323890	25	Circle	None	Global
+C-Freq			SOUTHERN CROSS	Off	78865000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHERN CROSS	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=142	AgencyId=0	DENHAM	Off	-25.918878	113.533604	25	Circle	None	Global
+C-Freq			DENHAM	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DENHAM	Off	162537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=143	AgencyId=0	LAKE GRACE	Off	-33.102049	118.464335	25	Circle	None	Global
+C-Freq			LAKE GRACE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=144	AgencyId=0	MINGENEW	Off	-29.137229	115.423886	25	Circle	None	Global
+C-Freq			MINGENEW	Off	164137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MINGENEW	Off	162312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MINGENEW	Off	78537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MINGENEW	Off	162312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=145	AgencyId=0	GINGIN	Off	-31.360911	115.921418	25	Circle	None	Global
+C-Freq			GINGIN	Off	165137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GINGIN	Off	164325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GINGIN	Off	78062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GINGIN	Off	163800000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GINGIN	Off	163512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=146	AgencyId=0	WOOROLOO	Off	-31.801841	116.276874	25	Circle	None	Global
+C-Freq			WOOROLOO	Off	162100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	163162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIDGEGANNUP	Off	161312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	78137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	164512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	78462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	165025000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=147	AgencyId=0	WEST PERTH	Off	-31.952954	115.844092	25	Circle	None	Global
+C-Freq			WEST PERTH	Off	467950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	163350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	164212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	162750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLAREMONT	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLAREMONT	Off	165012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	165012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	162262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	162912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SCARBOROUGH	Off	163325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=148	AgencyId=0	MANJIMUP	Off	-34.234113	116.052436	25	Circle	None	Global
+C-Freq			MANJIMUP	Off	78387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANJIMUP	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANJIMUP	Off	164912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANJIMUP	Off	78437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANJIMUP	Off	163500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=149	AgencyId=0	BULLSBROOK	Off	-31.666276	116.031576	25	Circle	None	Global
+C-Freq			BULLSBROOK	Off	161437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BULLSBROOK	Off	161312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=150	AgencyId=0	DERBY	Off	-17.847609	124.346565	25	Circle	None	Global
+C-Freq			DERBY	Off	163687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DERBY	Off	78487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=151	AgencyId=0	BODALLIN	Off	-31.796647	118.950336	25	Circle	None	Global
+C-Freq			BODALLIN	Off	78600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BODALLIN	Off	164137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=152	AgencyId=0	FALCON	Off	-32.585791	115.657365	25	Circle	None	Global
+C-Freq			FALCON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANDURAH	Off	78562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANDURAH	Off	164137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DAWESVILLE	Off	161650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=153	AgencyId=0	DANDARAGAN	Off	-30.440937	115.386221	25	Circle	None	Global
+C-Freq			DANDARAGAN	Off	78087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DANDARAGAN	Off	163912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DANDARAGAN	Off	162512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DANDARAGAN	Off	78550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=154	AgencyId=0	DUMBLEYUNG	Off	-33.304474	117.961806	25	Circle	None	Global
+C-Freq			DUMBLEYUNG	Off	162512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DUMBLEYUNG	Off	78512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=155	AgencyId=0	ROCKY GULLY	Off	-34.578283	117.025367	25	Circle	None	Global
+C-Freq			ROCKY GULLY	Off	78337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKY GULLY	Off	164162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKY GULLY	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKY GULLY	Off	162187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=156	AgencyId=0	BORDEN	Off	-34.140316	118.528797	25	Circle	None	Global
+C-Freq			BORDEN	Off	164875000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=157	AgencyId=0	FITZROY CROSSING	Off	-18.190359	125.565716	25	Circle	None	Global
+C-Freq			FITZROY CROSSING	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FITZROY CROSSING	Off	162912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FITZROY CROSSING	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=158	AgencyId=0	LACROSSE ISLAND	Off	-14.742471	128.295111	25	Circle	None	Global
+C-Freq			LACROSSE ISLAND	Off	161675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=159	AgencyId=0	WYALKATCHEM	Off	-31.178719	117.381686	25	Circle	None	Global
+C-Freq			WYALKATCHEM	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYALKATCHEM	Off	162500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYALKATCHEM	Off	78475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYALKATCHEM	Off	468650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYALKATCHEM	Off	165100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=160	AgencyId=0	SOUTH HEDLAND	Off	-20.404605	118.593595	25	Circle	None	Global
+C-Freq			SOUTH HEDLAND	Off	163550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	78075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH HEDLAND	Off	78112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=161	AgencyId=0	KOOLAN ISLAND	Off	-16.127792	123.736667	25	Circle	None	Global
+C-Freq			KOOLAN ISLAND	Off	161675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=162	AgencyId=0	KATANNING	Off	-33.792562	117.516707	25	Circle	None	Global
+C-Freq			KATANNING	Off	164212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATANNING	Off	78450000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=163	AgencyId=0	CALINGIRI	Off	-31.087713	116.451024	25	Circle	None	Global
+C-Freq			CALINGIRI	Off	78525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CALINGIRI	Off	164062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=164	AgencyId=0	JURIEN BAY	Off	-30.307599	115.037368	25	Circle	None	Global
+C-Freq			JURIEN BAY	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=165	AgencyId=0	MT BARKER	Off	-34.628167	117.662845	25	Circle	None	Global
+C-Freq			MT BARKER	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=166	AgencyId=0	PORT HEDLAND	Off	-20.311536	118.577918	25	Circle	None	Global
+C-Freq			PORT HEDLAND	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	163262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH HEDLAND	Off	163550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	78075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTH HEDLAND	Off	78112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=167	AgencyId=0	LEARMONTH	Off	-23.133093	113.771601	25	Circle	None	Global
+C-Freq			LEARMONTH	Off	163162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=168	AgencyId=0	CRANBROOK	Off	-34.298531	117.592328	25	Circle	None	Global
+C-Freq			CRANBROOK	Off	164150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CRANBROOK	Off	78375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=169	AgencyId=0	PERENJORI	Off	-29.580134	116.541955	25	Circle	None	Global
+C-Freq			PERENJORI	Off	78600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERENJORI	Off	163600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=170	AgencyId=0	KOORDA	Off	-30.733469	117.451679	25	Circle	None	Global
+C-Freq			KOORDA	Off	163350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KOORDA	Off	78512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=171	AgencyId=0	NARROGIN	Off	-32.930922	117.180612	25	Circle	None	Global
+C-Freq			NARROGIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARROGIN	Off	78437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NARROGIN	Off	164600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=172	AgencyId=0	NEWMAN	Off	-23.355518	119.715186	25	Circle	None	Global
+C-Freq			NEWMAN	Off	163112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	467887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	161337500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=173	AgencyId=0	CAPE LEVEQUE	Off	-16.538917	122.915940	25	Circle	None	Global
+C-Freq			CAPE LEVEQUE	Off	163687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPE LEVEQUE	Off	161625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=174	AgencyId=0	WAGIN	Off	-33.307726	117.343097	25	Circle	None	Global
+C-Freq			WAGIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WAGIN	Off	164700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WAGIN	Off	78462500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=175	AgencyId=0	DENMARK	Off	-34.966874	117.279208	25	Circle	None	Global
+C-Freq			DENMARK	Off	161700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DENMARK	Off	78512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DENMARK	Off	162750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DENMARK	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=176	AgencyId=0	HARVEY	Off	-33.078265	115.896604	25	Circle	None	Global
+C-Freq			HARVEY	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=177	AgencyId=0	HOLT ROCK	Off	-32.677644	119.237862	25	Circle	None	Global
+C-Freq			HOLT ROCK	Off	78587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLT ROCK	Off	162425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HOLT ROCK	Off	162587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=178	AgencyId=0	DERBY	Off	-17.981952	123.201257	25	Circle	None	Global
+C-Freq			DERBY	Off	163512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DERBY	Off	78362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=179	AgencyId=0	BROOKTON	Off	-32.362250	116.983885	25	Circle	None	Global
+C-Freq			BROOKTON	Off	163600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOKTON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=180	AgencyId=0	TRAYNING	Off	-31.040658	117.956649	25	Circle	None	Global
+C-Freq			TRAYNING	Off	162187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TRAYNING	Off	78537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=181	AgencyId=0	YORK	Off	-31.852460	116.761508	25	Circle	None	Global
+C-Freq			YORK	Off	78600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YORK	Off	163962500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YORK	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=182	AgencyId=0	CORRIGIN	Off	-32.323917	117.882996	25	Circle	None	Global
+C-Freq			CORRIGIN	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CORRIGIN	Off	162562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CORRIGIN	Off	162562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CORRIGIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=183	AgencyId=0	WEST PERTH	Off	-31.952954	115.844092	25	Circle	None	Global
+C-Freq			WEST PERTH	Off	467950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	163350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	164212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	162750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLAREMONT	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLAREMONT	Off	165012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	165012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	162262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	162912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ARDROSS	Off	164487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=184	AgencyId=0	BEVERLEY	Off	-32.323420	116.715473	25	Circle	None	Global
+C-Freq			BEVERLEY	Off	165087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=185	AgencyId=0	NORTHCLIFFE	Off	-34.621160	116.479536	25	Circle	None	Global
+C-Freq			NORTHCLIFFE	Off	162500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHCLIFFE	Off	78562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=186	AgencyId=0	MOUNT MELVILLE	Off	-35.018050	117.870931	25	Circle	None	Global
+C-Freq			MOUNT MELVILLE	Off	163975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	78087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	164512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	80430000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT CLARENCE	Off	161725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	468050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOUNT MELVILLE	Off	164962500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=187	AgencyId=0	NUNGARIN	Off	-31.166807	118.143108	25	Circle	None	Global
+C-Freq			NUNGARIN	Off	78362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NUNGARIN	Off	162612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=188	AgencyId=0	NORTHAMPTON	Off	-28.354909	114.656829	25	Circle	None	Global
+C-Freq			NORTHAMPTON	Off	164275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAMPTON	Off	78425000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=189	AgencyId=0	DONGARA	Off	-29.112617	115.105665	25	Circle	None	Global
+C-Freq			DONGARA	Off	162625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DONGARA	Off	78362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=190	AgencyId=0	MUKINBUDIN	Off	-30.891762	118.433053	25	Circle	None	Global
+C-Freq			MUKINBUDIN	Off	162775000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=191	AgencyId=0	ROEBUCK PLAINS	Off	-17.860427	122.446548	25	Circle	None	Global
+C-Freq			ROEBUCK PLAINS	Off	163287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=192	AgencyId=0	BALDIVIS	Off	-32.318480	115.805457	25	Circle	None	Global
+C-Freq			BALDIVIS	Off	78475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALDIVIS	Off	164300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALDIVIS	Off	162662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=193	AgencyId=0	CHOWERUP	Off	-34.043104	116.749489	25	Circle	None	Global
+C-Freq			CHOWERUP	Off	163987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CHOWERUP	Off	165025000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=194	AgencyId=0	BAYULU	Off	-18.290263	125.588471	25	Circle	None	Global
+C-Freq			BAYULU	Off	78512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BAYULU	Off	163950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=195	AgencyId=0	ENEABBA	Off	-29.691387	115.333223	25	Circle	None	Global
+C-Freq			ENEABBA	Off	163525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ENEABBA	Off	78062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ENEABBA	Off	164975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ENEABBA	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=196	AgencyId=0	QUAIRADING	Off	-31.832725	117.600680	25	Circle	None	Global
+C-Freq			QUAIRADING	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUAIRADING	Off	162750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=197	AgencyId=0	NABAWA	Off	-28.483629	114.803954	25	Circle	None	Global
+C-Freq			NABAWA	Off	78387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NABAWA	Off	162362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=198	AgencyId=0	JERRAMUNGUP	Off	-33.861443	119.086238	25	Circle	None	Global
+C-Freq			JERRAMUNGUP	Off	164450000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JERRAMUNGUP	Off	78600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=199	AgencyId=0	KOJONUP	Off	-33.927676	117.079831	25	Circle	None	Global
+C-Freq			KOJONUP	Off	162662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KOJONUP	Off	78550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=200	AgencyId=0	KATANNING	Off	-33.674650	117.563209	25	Circle	None	Global
+C-Freq			KATANNING	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATANNING	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATANNING	Off	467887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATANNING	Off	163912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KATANNING	Off	78587500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=201	AgencyId=0	BUSSELTON	Off	-33.651709	115.348072	25	Circle	None	Global
+C-Freq			BUSSELTON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=202	AgencyId=0	TAMBELLUP	Off	-34.016959	117.696833	25	Circle	None	Global
+C-Freq			TAMBELLUP	Off	78500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TAMBELLUP	Off	164300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=203	AgencyId=0	DOWERIN	Off	-31.160160	117.000942	25	Circle	None	Global
+C-Freq			DOWERIN	Off	162650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DOWERIN	Off	78450000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=204	AgencyId=0	BROOME	Off	-18.941334	121.991966	25	Circle	None	Global
+C-Freq			BROOME	Off	78362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	163187500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=205	AgencyId=0	MT SHADDICK	Off	-32.645870	117.3172	25	Circle	None	Global
+C-Freq			MT SHADDICK	Off	78562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT SHADDICK	Off	163687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT SHADDICK	Off	78537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT SHADDICK	Off	162762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=206	AgencyId=0	PINJARRA	Off	-32.627753	115.872920	25	Circle	None	Global
+C-Freq			PINJARRA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=207	AgencyId=0	DUMBLEYUNG	Off	-33.313207	117.740604	25	Circle	None	Global
+C-Freq			DUMBLEYUNG	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=208	AgencyId=0	WICKEPIN	Off	-32.759538	117.682364	25	Circle	None	Global
+C-Freq			WICKEPIN	Off	162312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WICKEPIN	Off	78500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=209	AgencyId=0	CITY BEACH	Off	-31.934206	115.768955	25	Circle	None	Global
+C-Freq			CITY BEACH	Off	163350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	165012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	162262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CITY BEACH	Off	162912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SCARBOROUGH	Off	163325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=210	AgencyId=0	CUE	Off	-27.425037	117.896872	25	Circle	None	Global
+C-Freq			CUE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=211	AgencyId=0	MOORA	Off	-30.632070	116.001789	25	Circle	None	Global
+C-Freq			MOORA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOORA	Off	164925000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=212	AgencyId=0	SOUTHERN CROSS	Off	-31.146687	119.142573	25	Circle	None	Global
+C-Freq			SOUTHERN CROSS	Off	163062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SOUTHERN CROSS	Off	78437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=213	AgencyId=0	DARKAN	Off	-33.400910	116.781045	25	Circle	None	Global
+C-Freq			DARKAN	Off	78362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DARKAN	Off	163525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=214	AgencyId=0	BROOME	Off	-17.887309	122.288344	25	Circle	None	Global
+C-Freq			BROOME	Off	163362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	78575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	163212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	467650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=215	AgencyId=0	LANCELIN	Off	-31.053181	115.4310	25	Circle	None	Global
+C-Freq			LANCELIN	Off	163550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	162937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	78112500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	164550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	78387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	164162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NILGEN	Off	161700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=216	AgencyId=0	BALLIDU	Off	-30.594186	116.768840	25	Circle	None	Global
+C-Freq			BALLIDU	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=217	AgencyId=0	JULIMAR	Off	-31.511985	116.302263	25	Circle	None	Global
+C-Freq			JULIMAR	Off	162162500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=218	AgencyId=0	CRANBROOK	Off	-34.315464	117.001501	25	Circle	None	Global
+C-Freq			CRANBROOK	Off	163950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CRANBROOK	Off	78600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=219	AgencyId=0	MERKANOOKA	Off	-29.318609	115.882191	25	Circle	None	Global
+C-Freq			MERKANOOKA	Off	162637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=220	AgencyId=0	KARRATHA	Off	-20.735865	116.842726	25	Circle	None	Global
+C-Freq			KARRATHA	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARRATHA	Off	164762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=221	AgencyId=0	FALCON	Off	-32.585791	115.657365	25	Circle	None	Global
+C-Freq			FALCON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MANDURAH	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=222	AgencyId=0	MARVEL LOCH	Off	-31.635034	119.524649	25	Circle	None	Global
+C-Freq			MARVEL LOCH	Off	163300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=223	AgencyId=0	WEST PERTH	Off	-31.952954	115.844092	25	Circle	None	Global
+C-Freq			WEST PERTH	Off	467950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	164212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	162750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLAREMONT	Off	78050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CLAREMONT	Off	165012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ARDROSS	Off	164487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=224	AgencyId=0	ALBANY	Off	-35.180555	117.888060	25	Circle	None	Global
+C-Freq			ALBANY	Off	161625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	163250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=225	AgencyId=0	COOLGARDIE	Off	-30.954297	121.164643	25	Circle	None	Global
+C-Freq			COOLGARDIE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=226	AgencyId=0	LAVERTON	Off	-28.611024	122.397909	25	Circle	None	Global
+C-Freq			LAVERTON	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=227	AgencyId=0	NILGEN	Off	-30.984957	115.385519	25	Circle	None	Global
+C-Freq			NILGEN	Off	161700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LANCELIN	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=228	AgencyId=0	FORRESTFIELD	Off	-31.976052	115.991443	25	Circle	None	Global
+C-Freq			FORRESTFIELD	Off	152812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153437500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	163287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	163525000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	154387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	162987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	164825000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	161400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168362500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	164800000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	163637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	163987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	78350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	164275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	469512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	163675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GREENMOUNT	Off	163375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	153137500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	154600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	161225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HACKETTS GULLY	Off	163062500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78512500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	164900000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78350000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	164000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	152625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	163037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	168550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FORRESTFIELD	Off	169725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALLISTON	Off	467787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	162562500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=229	AgencyId=0	DONNYBROOK	Off	-33.576813	115.823768	25	Circle	None	Global
+C-Freq			DONNYBROOK	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=230	AgencyId=0	HALLS CREEK	Off	-18.161090	127.551241	25	Circle	None	Global
+C-Freq			HALLS CREEK	Off	163237500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			HALLS CREEK	Off	78550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=231	AgencyId=0	CAPEL	Off	-33.597740	115.663984	25	Circle	None	Global
+C-Freq			CAPEL	Off	78575000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CAPEL	Off	164225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=232	AgencyId=0	LAKE GRACE	Off	-33.040173	118.751353	25	Circle	None	Global
+C-Freq			LAKE GRACE	Off	162887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAKE GRACE	Off	78412500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=233	AgencyId=0	BALINGUP	Off	-33.594828	116.029363	25	Circle	None	Global
+C-Freq			BALINGUP	Off	165050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BALINGUP	Off	78500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=234	AgencyId=0	YEARLING CREEK HILL	Off	-15.769976	128.484560	25	Circle	None	Global
+C-Freq			YEARLING CREEK HILL	Off	78537500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YEARLING CREEK HILL	Off	164150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=235	AgencyId=0	WUNDOWIE	Off	-31.762290	116.381615	25	Circle	None	Global
+C-Freq			WUNDOWIE	Off	76550000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=236	AgencyId=0	WEST PERTH	Off	-31.952954	115.844092	25	Circle	None	Global
+C-Freq			WEST PERTH	Off	467950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	469487500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	468037500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	78400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	163712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	164212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WEST PERTH	Off	162750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	467637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	467887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	123100000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	131600000	AM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=237	AgencyId=0	MORAWA	Off	-29.210837	116.010710	25	Circle	None	Global
+C-Freq			MORAWA	Off	163737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=238	AgencyId=0	USELESS LOOP	Off	-26.104374	113.399204	25	Circle	None	Global
+C-Freq			USELESS LOOP	Off	164962500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=239	AgencyId=0	KOORDA	Off	-30.825959	117.484109	25	Circle	None	Global
+C-Freq			KOORDA	Off	162800000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=240	AgencyId=0	BINDOON	Off	-31.245844	116.270999	25	Circle	None	Global
+C-Freq			BINDOON	Off	162812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=241	AgencyId=0	KONDININ	Off	-32.497195	118.264996	25	Circle	None	Global
+C-Freq			KONDININ	Off	163750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+Conventional			SJA	Off		Conventional	3	0	0	On	On	500	Manual	6
+DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
+C-Group	CGroupId=1	AgencyId=0	KELLERBERRIN	Off	-31.630915	117.720116	25	Circle	None	Global
+C-Freq			KELLERBERRIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KELLERBERRIN	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KELLERBERRIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=2	AgencyId=0	GIDGEGANNUP	Off	-31.676826	116.184372	25	Circle	None	Global
+C-Freq			GIDGEGANNUP	Off	415375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIDGEGANNUP	Off	414756250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIDGEGANNUP	Off	415075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GIDGEGANNUP	Off	412925000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=3	AgencyId=0	PINJARRA	Off	-32.649848	115.989991	25	Circle	None	Global
+C-Freq			PINJARRA	Off	415075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	412925000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	413175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	415375000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINJARRA	Off	413418750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=4	AgencyId=0	CANNING MILLS	Off	-32.074437	116.082857	25	Circle	None	Global
+C-Freq			CANNING MILLS	Off	412850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARMEL	Off	415275000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARMEL	Off	413131250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARMEL	Off	412650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARMEL	Off	412862500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARMEL	Off	413100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	415262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARMEL	Off	414975000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	413306250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CANNING MILLS	Off	414962500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=5	AgencyId=0	TAMBELLUP	Off	-34.042994	117.638922	25	Circle	None	Global
+C-Freq			TAMBELLUP	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=6	AgencyId=0	DONGARA	Off	-29.264854	114.933301	25	Circle	None	Global
+C-Freq			DONGARA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DONGARA	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=7	AgencyId=0	PEMBERTON	Off	-34.466448	116.011338	25	Circle	None	Global
+C-Freq			PEMBERTON	Off	412650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEMBERTON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEMBERTON	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PEMBERTON	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=8	AgencyId=0	KARRATHA	Off	-20.749047	116.831828	25	Circle	None	Global
+C-Freq			KARRATHA	Off	164600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARRATHA	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KARRATHA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=9	AgencyId=0	WONGAN HILLS	Off	-30.894405	116.723759	25	Circle	None	Global
+C-Freq			WONGAN HILLS	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=10	AgencyId=0	WYNDHAM	Off	-15.477205	128.127608	25	Circle	None	Global
+C-Freq			WYNDHAM	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYNDHAM	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WYNDHAM	Off	162950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=11	AgencyId=0	HYDEN	Off	-32.423077	119.000306	25	Circle	None	Global
+C-Freq			HYDEN	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=12	AgencyId=0	WADDINGTON	Off	-30.786319	116.241080	25	Circle	None	Global
+C-Freq			WADDINGTON	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=13	AgencyId=0	YERRAMIN	Off	-34.209337	116.460466	25	Circle	None	Global
+C-Freq			YERRAMIN	Off	78625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=14	AgencyId=0	KUNUNURRA	Off	-15.765081	128.742530	25	Circle	None	Global
+C-Freq			KUNUNURRA	Off	161675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KUNUNURRA	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KUNUNURRA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=15	AgencyId=0	DOWERIN	Off	-31.160160	117.000942	25	Circle	None	Global
+C-Freq			DOWERIN	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DOWERIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=16	AgencyId=0	KONDININ	Off	-32.491608	118.547058	25	Circle	None	Global
+C-Freq			KONDININ	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=17	AgencyId=0	REDHILL	Off	-31.829306	116.101815	25	Circle	None	Global
+C-Freq			REDHILL	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	415000000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	412887500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	413175000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	413256250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			REDHILL	Off	415300000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=18	AgencyId=0	SHOVELANNA	Off	-23.329162	120.021189	25	Circle	None	Global
+C-Freq			SHOVELANNA	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			SHOVELANNA	Off	163787500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=19	AgencyId=0	ROELANDS	Off	-33.286133	115.899129	25	Circle	None	Global
+C-Freq			ROELANDS	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRUNSWICK JUNCTION	Off	164725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROELANDS	Off	164600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=20	AgencyId=0	THREE SPRINGS	Off	-29.543630	115.674137	25	Circle	None	Global
+C-Freq			THREE SPRINGS	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			THREE SPRINGS	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=21	AgencyId=0	WAGIN	Off	-33.314408	117.279268	25	Circle	None	Global
+C-Freq			WAGIN	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WAGIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=22	AgencyId=0	GNOWANGERUP	Off	-33.929992	118.229950	25	Circle	None	Global
+C-Freq			GNOWANGERUP	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=23	AgencyId=0	KUKERIN	Off	-33.188028	118.082822	25	Circle	None	Global
+C-Freq			KUKERIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=24	AgencyId=0	KULIN	Off	-32.672355	118.153878	25	Circle	None	Global
+C-Freq			KULIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=25	AgencyId=0	WA-WIDE	Off	-23.763154	119.768237	825	Circle	None	Global
+C-Freq			WA-WIDE	Off	422812500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	426212500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	412725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	422862500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	413050000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	426262500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WA-WIDE	Off	79937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=26	AgencyId=0	HARVEY	Off	-33.081269	115.899674	25	Circle	None	Global
+C-Freq			HARVEY	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=27	AgencyId=0	East Carnarvon	Off	-24.869720	113.678410	25	Circle	None	Global
+C-Freq			East Carnarvon	Off	163612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNARVON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARNARVON	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=28	AgencyId=0	JURIEN BAY	Off	-30.306349	115.044254	25	Circle	None	Global
+C-Freq			JURIEN BAY	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			JURIEN BAY	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=29	AgencyId=0	ALBANY	Off	-35.0172	117.893512	25	Circle	None	Global
+C-Freq			ALBANY	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ALBANY	Off	163775000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=30	AgencyId=0	GNOWANGERUP	Off	-33.932762	118.004512	25	Circle	None	Global
+C-Freq			GNOWANGERUP	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=31	AgencyId=0	JERRAMUNGUP	Off	-33.932469	118.934922	25	Circle	None	Global
+C-Freq			JERRAMUNGUP	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=32	AgencyId=0	BRIDGETOWN	Off	-33.935796	116.159679	25	Circle	None	Global
+C-Freq			BRIDGETOWN	Off	162625000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRIDGETOWN	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BRIDGETOWN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=33	AgencyId=0	KATANNING	Off	-33.683127	117.563480	25	Circle	None	Global
+C-Freq			KATANNING	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=34	AgencyId=0	KONDININ	Off	-32.489969	118.265959	25	Circle	None	Global
+C-Freq			KONDININ	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=35	AgencyId=0	CENTRAL PARK	Off	-31.953420	115.855619	25	Circle	None	Global
+C-Freq			CENTRAL PARK	Off	412650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CENTRAL PARK	Off	415400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BELMONT	Off	468500000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CENTRAL PARK	Off	412993750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CENTRAL PARK	Off	415100000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PERTH	Off	412825000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CENTRAL PARK	Off	412950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=36	AgencyId=0	MUKINBUDIN	Off	-30.907287	118.206453	25	Circle	None	Global
+C-Freq			MUKINBUDIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=37	AgencyId=0	BROOME	Off	-17.964225	122.221519	25	Circle	None	Global
+C-Freq			BROOME	Off	164150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	163612500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			BROOME	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=38	AgencyId=0	FREMANTLE	Off	-32.057926	115.751211	25	Circle	None	Global
+C-Freq			FREMANTLE	Off	415012500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FREMANTLE	Off	412875000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FREMANTLE	Off	415312500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FREMANTLE	Off	413331250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			FREMANTLE	Off	413225000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=39	AgencyId=0	PADBURY	Off	-31.814573	115.771243	25	Circle	None	Global
+C-Freq			PADBURY	Off	415087500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PADBURY	Off	415387500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PADBURY	Off	412937500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PADBURY	Off	412568750	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=40	AgencyId=0	ROCKINGHAM	Off	-32.288505	115.745936	25	Circle	None	Global
+C-Freq			ROCKINGHAM	Off	414987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKINGHAM	Off	415287500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKINGHAM	Off	412606250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKINGHAM	Off	412900000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ROCKINGHAM	Off	413150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=41	AgencyId=0	WALPOLE	Off	-34.975466	116.730918	25	Circle	None	Global
+C-Freq			WALPOLE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WALPOLE	Off	162075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=42	AgencyId=0	CARNARVON	Off	-24.975345	119.945159	25	Circle	None	Global
+C-Freq			CARNARVON	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=43	AgencyId=0	BOYUP BROOK	Off	-33.857767	116.408584	25	Circle	None	Global
+C-Freq			BOYUP BROOK	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=44	AgencyId=0	DENMARK	Off	-34.966874	117.279208	25	Circle	None	Global
+C-Freq			DENMARK	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			DENMARK	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=45	AgencyId=0	KAMBALDA	Off	-31.195859	121.668510	25	Circle	None	Global
+C-Freq			KAMBALDA	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KAMBALDA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KAMBALDA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=46	AgencyId=0	YALLINGUP	Off	-33.616281	115.044246	25	Circle	None	Global
+C-Freq			YALLINGUP	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YALLINGUP	Off	163775000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=47	AgencyId=0	BEVERLEY	Off	-32.244080	116.8951	25	Circle	None	Global
+C-Freq			BEVERLEY	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=48	AgencyId=0	GAIRDNER	Off	-34.234224	118.988970	25	Circle	None	Global
+C-Freq			GAIRDNER	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=49	AgencyId=0	GOOMALLING	Off	-31.330776	116.789980	25	Circle	None	Global
+C-Freq			GOOMALLING	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GOOMALLING	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=50	AgencyId=0	CATABY	Off	-30.752427	115.558642	25	Circle	None	Global
+C-Freq			CATABY	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=51	AgencyId=0	ESPERANCE	Off	-33.877587	121.890671	25	Circle	None	Global
+C-Freq			ESPERANCE	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ESPERANCE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=52	AgencyId=0	MANJIMUP	Off	-34.254814	116.148110	25	Circle	None	Global
+C-Freq			MANJIMUP	Off	412475000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=53	AgencyId=0	DUMBLEYUNG	Off	-33.310501	117.740581	25	Circle	None	Global
+C-Freq			DUMBLEYUNG	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=54	AgencyId=0	KALGOORLIE	Off	-30.738556	121.478632	25	Circle	None	Global
+C-Freq			KALGOORLIE	Off	163775000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALGOORLIE	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALGOORLIE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALGOORLIE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=55	AgencyId=0	BYFORD	Off	-32.218554	116.043253	25	Circle	None	Global
+C-Freq			BYFORD	Off	413075000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=56	AgencyId=0	LEINSTER	Off	-27.817522	120.738485	25	Circle	None	Global
+C-Freq			LEINSTER	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LEINSTER	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=57	AgencyId=0	LEONORA	Off	-28.887260	121.330855	25	Circle	None	Global
+C-Freq			LEONORA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=58	AgencyId=0	MOORA	Off	-30.639734	116.000979	25	Circle	None	Global
+C-Freq			MOORA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=59	AgencyId=0	MOUNT BARKER	Off	-34.626191	117.654756	25	Circle	None	Global
+C-Freq			MOUNT BARKER	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT BARKER	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=60	AgencyId=0	WOOROLOO	Off	-31.801841	116.276874	25	Circle	None	Global
+C-Freq			WOOROLOO	Off	415025000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	413356250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	412912500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	415325000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WOOROLOO	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=61	AgencyId=0	MUNGLINUP	Off	-33.703091	120.935497	25	Circle	None	Global
+C-Freq			MUNGLINUP	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=62	AgencyId=0	WALPOLE	Off	-34.826429	116.788752	25	Circle	None	Global
+C-Freq			WALPOLE	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=63	AgencyId=0	WICKHAM	Off	-20.632696	117.152738	25	Circle	None	Global
+C-Freq			WICKHAM	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			WICKHAM	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=64	AgencyId=0	DANDARAGAN	Off	-30.440937	115.386221	25	Circle	None	Global
+C-Freq			DANDARAGAN	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=65	AgencyId=0	GERALDTON	Off	-28.769396	114.625603	25	Circle	None	Global
+C-Freq			GERALDTON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOONYOONOOKA	Off	163775000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MOONYOONOOKA	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			GERALDTON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=66	AgencyId=0	MANJIMUP	Off	-34.235657	115.980485	25	Circle	None	Global
+C-Freq			MANJIMUP	Off	78637500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=67	AgencyId=0	GINGIN	Off	-31.360911	115.921418	25	Circle	None	Global
+C-Freq			GINGIN	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=68	AgencyId=0	MORAWA	Off	-29.215706	115.998081	25	Circle	None	Global
+C-Freq			MORAWA	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MORAWA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=69	AgencyId=0	QUAIRADING	Off	-31.895157	117.273285	25	Circle	None	Global
+C-Freq			QUAIRADING	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=70	AgencyId=0	BUNJIL	Off	-29.653402	116.362872	25	Circle	None	Global
+C-Freq			BUNJIL	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=71	AgencyId=0	CUNDERDIN	Off	-31.667025	117.231449	25	Circle	None	Global
+C-Freq			CUNDERDIN	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CUNDERDIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=72	AgencyId=0	EXMOUTH	Off	-21.816375	114.166224	25	Circle	None	Global
+C-Freq			EXMOUTH	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=73	AgencyId=0	MARGARET RIVER	Off	-33.934679	115.086445	25	Circle	None	Global
+C-Freq			MARGARET RIVER	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			Margaret River	Off	164150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MARGARET RIVER	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=74	AgencyId=0	ONSLOW	Off	-21.652505	115.116942	25	Circle	None	Global
+C-Freq			ONSLOW	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			ONSLOW	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=75	AgencyId=0	BRUCE ROCK	Off	-31.882249	118.151536	25	Circle	None	Global
+C-Freq			BRUCE ROCK	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=76	AgencyId=0	NARROGIN	Off	-32.940530	117.152860	25	Circle	None	Global
+C-Freq			NARROGIN	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=77	AgencyId=0	MERREDIN	Off	-31.433750	118.413693	25	Circle	None	Global
+C-Freq			MERREDIN	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=78	AgencyId=0	NORSEMAN	Off	-32.202659	121.802571	25	Circle	None	Global
+C-Freq			NORSEMAN	Off	164600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORSEMAN	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORSEMAN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=79	AgencyId=0	QUINNS ROCK	Off	-31.676581	115.704453	25	Circle	None	Global
+C-Freq			QUINNS ROCK	Off	413206250	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUINNS ROCK	Off	412837500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUINNS ROCK	Off	413150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUINNS ROCK	Off	415250000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			QUINNS ROCK	Off	414950000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=80	AgencyId=0	BEVERLEY	Off	-32.102575	116.922662	25	Circle	None	Global
+C-Freq			BEVERLEY	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=81	AgencyId=0	BODDINGTON	Off	-32.802865	116.475977	25	Circle	None	Global
+C-Freq			BODDINGTON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=82	AgencyId=0	CUE	Off	-27.421836	117.897646	25	Circle	None	Global
+C-Freq			CUE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CUE	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=83	AgencyId=0	EXMOUTH	Off	-21.928124	114.119416	25	Circle	None	Global
+C-Freq			EXMOUTH	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=84	AgencyId=0	PORT HEDLAND	Off	-20.401394	118.914068	25	Circle	None	Global
+C-Freq			PORT HEDLAND	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=85	AgencyId=0	NORTHAM	Off	-31.682216	116.616521	25	Circle	None	Global
+C-Freq			NORTHAM	Off	164600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAM	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAM	Off	414987500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NORTHAM	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=86	AgencyId=0	NORTHAMPTON	Off	-28.351816	114.634458	25	Circle	None	Global
+C-Freq			NORTHAMPTON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=87	AgencyId=0	NEWMAN	Off	-23.355518	119.715186	25	Circle	None	Global
+C-Freq			NEWMAN	Off	164600000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			NEWMAN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=88	AgencyId=0	WILLIAMS	Off	-33.043112	116.826372	25	Circle	None	Global
+C-Freq			WILLIAMS	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=89	AgencyId=0	TOODYAY	Off	-31.586191	116.498402	25	Circle	None	Global
+C-Freq			TOODYAY	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=90	AgencyId=0	YORK	Off	-31.888051	116.756161	25	Circle	None	Global
+C-Freq			YORK	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			YORK	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=91	AgencyId=0	CORRIGIN	Off	-32.168341	117.850895	25	Circle	None	Global
+C-Freq			CORRIGIN	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=92	AgencyId=0	HOWICK HILL	Off	-33.724575	122.751062	25	Circle	None	Global
+C-Freq			HOWICK HILL	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=93	AgencyId=0	PINGELLY	Off	-32.466490	117.106105	25	Circle	None	Global
+C-Freq			PINGELLY	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PINGELLY	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=94	AgencyId=0	KATANNING	Off	-33.793985	117.521598	25	Circle	None	Global
+C-Freq			KATANNING	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=95	AgencyId=0	AUGUSTA	Off	-34.305835	115.156071	25	Circle	None	Global
+C-Freq			AUGUSTA	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			AUGUSTA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=96	AgencyId=0	BINDOON	Off	-31.387091	116.099066	25	Circle	None	Global
+C-Freq			BINDOON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=97	AgencyId=0	LAKE GRACE	Off	-33.102077	118.453405	25	Circle	None	Global
+C-Freq			LAKE GRACE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAKE GRACE	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=98	AgencyId=0	SOUTHERN CROSS	Off	-31.231112	119.337784	25	Circle	None	Global
+C-Freq			SOUTHERN CROSS	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=99	AgencyId=0	COLLIE	Off	-33.289654	116.408647	25	Circle	None	Global
+C-Freq			COLLIE	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=100	AgencyId=0	WILUNA	Off	-26.592751	120.226781	25	Circle	None	Global
+C-Freq			WILUNA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=101	AgencyId=0	NEWLANDS	Off	-33.684815	115.861010	25	Circle	None	Global
+C-Freq			NEWLANDS	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=102	AgencyId=0	WONGAN HILLS	Off	-30.835999	116.640061	25	Circle	None	Global
+C-Freq			WONGAN HILLS	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=103	AgencyId=0	DANDARAGAN	Off	-30.665603	115.701567	25	Circle	None	Global
+C-Freq			DANDARAGAN	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=104	AgencyId=0	MT MAGNET	Off	-28.030842	117.824566	25	Circle	None	Global
+C-Freq			MT MAGNET	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MT MAGNET	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=105	AgencyId=0	MULLEWA	Off	-28.540047	115.503104	25	Circle	None	Global
+C-Freq			MULLEWA	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			MULLEWA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=106	AgencyId=0	LAVERTON	Off	-28.563163	122.393070	25	Circle	None	Global
+C-Freq			LAVERTON	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			LAVERTON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=107	AgencyId=0	NORTHCLIFFE	Off	-34.621160	116.479536	25	Circle	None	Global
+C-Freq			NORTHCLIFFE	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=108	AgencyId=0	DARKAN	Off	-33.400910	116.781045	25	Circle	None	Global
+C-Freq			DARKAN	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=109	AgencyId=0	CORRIGIN	Off	-32.324937	117.879075	25	Circle	None	Global
+C-Freq			CORRIGIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=110	AgencyId=0	KALBARRI	Off	-27.711201	114.160702	25	Circle	None	Global
+C-Freq			KALBARRI	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KALBARRI	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=111	AgencyId=0	KUNUNOPPIN	Off	-31.109477	117.922734	25	Circle	None	Global
+C-Freq			KUNUNOPPIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=112	AgencyId=0	TOM PRICE	Off	-22.695613	117.796742	25	Circle	None	Global
+C-Freq			TOM PRICE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			TOM PRICE	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=113	AgencyId=0	YALGOO	Off	-28.342174	116.681028	25	Circle	None	Global
+C-Freq			YALGOO	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=114	AgencyId=0	NANNUP	Off	-33.982990	115.767203	25	Circle	None	Global
+C-Freq			NANNUP	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			CARLOTTA	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=115	AgencyId=0	BROOKTON	Off	-32.369593	117.006801	25	Circle	None	Global
+C-Freq			BROOKTON	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=116	AgencyId=0	COLLIE	Off	-33.344594	116.159816	25	Circle	None	Global
+C-Freq			COLLIE	Off	164150000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			COLLIE	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=117	AgencyId=0	WYALKATCHEM	Off	-31.175684	117.385808	25	Circle	None	Global
+C-Freq			WYALKATCHEM	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=118	AgencyId=0	KOJONUP	Off	-33.857379	117.164738	25	Circle	None	Global
+C-Freq			KOJONUP	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			KOJONUP	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=119	AgencyId=0	LANCELIN	Off	-31.053181	115.4310	25	Circle	None	Global
+C-Freq			LANCELIN	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=120	AgencyId=0	RAVENSTHORPE	Off	-33.503964	120.035129	25	Circle	None	Global
+C-Freq			RAVENSTHORPE	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			RAVENSTHORPE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=121	AgencyId=0	KOORDA	Off	-30.825204	117.531574	25	Circle	None	Global
+C-Freq			KOORDA	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=122	AgencyId=0	COOMALBIDGUP	Off	-33.545811	121.385802	25	Circle	None	Global
+C-Freq			COOMALBIDGUP	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=123	AgencyId=0	KALBARRI	Off	-27.981906	114.335905	25	Circle	None	Global
+C-Freq			KALBARRI	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=124	AgencyId=0	Port Hedland	Off	-20.3740	118.6130	25	Circle	None	Global
+C-Freq			Port Hedland	Off	163400000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Freq			PORT HEDLAND	Off	78750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=125	AgencyId=0	QUAIRADING	Off	-32.014390	117.402375	25	Circle	None	Global
+C-Freq			QUAIRADING	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=126	AgencyId=0	NORTHCLIFFE	Off	-34.761255	116.087742	25	Circle	None	Global
+C-Freq			NORTHCLIFFE	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=127	AgencyId=0	BODDINGTON	Off	-32.964855	116.450861	25	Circle	None	Global
+C-Freq			BODDINGTON	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=128	AgencyId=0	MINGENEW	Off	-29.358999	115.237720	25	Circle	None	Global
+C-Freq			MINGENEW	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=129	AgencyId=0	DUMBLEYUNG	Off	-33.304474	117.961806	25	Circle	None	Global
+C-Freq			DUMBLEYUNG	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=130	AgencyId=0	MUKINBUDIN	Off	-31.040960	118.089208	25	Circle	None	Global
+C-Freq			MUKINBUDIN	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=131	AgencyId=0	NORTHAMPTON	Off	-28.236605	114.650760	25	Circle	None	Global
+C-Freq			NORTHAMPTON	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=132	AgencyId=0	WICKEPIN	Off	-32.759538	117.682364	25	Circle	None	Global
+C-Freq			WICKEPIN	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=133	AgencyId=0	YARLOOP	Off	-32.937624	116.023879	25	Circle	None	Global
+C-Freq			YARLOOP	Off	78650000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=134	AgencyId=0	WIALKI	Off	-30.441113	118.067887	25	Circle	None	Global
+C-Freq			WIALKI	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=135	AgencyId=0	LEONORA	Off	-28.888716	121.452854	25	Circle	None	Global
+C-Freq			LEONORA	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=136	AgencyId=0	MEEKATHARRA	Off	-26.276815	118.758434	25	Circle	None	Global
+C-Freq			MEEKATHARRA	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=137	AgencyId=0	COOROW	Off	-30.090053	115.549140	25	Circle	None	Global
+C-Freq			COOROW	Off	78700000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=138	AgencyId=0	MARGARET RIVER	Off	-34.167552	115.059565	25	Circle	None	Global
+C-Freq			MARGARET RIVER	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=139	AgencyId=0	HOPETOUN	Off	-33.933552	120.133249	25	Circle	None	Global
+C-Freq			HOPETOUN	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=140	AgencyId=0	WYALKATCHEM	Off	-31.158082	117.272987	25	Circle	None	Global
+C-Freq			WYALKATCHEM	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=141	AgencyId=0	KARRAGULLEN	Off	-32.126339	116.299662	25	Circle	None	Global
+C-Freq			KARRAGULLEN	Off	78737500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=142	AgencyId=0	BEVERLEY	Off	-32.323420	116.715473	25	Circle	None	Global
+C-Freq			BEVERLEY	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=143	AgencyId=0	DALWALLINU	Off	-30.276833	116.656461	25	Circle	None	Global
+C-Freq			DALWALLINU	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=144	AgencyId=0	HYDEN	Off	-32.447440	118.864347	25	Circle	None	Global
+C-Freq			HYDEN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=145	AgencyId=0	MEEKATHARRA	Off	-26.5956	118.499355	25	Circle	None	Global
+C-Freq			MEEKATHARRA	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=146	AgencyId=0	MERREDIN	Off	-31.484931	118.276027	25	Circle	None	Global
+C-Freq			MERREDIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=147	AgencyId=0	WICKEPIN	Off	-32.782207	117.501246	25	Circle	None	Global
+C-Freq			WICKEPIN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=148	AgencyId=0	FRANKLAND	Off	-34.427281	116.782205	25	Circle	None	Global
+C-Freq			FRANKLAND	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=149	AgencyId=0	CERVANTES	Off	-30.503889	115.066258	25	Circle	None	Global
+C-Freq			CERVANTES	Off	412750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=150	AgencyId=0	MANJIMUP	Off	-34.324713	115.853105	25	Circle	None	Global
+C-Freq			MANJIMUP	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=151	AgencyId=0	WUBIN	Off	-30.128497	116.747088	25	Circle	None	Global
+C-Freq			WUBIN	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=152	AgencyId=0	GOONGARRIE	Off	-30.155990	121.265260	25	Circle	None	Global
+C-Freq			GOONGARRIE	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=153	AgencyId=0	MT BURDETT	Off	-33.457591	122.142778	25	Circle	None	Global
+C-Freq			MT BURDETT	Off	78662500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=154	AgencyId=0	NAREMBEEN	Off	-32.184034	118.447331	25	Circle	None	Global
+C-Freq			NAREMBEEN	Off	78675000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=155	AgencyId=0	SOUTHERN CROSS	Off	-31.276228	119.509245	25	Circle	None	Global
+C-Freq			SOUTHERN CROSS	Off	78687500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=156	AgencyId=0	MOORINE ROCK	Off	-31.317114	119.087036	25	Circle	None	Global
+C-Freq			MOORINE ROCK	Off	78712500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=157	AgencyId=0	COOLGARDIE	Off	-30.835674	121.096336	25	Circle	None	Global
+C-Freq			COOLGARDIE	Off	78725000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=158	AgencyId=0	CAPEL	Off	-33.562071	115.559223	25	Circle	None	Global
+C-Freq			CAPEL	Off	412750000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=159	AgencyId=0	JARRAHDALE	Off	-32.469541	116.214016	25	Circle	None	Global
+C-Freq			JARRAHDALE	Off	78762500	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=160	AgencyId=0	NAREMBEEN	Off	-32.061982	118.391384	25	Circle	None	Global
+C-Freq			NAREMBEEN	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=161	AgencyId=0	ROEBOURNE	Off	-20.767004	117.144456	25	Circle	None	Global
+C-Freq			ROEBOURNE	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
+C-Group	CGroupId=162	AgencyId=0	DENHAM	Off	-25.926120	113.532312	25	Circle	None	Global
+C-Freq			DENHAM	Off	79850000	NFM		3	Off	2	0	Off	Auto	Off	On	Off	Off
