@@ -1,6 +1,6 @@
 TargetModel	BCDx36HP
 FormatVersion	1.00
-Conventional			Parks & Wildlife	Off		Conventional	3	0	0	On	On	500	Manual	6
+Conventional			Parks & Wildlife	Off		Conventional	0	0	0	On	On	500	Manual	6
 DQKs_Status		On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On	On
 C-Group	CGroupId=1	AgencyId=0	ULURU	Off	-25.357742	131.020751	25	Circle	None	Global
 C-Freq			ULURU	Off	128900000	AM		208	Off	2	0	Off	Auto	Off	On	Off	Off

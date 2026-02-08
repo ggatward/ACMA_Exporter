@@ -467,9 +467,9 @@ if __name__ == "__main__":
         # { "clientID": "1504613", "favourite": "NT Rail", "system": "One Rail", "service_type": "20", "syskey": "0", "range": "25", "widetag": "NT", "system_type": "CONV" },
         # { "clientID": "1206023", "favourite": "NT Rail", "system": "GSR", "service_type": "20", "syskey": "2", "range": "25", "widetag": "NT", "system_type": "CONV" },
 
-        # { "clientID": "234463", "favourite": "NT Misc", "system": "Parks & Wildlife", "service_type": "208", "syskey": "3", "range": "25", "widetag": "NT", "system_type": "CONV" },
-        # { "clientID": "547032", "favourite": "NT Misc", "system": "Parks & Wildlife", "service_type": "208", "syskey": "3", "range": "25", "widetag": "NT", "system_type": "CONV" },
-		# { "clientID": "221959", "favourite": "NT Misc", "system": "Parks & Wildlife", "service_type": "208", "syskey": "3", "range": "25", "widetag": "NT", "system_type": "CONV" },
+        # { "clientID": "234463", "favourite": "NT Misc", "system": "Parks & Wildlife", "service_type": "208", "syskey": "0", "range": "25", "widetag": "NT", "system_type": "CONV" },
+        # { "clientID": "547032", "favourite": "NT Misc", "system": "Parks & Wildlife", "service_type": "208", "syskey": "0", "range": "25", "widetag": "NT", "system_type": "CONV" },
+		# { "clientID": "221959", "favourite": "NT Misc", "system": "Parks & Wildlife", "service_type": "208", "syskey": "0", "range": "25", "widetag": "NT", "system_type": "CONV" },
     ]
 
     global lastSystem
